@@ -1,0 +1,28 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '3,23,43 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data Non-UU
+      run: |-
+        curl -k https://quake.utah.edu/eqMap/php/json_nonuu.php?map_type=recent | jq . > events-nonuu.json
+    - name: Fetch latest data UU
+      run: |-
+        curl -k https://quake.utah.edu/eqMap/php/json_service.php?map_type=recent | tr '\n' ' ' | sed 's/, ]/] /g' | jq . > events-uu.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "event-detector"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data as of ${timestamp}" || exit 0
+        git push
