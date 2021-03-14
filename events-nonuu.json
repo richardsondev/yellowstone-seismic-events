@@ -1,6 +1,22 @@
 [
   {
     "event": {
+      "evid": "80491549",
+      "auth": "mb",
+      "magnitude": 3,
+      "lat": 44.2662,
+      "lng": -114.5785,
+      "event_time_local": "2021/03/14 07:01:56 MDT",
+      "event_time_epoch": 1615726916.77,
+      "event_time_utc": "2021/03/14 13:01:56 UTC",
+      "depth_mi": 6.43,
+      "depth_km": 10.36,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
       "evid": "80491534",
       "auth": "mb",
       "magnitude": 0.1,
@@ -107,6 +123,22 @@
       "event_time_utc": "2021/03/13 23:40:45 UTC",
       "depth_mi": 4.96,
       "depth_km": 7.99,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80491574",
+      "auth": "mb",
+      "magnitude": 1.1,
+      "lat": 44.8262,
+      "lng": -111.5267,
+      "event_time_local": "2021/03/13 14:55:26 MST",
+      "event_time_epoch": 1615672526.48,
+      "event_time_utc": "2021/03/13 21:55:26 UTC",
+      "depth_mi": 7.97,
+      "depth_km": 12.83,
       "version": "n/a",
       "etype": "le"
     }
@@ -1739,38 +1771,6 @@
       "event_time_utc": "2021/02/28 18:36:35 UTC",
       "depth_mi": 4.46,
       "depth_km": 7.18,
-      "version": "n/a",
-      "etype": "le"
-    }
-  },
-  {
-    "event": {
-      "evid": "80489619",
-      "auth": "mb",
-      "magnitude": 1.4,
-      "lat": 44.446,
-      "lng": -115.1912,
-      "event_time_local": "2021/02/28 09:15:28 MST",
-      "event_time_epoch": 1614528928.51,
-      "event_time_utc": "2021/02/28 16:15:28 UTC",
-      "depth_mi": 3.57,
-      "depth_km": 5.75,
-      "version": "n/a",
-      "etype": "le"
-    }
-  },
-  {
-    "event": {
-      "evid": "80489614",
-      "auth": "mb",
-      "magnitude": 2.2,
-      "lat": 44.3582,
-      "lng": -115.184,
-      "event_time_local": "2021/02/28 08:58:49 MST",
-      "event_time_epoch": 1614527929.11,
-      "event_time_utc": "2021/02/28 15:58:49 UTC",
-      "depth_mi": 4.21,
-      "depth_km": 6.78,
       "version": "n/a",
       "etype": "le"
     }
