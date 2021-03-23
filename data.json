@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2021-03-23T14:50:20Z",
+  "fetchedAt": "2021-03-23T15:27:16Z",
   "events": [
     {
       "identifier": "uu60428882",
@@ -1277,6 +1277,32 @@
       "version": "2"
     },
     {
+      "identifier": "uu60430002",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1616470507.1100006,
+      "latitudeDeg": 38.3276667,
+      "longitudeDeg": -113.0718333,
+      "depthKm": 0.05,
+      "magnitude": 2.05,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "4"
+    },
+    {
+      "identifier": "uu60430007",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1616476062.9799995,
+      "latitudeDeg": 38.3181667,
+      "longitudeDeg": -113.0756667,
+      "depthKm": 0.34,
+      "magnitude": 2.02,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "uu60430012",
       "authority": "UU",
       "eventType": "le",
@@ -1301,6 +1327,45 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
+    },
+    {
+      "identifier": "mb80492694",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1616496668.79,
+      "latitudeDeg": 45.9097,
+      "longitudeDeg": -111.365,
+      "depthKm": 3.85,
+      "magnitude": 0.9,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb80492719",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1616474993.94,
+      "latitudeDeg": 44.2663,
+      "longitudeDeg": -115.1748,
+      "depthKm": 10.48,
+      "magnitude": 1.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb80492664",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1616464616.84,
+      "latitudeDeg": 45.2657,
+      "longitudeDeg": -110.2533,
+      "depthKm": 5.87,
+      "magnitude": 1.3,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
     },
     {
       "identifier": "mb80492639",
