@@ -33,22 +33,6 @@
   },
   {
     "event": {
-      "evid": "6000dvxp",
-      "auth": "us",
-      "magnitude": 2.6,
-      "lat": 38.3167,
-      "lng": -113.0886,
-      "event_time_local": "2021/03/23 19:24:19 MDT",
-      "event_time_epoch": 1616549059.161,
-      "event_time_utc": "2021/03/24 01:24:19 UTC",
-      "depth_mi": 3.57,
-      "depth_km": 5.75,
-      "version": "n/a",
-      "etype": "le"
-    }
-  },
-  {
-    "event": {
       "evid": "80492759",
       "auth": "mb",
       "magnitude": 2,
@@ -59,6 +43,22 @@
       "event_time_utc": "2021/03/23 21:18:17 UTC",
       "depth_mi": 6.94,
       "depth_km": 11.17,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80492834",
+      "auth": "mb",
+      "magnitude": 1.8,
+      "lat": 44.2847,
+      "lng": -115.1638,
+      "event_time_local": "2021/03/23 14:59:24 MDT",
+      "event_time_epoch": 1616533164.39,
+      "event_time_utc": "2021/03/23 20:59:24 UTC",
+      "depth_mi": 6.68,
+      "depth_km": 10.75,
       "version": "n/a",
       "etype": "le"
     }
