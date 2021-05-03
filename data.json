@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2021-05-03T13:44:18Z",
+  "fetchedAt": "2021-05-03T14:25:32Z",
   "events": [
     {
       "identifier": "uu60433192",
@@ -1043,6 +1043,32 @@
       "version": "2"
     },
     {
+      "identifier": "uu60434722",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1619837719.4199982,
+      "latitudeDeg": 40.7481667,
+      "longitudeDeg": -112.0475,
+      "depthKm": 8.22,
+      "magnitude": 0.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60434732",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1619854249.9699993,
+      "latitudeDeg": 38.281,
+      "longitudeDeg": -108.9116667,
+      "depthKm": 0.26,
+      "magnitude": 1.52,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "uu60434752",
       "authority": "UU",
       "eventType": "le",
@@ -1080,6 +1106,32 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "4"
+    },
+    {
+      "identifier": "mb80500304",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1620016314.31,
+      "latitudeDeg": 44.6645,
+      "longitudeDeg": -112.3097,
+      "depthKm": 1.59,
+      "magnitude": 1.3,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb80500274",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1619969156.9,
+      "latitudeDeg": 44.3365,
+      "longitudeDeg": -115.1702,
+      "depthKm": 8.75,
+      "magnitude": 1.6,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
     },
     {
       "identifier": "mb80500259",
@@ -1407,14 +1459,14 @@
       "version": "n/a"
     },
     {
-      "identifier": "mb80499619",
-      "authority": "MB",
+      "identifier": "us7000dxty",
+      "authority": "US",
       "eventType": "le",
-      "originTimeUtc": 1619519325.42,
-      "latitudeDeg": 44.3247,
-      "longitudeDeg": -115.0568,
-      "depthKm": 7.13,
-      "magnitude": 2.9,
+      "originTimeUtc": 1619519324.896,
+      "latitudeDeg": 44.3248,
+      "longitudeDeg": -115.0576,
+      "depthKm": 11.28,
+      "magnitude": 2.5,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
