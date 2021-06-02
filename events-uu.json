@@ -968,11 +968,11 @@
   {
     "auth": "UU",
     "evid": 60438072,
-    "depth_km": 10.43,
-    "depth_mi": 6.51875,
-    "lat": 38.7326667,
-    "lng": -112.5561667,
-    "version": 5,
+    "depth_km": 10.72,
+    "depth_mi": 6.7,
+    "lat": 38.7311667,
+    "lng": -112.5536667,
+    "version": 7,
     "etype": "le",
     "event_time_epoch": "1622266336.6399994",
     "magnitude": 0.9,
@@ -1384,5 +1384,19 @@
     "magnitude": 1.42,
     "event_time_local": "2021/06/02 03:04:32 MDT",
     "event_time_utc": "2021/06/02 09:04:32 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60438362,
+    "depth_km": 13.5,
+    "depth_mi": 8.4375,
+    "lat": 44.6836667,
+    "lng": -110.0168333,
+    "version": 4,
+    "etype": "le",
+    "event_time_epoch": "1622657469.1399994",
+    "magnitude": 1.65,
+    "event_time_local": "2021/06/02 12:10:42 MDT",
+    "event_time_utc": "2021/06/02 18:10:42 UTC"
   }
 ]
