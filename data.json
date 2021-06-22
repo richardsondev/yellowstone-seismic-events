@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2021-06-22T14:21:56Z",
+  "fetchedAt": "2021-06-22T15:28:09Z",
   "events": [
     {
       "identifier": "uu60438917",
@@ -1251,6 +1251,58 @@
       "version": "2"
     },
     {
+      "identifier": "uu60440547",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1624164630.6799998,
+      "latitudeDeg": 44.4421667,
+      "longitudeDeg": -110.4061667,
+      "depthKm": 5.97,
+      "magnitude": 0.49,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
+    },
+    {
+      "identifier": "uu60025934",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1624164636.2799997,
+      "latitudeDeg": 44.436,
+      "longitudeDeg": -110.4068333,
+      "depthKm": 5.97,
+      "magnitude": 0.53,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60440552",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1624172291.8400002,
+      "latitudeDeg": 38.0506667,
+      "longitudeDeg": -112.484,
+      "depthKm": 6.27,
+      "magnitude": 1.48,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "4"
+    },
+    {
+      "identifier": "uu60440557",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1624174184.9799995,
+      "latitudeDeg": 38.0503333,
+      "longitudeDeg": -112.5025,
+      "depthKm": 6.03,
+      "magnitude": 1.79,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
+    },
+    {
       "identifier": "uu60440582",
       "authority": "UU",
       "eventType": "le",
@@ -2195,6 +2247,19 @@
       "longitudeDeg": -114.5296,
       "depthKm": 10.0,
       "magnitude": 3.0,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb80510804",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1624329151.22,
+      "latitudeDeg": 45.8735,
+      "longitudeDeg": -111.5248,
+      "depthKm": 1.95,
+      "magnitude": 2.2,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
