@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2021-07-15T13:48:10Z",
+  "fetchedAt": "2021-07-15T14:18:59Z",
   "events": [
     {
       "identifier": "uu60443467",
@@ -2265,6 +2265,19 @@
       "version": "3"
     },
     {
+      "identifier": "uu60445232",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1626345414.1499996,
+      "latitudeDeg": 41.7128333,
+      "longitudeDeg": -111.6671667,
+      "depthKm": 9.45,
+      "magnitude": 1.25,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "uu60445237",
       "authority": "UU",
       "eventType": "le",
@@ -2289,6 +2302,58 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "4"
+    },
+    {
+      "identifier": "uu60445272",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1626355973.6800003,
+      "latitudeDeg": 39.086,
+      "longitudeDeg": -112.0461667,
+      "depthKm": 16.93,
+      "magnitude": 1.44,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
+    },
+    {
+      "identifier": "mb80515114",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1626352964.2,
+      "latitudeDeg": 45.723,
+      "longitudeDeg": -112.1243,
+      "depthKm": 5.89,
+      "magnitude": 0.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb80515099",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1626342864.41,
+      "latitudeDeg": 45.4613,
+      "longitudeDeg": -111.7705,
+      "depthKm": 4.4,
+      "magnitude": 1.4,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb80515084",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1626316717.6,
+      "latitudeDeg": 45.4605,
+      "longitudeDeg": -111.772,
+      "depthKm": 3.19,
+      "magnitude": 2.2,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
     },
     {
       "identifier": "mb80515049",
