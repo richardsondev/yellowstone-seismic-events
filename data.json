@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2021-08-03T15:52:51Z",
+  "fetchedAt": "2021-08-03T16:36:56Z",
   "events": [
     {
       "identifier": "uu60448757",
@@ -3955,6 +3955,19 @@
       "version": "3"
     },
     {
+      "identifier": "uu60028194",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1627978192.9499989,
+      "latitudeDeg": 44.7593333,
+      "longitudeDeg": -111.1815,
+      "depthKm": 13.86,
+      "magnitude": -0.51,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
+    },
+    {
       "identifier": "uu60451482",
       "authority": "UU",
       "eventType": "le",
@@ -3979,6 +3992,71 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
+    },
+    {
+      "identifier": "uu60451512",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1628000799.8599997,
+      "latitudeDeg": 39.426,
+      "longitudeDeg": -110.2993333,
+      "depthKm": -1.88,
+      "magnitude": 1.26,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "4"
+    },
+    {
+      "identifier": "uu60451517",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1628001613.0099983,
+      "latitudeDeg": 39.4291667,
+      "longitudeDeg": -110.3063333,
+      "depthKm": -1.35,
+      "magnitude": 1.46,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
+    },
+    {
+      "identifier": "uu60451527",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1628005143.0,
+      "latitudeDeg": 44.7836667,
+      "longitudeDeg": -110.8036667,
+      "depthKm": 5.08,
+      "magnitude": 0.35,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60451532",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1628006045.7000008,
+      "latitudeDeg": 39.4231667,
+      "longitudeDeg": -110.2836667,
+      "depthKm": -3.37,
+      "magnitude": 1.13,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
+    },
+    {
+      "identifier": "uu60451537",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1628006447.3199997,
+      "latitudeDeg": 39.4246667,
+      "longitudeDeg": -110.2961667,
+      "depthKm": -1.97,
+      "magnitude": 1.23,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
     },
     {
       "identifier": "nn00817453",
@@ -4093,6 +4171,19 @@
       "longitudeDeg": -115.0588,
       "depthKm": 6.66,
       "magnitude": 2.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb80517629",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1627739415.54,
+      "latitudeDeg": 44.2605,
+      "longitudeDeg": -115.0695,
+      "depthKm": 9.26,
+      "magnitude": 1.7,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
