@@ -225,6 +225,22 @@
   },
   {
     "event": {
+      "evid": "80520314",
+      "auth": "mb",
+      "magnitude": 1.9,
+      "lat": 44.2742,
+      "lng": -115.2108,
+      "event_time_local": "2021/08/22 02:51:26 MDT",
+      "event_time_epoch": 1629622286.44,
+      "event_time_utc": "2021/08/22 08:51:26 UTC",
+      "depth_mi": 6.84,
+      "depth_km": 11.01,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
       "evid": "80520294",
       "auth": "mb",
       "magnitude": 2,
@@ -459,6 +475,22 @@
       "event_time_utc": "2021/08/19 05:11:51 UTC",
       "depth_mi": -2.01,
       "depth_km": -3.24,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80519914",
+      "auth": "mb",
+      "magnitude": 1.9,
+      "lat": 44.2887,
+      "lng": -115.1928,
+      "event_time_local": "2021/08/18 12:44:53 MDT",
+      "event_time_epoch": 1629312293.92,
+      "event_time_utc": "2021/08/18 18:44:53 UTC",
+      "depth_mi": 3.96,
+      "depth_km": 6.37,
       "version": "n/a",
       "etype": "le"
     }
@@ -1211,38 +1243,6 @@
       "event_time_utc": "2021/08/09 21:01:22 UTC",
       "depth_mi": 6.59,
       "depth_km": 10.61,
-      "version": "n/a",
-      "etype": "le"
-    }
-  },
-  {
-    "event": {
-      "evid": "80518849",
-      "auth": "mb",
-      "magnitude": 2.1,
-      "lat": 44.2798,
-      "lng": -115.1268,
-      "event_time_local": "2021/08/09 14:04:49 MDT",
-      "event_time_epoch": 1628539489.2,
-      "event_time_utc": "2021/08/09 20:04:49 UTC",
-      "depth_mi": 12.31,
-      "depth_km": 19.82,
-      "version": "n/a",
-      "etype": "le"
-    }
-  },
-  {
-    "event": {
-      "evid": "80518844",
-      "auth": "mb",
-      "magnitude": 1.8,
-      "lat": 44.3613,
-      "lng": -115.1453,
-      "event_time_local": "2021/08/09 13:55:17 MDT",
-      "event_time_epoch": 1628538917.97,
-      "event_time_utc": "2021/08/09 19:55:17 UTC",
-      "depth_mi": 3.73,
-      "depth_km": 6,
       "version": "n/a",
       "etype": "le"
     }
