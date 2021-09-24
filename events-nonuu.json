@@ -35,14 +35,14 @@
     "event": {
       "evid": "00823330",
       "auth": "nn",
-      "magnitude": 1.9,
-      "lat": 36.3899,
-      "lng": -114.8679,
+      "magnitude": 2.3,
+      "lat": 36.3911,
+      "lng": -114.8796,
       "event_time_local": "2021/09/24 06:17:36 MDT",
-      "event_time_epoch": 1632485856.335,
+      "event_time_epoch": 1632485856.48,
       "event_time_utc": "2021/09/24 12:17:36 UTC",
-      "depth_mi": 6.4,
-      "depth_km": 10.3,
+      "depth_mi": 6.96,
+      "depth_km": 11.2,
       "version": "n/a",
       "etype": "le"
     }
@@ -379,6 +379,38 @@
       "event_time_utc": "2021/09/20 04:41:47 UTC",
       "depth_mi": 6.21,
       "depth_km": 10,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80524009",
+      "auth": "mb",
+      "magnitude": 2.3,
+      "lat": 44.3463,
+      "lng": -114.7678,
+      "event_time_local": "2021/09/19 22:34:53 MDT",
+      "event_time_epoch": 1632112493.96,
+      "event_time_utc": "2021/09/20 04:34:53 UTC",
+      "depth_mi": 3.13,
+      "depth_km": 5.04,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80523989",
+      "auth": "mb",
+      "magnitude": 1.9,
+      "lat": 44.2888,
+      "lng": -115.1717,
+      "event_time_local": "2021/09/19 15:51:23 MDT",
+      "event_time_epoch": 1632088283.81,
+      "event_time_utc": "2021/09/19 21:51:23 UTC",
+      "depth_mi": 2.43,
+      "depth_km": 3.91,
       "version": "n/a",
       "etype": "le"
     }
@@ -1211,22 +1243,6 @@
       "event_time_utc": "2021/09/10 23:06:26 UTC",
       "depth_mi": 9.55,
       "depth_km": 15.37,
-      "version": "n/a",
-      "etype": "le"
-    }
-  },
-  {
-    "event": {
-      "evid": "7000fa5u",
-      "auth": "us",
-      "magnitude": 3.2,
-      "lat": 44.2658,
-      "lng": -115.08,
-      "event_time_local": "2021/09/10 16:30:41 MDT",
-      "event_time_epoch": 1631313041.894,
-      "event_time_utc": "2021/09/10 22:30:41 UTC",
-      "depth_mi": 6.21,
-      "depth_km": 10,
       "version": "n/a",
       "etype": "le"
     }
