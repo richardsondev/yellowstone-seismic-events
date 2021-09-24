@@ -3,14 +3,14 @@
     "event": {
       "evid": "00823330",
       "auth": "nn",
-      "magnitude": 2.1,
-      "lat": 36.3744,
-      "lng": -114.8172,
-      "event_time_local": "2021/09/24 06:17:34 MDT",
-      "event_time_epoch": 1632485854.927,
-      "event_time_utc": "2021/09/24 12:17:34 UTC",
-      "depth_mi": 2.61,
-      "depth_km": 4.2,
+      "magnitude": 1.9,
+      "lat": 36.3899,
+      "lng": -114.8679,
+      "event_time_local": "2021/09/24 06:17:36 MDT",
+      "event_time_epoch": 1632485856.335,
+      "event_time_utc": "2021/09/24 12:17:36 UTC",
+      "depth_mi": 6.4,
+      "depth_km": 10.3,
       "version": "n/a",
       "etype": "le"
     }
@@ -571,6 +571,70 @@
       "event_time_utc": "2021/09/18 16:14:51 UTC",
       "depth_mi": 6.3,
       "depth_km": 10.15,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80523569",
+      "auth": "mb",
+      "magnitude": 2,
+      "lat": 44.3485,
+      "lng": -115.1953,
+      "event_time_local": "2021/09/18 08:44:47 MDT",
+      "event_time_epoch": 1631976287.41,
+      "event_time_utc": "2021/09/18 14:44:47 UTC",
+      "depth_mi": 6.09,
+      "depth_km": 9.8,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80523564",
+      "auth": "mb",
+      "magnitude": 1.6,
+      "lat": 44.3488,
+      "lng": -114.7717,
+      "event_time_local": "2021/09/18 05:17:48 MDT",
+      "event_time_epoch": 1631963868.12,
+      "event_time_utc": "2021/09/18 11:17:48 UTC",
+      "depth_mi": 2.88,
+      "depth_km": 4.63,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80523559",
+      "auth": "mb",
+      "magnitude": 2.2,
+      "lat": 44.2695,
+      "lng": -115.0073,
+      "event_time_local": "2021/09/18 02:05:23 MDT",
+      "event_time_epoch": 1631952323.4,
+      "event_time_utc": "2021/09/18 08:05:23 UTC",
+      "depth_mi": 2.73,
+      "depth_km": 4.39,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80523554",
+      "auth": "mb",
+      "magnitude": 1.5,
+      "lat": 44.2947,
+      "lng": -115.1217,
+      "event_time_local": "2021/09/17 23:43:32 MDT",
+      "event_time_epoch": 1631943812.1,
+      "event_time_utc": "2021/09/18 05:43:32 UTC",
+      "depth_mi": 5.04,
+      "depth_km": 8.12,
       "version": "n/a",
       "etype": "le"
     }
