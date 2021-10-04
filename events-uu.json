@@ -5139,6 +5139,34 @@
   },
   {
     "auth": "UU",
+    "evid": 60461072,
+    "depth_km": 5,
+    "depth_mi": 3.125,
+    "lat": 44.6456667,
+    "lng": -110.738,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1633121198.6399994",
+    "magnitude": -0.13,
+    "event_time_local": "2021/10/01 14:46:11 MDT",
+    "event_time_utc": "2021/10/01 20:46:11 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60029104,
+    "depth_km": 6.19,
+    "depth_mi": 3.86875,
+    "lat": 44.6403333,
+    "lng": -110.7363333,
+    "version": 3,
+    "etype": "le",
+    "event_time_epoch": "1633121202.2299995",
+    "magnitude": 0.24,
+    "event_time_local": "2021/10/01 14:46:15 MDT",
+    "event_time_utc": "2021/10/01 20:46:15 UTC"
+  },
+  {
+    "auth": "UU",
     "evid": 60461082,
     "depth_km": 8.87,
     "depth_mi": 5.54375,
@@ -5150,6 +5178,20 @@
     "magnitude": 0.58,
     "event_time_local": "2021/10/01 15:18:30 MDT",
     "event_time_utc": "2021/10/01 21:18:30 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60461097,
+    "depth_km": -0.12,
+    "depth_mi": -0.075,
+    "lat": 38.487,
+    "lng": -112.8485,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1633132655.0999994",
+    "magnitude": -0.86,
+    "event_time_local": "2021/10/01 17:57:08 MDT",
+    "event_time_utc": "2021/10/01 23:57:08 UTC"
   },
   {
     "auth": "UU",
@@ -5570,5 +5612,33 @@
     "magnitude": 0.81,
     "event_time_local": "2021/10/04 11:14:33 MDT",
     "event_time_utc": "2021/10/04 17:14:33 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60461407,
+    "depth_km": 4.84,
+    "depth_mi": 3.025,
+    "lat": 44.614,
+    "lng": -110.7425,
+    "version": 4,
+    "etype": "le",
+    "event_time_epoch": "1633379745.1999989",
+    "magnitude": 1.13,
+    "event_time_local": "2021/10/04 14:35:18 MDT",
+    "event_time_utc": "2021/10/04 20:35:18 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60461422,
+    "depth_km": 4.53,
+    "depth_mi": 2.83125,
+    "lat": 44.7585,
+    "lng": -110.6318333,
+    "version": 4,
+    "etype": "le",
+    "event_time_epoch": "1633383230.1599998",
+    "magnitude": 1.75,
+    "event_time_local": "2021/10/04 15:33:23 MDT",
+    "event_time_utc": "2021/10/04 21:33:23 UTC"
   }
 ]
