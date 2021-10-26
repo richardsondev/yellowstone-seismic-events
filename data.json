@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2021-10-26T17:03:14Z",
+  "fetchedAt": "2021-10-26T17:28:35Z",
   "events": [
     {
       "identifier": "uu60462757",
@@ -2767,6 +2767,19 @@
       "longitudeDeg": -110.4181667,
       "depthKm": 5.28,
       "magnitude": 0.53,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60465317",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1635267576.8199997,
+      "latitudeDeg": 39.4286667,
+      "longitudeDeg": -110.3185,
+      "depthKm": -1.12,
+      "magnitude": 1.98,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
