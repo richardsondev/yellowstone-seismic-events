@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2021-12-01T21:48:05Z",
+  "fetchedAt": "2021-12-01T22:21:48Z",
   "events": [
     {
       "identifier": "uu60468547",
@@ -2525,6 +2525,19 @@
       "version": "4"
     },
     {
+      "identifier": "uu60470482",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1638394464.9799995,
+      "latitudeDeg": 38.6431667,
+      "longitudeDeg": -112.545,
+      "depthKm": 0.61,
+      "magnitude": 1.74,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "mb80532334",
       "authority": "MB",
       "eventType": "le",
@@ -4314,32 +4327,6 @@
       "longitudeDeg": -113.04,
       "depthKm": 4.09,
       "magnitude": 0.8,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "mb80530864",
-      "authority": "MB",
-      "eventType": "le",
-      "originTimeUtc": 1637186877.07,
-      "latitudeDeg": 44.2912,
-      "longitudeDeg": -114.6107,
-      "depthKm": 9.61,
-      "magnitude": 1.8,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "us7000fuya",
-      "authority": "US",
-      "eventType": "le",
-      "originTimeUtc": 1637186703.802,
-      "latitudeDeg": 44.3542,
-      "longitudeDeg": -115.184,
-      "depthKm": 10.0,
-      "magnitude": 2.4,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
