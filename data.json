@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2021-12-14T19:17:38Z",
+  "fetchedAt": "2021-12-14T19:48:22Z",
   "events": [
     {
       "identifier": "uu60470352",
@@ -1173,6 +1173,19 @@
       "version": "3"
     },
     {
+      "identifier": "mb80533569",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1639504512.13,
+      "latitudeDeg": 44.2972,
+      "longitudeDeg": -115.127,
+      "depthKm": 20.07,
+      "magnitude": 3.4,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
       "identifier": "mb80533564",
       "authority": "MB",
       "eventType": "le",
@@ -1199,27 +1212,27 @@
       "version": "n/a"
     },
     {
-      "identifier": "mb80533544",
-      "authority": "MB",
+      "identifier": "us6000gc8h",
+      "authority": "US",
       "eventType": "le",
-      "originTimeUtc": 1639501169.77,
-      "latitudeDeg": 44.2965,
-      "longitudeDeg": -115.1032,
-      "depthKm": 17.35,
-      "magnitude": 2.8,
+      "originTimeUtc": 1639501168.54,
+      "latitudeDeg": 44.297,
+      "longitudeDeg": -115.1176,
+      "depthKm": 17.98,
+      "magnitude": 2.6,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
     },
     {
-      "identifier": "mb80533534",
-      "authority": "MB",
+      "identifier": "us6000gc6q",
+      "authority": "US",
       "eventType": "le",
-      "originTimeUtc": 1639500550.0,
-      "latitudeDeg": 44.2977,
-      "longitudeDeg": -115.1108,
-      "depthKm": 20.01,
-      "magnitude": 3.5,
+      "originTimeUtc": 1639500548.605,
+      "latitudeDeg": 44.2497,
+      "longitudeDeg": -115.1101,
+      "depthKm": 21.19,
+      "magnitude": 3.2,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
@@ -2442,32 +2455,6 @@
       "longitudeDeg": -113.0417,
       "depthKm": 3.81,
       "magnitude": 1.9,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "mb80532274",
-      "authority": "MB",
-      "eventType": "le",
-      "originTimeUtc": 1638301161.49,
-      "latitudeDeg": 44.9868,
-      "longitudeDeg": -113.0348,
-      "depthKm": 5.18,
-      "magnitude": 2.1,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "us6000g7ze",
-      "authority": "US",
-      "eventType": "le",
-      "originTimeUtc": 1638301054.756,
-      "latitudeDeg": 44.9932,
-      "longitudeDeg": -113.0791,
-      "depthKm": 9.37,
-      "magnitude": 3.3,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
