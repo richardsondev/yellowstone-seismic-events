@@ -1,16 +1,32 @@
 [
   {
     "event": {
-      "evid": "80534654",
+      "evid": "6000gfyp",
+      "auth": "us",
+      "magnitude": 2.9,
+      "lat": 44.3448,
+      "lng": -115.2024,
+      "event_time_local": "2021/12/28 16:00:23 MST",
+      "event_time_epoch": 1640732423.045,
+      "event_time_utc": "2021/12/28 23:00:23 UTC",
+      "depth_mi": 6.21,
+      "depth_km": 10,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "80534664",
       "auth": "mb",
-      "magnitude": 3.2,
-      "lat": 44.3475,
-      "lng": -115.1958,
-      "event_time_local": "2021/12/28 16:00:24 MST",
-      "event_time_epoch": 1640732424.56,
-      "event_time_utc": "2021/12/28 23:00:24 UTC",
-      "depth_mi": 6.84,
-      "depth_km": 11.02,
+      "magnitude": 1.1,
+      "lat": 44.9795,
+      "lng": -113.0218,
+      "event_time_local": "2021/12/28 15:09:57 MST",
+      "event_time_epoch": 1640729397.15,
+      "event_time_utc": "2021/12/28 22:09:57 UTC",
+      "depth_mi": 2.92,
+      "depth_km": 4.7,
       "version": "n/a",
       "etype": "le"
     }
@@ -27,22 +43,6 @@
       "event_time_utc": "2021/12/28 20:27:04 UTC",
       "depth_mi": 5.17,
       "depth_km": 8.32,
-      "version": "n/a",
-      "etype": "le"
-    }
-  },
-  {
-    "event": {
-      "evid": "00830525",
-      "auth": "nn",
-      "magnitude": 1.6,
-      "lat": 37.299,
-      "lng": -114.1834,
-      "event_time_local": "2021/12/27 07:09:04 MST",
-      "event_time_epoch": 1640614144.53,
-      "event_time_utc": "2021/12/27 14:09:04 UTC",
-      "depth_mi": 5.4,
-      "depth_km": 8.7,
       "version": "n/a",
       "etype": "le"
     }
@@ -1355,22 +1355,6 @@
       "event_time_utc": "2021/12/15 02:47:00 UTC",
       "depth_mi": 6.21,
       "depth_km": 10,
-      "version": "n/a",
-      "etype": "le"
-    }
-  },
-  {
-    "event": {
-      "evid": "80533649",
-      "auth": "mb",
-      "magnitude": 1.1,
-      "lat": 44.9808,
-      "lng": -113.0245,
-      "event_time_local": "2021/12/14 17:59:28 MST",
-      "event_time_epoch": 1639529968.24,
-      "event_time_utc": "2021/12/15 00:59:28 UTC",
-      "depth_mi": 3.71,
-      "depth_km": 5.98,
       "version": "n/a",
       "etype": "le"
     }
