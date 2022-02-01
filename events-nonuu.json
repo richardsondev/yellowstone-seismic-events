@@ -1,6 +1,22 @@
 [
   {
     "event": {
+      "evid": "80537374",
+      "auth": "mb",
+      "magnitude": 2.3,
+      "lat": 44.2678,
+      "lng": -115.0062,
+      "event_time_local": "2022/02/01 10:02:04 MST",
+      "event_time_epoch": 1643734924.44,
+      "event_time_utc": "2022/02/01 17:02:04 UTC",
+      "depth_mi": 3.44,
+      "depth_km": 5.54,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
       "evid": "80537369",
       "auth": "mb",
       "magnitude": 1.9,
@@ -211,7 +227,7 @@
     "event": {
       "evid": "80537104",
       "auth": "mb",
-      "magnitude": 1.4,
+      "magnitude": 1.5,
       "lat": 44.7697,
       "lng": -112.3788,
       "event_time_local": "2022/01/28 21:27:21 MST",
