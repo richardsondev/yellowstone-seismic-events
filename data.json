@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2022-02-07T15:21:11Z",
+  "fetchedAt": "2022-02-07T15:35:59Z",
   "events": [
     {
       "identifier": "uu60478752",
@@ -1875,6 +1875,19 @@
       "version": "5"
     },
     {
+      "identifier": "uu60480627",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1644137490.8,
+      "latitudeDeg": 38.0151667,
+      "longitudeDeg": -112.5143333,
+      "depthKm": 4.81,
+      "magnitude": 2.59,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "4"
+    },
+    {
       "identifier": "uu60480672",
       "authority": "UU",
       "eventType": "le",
@@ -1888,6 +1901,45 @@
       "version": "2"
     },
     {
+      "identifier": "uu60480717",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1644215036.6399994,
+      "latitudeDeg": 41.9,
+      "longitudeDeg": -112.5395,
+      "depthKm": 0.12,
+      "magnitude": 0.96,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60029909",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1644215051.4199982,
+      "latitudeDeg": 42.1165,
+      "longitudeDeg": -112.789,
+      "depthKm": 0.82,
+      "magnitude": 1.51,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60480737",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1644223741.9099998,
+      "latitudeDeg": 44.522,
+      "longitudeDeg": -111.0136667,
+      "depthKm": 14.83,
+      "magnitude": 0.37,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "mb80537784",
       "authority": "MB",
       "eventType": "le",
@@ -1896,19 +1948,6 @@
       "longitudeDeg": -111.7613,
       "depthKm": 1.35,
       "magnitude": 0.8,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "us7000gifb",
-      "authority": "US",
-      "eventType": "le",
-      "originTimeUtc": 1644137463.552,
-      "latitudeDeg": 38.0024,
-      "longitudeDeg": -112.5066,
-      "depthKm": 4.87,
-      "magnitude": 2.7,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
