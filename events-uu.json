@@ -2787,17 +2787,45 @@
   },
   {
     "auth": "UU",
+    "evid": 60482302,
+    "depth_km": 4.81,
+    "depth_mi": 3.00625,
+    "lat": 38.7431667,
+    "lng": -111.4641667,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1645072166.25",
+    "magnitude": 1.49,
+    "event_time_local": "2022/02/16 21:28:59 MST",
+    "event_time_utc": "2022/02/17 04:28:59 UTC"
+  },
+  {
+    "auth": "UU",
     "evid": 60482307,
     "depth_km": -1.63,
     "depth_mi": -1.01875,
     "lat": 39.4225,
     "lng": -110.3111667,
-    "version": 2,
+    "version": 3,
     "etype": "le",
     "event_time_epoch": "1645073222.9799995",
     "magnitude": 2.1,
     "event_time_local": "2022/02/16 21:46:35 MST",
     "event_time_utc": "2022/02/17 04:46:35 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60482312,
+    "depth_km": -2.05,
+    "depth_mi": -1.28125,
+    "lat": 39.427,
+    "lng": -110.3118333,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1645076443.8999996",
+    "magnitude": 1.74,
+    "event_time_local": "2022/02/16 22:40:16 MST",
+    "event_time_utc": "2022/02/17 05:40:16 UTC"
   },
   {
     "auth": "UU",
@@ -2820,11 +2848,25 @@
     "depth_mi": -1.175,
     "lat": 39.4183333,
     "lng": -110.3075,
-    "version": 2,
+    "version": 3,
     "etype": "le",
     "event_time_epoch": "1645084477.3199997",
     "magnitude": 2.19,
     "event_time_local": "2022/02/17 00:54:10 MST",
     "event_time_utc": "2022/02/17 07:54:10 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60482332,
+    "depth_km": 5.81,
+    "depth_mi": 3.63125,
+    "lat": 44.4536667,
+    "lng": -110.9526667,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1645118196.6899996",
+    "magnitude": 0.71,
+    "event_time_local": "2022/02/17 10:16:09 MST",
+    "event_time_utc": "2022/02/17 17:16:09 UTC"
   }
 ]
