@@ -2242,14 +2242,14 @@
   {
     "auth": "UU",
     "evid": 60030204,
-    "depth_km": 2.73,
-    "depth_mi": 1.70625,
-    "lat": 44.714,
-    "lng": -110.841,
-    "version": 2,
+    "depth_km": 2.03,
+    "depth_mi": 1.26875,
+    "lat": 44.7405,
+    "lng": -110.9005,
+    "version": 4,
     "etype": "le",
-    "event_time_epoch": "1648531738.2299995",
-    "magnitude": -0.46,
+    "event_time_epoch": "1648531738.539999",
+    "magnitude": -0.48,
     "event_time_local": "2022/03/28 23:28:31 MDT",
     "event_time_utc": "2022/03/29 05:28:31 UTC"
   },
@@ -2270,16 +2270,16 @@
   {
     "auth": "UU",
     "evid": 60487477,
-    "depth_km": 18.32,
-    "depth_mi": 11.45,
-    "lat": 44.712,
-    "lng": -110.8436667,
-    "version": 4,
+    "depth_km": 7.3,
+    "depth_mi": 4.5625,
+    "lat": 44.7615,
+    "lng": -110.9305,
+    "version": 6,
     "etype": "le",
-    "event_time_epoch": "1648531754.1499977",
-    "magnitude": 1.45,
-    "event_time_local": "2022/03/28 23:28:47 MDT",
-    "event_time_utc": "2022/03/29 05:28:47 UTC"
+    "event_time_epoch": "1648531755.8400002",
+    "magnitude": 1.38,
+    "event_time_local": "2022/03/28 23:28:48 MDT",
+    "event_time_utc": "2022/03/29 05:28:48 UTC"
   },
   {
     "auth": "UU",
@@ -3095,6 +3095,34 @@
   },
   {
     "auth": "UU",
+    "evid": 60030329,
+    "depth_km": 2.33,
+    "depth_mi": 1.45625,
+    "lat": 44.7451667,
+    "lng": -110.912,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1648542542.8099976",
+    "magnitude": -0.63,
+    "event_time_local": "2022/03/29 02:28:35 MDT",
+    "event_time_utc": "2022/03/29 08:28:35 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60030324,
+    "depth_km": 2.36,
+    "depth_mi": 1.475,
+    "lat": 44.75,
+    "lng": -110.9158333,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1648542573.29",
+    "magnitude": 0.13,
+    "event_time_local": "2022/03/29 02:29:06 MDT",
+    "event_time_utc": "2022/03/29 08:29:06 UTC"
+  },
+  {
+    "auth": "UU",
     "evid": 60487697,
     "depth_km": 2.33,
     "depth_mi": 1.45625,
@@ -3610,5 +3638,19 @@
     "magnitude": 1.27,
     "event_time_local": "2022/03/29 11:15:26 MDT",
     "event_time_utc": "2022/03/29 17:15:26 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60487852,
+    "depth_km": -1.97,
+    "depth_mi": -1.23125,
+    "lat": 39.4198333,
+    "lng": -110.3075,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1648574931.619999",
+    "magnitude": 1.52,
+    "event_time_local": "2022/03/29 11:28:24 MDT",
+    "event_time_utc": "2022/03/29 17:28:24 UTC"
   }
 ]
