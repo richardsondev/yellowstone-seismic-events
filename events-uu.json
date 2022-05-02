@@ -1037,6 +1037,20 @@
   },
   {
     "auth": "UU",
+    "evid": 60030569,
+    "depth_km": 0.01,
+    "depth_mi": 0.00625,
+    "lat": 38.4658333,
+    "lng": -112.8765,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1651296076.4799995",
+    "magnitude": -0.95,
+    "event_time_local": "2022/04/29 23:20:49 MDT",
+    "event_time_utc": "2022/04/30 05:20:49 UTC"
+  },
+  {
+    "auth": "UU",
     "evid": 60494997,
     "depth_km": 11.5,
     "depth_mi": 7.1875,
@@ -1079,6 +1093,20 @@
   },
   {
     "auth": "UU",
+    "evid": 60495012,
+    "depth_km": 5.26,
+    "depth_mi": 3.2875,
+    "lat": 40.7911667,
+    "lng": -111.9615,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1651316454.7399998",
+    "magnitude": 0.76,
+    "event_time_local": "2022/04/30 05:00:27 MDT",
+    "event_time_utc": "2022/04/30 11:00:27 UTC"
+  },
+  {
+    "auth": "UU",
     "evid": 60495022,
     "depth_km": 12.95,
     "depth_mi": 8.09375,
@@ -1118,5 +1146,47 @@
     "magnitude": 1.62,
     "event_time_local": "2022/04/30 12:16:32 MDT",
     "event_time_utc": "2022/04/30 18:16:32 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60495047,
+    "depth_km": 3.61,
+    "depth_mi": 2.25625,
+    "lat": 41.8055,
+    "lng": -112.8111667,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1651360663.8599987",
+    "magnitude": 0.78,
+    "event_time_local": "2022/04/30 17:17:16 MDT",
+    "event_time_utc": "2022/04/30 23:17:16 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60495232,
+    "depth_km": 6.86,
+    "depth_mi": 4.2875,
+    "lat": 40.7373333,
+    "lng": -112.0455,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1651496195.13",
+    "magnitude": 0.55,
+    "event_time_local": "2022/05/02 06:56:08 MDT",
+    "event_time_utc": "2022/05/02 12:56:08 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60495237,
+    "depth_km": 6.8,
+    "depth_mi": 4.25,
+    "lat": 44.6916667,
+    "lng": -110.0875,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1651506119.6399994",
+    "magnitude": 1.8,
+    "event_time_local": "2022/05/02 09:41:32 MDT",
+    "event_time_utc": "2022/05/02 15:41:32 UTC"
   }
 ]
