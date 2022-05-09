@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2022-05-09T15:26:22Z",
+  "fetchedAt": "2022-05-09T15:53:04Z",
   "events": [
     {
       "identifier": "uu60494192",
@@ -708,14 +708,14 @@
       "identifier": "uu60495807",
       "authority": "UU",
       "eventType": "le",
-      "originTimeUtc": 1651907968.9299998,
-      "latitudeDeg": 37.7858333,
-      "longitudeDeg": -112.949,
-      "depthKm": 6.4,
-      "magnitude": 2.54,
+      "originTimeUtc": 1651907968.99,
+      "latitudeDeg": 37.7965,
+      "longitudeDeg": -112.9528333,
+      "depthKm": 5.34,
+      "magnitude": 2.53,
       "isLocal": null,
       "nearestTown": null,
-      "version": "4"
+      "version": "6"
     },
     {
       "identifier": "uu60495842",
@@ -731,6 +731,45 @@
       "version": "2"
     },
     {
+      "identifier": "uu60496162",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1651966704.2999992,
+      "latitudeDeg": 39.273,
+      "longitudeDeg": -111.9533333,
+      "depthKm": 2.54,
+      "magnitude": 1.09,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
+    },
+    {
+      "identifier": "uu60496192",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1651967779.1899986,
+      "latitudeDeg": 39.2833333,
+      "longitudeDeg": -111.921,
+      "depthKm": 4.78,
+      "magnitude": 1.84,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60496227",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1652021865.67,
+      "latitudeDeg": 44.7383333,
+      "longitudeDeg": -111.1105,
+      "depthKm": 11.25,
+      "magnitude": 1.51,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "uu60496232",
       "authority": "UU",
       "eventType": "le",
@@ -739,6 +778,19 @@
       "longitudeDeg": -111.1045,
       "depthKm": 12.33,
       "magnitude": 0.94,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60496237",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1652024014.1399999,
+      "latitudeDeg": 44.7478333,
+      "longitudeDeg": -111.1201667,
+      "depthKm": 13.35,
+      "magnitude": 1.33,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
