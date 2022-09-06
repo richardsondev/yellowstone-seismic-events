@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2022-09-06T18:33:01Z",
+  "fetchedAt": "2022-09-06T19:07:29Z",
   "events": [
     {
       "identifier": "uu60510862",
@@ -5393,6 +5393,71 @@
       "longitudeDeg": -113.7716667,
       "depthKm": 13.74,
       "magnitude": 1.33,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60513532",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662275624.2700005,
+      "latitudeDeg": 38.974,
+      "longitudeDeg": -111.286,
+      "depthKm": -3.44,
+      "magnitude": 1.61,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60513537",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662277487.2199993,
+      "latitudeDeg": 44.7905,
+      "longitudeDeg": -110.8028333,
+      "depthKm": 3.49,
+      "magnitude": 0.23,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60513542",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662279548.3899994,
+      "latitudeDeg": 38.9808333,
+      "longitudeDeg": -111.2963333,
+      "depthKm": -3.18,
+      "magnitude": 1.23,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60513547",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662283812.7000008,
+      "latitudeDeg": 38.9801667,
+      "longitudeDeg": -111.2945,
+      "depthKm": -3.37,
+      "magnitude": 1.51,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60513557",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662287367.34,
+      "latitudeDeg": 38.9803333,
+      "longitudeDeg": -111.2905,
+      "depthKm": -3.45,
+      "magnitude": 2.07,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
