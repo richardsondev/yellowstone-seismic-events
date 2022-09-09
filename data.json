@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2022-09-09T15:49:24Z",
+  "fetchedAt": "2022-09-09T16:08:23Z",
   "events": [
     {
       "identifier": "uu60030889",
@@ -6238,6 +6238,71 @@
       "longitudeDeg": -110.8095,
       "depthKm": 5.58,
       "magnitude": 0.53,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60514317",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662698167.579998,
+      "latitudeDeg": 39.9533333,
+      "longitudeDeg": -111.3735,
+      "depthKm": 12.09,
+      "magnitude": 2.23,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "4"
+    },
+    {
+      "identifier": "uu60514322",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662699264.1699982,
+      "latitudeDeg": 44.7946667,
+      "longitudeDeg": -110.8065,
+      "depthKm": 6.01,
+      "magnitude": 0.12,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60514327",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662700685.790001,
+      "latitudeDeg": 39.4256667,
+      "longitudeDeg": -110.2875,
+      "depthKm": -3.33,
+      "magnitude": 1.71,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60514332",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662704420.949997,
+      "latitudeDeg": 39.4251667,
+      "longitudeDeg": -110.2955,
+      "depthKm": -2.23,
+      "magnitude": 1.88,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60514337",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1662705647.7199993,
+      "latitudeDeg": 44.798,
+      "longitudeDeg": -110.8086667,
+      "depthKm": 6.44,
+      "magnitude": 0.21,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
