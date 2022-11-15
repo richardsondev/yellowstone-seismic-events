@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2022-11-15T17:45:45Z",
+  "fetchedAt": "2022-11-15T18:31:54Z",
   "events": [
     {
       "identifier": "uu60522392",
@@ -2039,6 +2039,71 @@
       "longitudeDeg": -110.8038333,
       "depthKm": 7.05,
       "magnitude": 0.47,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60525142",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1668523151.8099976,
+      "latitudeDeg": 44.7971667,
+      "longitudeDeg": -110.8031667,
+      "depthKm": 7.57,
+      "magnitude": 0.13,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60032109",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1668523235.6499996,
+      "latitudeDeg": 44.7948333,
+      "longitudeDeg": -110.7875,
+      "depthKm": 2.44,
+      "magnitude": -0.08,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60525147",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1668523250.119999,
+      "latitudeDeg": 44.8381667,
+      "longitudeDeg": -110.7298333,
+      "depthKm": 10.45,
+      "magnitude": 0.09,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60525152",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1668523691.5,
+      "latitudeDeg": 44.7965,
+      "longitudeDeg": -110.8045,
+      "depthKm": 8.1,
+      "magnitude": 1.03,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60525157",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1668523757.2799988,
+      "latitudeDeg": 44.7791667,
+      "longitudeDeg": -110.8161667,
+      "depthKm": 5.26,
+      "magnitude": 0.43,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
