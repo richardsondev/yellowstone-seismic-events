@@ -1,59 +1,7 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2023-04-04T13:08:37Z",
+  "fetchedAt": "2023-04-04T14:27:29Z",
   "events": [
-    {
-      "identifier": "uu60534616",
-      "authority": "UU",
-      "eventType": "le",
-      "originTimeUtc": 1679311870.3799973,
-      "latitudeDeg": 44.784,
-      "longitudeDeg": -110.9536667,
-      "depthKm": 4.38,
-      "magnitude": 0.1,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "2"
-    },
-    {
-      "identifier": "uu60534636",
-      "authority": "UU",
-      "eventType": "le",
-      "originTimeUtc": 1679350043.7299995,
-      "latitudeDeg": 42.22,
-      "longitudeDeg": -111.579,
-      "depthKm": 12.02,
-      "magnitude": 1.43,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "2"
-    },
-    {
-      "identifier": "uu60534656",
-      "authority": "UU",
-      "eventType": "le",
-      "originTimeUtc": 1679364584.7299995,
-      "latitudeDeg": 44.075,
-      "longitudeDeg": -110.6325,
-      "depthKm": 5.43,
-      "magnitude": 1.1,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "4"
-    },
-    {
-      "identifier": "uu60534666",
-      "authority": "UU",
-      "eventType": "le",
-      "originTimeUtc": 1679371143.8899994,
-      "latitudeDeg": 39.66,
-      "longitudeDeg": -112.0895,
-      "depthKm": 10.12,
-      "magnitude": 1.31,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "2"
-    },
     {
       "identifier": "uu60534671",
       "authority": "UU",
@@ -2520,6 +2468,19 @@
       "longitudeDeg": -112.5285,
       "depthKm": -2.34,
       "magnitude": 1.17,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu60536356",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1680616421.54,
+      "latitudeDeg": 41.312,
+      "longitudeDeg": -112.2365,
+      "depthKm": 11.87,
+      "magnitude": 1.05,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
