@@ -1,6 +1,22 @@
 [
   {
     "event": {
+      "evid": "00863301",
+      "auth": "nn",
+      "magnitude": 0.8,
+      "lat": 36.9939,
+      "lng": -115.205,
+      "event_time_local": "2023/07/26 06:11:06 MDT",
+      "event_time_epoch": 1690373466.883,
+      "event_time_utc": "2023/07/26 12:11:06 UTC",
+      "depth_mi": 9.63,
+      "depth_km": 15.5,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
       "evid": "00863298",
       "auth": "nn",
       "magnitude": 0.7,
@@ -1995,22 +2011,6 @@
       "event_time_utc": "2023/07/12 13:22:31 UTC",
       "depth_mi": 6.88,
       "depth_km": 11.07,
-      "version": "n/a",
-      "etype": "le"
-    }
-  },
-  {
-    "event": {
-      "evid": "90021278",
-      "auth": "mb",
-      "magnitude": 0.8,
-      "lat": 44.6122,
-      "lng": -112.5865,
-      "event_time_local": "2023/07/12 06:04:00 MDT",
-      "event_time_epoch": 1689163440.96,
-      "event_time_utc": "2023/07/12 12:04:00 UTC",
-      "depth_mi": 4.2,
-      "depth_km": 6.77,
       "version": "n/a",
       "etype": "le"
     }
