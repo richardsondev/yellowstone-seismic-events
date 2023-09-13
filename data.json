@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2023-09-13T19:25:37Z",
+  "fetchedAt": "2023-09-13T20:45:40Z",
   "events": [
     {
       "identifier": "uu60548777",
@@ -3299,7 +3299,7 @@
       "latitudeDeg": 45.01,
       "longitudeDeg": -110.01,
       "elevationM": 2343.0,
-      "stationCode": "Broadband",
+      "stationCode": "Composite",
       "description": "instrument"
     },
     {
@@ -3309,7 +3309,7 @@
       "latitudeDeg": 44.73,
       "longitudeDeg": -110.7,
       "elevationM": 2311.0,
-      "stationCode": "Broadband",
+      "stationCode": "Composite",
       "description": "instrument"
     },
     {
@@ -4639,17 +4639,7 @@
       "latitudeDeg": 44.11,
       "longitudeDeg": -110.08,
       "elevationM": 2976.0,
-      "stationCode": "Broadband",
-      "description": "instrument"
-    },
-    {
-      "sta": "YJC",
-      "name": "Joseph`s Coat, YNP, WY, USA",
-      "authority": "WY",
-      "latitudeDeg": 44.76,
-      "longitudeDeg": -110.35,
-      "elevationM": 2684.0,
-      "stationCode": "Broadband",
+      "stationCode": "Composite",
       "description": "instrument"
     },
     {
@@ -4739,7 +4729,7 @@
       "latitudeDeg": 44.97,
       "longitudeDeg": -110.69,
       "elevationM": 1829.0,
-      "stationCode": "ShortPeriod",
+      "stationCode": "Composite",
       "description": "instrument"
     },
     {
@@ -5030,6 +5020,26 @@
       "longitudeDeg": -111.78,
       "elevationM": 1586.0,
       "stationCode": "StrongMotion",
+      "description": "instrument"
+    },
+    {
+      "sta": "YJC",
+      "name": "Joseph`s Coat, YNP, WY, USA",
+      "authority": "WY",
+      "latitudeDeg": 44.76,
+      "longitudeDeg": -110.35,
+      "elevationM": 2684.0,
+      "stationCode": "Composite",
+      "description": "instrument"
+    },
+    {
+      "sta": "YNB",
+      "name": "Yellowstone Geyser Norris Basin, YNP, WY, USA",
+      "authority": "WY",
+      "latitudeDeg": 44.73,
+      "longitudeDeg": -110.71,
+      "elevationM": 2307.0,
+      "stationCode": "Composite",
       "description": "instrument"
     }
   ]
