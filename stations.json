@@ -1584,7 +1584,7 @@
     "elev": "2343.0",
     "lat": "45.01",
     "lng": "-110.01",
-    "sta_code": "Broadband",
+    "sta_code": "Composite",
     "description": "instrument",
     "webi": "/station/heli/YNE.png"
   },
@@ -1595,7 +1595,7 @@
     "elev": "2311.0",
     "lat": "44.73",
     "lng": "-110.7",
-    "sta_code": "Broadband",
+    "sta_code": "Composite",
     "description": "instrument",
     "webi": "/station/heli/YNM.png"
   },
@@ -2961,20 +2961,9 @@
     "elev": "2976.0",
     "lat": "44.11",
     "lng": "-110.08",
-    "sta_code": "Broadband",
+    "sta_code": "Composite",
     "description": "instrument",
     "webi": "/station/heli/YHR.png"
-  },
-  {
-    "sta": "YJC",
-    "staname": "Joseph`s Coat, YNP, WY, USA",
-    "auth": "WY",
-    "elev": "2684.0",
-    "lat": "44.76",
-    "lng": "-110.35",
-    "sta_code": "Broadband",
-    "description": "instrument",
-    "webi": "/station/heli/YJC.png"
   },
   {
     "sta": "BTU",
@@ -3066,7 +3055,7 @@
     "elev": "1829.0",
     "lat": "44.97",
     "lng": "-110.69",
-    "sta_code": "ShortPeriod",
+    "sta_code": "Composite",
     "description": "instrument",
     "webi": "/station/heli/YMV.png"
   },
@@ -3371,5 +3360,27 @@
     "sta_code": "StrongMotion",
     "description": "instrument",
     "webi": "/station/heli/ASU8.png"
+  },
+  {
+    "sta": "YJC",
+    "staname": "Joseph`s Coat, YNP, WY, USA",
+    "auth": "WY",
+    "elev": "2684.0",
+    "lat": "44.76",
+    "lng": "-110.35",
+    "sta_code": "Composite",
+    "description": "instrument",
+    "webi": "/station/heli/YJC.png"
+  },
+  {
+    "sta": "YNB",
+    "staname": "Yellowstone Geyser Norris Basin, YNP, WY, USA",
+    "auth": "WY",
+    "elev": "2307.0",
+    "lat": "44.73",
+    "lng": "-110.71",
+    "sta_code": "Composite",
+    "description": "instrument",
+    "webi": "/station/heli/YNB.png"
   }
 ]
