@@ -1,34 +1,6 @@
 [
   {
     "auth": "UU",
-    "evid": 60550477,
-    "depth_km": 4.9,
-    "depth_mi": 3.0625,
-    "lat": 38.4528333,
-    "lng": -112.8016667,
-    "version": 2,
-    "etype": "le",
-    "event_time_epoch": "1695206590.459999",
-    "magnitude": 0.03,
-    "event_time_local": "2023/09/20 04:42:43 MDT",
-    "event_time_utc": "2023/09/20 10:42:43 UTC"
-  },
-  {
-    "auth": "UU",
-    "evid": 60550512,
-    "depth_km": -3.24,
-    "depth_mi": -2.025,
-    "lat": 39.5618333,
-    "lng": -110.3621667,
-    "version": 2,
-    "etype": "le",
-    "event_time_epoch": "1695253107.57",
-    "magnitude": 1.76,
-    "event_time_local": "2023/09/20 17:38:00 MDT",
-    "event_time_utc": "2023/09/20 23:38:00 UTC"
-  },
-  {
-    "auth": "UU",
     "evid": 60550527,
     "depth_km": 9.72,
     "depth_mi": 6.075,
@@ -1762,5 +1734,47 @@
     "magnitude": 0.62,
     "event_time_local": "2023/10/04 15:58:23 MDT",
     "event_time_utc": "2023/10/04 21:58:23 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60551722,
+    "depth_km": 10.42,
+    "depth_mi": 6.5125,
+    "lat": 44.8006667,
+    "lng": -111.0828333,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1696467753.04",
+    "magnitude": 0,
+    "event_time_local": "2023/10/04 19:02:06 MDT",
+    "event_time_utc": "2023/10/05 01:02:06 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60551727,
+    "depth_km": 2.04,
+    "depth_mi": 1.275,
+    "lat": 44.7418333,
+    "lng": -110.7906667,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": "1696470299.4099998",
+    "magnitude": 0.42,
+    "event_time_local": "2023/10/04 19:44:32 MDT",
+    "event_time_utc": "2023/10/05 01:44:32 UTC"
+  },
+  {
+    "auth": "UU",
+    "evid": 60551767,
+    "depth_km": 3.82,
+    "depth_mi": 2.3875,
+    "lat": 39.487,
+    "lng": -111.0813333,
+    "version": 3,
+    "etype": "le",
+    "event_time_epoch": "1696494250.6699982",
+    "magnitude": 1.18,
+    "event_time_local": "2023/10/05 02:23:43 MDT",
+    "event_time_utc": "2023/10/05 08:23:43 UTC"
   }
 ]
