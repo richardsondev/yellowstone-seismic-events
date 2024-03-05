@@ -421,20 +421,6 @@
   },
   {
     "auth": "UU",
-    "evid": 80043631,
-    "depth_km": 2,
-    "depth_mi": 1.2,
-    "lat": 38.5,
-    "lng": -112.8937,
-    "version": 2,
-    "etype": "le",
-    "event_time_epoch": 1708470336,
-    "magnitude": 1.2,
-    "event_time_local": "2024/02/20 04:05:36 PM",
-    "event_time_utc": "2024/02/20 23:05:36"
-  },
-  {
-    "auth": "UU",
     "evid": 80050376,
     "depth_km": 2,
     "depth_mi": 1.2,
@@ -1916,20 +1902,6 @@
     "magnitude": 0.5,
     "event_time_local": "2024/02/21 08:43:36 PM",
     "event_time_utc": "2024/02/22 03:43:36"
-  },
-  {
-    "auth": "UU",
-    "evid": 80043641,
-    "depth_km": 2,
-    "depth_mi": 1.2,
-    "lat": 38.4972,
-    "lng": -112.8957,
-    "version": 2,
-    "etype": "le",
-    "event_time_epoch": 1708470555,
-    "magnitude": 0.9,
-    "event_time_local": "2024/02/20 04:09:15 PM",
-    "event_time_utc": "2024/02/20 23:09:15"
   },
   {
     "auth": "UU",
@@ -6578,5 +6550,47 @@
     "magnitude": 1.1,
     "event_time_local": "2024/03/04 05:51:30 AM",
     "event_time_utc": "2024/03/04 12:51:30"
+  },
+  {
+    "auth": "UU",
+    "evid": 80060196,
+    "depth_km": 2,
+    "depth_mi": 1.2,
+    "lat": 38.4915,
+    "lng": -112.8993,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": 1709556819,
+    "magnitude": 0.8,
+    "event_time_local": "2024/03/04 05:53:39 AM",
+    "event_time_utc": "2024/03/04 12:53:39"
+  },
+  {
+    "auth": "UU",
+    "evid": 80060546,
+    "depth_km": 2.4,
+    "depth_mi": 1.5,
+    "lat": 38.4947,
+    "lng": -112.9018,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": 1709572366,
+    "magnitude": 0.6,
+    "event_time_local": "2024/03/04 10:12:46 AM",
+    "event_time_utc": "2024/03/04 17:12:46"
+  },
+  {
+    "auth": "UU",
+    "evid": 80060211,
+    "depth_km": 2.6,
+    "depth_mi": 1.6,
+    "lat": 38.4978,
+    "lng": -112.8992,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": 1709557179,
+    "magnitude": 0.4,
+    "event_time_local": "2024/03/04 05:59:39 AM",
+    "event_time_utc": "2024/03/04 12:59:39"
   }
 ]
