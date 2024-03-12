@@ -141,20 +141,6 @@
   },
   {
     "auth": "UU",
-    "evid": 80050496,
-    "depth_km": 2.2,
-    "depth_mi": 1.4,
-    "lat": 38.4977,
-    "lng": -112.8972,
-    "version": 2,
-    "etype": "le",
-    "event_time_epoch": 1709060824,
-    "magnitude": 0.2,
-    "event_time_local": "2024/02/27 12:07:04 PM",
-    "event_time_utc": "2024/02/27 19:07:04"
-  },
-  {
-    "auth": "UU",
     "evid": 80050591,
     "depth_km": 2.4,
     "depth_mi": 1.5,
@@ -194,34 +180,6 @@
     "magnitude": 0.8,
     "event_time_local": "2024/02/27 01:04:46 PM",
     "event_time_utc": "2024/02/27 20:04:46"
-  },
-  {
-    "auth": "UU",
-    "evid": 80050506,
-    "depth_km": 2.2,
-    "depth_mi": 1.4,
-    "lat": 38.4947,
-    "lng": -112.8953,
-    "version": 2,
-    "etype": "le",
-    "event_time_epoch": 1709061207,
-    "magnitude": 0.7,
-    "event_time_local": "2024/02/27 12:13:27 PM",
-    "event_time_utc": "2024/02/27 19:13:27"
-  },
-  {
-    "auth": "UU",
-    "evid": 80050501,
-    "depth_km": 2.2,
-    "depth_mi": 1.4,
-    "lat": 38.4947,
-    "lng": -112.8962,
-    "version": 2,
-    "etype": "le",
-    "event_time_epoch": 1709061198,
-    "magnitude": 0.1,
-    "event_time_local": "2024/02/27 12:13:18 PM",
-    "event_time_utc": "2024/02/27 19:13:18"
   },
   {
     "auth": "UU",
@@ -4170,5 +4128,47 @@
     "magnitude": 0.8,
     "event_time_local": "2024/03/11 11:25:50 AM",
     "event_time_utc": "2024/03/11 17:25:50"
+  },
+  {
+    "auth": "UU",
+    "evid": 80062561,
+    "depth_km": 9.9,
+    "depth_mi": 6.1,
+    "lat": 44.3255,
+    "lng": -110.6888,
+    "version": 1,
+    "etype": "le",
+    "event_time_epoch": 1710230671,
+    "magnitude": 2.3,
+    "event_time_local": "2024/03/12 02:04:31 AM",
+    "event_time_utc": "2024/03/12 08:04:31"
+  },
+  {
+    "auth": "UU",
+    "evid": 80062566,
+    "depth_km": 7.8,
+    "depth_mi": 4.9,
+    "lat": 44.764,
+    "lng": -111.132,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": 1710244588,
+    "magnitude": 0.2,
+    "event_time_local": "2024/03/12 05:56:28 AM",
+    "event_time_utc": "2024/03/12 11:56:28"
+  },
+  {
+    "auth": "UU",
+    "evid": 80062541,
+    "depth_km": 10.6,
+    "depth_mi": 6.6,
+    "lat": 44.757,
+    "lng": -110.935,
+    "version": 2,
+    "etype": "le",
+    "event_time_epoch": 1710207460,
+    "magnitude": 0.5,
+    "event_time_local": "2024/03/11 07:37:40 PM",
+    "event_time_utc": "2024/03/12 01:37:40"
   }
 ]
