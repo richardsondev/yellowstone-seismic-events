@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2024-05-09T14:45:45Z",
+  "fetchedAt": "2024-05-09T15:27:12Z",
   "events": [
     {
       "identifier": "uu80067551",
@@ -2811,6 +2811,19 @@
       "version": "1"
     },
     {
+      "identifier": "uu80069141",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1715220208.0,
+      "latitudeDeg": 41.5928,
+      "longitudeDeg": -112.43,
+      "depthKm": 10.7,
+      "magnitude": 0.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "uu80069121",
       "authority": "UU",
       "eventType": "le",
@@ -2863,17 +2876,43 @@
       "version": "1"
     },
     {
-      "identifier": "uu80067491",
+      "identifier": "uu80069191",
       "authority": "UU",
       "eventType": "le",
-      "originTimeUtc": 1714079582.0,
-      "latitudeDeg": 44.7978,
-      "longitudeDeg": -111.0485,
-      "depthKm": 7.8,
-      "magnitude": 1.2,
+      "originTimeUtc": 1715257036.0,
+      "latitudeDeg": 41.57,
+      "longitudeDeg": -112.4192,
+      "depthKm": 7.7,
+      "magnitude": 0.9,
       "isLocal": null,
       "nearestTown": null,
-      "version": "1"
+      "version": "3"
+    },
+    {
+      "identifier": "uu80069181",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1715250384.0,
+      "latitudeDeg": 41.58,
+      "longitudeDeg": -112.4297,
+      "depthKm": 7.0,
+      "magnitude": 0.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
+    },
+    {
+      "identifier": "uu80001263",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1715220292.0,
+      "latitudeDeg": 41.5952,
+      "longitudeDeg": -112.4438,
+      "depthKm": 9.9,
+      "magnitude": 0.1,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
     },
     {
       "identifier": "uu80067496",
@@ -3833,19 +3872,6 @@
       "longitudeDeg": -111.9362,
       "depthKm": 3.34,
       "magnitude": 0.3,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "us6000mtpw",
-      "authority": "US",
-      "eventType": "le",
-      "originTimeUtc": 1714058222.484,
-      "latitudeDeg": 45.6701,
-      "longitudeDeg": -111.9446,
-      "depthKm": 4.56,
-      "magnitude": 2.3,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
