@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2024-05-21T17:07:29Z",
+  "fetchedAt": "2024-05-21T17:26:59Z",
   "events": [
     {
       "identifier": "uu80069066",
@@ -92,19 +92,6 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
-    },
-    {
-      "identifier": "uu80069021",
-      "authority": "UU",
-      "eventType": "le",
-      "originTimeUtc": 1715124111.0,
-      "latitudeDeg": 41.5747,
-      "longitudeDeg": -112.4395,
-      "depthKm": 9.0,
-      "magnitude": 0.9,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "5"
     },
     {
       "identifier": "uu80069051",
@@ -1537,6 +1524,19 @@
       "version": "2"
     },
     {
+      "identifier": "uu80070096",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1716310170.0,
+      "latitudeDeg": 41.5695,
+      "longitudeDeg": -112.4185,
+      "depthKm": 7.9,
+      "magnitude": 2.2,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
       "identifier": "uu80070076",
       "authority": "UU",
       "eventType": "le",
@@ -1678,6 +1678,19 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "1"
+    },
+    {
+      "identifier": "nn00877974",
+      "authority": "NN",
+      "eventType": "le",
+      "originTimeUtc": 1716304389.924,
+      "latitudeDeg": 37.3503,
+      "longitudeDeg": -114.3183,
+      "depthKm": 0.0,
+      "magnitude": 1.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
     },
     {
       "identifier": "us6000mzs0",
@@ -2234,19 +2247,6 @@
       "longitudeDeg": -114.85,
       "depthKm": 0.89,
       "magnitude": 2.1,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "us6000mx0p",
-      "authority": "US",
-      "eventType": "le",
-      "originTimeUtc": 1715101232.423,
-      "latitudeDeg": 44.3316,
-      "longitudeDeg": -114.8649,
-      "depthKm": 3.05,
-      "magnitude": 2.5,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
