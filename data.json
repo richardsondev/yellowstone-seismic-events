@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2024-06-10T21:07:59Z",
+  "fetchedAt": "2024-06-10T21:46:01Z",
   "events": [
     {
       "identifier": "uu80072221",
@@ -63,6 +63,19 @@
       "longitudeDeg": -113.1117,
       "depthKm": 6.5,
       "magnitude": 2.6,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80072611",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717988041.0,
+      "latitudeDeg": 38.4967,
+      "longitudeDeg": -112.897,
+      "depthKm": 1.7,
+      "magnitude": 1.7,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
@@ -442,7 +455,20 @@
       "magnitude": 1.7,
       "isLocal": null,
       "nearestTown": null,
-      "version": "1"
+      "version": "2"
+    },
+    {
+      "identifier": "uu80001308",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717867894.0,
+      "latitudeDeg": 38.4888,
+      "longitudeDeg": -112.8955,
+      "depthKm": 3.4,
+      "magnitude": 0.6,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "4"
     },
     {
       "identifier": "uu80072351",
@@ -536,6 +562,32 @@
       "version": "2"
     },
     {
+      "identifier": "uu80071191",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717607230.0,
+      "latitudeDeg": 41.5887,
+      "longitudeDeg": -112.4242,
+      "depthKm": 2.2,
+      "magnitude": 0.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80071216",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717651915.0,
+      "latitudeDeg": 41.5915,
+      "longitudeDeg": -112.4233,
+      "depthKm": 10.4,
+      "magnitude": 0.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "uu80072011",
       "authority": "UU",
       "eventType": "le",
@@ -557,6 +609,45 @@
       "longitudeDeg": -111.008,
       "depthKm": 8.4,
       "magnitude": 0.3,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80071226",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717654314.0,
+      "latitudeDeg": 41.6183,
+      "longitudeDeg": -112.5588,
+      "depthKm": 5.0,
+      "magnitude": 0.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80071231",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717656679.0,
+      "latitudeDeg": 36.7982,
+      "longitudeDeg": -112.8098,
+      "depthKm": 19.6,
+      "magnitude": 1.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80072936",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1718053044.0,
+      "latitudeDeg": 38.4993,
+      "longitudeDeg": -112.907,
+      "depthKm": 2.9,
+      "magnitude": 2.0,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
@@ -1485,6 +1576,19 @@
       "version": "2"
     },
     {
+      "identifier": "uu80071076",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717547654.0,
+      "latitudeDeg": 38.4975,
+      "longitudeDeg": -112.8937,
+      "depthKm": 1.9,
+      "magnitude": 0.3,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "uu80071116",
       "authority": "UU",
       "eventType": "le",
@@ -1600,6 +1704,19 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
+    },
+    {
+      "identifier": "uu80071881",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717867890.0,
+      "latitudeDeg": 38.4805,
+      "longitudeDeg": -112.8928,
+      "depthKm": 3.1,
+      "magnitude": 0.9,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "5"
     },
     {
       "identifier": "uu80071931",
