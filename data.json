@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2024-06-13T16:08:21Z",
+  "fetchedAt": "2024-06-13T16:30:20Z",
   "events": [
     {
       "identifier": "uu80072246",
@@ -414,6 +414,19 @@
       "longitudeDeg": -112.8937,
       "depthKm": 4.1,
       "magnitude": 1.2,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80072801",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1718035546.0,
+      "latitudeDeg": 38.4963,
+      "longitudeDeg": -112.9047,
+      "depthKm": 2.9,
+      "magnitude": 0.9,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
@@ -2122,6 +2135,19 @@
       "version": "2"
     },
     {
+      "identifier": "uu80070856",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717347985.0,
+      "latitudeDeg": 38.8507,
+      "longitudeDeg": -111.5668,
+      "depthKm": 20.2,
+      "magnitude": 0.6,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
       "identifier": "uu80070726",
       "authority": "UU",
       "eventType": "le",
@@ -2351,6 +2377,19 @@
       "longitudeDeg": -112.926,
       "depthKm": 3.3,
       "magnitude": 2.4,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80070851",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1717322394.0,
+      "latitudeDeg": 42.4192,
+      "longitudeDeg": -111.4758,
+      "depthKm": 5.7,
+      "magnitude": 1.7,
       "isLocal": null,
       "nearestTown": null,
       "version": "1"
@@ -3685,10 +3724,10 @@
       "identifier": "us7000mrs2",
       "authority": "US",
       "eventType": "le",
-      "originTimeUtc": 1718129051.547,
-      "latitudeDeg": 40.6205,
-      "longitudeDeg": -107.8812,
-      "depthKm": 5.33,
+      "originTimeUtc": 1718129051.516,
+      "latitudeDeg": 40.6202,
+      "longitudeDeg": -107.8849,
+      "depthKm": 5.52,
       "magnitude": 2.6,
       "isLocal": null,
       "nearestTown": null,
