@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2024-06-18T19:25:42Z",
+  "fetchedAt": "2024-06-18T19:45:42Z",
   "events": [
     {
       "identifier": "uu80072246",
@@ -3071,6 +3071,19 @@
       "version": "1"
     },
     {
+      "identifier": "uu80073706",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1718488601.0,
+      "latitudeDeg": 38.4965,
+      "longitudeDeg": -112.8948,
+      "depthKm": 3.3,
+      "magnitude": 0.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
       "identifier": "uu80073786",
       "authority": "UU",
       "eventType": "le",
@@ -3201,19 +3214,6 @@
       "version": "2"
     },
     {
-      "identifier": "uu80073701",
-      "authority": "UU",
-      "eventType": "le",
-      "originTimeUtc": 1718488292.0,
-      "latitudeDeg": 38.492,
-      "longitudeDeg": -112.889,
-      "depthKm": 3.0,
-      "magnitude": 1.4,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "2"
-    },
-    {
       "identifier": "uu80073801",
       "authority": "UU",
       "eventType": "le",
@@ -3248,6 +3248,19 @@
       "longitudeDeg": -112.8993,
       "depthKm": 3.5,
       "magnitude": 0.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80073686",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1718480541.0,
+      "latitudeDeg": 38.4983,
+      "longitudeDeg": -112.9012,
+      "depthKm": 3.1,
+      "magnitude": -0.1,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
@@ -3339,6 +3352,19 @@
       "longitudeDeg": -110.5537,
       "depthKm": 5.3,
       "magnitude": 0.9,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "3"
+    },
+    {
+      "identifier": "uu80074046",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1718719498.0,
+      "latitudeDeg": 41.564,
+      "longitudeDeg": -112.4167,
+      "depthKm": 4.2,
+      "magnitude": 1.1,
       "isLocal": null,
       "nearestTown": null,
       "version": "3"
