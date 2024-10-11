@@ -35,7 +35,7 @@
     "event": {
       "evid": "6000nxhv",
       "auth": "us",
-      "magnitude": 3,
+      "magnitude": 3.0,
       "lat": 44.271,
       "lng": -115.0729,
       "event_time_local": "2024/10/09 05:44:02 MDT",
@@ -83,7 +83,7 @@
     "event": {
       "evid": "90063178",
       "auth": "mb",
-      "magnitude": 1,
+      "magnitude": 1.0,
       "lat": 45.1847,
       "lng": -112.4125,
       "event_time_local": "2024/10/07 11:00:13 MDT",
@@ -131,7 +131,7 @@
     "event": {
       "evid": "90063158",
       "auth": "mb",
-      "magnitude": 1,
+      "magnitude": 1.0,
       "lat": 45.2227,
       "lng": -112.4602,
       "event_time_local": "2024/10/07 01:24:56 MDT",
@@ -147,7 +147,7 @@
     "event": {
       "evid": "90063148",
       "auth": "mb",
-      "magnitude": 1,
+      "magnitude": 1.0,
       "lat": 45.214,
       "lng": -112.472,
       "event_time_local": "2024/10/07 01:06:15 MDT",
@@ -227,7 +227,7 @@
     "event": {
       "evid": "00885633",
       "auth": "nn",
-      "magnitude": 3,
+      "magnitude": 3.0,
       "lat": 37.2203,
       "lng": -114.9803,
       "event_time_local": "2024/10/06 12:40:28 MDT",
@@ -458,7 +458,7 @@
       "event_time_epoch": 1727705959.46,
       "event_time_utc": "2024/09/30 14:19:19 UTC",
       "depth_mi": 4.97,
-      "depth_km": 8,
+      "depth_km": 8.0,
       "version": "n/a",
       "etype": "le"
     }
@@ -483,7 +483,7 @@
     "event": {
       "evid": "90062768",
       "auth": "mb",
-      "magnitude": 0,
+      "magnitude": 0.0,
       "lat": 44.8028,
       "lng": -111.5968,
       "event_time_local": "2024/09/30 02:00:34 MDT",
@@ -631,7 +631,7 @@
       "lat": 44.9887,
       "lng": -112.3195,
       "event_time_local": "2024/09/29 00:58:24 MDT",
-      "event_time_epoch": 1727593104,
+      "event_time_epoch": 1727593104.0,
       "event_time_utc": "2024/09/29 06:58:24 UTC",
       "depth_mi": 3.1,
       "depth_km": 4.99,
@@ -643,7 +643,7 @@
     "event": {
       "evid": "90062673",
       "auth": "mb",
-      "magnitude": 1,
+      "magnitude": 1.0,
       "lat": 44.8177,
       "lng": -111.726,
       "event_time_local": "2024/09/29 00:35:28 MDT",
@@ -665,7 +665,7 @@
       "event_time_local": "2024/09/28 22:41:48 MDT",
       "event_time_epoch": 1727584908.73,
       "event_time_utc": "2024/09/29 04:41:48 UTC",
-      "depth_mi": 3,
+      "depth_mi": 3.0,
       "depth_km": 4.83,
       "version": "n/a",
       "etype": "le"
@@ -739,7 +739,7 @@
     "event": {
       "evid": "00885324",
       "auth": "nn",
-      "magnitude": 1,
+      "magnitude": 1.0,
       "lat": 36.668,
       "lng": -115.114,
       "event_time_local": "2024/09/28 07:08:14 MDT",
