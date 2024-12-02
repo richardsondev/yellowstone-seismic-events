@@ -20,10 +20,10 @@
       "evid": "00888181",
       "auth": "nn",
       "magnitude": 1.1,
-      "lat": 37.1079,
-      "lng": -115.2113,
+      "lat": 37.1251,
+      "lng": -115.2191,
       "event_time_local": "2024/12/02 00:59:43 MST",
-      "event_time_epoch": 1733126383.001,
+      "event_time_epoch": 1733126383.098,
       "event_time_utc": "2024/12/02 07:59:43 UTC",
       "depth_mi": 0,
       "depth_km": 0,
@@ -59,6 +59,38 @@
       "event_time_utc": "2024/11/30 03:06:41 UTC",
       "depth_mi": 1.86,
       "depth_km": 3,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "90067263",
+      "auth": "mb",
+      "magnitude": 0.3,
+      "lat": 45.7178,
+      "lng": -112.1293,
+      "event_time_local": "2024/11/29 09:11:43 MST",
+      "event_time_epoch": 1732896703.29,
+      "event_time_utc": "2024/11/29 16:11:43 UTC",
+      "depth_mi": 3.09,
+      "depth_km": 4.98,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "90067258",
+      "auth": "mb",
+      "magnitude": 0.8,
+      "lat": 44.6132,
+      "lng": -112.5835,
+      "event_time_local": "2024/11/29 01:37:14 MST",
+      "event_time_epoch": 1732869434.06,
+      "event_time_utc": "2024/11/29 08:37:14 UTC",
+      "depth_mi": 4.29,
+      "depth_km": 6.91,
       "version": "n/a",
       "etype": "le"
     }
