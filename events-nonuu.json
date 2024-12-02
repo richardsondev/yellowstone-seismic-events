@@ -19,14 +19,14 @@
     "event": {
       "evid": "00888181",
       "auth": "nn",
-      "magnitude": 1.4,
-      "lat": 37.2234,
-      "lng": -114.7534,
-      "event_time_local": "2024/12/02 00:59:37 MST",
-      "event_time_epoch": 1733126377.575,
-      "event_time_utc": "2024/12/02 07:59:37 UTC",
-      "depth_mi": 9.81,
-      "depth_km": 15.8,
+      "magnitude": 1.1,
+      "lat": 37.1079,
+      "lng": -115.2113,
+      "event_time_local": "2024/12/02 00:59:43 MST",
+      "event_time_epoch": 1733126383.001,
+      "event_time_utc": "2024/12/02 07:59:43 UTC",
+      "depth_mi": 0,
+      "depth_km": 0,
       "version": "n/a",
       "etype": "le"
     }
@@ -59,6 +59,22 @@
       "event_time_utc": "2024/11/30 03:06:41 UTC",
       "depth_mi": 1.86,
       "depth_km": 3,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "90067253",
+      "auth": "mb",
+      "magnitude": 0.9,
+      "lat": 45.337,
+      "lng": -112.5723,
+      "event_time_local": "2024/11/28 18:35:48 MST",
+      "event_time_epoch": 1732844148.66,
+      "event_time_utc": "2024/11/29 01:35:48 UTC",
+      "depth_mi": 4.32,
+      "depth_km": 6.96,
       "version": "n/a",
       "etype": "le"
     }
@@ -107,6 +123,38 @@
       "event_time_utc": "2024/11/28 21:05:49 UTC",
       "depth_mi": 4.2,
       "depth_km": 6.76,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "90067248",
+      "auth": "mb",
+      "magnitude": 0.8,
+      "lat": 45.7132,
+      "lng": -111.3532,
+      "event_time_local": "2024/11/28 11:41:34 MST",
+      "event_time_epoch": 1732819294.1,
+      "event_time_utc": "2024/11/28 18:41:34 UTC",
+      "depth_mi": 7.89,
+      "depth_km": 12.71,
+      "version": "n/a",
+      "etype": "le"
+    }
+  },
+  {
+    "event": {
+      "evid": "90067243",
+      "auth": "mb",
+      "magnitude": 1.3,
+      "lat": 44.8058,
+      "lng": -113.4182,
+      "event_time_local": "2024/11/28 07:08:01 MST",
+      "event_time_epoch": 1732802881.31,
+      "event_time_utc": "2024/11/28 14:08:01 UTC",
+      "depth_mi": 2.17,
+      "depth_km": 3.49,
       "version": "n/a",
       "etype": "le"
     }
