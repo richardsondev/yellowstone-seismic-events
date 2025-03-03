@@ -1,20 +1,7 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-03-02T07:08:02Z",
+  "fetchedAt": "2025-03-03T04:10:02Z",
   "events": [
-    {
-      "identifier": "uu80102306",
-      "authority": "UU",
-      "eventType": "le",
-      "originTimeUtc": 1739769167.0,
-      "latitudeDeg": 37.2598,
-      "longitudeDeg": -113.2952,
-      "depthKm": 6.1,
-      "magnitude": 1.6,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "1"
-    },
     {
       "identifier": "uu80102361",
       "authority": "UU",
@@ -53,19 +40,6 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
-    },
-    {
-      "identifier": "uu80102226",
-      "authority": "UU",
-      "eventType": "le",
-      "originTimeUtc": 1739780863.0,
-      "latitudeDeg": 37.55,
-      "longitudeDeg": -112.3388,
-      "depthKm": 2.2,
-      "magnitude": 1.7,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "5"
     },
     {
       "identifier": "uu80102371",
@@ -874,6 +848,19 @@
       "version": "2"
     },
     {
+      "identifier": "uu80102991",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1740953573.0,
+      "latitudeDeg": 38.5085,
+      "longitudeDeg": -112.8997,
+      "depthKm": 2.2,
+      "magnitude": 2.0,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
       "identifier": "uu80002738",
       "authority": "UU",
       "eventType": "le",
@@ -952,6 +939,19 @@
       "version": "2"
     },
     {
+      "identifier": "uu80102976",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1740934301.0,
+      "latitudeDeg": 38.5068,
+      "longitudeDeg": -112.906,
+      "depthKm": 2.6,
+      "magnitude": 1.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
       "identifier": "uu80002753",
       "authority": "UU",
       "eventType": "le",
@@ -963,6 +963,19 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
+    },
+    {
+      "identifier": "us6000pwh3",
+      "authority": "US",
+      "eventType": "le",
+      "originTimeUtc": 1740941414.486,
+      "latitudeDeg": 44.342,
+      "longitudeDeg": -115.157,
+      "depthKm": 10.89,
+      "magnitude": 2.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
     },
     {
       "identifier": "nn00894222",
@@ -999,6 +1012,32 @@
       "longitudeDeg": -114.7847,
       "depthKm": 16.0,
       "magnitude": 1.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb90073393",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1740882678.21,
+      "latitudeDeg": 45.9888,
+      "longitudeDeg": -111.4815,
+      "depthKm": 4.93,
+      "magnitude": 0.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb90073383",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1740847111.33,
+      "latitudeDeg": 43.5728,
+      "longitudeDeg": -110.3868,
+      "depthKm": 5.0,
+      "magnitude": 2.0,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
@@ -1922,32 +1961,6 @@
       "longitudeDeg": -114.5725,
       "depthKm": 0.0,
       "magnitude": 1.9,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "mb90072863",
-      "authority": "MB",
-      "eventType": "le",
-      "originTimeUtc": 1739727958.83,
-      "latitudeDeg": 44.723,
-      "longitudeDeg": -112.4848,
-      "depthKm": 2.34,
-      "magnitude": 0.6,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "mb90072868",
-      "authority": "MB",
-      "eventType": "le",
-      "originTimeUtc": 1739703123.03,
-      "latitudeDeg": 45.376,
-      "longitudeDeg": -112.6058,
-      "depthKm": 6.63,
-      "magnitude": 0.8,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
