@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-03-24T15:45:58Z",
+  "fetchedAt": "2025-03-24T16:09:44Z",
   "events": [
     {
       "identifier": "uu80103656",
@@ -718,6 +718,58 @@
       "version": "2"
     },
     {
+      "identifier": "uu80104301",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1742682301.0,
+      "latitudeDeg": 37.3908,
+      "longitudeDeg": -112.5435,
+      "depthKm": 3.8,
+      "magnitude": 1.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80104306",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1742682608.0,
+      "latitudeDeg": 44.4113,
+      "longitudeDeg": -110.7297,
+      "depthKm": 2.1,
+      "magnitude": 0.9,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80104316",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1742704080.0,
+      "latitudeDeg": 37.41,
+      "longitudeDeg": -112.5478,
+      "depthKm": 11.2,
+      "magnitude": 1.1,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "mb90075558",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1742830530.44,
+      "latitudeDeg": 44.7453,
+      "longitudeDeg": -113.897,
+      "depthKm": 3.75,
+      "magnitude": 1.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
       "identifier": "us7000pm8l",
       "authority": "US",
       "eventType": "le",
@@ -739,6 +791,19 @@
       "longitudeDeg": -114.8177,
       "depthKm": 3.65,
       "magnitude": 2.4,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb90075553",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1742741108.32,
+      "latitudeDeg": 45.0627,
+      "longitudeDeg": -112.3643,
+      "depthKm": 4.98,
+      "magnitude": 0.7,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
