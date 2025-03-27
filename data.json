@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-03-27T15:08:17Z",
+  "fetchedAt": "2025-03-27T15:30:26Z",
   "events": [
     {
       "identifier": "uu80103751",
@@ -817,6 +817,45 @@
       "longitudeDeg": -114.85,
       "depthKm": 5.7,
       "magnitude": 1.2,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb90076023",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1743048858.12,
+      "latitudeDeg": 45.896,
+      "longitudeDeg": -112.3103,
+      "depthKm": 1.37,
+      "magnitude": 0.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb90076018",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1743047868.38,
+      "latitudeDeg": 44.6968,
+      "longitudeDeg": -112.0267,
+      "depthKm": 4.99,
+      "magnitude": 0.6,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb90076013",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1743042283.75,
+      "latitudeDeg": 45.7002,
+      "longitudeDeg": -112.3487,
+      "depthKm": 2.4,
+      "magnitude": 0.4,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
