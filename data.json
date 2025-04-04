@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-04-04T16:32:19Z",
+  "fetchedAt": "2025-04-04T16:48:15Z",
   "events": [
     {
       "identifier": "uu80104326",
@@ -1519,6 +1519,19 @@
       "longitudeDeg": -111.4988,
       "depthKm": 7.37,
       "magnitude": 0.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "n/a"
+    },
+    {
+      "identifier": "mb90076928",
+      "authority": "MB",
+      "eventType": "le",
+      "originTimeUtc": 1743403839.22,
+      "latitudeDeg": 44.8218,
+      "longitudeDeg": -111.5058,
+      "depthKm": 7.4,
+      "magnitude": 0.1,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
