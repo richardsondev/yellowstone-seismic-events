@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-05-12T14:08:46Z",
+  "fetchedAt": "2025-05-12T14:31:53Z",
   "events": [
     {
       "identifier": "uu80106516",
@@ -1485,6 +1485,19 @@
       "version": "1"
     },
     {
+      "identifier": "uu80107536",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1746955235.0,
+      "latitudeDeg": 44.7287,
+      "longitudeDeg": -111.1323,
+      "depthKm": 9.0,
+      "magnitude": 1.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
       "identifier": "uu80107216",
       "authority": "UU",
       "eventType": "le",
@@ -1675,6 +1688,19 @@
       "longitudeDeg": -111.0258,
       "depthKm": 11.4,
       "magnitude": 2.1,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80107481",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1746897603.0,
+      "latitudeDeg": 44.6358,
+      "longitudeDeg": -111.0278,
+      "depthKm": 11.4,
+      "magnitude": 1.9,
       "isLocal": null,
       "nearestTown": null,
       "version": "1"
@@ -2325,19 +2351,6 @@
       "longitudeDeg": -111.5047,
       "depthKm": 11.81,
       "magnitude": 2.5,
-      "isLocal": null,
-      "nearestTown": null,
-      "version": "n/a"
-    },
-    {
-      "identifier": "us7000pvjb",
-      "authority": "US",
-      "eventType": "le",
-      "originTimeUtc": 1745850561.695,
-      "latitudeDeg": 42.6985,
-      "longitudeDeg": -111.5318,
-      "depthKm": 10.62,
-      "magnitude": 2.6,
       "isLocal": null,
       "nearestTown": null,
       "version": "n/a"
