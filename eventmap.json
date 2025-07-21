@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "213b06ef56363a4ae8a1d78007421587f90c401b",
+    "hashString": "c80a86e2e676dc3e9c6c287c0b57e02906f00af3",
     "events": [
       {
         "identifier": "uu80111781",
@@ -890,6 +890,18 @@
           "bearing": "WSW",
           "distanceKM": 11.56629595231984
         }
+      },
+      {
+        "identifier": "us7000qe09",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1753004755.473,
+        "latitudeDeg": 44.3269,
+        "longitudeDeg": -115.0011,
+        "depthKM": 13.515,
+        "magnitude": 2.6,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80112001",
