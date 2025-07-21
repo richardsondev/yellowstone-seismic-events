@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "eeea52f88b7333c6427056d5fc043f4f870d5aa3",
+    "hashString": "67d612c165276c2b94953a89555b9b8f9e2536fd",
     "events": [
       {
         "identifier": "uu80111781",
@@ -733,6 +733,22 @@
           "town": "Penrose, UT",
           "bearing": "W",
           "distanceKM": 9.516442008155153
+        }
+      },
+      {
+        "identifier": "uu80112191",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1752926319.9099998,
+        "latitudeDeg": 44.56883333333333,
+        "longitudeDeg": -110.74483333333333,
+        "depthKM": 2.03,
+        "magnitude": 0.62,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "NNE",
+          "distanceKM": 14.078024338307248
         }
       },
       {
