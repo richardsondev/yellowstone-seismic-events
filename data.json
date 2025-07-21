@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-21T18:09:21Z",
+  "fetchedAt": "2025-07-21T19:44:15Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -377,6 +377,19 @@
       "magnitude": 0.25,
       "isLocal": true,
       "nearestTown": "{'town': 'Genola, UT', 'bearing': 'NW', 'distanceKM': 2.069129956800705}",
+      "version": null
+    },
+    {
+      "identifier": "uu80112186",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1752910141.07,
+      "latitudeDeg": 39.3835,
+      "longitudeDeg": -111.939,
+      "depthKm": 6.07,
+      "magnitude": 1.9000000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mills, UT', 'bearing': 'SE', 'distanceKM': 13.464973362741198}",
       "version": null
     },
     {

@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3b11e338c36fcfdf43fe378a0be2e8d1b923e6a0",
+    "hashString": "15712966083a30c8989f938c14fbe44ba449f440",
     "events": [
       {
         "identifier": "uu80111781",
@@ -433,6 +433,22 @@
           "town": "Genola, UT",
           "bearing": "NW",
           "distanceKM": 2.069129956800705
+        }
+      },
+      {
+        "identifier": "uu80112186",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1752910141.07,
+        "latitudeDeg": 39.3835,
+        "longitudeDeg": -111.939,
+        "depthKM": 6.07,
+        "magnitude": 1.9000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mills, UT",
+          "bearing": "SE",
+          "distanceKM": 13.464973362741198
         }
       },
       {
