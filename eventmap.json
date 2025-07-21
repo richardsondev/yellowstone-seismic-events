@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5d7838351bbd4234bae526847c380b9ccad416f5",
+    "hashString": "e315769a45b34a1aa5c06d94c4f71a87a16786ca",
     "events": [
       {
         "identifier": "uu80111781",
@@ -733,6 +733,22 @@
           "town": "Pahaska Tepee, WY",
           "bearing": "NNW",
           "distanceKM": 19.914517587024008
+        }
+      },
+      {
+        "identifier": "uu80112206",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1752950746.8899994,
+        "latitudeDeg": 39.1515,
+        "longitudeDeg": -112.07666666666667,
+        "depthKM": 6.46,
+        "magnitude": 1.17,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Scipio, UT",
+          "bearing": "SSE",
+          "distanceKM": 10.662097907371964
         }
       },
       {
