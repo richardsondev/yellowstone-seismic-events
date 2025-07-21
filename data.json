@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-21T10:48:31Z",
+  "fetchedAt": "2025-07-21T13:34:13Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -195,6 +195,19 @@
       "magnitude": 2.7,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80112196",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1752929582.36,
+      "latitudeDeg": 44.571666666666665,
+      "longitudeDeg": -110.729,
+      "depthKm": 7.09,
+      "magnitude": 0.78,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NE', 'distanceKM': 15.012911580892759}",
       "version": null
     },
     {
@@ -1053,6 +1066,19 @@
       "magnitude": 1.1,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80112291",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753094505.8999977,
+      "latitudeDeg": 44.75266666666667,
+      "longitudeDeg": -111.13233333333334,
+      "depthKm": 9.92,
+      "magnitude": 1.18,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SE', 'distanceKM': 7.18872521192379}",
       "version": null
     },
     {
