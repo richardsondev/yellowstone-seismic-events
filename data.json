@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-21T17:30:12Z",
+  "fetchedAt": "2025-07-21T18:09:21Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -198,6 +198,19 @@
       "version": null
     },
     {
+      "identifier": "uu80004148",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753050159.6399994,
+      "latitudeDeg": 41.5825,
+      "longitudeDeg": -112.423,
+      "depthKm": 6.49,
+      "magnitude": 0.62,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Penrose, UT', 'bearing': 'SW', 'distanceKM': 12.803371259907228}",
+      "version": null
+    },
+    {
       "identifier": "uu80111771",
       "authority": "UU",
       "eventType": "eq",
@@ -325,6 +338,19 @@
       "magnitude": 0.51,
       "isLocal": true,
       "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'S', 'distanceKM': 2.817481926359583}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004143",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753082497.6299973,
+      "latitudeDeg": 39.0375,
+      "longitudeDeg": -109.22216666666667,
+      "depthKm": 6.01,
+      "magnitude": 1.3900000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Westwater, UT', 'bearing': 'WSW', 'distanceKM': 11.261946070650481}",
       "version": null
     },
     {
@@ -546,19 +572,6 @@
       "magnitude": 0.96,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SSW', 'distanceKM': 26.087894144563663}",
-      "version": null
-    },
-    {
-      "identifier": "uu80111616",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1751910997.2399979,
-      "latitudeDeg": 44.722,
-      "longitudeDeg": -111.0425,
-      "depthKm": 7.04,
-      "magnitude": 0.91,
-      "isLocal": true,
-      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 8.250696231192011}",
       "version": null
     },
     {
@@ -1753,6 +1766,19 @@
       "longitudeDeg": -112.4005,
       "depthKm": 6.8,
       "magnitude": 1.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80111616",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1751910997.0,
+      "latitudeDeg": 44.722,
+      "longitudeDeg": -111.0425,
+      "depthKm": 7.0,
+      "magnitude": 0.9,
       "isLocal": null,
       "nearestTown": null,
       "version": "1"
