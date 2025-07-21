@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-21T10:07:47Z",
+  "fetchedAt": "2025-07-21T10:48:31Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -445,19 +445,6 @@
       "version": null
     },
     {
-      "identifier": "uu80111606",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1751884686.19,
-      "latitudeDeg": 41.912333333333336,
-      "longitudeDeg": -112.39183333333334,
-      "depthKm": 8.96,
-      "magnitude": 1.46,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'NE', 'distanceKM': 7.875894540420131}",
-      "version": null
-    },
-    {
       "identifier": "nn00900637",
       "authority": "NN",
       "eventType": "eq",
@@ -624,19 +611,6 @@
       "magnitude": 1.02,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'WSW', 'distanceKM': 6.029798574739099}",
-      "version": null
-    },
-    {
-      "identifier": "uu80004013",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1751884708.8799992,
-      "latitudeDeg": 41.898,
-      "longitudeDeg": -112.4005,
-      "depthKm": 6.79,
-      "magnitude": 1.73,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'NE', 'distanceKM': 6.265780161828494}",
       "version": null
     },
     {
@@ -1493,6 +1467,32 @@
       "longitudeDeg": -111.9255,
       "depthKm": 13.5,
       "magnitude": 1.1,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80111606",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1751884686.0,
+      "latitudeDeg": 41.9123,
+      "longitudeDeg": -112.3918,
+      "depthKm": 9.0,
+      "magnitude": 1.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80004013",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1751884708.0,
+      "latitudeDeg": 41.898,
+      "longitudeDeg": -112.4005,
+      "depthKm": 6.8,
+      "magnitude": 1.7,
       "isLocal": null,
       "nearestTown": null,
       "version": "1"
