@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-21T08:32:45Z",
+  "fetchedAt": "2025-07-21T08:50:58Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -468,19 +468,6 @@
       "magnitude": 1.46,
       "isLocal": true,
       "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'NE', 'distanceKM': 7.875894540420131}",
-      "version": null
-    },
-    {
-      "identifier": "uu80111596",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1751877723.4199998,
-      "latitudeDeg": 44.00783333333333,
-      "longitudeDeg": -111.13283333333334,
-      "depthKm": 15.04,
-      "magnitude": 0.72,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lamont, ID', 'bearing': 'ENE', 'distanceKM': 7.990380482154088}",
       "version": null
     },
     {
@@ -1454,6 +1441,19 @@
       "longitudeDeg": -111.3117,
       "depthKm": -3.5,
       "magnitude": 1.3,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80111596",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1751877723.0,
+      "latitudeDeg": 44.0078,
+      "longitudeDeg": -111.1328,
+      "depthKm": 15.0,
+      "magnitude": 0.7,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
