@@ -4,28 +4,46 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '3,23,43 * * * *'
+    - cron: '*/20 * * * *'
 
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    timeout-minutes: 2
     steps:
-    - name: Check out repo
-      uses: actions/checkout@v2
-    - name: Fetch latest data Non-UU
-      run: |-
-        curl -k https://quake.utah.edu/eqMap/php/json_nonuu.php?map_type=recent | jq . > events-nonuu.json
-    - name: Fetch latest data UU
-      run: |-
-        curl -k https://quake.utah.edu/eqMap/php/json_service.php?map_type=recent | tr '\n' ' ' | sed 's/, ]/] /g' | jq . > events-uu.json
-    - name: Fetch latest data stations
-      run: |-
-        curl -k https://quake.utah.edu/eqMap/php/stations2.php | tr '\n' ' ' | sed 's/, ]/] /g' | jq . > stations.json
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "event-detector"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data as of ${timestamp}" || exit 0
-        git push
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Fetch latest event hash
+        run: |
+          curl 'https://webproducts.quake-utah.org/Catalog/ComCat/EventData?application=eventmaphash' | tr '\n' ' ' | sed 's/, ]/] /g' | jq . >/tmp/eventmaphash.json
+          test -s /tmp/eventmaphash.json && jq -e . </tmp/eventmaphash.json >/dev/null
+
+      - name: Fetch latest event data
+        run: |
+          curl 'https://webproducts.quake-utah.org/Catalog/ComCat/EventData?application=eventmap' | tr '\n' ' ' | sed 's/, ]/] /g' | jq . >eventmap.json
+          test -s eventmap.json && jq -e . eventmap.json >/dev/null
+
+      - name: Compare hashes
+        run: |
+          HASH_EXPECTED=$(jq -r '.data' /tmp/eventmaphash.json)
+          HASH_ACTUAL=$(jq -r '.data.hashString' eventmap.json)
+          if [ -z "$HASH_EXPECTED" ] || [ -z "$HASH_ACTUAL" ]; then
+            echo "Missing hash in one of the files." >&2
+            exit 1
+          fi
+          if [ "$HASH_EXPECTED" != "$HASH_ACTUAL" ]; then
+            echo "Hash mismatch: expected $HASH_EXPECTED, got $HASH_ACTUAL" >&2
+            exit 1
+          fi
+
+      - name: Commit and push if it changed
+        run: |
+          git config user.name "event-detector"
+          git config user.email "actions@users.noreply.github.com"
+          git add eventmap.json
+          timestamp=$(date -u)
+          git commit -m "Latest data as of ${timestamp}" || exit 0
+          git push
