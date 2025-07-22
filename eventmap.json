@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4c88f9314e089ba30e3be90d75cfc92e2d91a773",
+    "hashString": "4ea5af978e61fcb52cfb001e665e6d4a626cd1b4",
     "events": [
       {
         "identifier": "uu80111781",
@@ -277,6 +277,22 @@
           "town": "Penrose, UT",
           "bearing": "SW",
           "distanceKM": 12.803371259907228
+        }
+      },
+      {
+        "identifier": "uu80004198",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753165292.1699982,
+        "latitudeDeg": 37.18983333333333,
+        "longitudeDeg": -112.8745,
+        "depthKM": 19.12,
+        "magnitude": 0.97,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Springdale, UT",
+          "bearing": "E",
+          "distanceKM": 10.993584903765466
         }
       },
       {
