@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-22T16:08:14Z",
+  "fetchedAt": "2025-07-22T16:32:06Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -247,6 +247,19 @@
       "magnitude": 0.62,
       "isLocal": true,
       "nearestTown": "{'town': 'Penrose, UT', 'bearing': 'SW', 'distanceKM': 12.803371259907228}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004198",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753165292.1699982,
+      "latitudeDeg": 37.18983333333333,
+      "longitudeDeg": -112.8745,
+      "depthKm": 19.12,
+      "magnitude": 0.97,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Springdale, UT', 'bearing': 'E', 'distanceKM': 10.993584903765466}",
       "version": null
     },
     {
