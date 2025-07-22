@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-22T21:29:22Z",
+  "fetchedAt": "2025-07-22T21:45:23Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -65,19 +65,6 @@
       "magnitude": 2.09,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80111651",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752010340.8400002,
-      "latitudeDeg": 41.99516666666667,
-      "longitudeDeg": -111.4755,
-      "depthKm": -1.51,
-      "magnitude": 1.74,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Fish Haven, ID', 'bearing': 'SW', 'distanceKM': 7.8545620117486825}",
       "version": null
     },
     {
@@ -895,6 +882,19 @@
       "longitudeDeg": -112.152166666667,
       "depthKm": 6.72,
       "magnitude": 0.97,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90103093",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753208668.42,
+      "latitudeDeg": 44.9281666666667,
+      "longitudeDeg": -111.762,
+      "depthKm": 18.34,
+      "magnitude": 1.05,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1922,6 +1922,19 @@
       "longitudeDeg": -111.0658,
       "depthKm": 1.6,
       "magnitude": 1.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80111651",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752010340.0,
+      "latitudeDeg": 41.9952,
+      "longitudeDeg": -111.4755,
+      "depthKm": -1.5,
+      "magnitude": 1.7,
       "isLocal": null,
       "nearestTown": null,
       "version": "1"
