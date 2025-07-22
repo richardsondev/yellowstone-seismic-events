@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-22T14:30:33Z",
+  "fetchedAt": "2025-07-22T15:07:04Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -185,6 +185,19 @@
       "version": null
     },
     {
+      "identifier": "mb90103078",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753079312.7,
+      "latitudeDeg": 44.3505,
+      "longitudeDeg": -115.031333333333,
+      "depthKm": 6.04,
+      "magnitude": 1.47,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "mb90103023",
       "authority": "MB",
       "eventType": "eq",
@@ -208,6 +221,19 @@
       "magnitude": 2.5500000000000003,
       "isLocal": true,
       "nearestTown": "{'town': 'New Harmony, UT', 'bearing': 'NNW', 'distanceKM': 12.099836005341075}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004193",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753174946.3400002,
+      "latitudeDeg": 37.190333333333335,
+      "longitudeDeg": -112.86933333333333,
+      "depthKm": 21.48,
+      "magnitude": 0.8200000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Springdale, UT', 'bearing': 'E', 'distanceKM': 11.451842706743399}",
       "version": null
     },
     {
@@ -507,6 +533,19 @@
       "magnitude": 0.6900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Columbia, UT', 'bearing': 'SSE', 'distanceKM': 11.73279616343318}",
+      "version": null
+    },
+    {
+      "identifier": "uu80112376",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753178778.25,
+      "latitudeDeg": 40.0905,
+      "longitudeDeg": -109.32466666666667,
+      "depthKm": -0.61,
+      "magnitude": 1.82,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Bonanza, UT', 'bearing': 'WNW', 'distanceKM': 14.6353952602208}",
       "version": null
     },
     {
