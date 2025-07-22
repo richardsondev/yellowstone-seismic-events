@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d0d76f64a3a98293cc3dd9a501e599964166e6a2",
+    "hashString": "d352c51c3fe5ccce2c206d9f43213f0a86777fba",
     "events": [
       {
         "identifier": "uu80111781",
@@ -70,22 +70,6 @@
         "magnitude": 2.09,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80111651",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1752010340.8400002,
-        "latitudeDeg": 41.99516666666667,
-        "longitudeDeg": -111.4755,
-        "depthKM": -1.51,
-        "magnitude": 1.74,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fish Haven, ID",
-          "bearing": "SW",
-          "distanceKM": 7.8545620117486825
-        }
       },
       {
         "identifier": "mb90102823",
@@ -1036,6 +1020,18 @@
         "longitudeDeg": -112.152166666667,
         "depthKM": 6.72,
         "magnitude": 0.97,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
+        "identifier": "mb90103093",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1753208668.42,
+        "latitudeDeg": 44.9281666666667,
+        "longitudeDeg": -111.762,
+        "depthKM": 18.34,
+        "magnitude": 1.05,
         "isLocal": false,
         "nearestTown": null
       },
