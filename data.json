@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-23T19:27:58Z",
+  "fetchedAt": "2025-07-23T23:06:39Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -286,6 +286,19 @@
       "magnitude": 0.72,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80112461",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753308355.5200005,
+      "latitudeDeg": 44.325833333333335,
+      "longitudeDeg": -110.54566666666666,
+      "depthKm": 6.92,
+      "magnitude": 1.31,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SSE', 'distanceKM': 10.297312732734955}",
       "version": null
     },
     {
@@ -1365,19 +1378,6 @@
       "magnitude": 0.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Genola, UT', 'bearing': 'NNW', 'distanceKM': 4.5616213238446495}",
-      "version": null
-    },
-    {
-      "identifier": "us7000qd32",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1752706328.285,
-      "latitudeDeg": 36.4498,
-      "longitudeDeg": -112.3293,
-      "depthKm": 13.598,
-      "magnitude": 2.6,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
