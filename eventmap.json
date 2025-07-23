@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "24d2e2e4510a0981350437553a7746fd06776fc2",
+    "hashString": "1ff2d5586c36bf330413ecd90fd8a01d7cf33edb",
     "events": [
       {
         "identifier": "uu80111781",
@@ -1345,6 +1345,22 @@
           "town": "Pahaska Tepee, WY",
           "bearing": "NNW",
           "distanceKM": 15.30914885423488
+        }
+      },
+      {
+        "identifier": "uu80112406",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753228969.5099983,
+        "latitudeDeg": 39.50633333333333,
+        "longitudeDeg": -111.01683333333334,
+        "depthKM": 2.19,
+        "magnitude": 1.6300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hiawatha, UT",
+          "bearing": "N",
+          "distanceKM": 2.4786840577694775
         }
       },
       {
