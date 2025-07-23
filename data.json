@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-23T15:31:28Z",
+  "fetchedAt": "2025-07-23T17:47:14Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -1001,6 +1001,19 @@
       "magnitude": 1.28,
       "isLocal": true,
       "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'NNE', 'distanceKM': 12.951501765177955}",
+      "version": null
+    },
+    {
+      "identifier": "mb90103258",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753289994.52,
+      "latitudeDeg": 44.4336666666667,
+      "longitudeDeg": -112.7915,
+      "depthKm": 0.46,
+      "magnitude": 1.39,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
