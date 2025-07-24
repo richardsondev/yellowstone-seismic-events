@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-24T00:31:01Z",
+  "fetchedAt": "2025-07-24T09:31:34Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -601,19 +601,6 @@
       "version": null
     },
     {
-      "identifier": "uu80004033",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752138599.7599983,
-      "latitudeDeg": 41.5705,
-      "longitudeDeg": -112.89633333333333,
-      "depthKm": 4.2,
-      "magnitude": 0.9400000000000001,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lakeside, UT', 'bearing': 'N', 'distanceKM': 38.78316153804578}",
-      "version": null
-    },
-    {
       "identifier": "mb90102988",
       "authority": "MB",
       "eventType": "eq",
@@ -676,19 +663,6 @@
       "magnitude": 1.78,
       "isLocal": true,
       "nearestTown": "{'town': 'Littlefield, AZ', 'bearing': 'E', 'distanceKM': 23.344821799552918}",
-      "version": null
-    },
-    {
-      "identifier": "uu80111701",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752139444.6799998,
-      "latitudeDeg": 44.2435,
-      "longitudeDeg": -110.768,
-      "depthKm": 4.32,
-      "magnitude": 0.92,
-      "isLocal": true,
-      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 24.40927123300258}",
       "version": null
     },
     {
@@ -2081,6 +2055,32 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "1"
+    },
+    {
+      "identifier": "uu80111701",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752139444.0,
+      "latitudeDeg": 44.2435,
+      "longitudeDeg": -110.768,
+      "depthKm": 4.3,
+      "magnitude": 0.9,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80004033",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752138599.0,
+      "latitudeDeg": 41.5705,
+      "longitudeDeg": -112.8963,
+      "depthKm": 4.2,
+      "magnitude": 0.9,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
     },
     {
       "identifier": "nn00900637",
