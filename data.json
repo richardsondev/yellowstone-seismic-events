@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-23T23:06:39Z",
+  "fetchedAt": "2025-07-24T00:31:01Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -455,19 +455,6 @@
       "magnitude": 1.07,
       "isLocal": true,
       "nearestTown": "{'town': 'Lakeside, UT', 'bearing': 'N', 'distanceKM': 38.4030396294593}",
-      "version": null
-    },
-    {
-      "identifier": "uu80111696",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752107429.7699986,
-      "latitudeDeg": 38.054,
-      "longitudeDeg": -111.1505,
-      "depthKm": 15.54,
-      "magnitude": 2.64,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Grover, UT', 'bearing': 'SE', 'distanceKM': 26.5732059145243}",
       "version": null
     },
     {
@@ -2078,6 +2065,19 @@
       "longitudeDeg": -111.404,
       "depthKm": -0.6,
       "magnitude": 1.4,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80111696",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752107429.0,
+      "latitudeDeg": 38.054,
+      "longitudeDeg": -111.1505,
+      "depthKm": 15.5,
+      "magnitude": 2.6,
       "isLocal": null,
       "nearestTown": null,
       "version": "1"
