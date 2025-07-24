@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-24T10:48:23Z",
+  "fetchedAt": "2025-07-24T14:07:38Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -234,6 +234,19 @@
       "magnitude": 0.97,
       "isLocal": true,
       "nearestTown": "{'town': 'Springdale, UT', 'bearing': 'E', 'distanceKM': 10.993584903765466}",
+      "version": null
+    },
+    {
+      "identifier": "mb90103328",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753311441.29,
+      "latitudeDeg": 45.329,
+      "longitudeDeg": -112.603,
+      "depthKm": 8.53,
+      "magnitude": 1.25,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1277,19 +1290,6 @@
       "version": null
     },
     {
-      "identifier": "uu80111711",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752155793.7700005,
-      "latitudeDeg": 36.7925,
-      "longitudeDeg": -112.98916666666666,
-      "depthKm": 1.32,
-      "magnitude": 2.12,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Cane Beds, AZ', 'bearing': 'SSW', 'distanceKM': 18.974791333652416}",
-      "version": null
-    },
-    {
       "identifier": "uu80112171",
       "authority": "UU",
       "eventType": "eq",
@@ -2026,6 +2026,19 @@
       "longitudeDeg": -111.404,
       "depthKm": -0.6,
       "magnitude": 1.4,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
+    },
+    {
+      "identifier": "uu80111711",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752155793.0,
+      "latitudeDeg": 36.7925,
+      "longitudeDeg": -112.9892,
+      "depthKm": 1.3,
+      "magnitude": 2.1,
       "isLocal": null,
       "nearestTown": null,
       "version": "1"
