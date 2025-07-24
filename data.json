@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-24T14:48:19Z",
+  "fetchedAt": "2025-07-24T15:07:14Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -1326,6 +1326,19 @@
       "magnitude": 1.04,
       "isLocal": true,
       "nearestTown": "{'town': 'Mayfield, UT', 'bearing': 'E', 'distanceKM': 18.88372525076991}",
+      "version": null
+    },
+    {
+      "identifier": "mb90103348",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753315031.66,
+      "latitudeDeg": 44.8288333333333,
+      "longitudeDeg": -111.808333333333,
+      "depthKm": 7.74,
+      "magnitude": 0.09,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
