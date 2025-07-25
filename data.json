@@ -1,20 +1,7 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-25T15:31:08Z",
+  "fetchedAt": "2025-07-25T16:07:40Z",
   "events": [
-    {
-      "identifier": "uu80111781",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752249445.42,
-      "latitudeDeg": 41.772333333333336,
-      "longitudeDeg": -112.35233333333333,
-      "depthKm": 2.15,
-      "magnitude": 0.99,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Howell, UT', 'bearing': 'ESE', 'distanceKM': 8.074462400895012}",
-      "version": null
-    },
     {
       "identifier": "uu80004128",
       "authority": "UU",
@@ -991,6 +978,19 @@
       "version": null
     },
     {
+      "identifier": "uu80112476",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753326714.9799995,
+      "latitudeDeg": 38.783833333333334,
+      "longitudeDeg": -112.6,
+      "depthKm": 6.91,
+      "magnitude": 1.83,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hatton, UT', 'bearing': 'WSW', 'distanceKM': 13.635857165255981}",
+      "version": null
+    },
+    {
       "identifier": "uu80111826",
       "authority": "UU",
       "eventType": "eq",
@@ -1248,6 +1248,19 @@
       "magnitude": 1.1,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80112561",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753451915.9699974,
+      "latitudeDeg": 44.7495,
+      "longitudeDeg": -110.94,
+      "depthKm": 8.84,
+      "magnitude": 1.24,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 16.20603419993464}",
       "version": null
     },
     {
@@ -1961,6 +1974,19 @@
       "longitudeDeg": -112.3912,
       "depthKm": 1.1,
       "magnitude": 0.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80111781",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752249445.0,
+      "latitudeDeg": 41.7723,
+      "longitudeDeg": -112.3523,
+      "depthKm": 2.1,
+      "magnitude": 1.0,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
