@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1a91534767edae3859bb986714a04c3fbee69e96",
+    "hashString": "caa4cc0b5124bc289b5da7526cb05cfc1b462e18",
     "events": [
       {
         "identifier": "uu80111781",
@@ -44,18 +44,6 @@
         "longitudeDeg": -114.998833333333,
         "depthKM": 5.67,
         "magnitude": 1.68,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90102603",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1752840015.1000001,
-        "latitudeDeg": 43.1633333333333,
-        "longitudeDeg": -110.896333333333,
-        "depthKM": 5,
-        "magnitude": 2.05,
         "isLocal": false,
         "nearestTown": null
       },
@@ -262,22 +250,6 @@
         "magnitude": 1.25,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80111771",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1752234909.46,
-        "latitudeDeg": 39.41866666666667,
-        "longitudeDeg": -111.06583333333333,
-        "depthKM": 1.35,
-        "magnitude": 0.99,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hiawatha, UT",
-          "bearing": "SSW",
-          "distanceKM": 8.565490964385416
-        }
       },
       {
         "identifier": "uu80112416",
@@ -969,22 +941,6 @@
           "town": "Lake, WY",
           "bearing": "NE",
           "distanceKM": 8.714110672545061
-        }
-      },
-      {
-        "identifier": "uu80111776",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1752235507.9899998,
-        "latitudeDeg": 40.718666666666664,
-        "longitudeDeg": -112.07683333333334,
-        "depthKM": 8.38,
-        "magnitude": 0.5700000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Magna, UT",
-          "bearing": "ENE",
-          "distanceKM": 3.0485813516681635
         }
       },
       {
