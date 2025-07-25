@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0dcf802fa190799bd637c649dd4da5e31915196a",
+    "hashString": "8291d8c9b8c2fea56ccf75b2a032b0f14e461efb",
     "events": [
       {
         "identifier": "uu80111781",
@@ -806,6 +806,22 @@
         "magnitude": 1.74,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80112486",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753339849.5999985,
+        "latitudeDeg": 39.43983333333333,
+        "longitudeDeg": -111.048,
+        "depthKM": 1.47,
+        "magnitude": 1.08,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hiawatha, UT",
+          "bearing": "SSW",
+          "distanceKM": 5.75853865745985
+        }
       },
       {
         "identifier": "uu80004113",
