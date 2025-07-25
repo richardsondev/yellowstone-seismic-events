@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-24T22:47:08Z",
+  "fetchedAt": "2025-07-25T04:54:34Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -1186,19 +1186,6 @@
       "version": null
     },
     {
-      "identifier": "uu80111736",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752208708.2799988,
-      "latitudeDeg": 44.220333333333336,
-      "longitudeDeg": -110.76083333333334,
-      "depthKm": 4.37,
-      "magnitude": 2.66,
-      "isLocal": true,
-      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 26.15672814548129}",
-      "version": null
-    },
-    {
       "identifier": "uu80111861",
       "authority": "UU",
       "eventType": "eq",
@@ -1313,19 +1300,6 @@
       "magnitude": 1.92,
       "isLocal": true,
       "nearestTown": "{'town': 'Holbrook, ID', 'bearing': 'NNE', 'distanceKM': 7.727052206335872}",
-      "version": null
-    },
-    {
-      "identifier": "uu80111741",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752209218.1299973,
-      "latitudeDeg": 44.2295,
-      "longitudeDeg": -110.76316666666666,
-      "depthKm": 2.45,
-      "magnitude": 1.69,
-      "isLocal": true,
-      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 25.423729507233073}",
       "version": null
     },
     {
@@ -2029,6 +2003,32 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "4"
+    },
+    {
+      "identifier": "uu80111736",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752208708.0,
+      "latitudeDeg": 44.2203,
+      "longitudeDeg": -110.7608,
+      "depthKm": 4.4,
+      "magnitude": 2.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80111741",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752209218.0,
+      "latitudeDeg": 44.2295,
+      "longitudeDeg": -110.7632,
+      "depthKm": 2.5,
+      "magnitude": 1.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
     },
     {
       "identifier": "nn00900637",
