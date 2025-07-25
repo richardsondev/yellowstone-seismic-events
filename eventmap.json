@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8291d8c9b8c2fea56ccf75b2a032b0f14e461efb",
+    "hashString": "4ebd24b559746b909d44fc7ee4beba6fd2744828",
     "events": [
       {
         "identifier": "uu80111781",
@@ -33,6 +33,22 @@
           "town": "Genola, UT",
           "bearing": "NW",
           "distanceKM": 4.403602755176769
+        }
+      },
+      {
+        "identifier": "uu80112496",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753341945.039997,
+        "latitudeDeg": 39.008,
+        "longitudeDeg": -109.152,
+        "depthKM": 5.09,
+        "magnitude": 2.27,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Westwater, UT",
+          "bearing": "SSW",
+          "distanceKM": 9.730257358708364
         }
       },
       {
