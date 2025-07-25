@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-25T15:06:58Z",
+  "fetchedAt": "2025-07-25T15:31:08Z",
   "events": [
     {
       "identifier": "uu80111781",
@@ -26,6 +26,19 @@
       "magnitude": 0.63,
       "isLocal": true,
       "nearestTown": "{'town': 'Genola, UT', 'bearing': 'NW', 'distanceKM': 4.403602755176769}",
+      "version": null
+    },
+    {
+      "identifier": "uu80112496",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753341945.039997,
+      "latitudeDeg": 39.008,
+      "longitudeDeg": -109.152,
+      "depthKm": 5.09,
+      "magnitude": 2.27,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Westwater, UT', 'bearing': 'SSW', 'distanceKM': 9.730257358708364}",
       "version": null
     },
     {
