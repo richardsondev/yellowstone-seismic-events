@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-26T08:08:00Z",
+  "fetchedAt": "2025-07-26T08:48:08Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -312,19 +312,6 @@
       "magnitude": 1.81,
       "isLocal": true,
       "nearestTown": "{'town': 'Niter, ID', 'bearing': 'WSW', 'distanceKM': 10.99776198130384}",
-      "version": null
-    },
-    {
-      "identifier": "uu80004088",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752309796.7299995,
-      "latitudeDeg": 37.191833333333335,
-      "longitudeDeg": -113.4055,
-      "depthKm": 5.17,
-      "magnitude": 1.0,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Leeds, UT', 'bearing': 'SW', 'distanceKM': 6.627569227995745}",
       "version": null
     },
     {
@@ -2117,6 +2104,19 @@
       "longitudeDeg": -110.761,
       "depthKm": 2.1,
       "magnitude": 1.2,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80004088",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752309796.0,
+      "latitudeDeg": 37.1918,
+      "longitudeDeg": -113.4055,
+      "depthKm": 5.2,
+      "magnitude": 1.0,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
