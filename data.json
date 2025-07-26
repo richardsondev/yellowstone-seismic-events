@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-26T05:30:51Z",
+  "fetchedAt": "2025-07-26T08:08:00Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -1014,19 +1014,6 @@
       "magnitude": 1.83,
       "isLocal": true,
       "nearestTown": "{'town': 'Hatton, UT', 'bearing': 'WSW', 'distanceKM': 13.635857165255981}",
-      "version": null
-    },
-    {
-      "identifier": "uu80111826",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752307491.5,
-      "latitudeDeg": 44.63616666666667,
-      "longitudeDeg": -110.006,
-      "depthKm": 14.2,
-      "magnitude": 1.37,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Pahaska Tepee, WY', 'bearing': 'NNW', 'distanceKM': 15.30914885423488}",
       "version": null
     },
     {
@@ -2065,6 +2052,19 @@
       "longitudeDeg": -112.581,
       "depthKm": 1.7,
       "magnitude": 1.0,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80111826",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752307491.0,
+      "latitudeDeg": 44.6362,
+      "longitudeDeg": -110.006,
+      "depthKm": 14.2,
+      "magnitude": 1.4,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
