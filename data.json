@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-26T13:16:30Z",
+  "fetchedAt": "2025-07-26T14:46:28Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -988,19 +988,6 @@
       "magnitude": 1.6300000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'N', 'distanceKM': 2.4786840577694775}",
-      "version": null
-    },
-    {
-      "identifier": "uu80004073",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752331568.62,
-      "latitudeDeg": 39.378166666666665,
-      "longitudeDeg": -112.0985,
-      "depthKm": 12.74,
-      "magnitude": 0.72,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Mills, UT', 'bearing': 'SSW', 'distanceKM': 13.052856087509731}",
       "version": null
     },
     {
@@ -2091,6 +2078,19 @@
       "longitudeDeg": -112.6382,
       "depthKm": 2.7,
       "magnitude": 0.5,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80004073",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752331568.0,
+      "latitudeDeg": 39.3782,
+      "longitudeDeg": -112.0985,
+      "depthKm": 12.7,
+      "magnitude": 0.7,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
