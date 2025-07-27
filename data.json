@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-27T08:48:09Z",
+  "fetchedAt": "2025-07-27T09:30:01Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -728,19 +728,6 @@
       "magnitude": -0.07,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'WSW', 'distanceKM': 12.161177966966157}",
-      "version": null
-    },
-    {
-      "identifier": "uu80004068",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752398760.9,
-      "latitudeDeg": 37.560833333333335,
-      "longitudeDeg": -112.78333333333333,
-      "depthKm": 15.55,
-      "magnitude": 0.74,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Brian Head, UT', 'bearing': 'SSE', 'distanceKM': 15.831274272302105}",
       "version": null
     },
     {
@@ -2025,6 +2012,19 @@
       "latitudeDeg": 39.3782,
       "longitudeDeg": -112.0985,
       "depthKm": 12.7,
+      "magnitude": 0.7,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80004068",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752398760.0,
+      "latitudeDeg": 37.5608,
+      "longitudeDeg": -112.7833,
+      "depthKm": 15.6,
       "magnitude": 0.7,
       "isLocal": null,
       "nearestTown": null,
