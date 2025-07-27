@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-27T10:06:42Z",
+  "fetchedAt": "2025-07-27T11:26:44Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -601,19 +601,6 @@
       "version": null
     },
     {
-      "identifier": "uu80111866",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752405744.2299995,
-      "latitudeDeg": 44.64066666666667,
-      "longitudeDeg": -110.03683333333333,
-      "depthKm": 14.74,
-      "magnitude": 0.88,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Pahaska Tepee, WY', 'bearing': 'NNW', 'distanceKM': 16.480476793809384}",
-      "version": null
-    },
-    {
       "identifier": "uu80112096",
       "authority": "UU",
       "eventType": "eq",
@@ -936,19 +923,6 @@
       "magnitude": 1.44,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80111861",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752405404.6299973,
-      "latitudeDeg": 44.641666666666666,
-      "longitudeDeg": -110.03483333333334,
-      "depthKm": 14.26,
-      "magnitude": 0.75,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Pahaska Tepee, WY', 'bearing': 'NNW', 'distanceKM': 16.53069946748875}",
       "version": null
     },
     {
@@ -1948,6 +1922,32 @@
       "longitudeDeg": -110.761,
       "depthKm": 2.1,
       "magnitude": 1.2,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80111866",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752405744.0,
+      "latitudeDeg": 44.6407,
+      "longitudeDeg": -110.0368,
+      "depthKm": 14.7,
+      "magnitude": 0.9,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "2"
+    },
+    {
+      "identifier": "uu80111861",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752405404.0,
+      "latitudeDeg": 44.6417,
+      "longitudeDeg": -110.0348,
+      "depthKm": 14.3,
+      "magnitude": 0.8,
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
