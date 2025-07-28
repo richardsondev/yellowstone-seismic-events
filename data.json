@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-28T15:47:13Z",
+  "fetchedAt": "2025-07-28T16:08:03Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -50,6 +50,19 @@
       "longitudeDeg": -114.383166666667,
       "depthKm": 6.68,
       "magnitude": 1.68,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90103888",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753700218.94,
+      "latitudeDeg": 43.3865,
+      "longitudeDeg": -110.602333333333,
+      "depthKm": -2.5,
+      "magnitude": 1.22,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -247,6 +260,19 @@
       "magnitude": 1.81,
       "isLocal": true,
       "nearestTown": "{'town': 'Niter, ID', 'bearing': 'WSW', 'distanceKM': 10.99776198130384}",
+      "version": null
+    },
+    {
+      "identifier": "mb90103878",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753681770.22,
+      "latitudeDeg": 44.29,
+      "longitudeDeg": -115.1005,
+      "depthKm": 11.57,
+      "magnitude": 1.1,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
