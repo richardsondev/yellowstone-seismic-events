@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-28T06:32:57Z",
+  "fetchedAt": "2025-07-28T07:10:58Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -468,19 +468,6 @@
       "magnitude": 0.8200000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 24.563322444613988}",
-      "version": null
-    },
-    {
-      "identifier": "uu80004058",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752476733.3199997,
-      "latitudeDeg": 36.912333333333336,
-      "longitudeDeg": -113.671,
-      "depthKm": 21.58,
-      "magnitude": 1.78,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Littlefield, AZ', 'bearing': 'E', 'distanceKM': 23.344821799552918}",
       "version": null
     },
     {
@@ -1990,6 +1977,19 @@
       "isLocal": null,
       "nearestTown": null,
       "version": "2"
+    },
+    {
+      "identifier": "uu80004058",
+      "authority": "UU",
+      "eventType": "le",
+      "originTimeUtc": 1752476733.0,
+      "latitudeDeg": 36.9123,
+      "longitudeDeg": -113.671,
+      "depthKm": 21.6,
+      "magnitude": 1.8,
+      "isLocal": null,
+      "nearestTown": null,
+      "version": "1"
     },
     {
       "identifier": "uu80004088",
