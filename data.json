@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-28T21:45:45Z",
+  "fetchedAt": "2025-07-28T22:48:09Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -182,6 +182,19 @@
       "magnitude": 0.8200000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Springdale, UT', 'bearing': 'E', 'distanceKM': 11.451842706743399}",
+      "version": null
+    },
+    {
+      "identifier": "mb90104073",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753721820.8700001,
+      "latitudeDeg": 45.338,
+      "longitudeDeg": -112.5295,
+      "depthKm": 10.84,
+      "magnitude": 0.26,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -650,6 +663,19 @@
       "magnitude": 1.58,
       "isLocal": true,
       "nearestTown": "{'town': 'Verne, WY', 'bearing': 'SSE', 'distanceKM': 13.234127083091261}",
+      "version": null
+    },
+    {
+      "identifier": "uu80112716",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753740417.5299988,
+      "latitudeDeg": 38.5015,
+      "longitudeDeg": -112.89533333333333,
+      "depthKm": 1.74,
+      "magnitude": 1.32,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.374896934783932}",
       "version": null
     },
     {
