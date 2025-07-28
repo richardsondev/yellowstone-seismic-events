@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0181bc2f4f89c833d8c8e43e9cc44d6804a04ebc",
+    "hashString": "891969ba99b2f3dd3476d9d407354afc9fe402f5",
     "events": [
       {
         "identifier": "uu80004128",
@@ -1080,6 +1080,22 @@
         }
       },
       {
+        "identifier": "uu80004238",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753523849.2999992,
+        "latitudeDeg": 39.557833333333335,
+        "longitudeDeg": -111.1755,
+        "depthKM": 1.95,
+        "magnitude": 0.35000000000000003,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "S",
+          "distanceKM": 9.944040578798784
+        }
+      },
+      {
         "identifier": "mb90103223",
         "authority": "MB",
         "eventType": "eq",
@@ -1564,6 +1580,22 @@
         }
       },
       {
+        "identifier": "uu80004243",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753597559.8099976,
+        "latitudeDeg": 37.703,
+        "longitudeDeg": -113.21916666666667,
+        "depthKM": 9.91,
+        "magnitude": 0.89,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Iron Springs, UT",
+          "bearing": "SSE",
+          "distanceKM": 5.119590221775882
+        }
+      },
+      {
         "identifier": "mb90103283",
         "authority": "MB",
         "eventType": "eq",
@@ -1614,18 +1646,6 @@
           "bearing": "ESE",
           "distanceKM": 5.604997269476142
         }
-      },
-      {
-        "identifier": "mb90103103",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1753213049.6000001,
-        "latitudeDeg": 44.2825,
-        "longitudeDeg": -114.832,
-        "depthKM": 4.11,
-        "magnitude": 1.25,
-        "isLocal": false,
-        "nearestTown": null
       }
     ]
   },
