@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-28T15:07:45Z",
+  "fetchedAt": "2025-07-28T15:31:31Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -39,6 +39,19 @@
       "magnitude": 1.77,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 24.264473988841914}",
+      "version": null
+    },
+    {
+      "identifier": "mb90103853",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753668787.51,
+      "latitudeDeg": 44.2745,
+      "longitudeDeg": -114.383166666667,
+      "depthKm": 6.68,
+      "magnitude": 1.68,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1170,19 +1183,6 @@
       "magnitude": 1.25,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80112286",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1753083891.7299995,
-      "latitudeDeg": 40.3505,
-      "longitudeDeg": -111.908,
-      "depthKm": 7.91,
-      "magnitude": 0.49,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'WNW', 'distanceKM': 0.3274895440158419}",
       "version": null
     },
     {
