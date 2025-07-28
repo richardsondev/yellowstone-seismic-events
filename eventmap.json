@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "aa81f393f697f36d89ac729674a12188dcf01369",
+    "hashString": "0181bc2f4f89c833d8c8e43e9cc44d6804a04ebc",
     "events": [
       {
         "identifier": "uu80004128",
@@ -1421,6 +1421,22 @@
           "town": "Holbrook, ID",
           "bearing": "NNE",
           "distanceKM": 7.727052206335872
+        }
+      },
+      {
+        "identifier": "uu80004233",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753519355.6499977,
+        "latitudeDeg": 37.56166666666667,
+        "longitudeDeg": -113.04866666666666,
+        "depthKM": 12.95,
+        "magnitude": 0.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 10.637256100748631
         }
       },
       {
