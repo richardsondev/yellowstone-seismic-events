@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-28T17:30:36Z",
+  "fetchedAt": "2025-07-28T17:46:53Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -130,6 +130,19 @@
       "magnitude": 0.93,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 16.546349190043372}",
+      "version": null
+    },
+    {
+      "identifier": "mb90103758",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753603633.13,
+      "latitudeDeg": 44.7801666666667,
+      "longitudeDeg": -111.618833333333,
+      "depthKm": 10.33,
+      "magnitude": 0.75,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1066,6 +1079,19 @@
       "magnitude": 0.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Genola, UT', 'bearing': 'NNW', 'distanceKM': 4.5616213238446495}",
+      "version": null
+    },
+    {
+      "identifier": "mb90103763",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753605164.72,
+      "latitudeDeg": 44.7768333333333,
+      "longitudeDeg": -111.616666666667,
+      "depthKm": 10.78,
+      "magnitude": 0.74,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
