@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4fbcdbdde1f5a80ab7cc6169de83b524e6643990",
+    "hashString": "b0aa24634bd0f8691a68549958cf56209445d56a",
     "events": [
       {
         "identifier": "uu80004128",
@@ -697,6 +697,22 @@
           "town": "West Thumb, WY",
           "bearing": "SW",
           "distanceKM": 24.563322444613988
+        }
+      },
+      {
+        "identifier": "uu80112546",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753436575.619999,
+        "latitudeDeg": 41.4755,
+        "longitudeDeg": -110.00466666666667,
+        "depthKM": 41.46,
+        "magnitude": 1.58,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Verne, WY",
+          "bearing": "SSE",
+          "distanceKM": 13.234127083091261
         }
       },
       {
