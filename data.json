@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-28T17:46:53Z",
+  "fetchedAt": "2025-07-28T18:09:24Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -195,6 +195,19 @@
       "magnitude": 0.97,
       "isLocal": true,
       "nearestTown": "{'town': 'Springdale, UT', 'bearing': 'E', 'distanceKM': 10.993584903765466}",
+      "version": null
+    },
+    {
+      "identifier": "mb90103778",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753633136.98,
+      "latitudeDeg": 44.1946666666667,
+      "longitudeDeg": -114.564833333333,
+      "depthKm": 12.5,
+      "magnitude": 1.6,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -679,6 +692,19 @@
       "version": null
     },
     {
+      "identifier": "uu80004258",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753512128.79,
+      "latitudeDeg": 38.51733333333333,
+      "longitudeDeg": -112.89316666666667,
+      "depthKm": 1.81,
+      "magnitude": 1.01,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.8596809090507}",
+      "version": null
+    },
+    {
       "identifier": "uu80112486",
       "authority": "UU",
       "eventType": "eq",
@@ -1012,6 +1038,19 @@
       "longitudeDeg": -111.459333333333,
       "depthKm": 13.32,
       "magnitude": 0.89,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90103768",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753610353.29,
+      "latitudeDeg": 44.3415,
+      "longitudeDeg": -115.015,
+      "depthKm": 5.77,
+      "magnitude": 1.5,
       "isLocal": false,
       "nearestTown": null,
       "version": null
