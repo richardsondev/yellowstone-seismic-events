@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-28T16:50:37Z",
+  "fetchedAt": "2025-07-28T17:08:49Z",
   "events": [
     {
       "identifier": "uu80004128",
@@ -91,6 +91,19 @@
       "magnitude": 1.31,
       "isLocal": true,
       "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SW', 'distanceKM': 7.882071461160738}",
+      "version": null
+    },
+    {
+      "identifier": "mb90103733",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753591636.83,
+      "latitudeDeg": 44.7763333333333,
+      "longitudeDeg": -111.629166666667,
+      "depthKm": 14.66,
+      "magnitude": 0.5,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1207,6 +1220,19 @@
       "longitudeDeg": -111.022666666667,
       "depthKm": 16.17,
       "magnitude": 1.66,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90103683",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753569064.24,
+      "latitudeDeg": 44.2523333333333,
+      "longitudeDeg": -114.147833333333,
+      "depthKm": 3.94,
+      "magnitude": 1.58,
       "isLocal": false,
       "nearestTown": null,
       "version": null
