@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-29T14:49:36Z",
+  "fetchedAt": "2025-07-29T15:08:37Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -978,6 +978,19 @@
       "version": null
     },
     {
+      "identifier": "mb90104188",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753592473.17,
+      "latitudeDeg": 44.7748333333333,
+      "longitudeDeg": -111.6275,
+      "depthKm": 14.42,
+      "magnitude": 0.66,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80112671",
       "authority": "UU",
       "eventType": "eq",
@@ -1329,6 +1342,19 @@
       "version": null
     },
     {
+      "identifier": "mb90104183",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753592599.8700001,
+      "latitudeDeg": 44.7681666666667,
+      "longitudeDeg": -111.625333333333,
+      "depthKm": 13.09,
+      "magnitude": 0.75,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "mb90104138",
       "authority": "MB",
       "eventType": "eq",
@@ -1485,6 +1511,19 @@
       "version": null
     },
     {
+      "identifier": "mb90104198",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753578374.1200001,
+      "latitudeDeg": 44.8031666666667,
+      "longitudeDeg": -111.558333333333,
+      "depthKm": 12.28,
+      "magnitude": 0.26,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80004243",
       "authority": "UU",
       "eventType": "eq",
@@ -1508,6 +1547,19 @@
       "magnitude": 0.01,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80112736",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753793146.959999,
+      "latitudeDeg": 39.001666666666665,
+      "longitudeDeg": -111.39183333333334,
+      "depthKm": 11.53,
+      "magnitude": 0.89,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 15.147688391985614}",
       "version": null
     },
     {
