@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fbb6f033cc7a753af7b6c9221aecaaa1e385aa78",
+    "hashString": "cf33e5893e215f4fc904a1811f6b673ba275fa31",
     "events": [
       {
         "identifier": "mb90104098",
@@ -1492,6 +1492,18 @@
         }
       },
       {
+        "identifier": "mb90104243",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1753751517.64,
+        "latitudeDeg": 45.862,
+        "longitudeDeg": -111.58,
+        "depthKM": 13.82,
+        "magnitude": 0.31,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "mb90103473",
         "authority": "MB",
         "eventType": "eq",
@@ -1781,22 +1793,6 @@
           "town": "Westwater, UT",
           "bearing": "SW",
           "distanceKM": 7.550310630585517
-        }
-      },
-      {
-        "identifier": "uu80111956",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1752597301.8,
-        "latitudeDeg": 38.19683333333333,
-        "longitudeDeg": -114.07033333333334,
-        "depthKM": 6.08,
-        "magnitude": 2.38,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Ursine, NV",
-          "bearing": "NNE",
-          "distanceKM": 26.8403812766882
         }
       },
       {
