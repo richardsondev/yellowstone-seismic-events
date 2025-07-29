@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-29T14:31:31Z",
+  "fetchedAt": "2025-07-29T14:49:36Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -52,6 +52,19 @@
       "magnitude": 1.52,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 16.374466637724392}",
+      "version": null
+    },
+    {
+      "identifier": "uu80112731",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753787949.0199995,
+      "latitudeDeg": 44.772166666666664,
+      "longitudeDeg": -110.79416666666667,
+      "depthKm": 9.37,
+      "magnitude": 1.3900000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.83882934068968}",
       "version": null
     },
     {
