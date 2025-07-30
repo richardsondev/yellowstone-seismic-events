@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-30T22:06:55Z",
+  "fetchedAt": "2025-07-30T22:30:24Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -562,19 +562,6 @@
       "version": null
     },
     {
-      "identifier": "uu80112066",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752703835.0699997,
-      "latitudeDeg": 39.212,
-      "longitudeDeg": -111.63566666666667,
-      "depthKm": 19.27,
-      "magnitude": 1.87,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Sterling, UT', 'bearing': 'ENE', 'distanceKM': 5.299395760662395}",
-      "version": null
-    },
-    {
       "identifier": "uu80112141",
       "authority": "UU",
       "eventType": "eq",
@@ -728,6 +715,19 @@
       "magnitude": 1.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 23.570489906416096}",
+      "version": null
+    },
+    {
+      "identifier": "mb90104498",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753887913.81,
+      "latitudeDeg": 44.274,
+      "longitudeDeg": -114.381166666667,
+      "depthKm": 6.44,
+      "magnitude": 2.22,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1365,6 +1365,19 @@
       "magnitude": 0.31,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80112941",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753912738.1599998,
+      "latitudeDeg": 40.31033333333333,
+      "longitudeDeg": -111.3695,
+      "depthKm": 1.52,
+      "magnitude": 1.93,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Wallsburg, UT', 'bearing': 'SSE', 'distanceKM': 9.700742237838902}",
       "version": null
     },
     {
