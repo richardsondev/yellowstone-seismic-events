@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ef0df8fb570f566570d62b6e987336dc689e6f83",
+    "hashString": "8b8da657252b380aa943e49f0ef12666bd5437bc",
     "events": [
       {
         "identifier": "mb90104098",
@@ -616,22 +616,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80112066",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1752703835.0699997,
-        "latitudeDeg": 39.212,
-        "longitudeDeg": -111.63566666666667,
-        "depthKM": 19.27,
-        "magnitude": 1.87,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Sterling, UT",
-          "bearing": "ENE",
-          "distanceKM": 5.299395760662395
-        }
-      },
-      {
         "identifier": "uu80112141",
         "authority": "UU",
         "eventType": "eq",
@@ -806,6 +790,18 @@
           "bearing": "S",
           "distanceKM": 23.570489906416096
         }
+      },
+      {
+        "identifier": "mb90104498",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1753887913.81,
+        "latitudeDeg": 44.274,
+        "longitudeDeg": -114.381166666667,
+        "depthKM": 6.44,
+        "magnitude": 2.22,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80112256",
@@ -1550,6 +1546,22 @@
         "magnitude": 0.31,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80112941",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753912738.1599998,
+        "latitudeDeg": 40.31033333333333,
+        "longitudeDeg": -111.3695,
+        "depthKM": 1.52,
+        "magnitude": 1.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Wallsburg, UT",
+          "bearing": "SSE",
+          "distanceKM": 9.700742237838902
+        }
       },
       {
         "identifier": "mb90103473",
