@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-30T14:48:22Z",
+  "fetchedAt": "2025-07-30T15:31:26Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -1638,6 +1638,19 @@
       "magnitude": 1.84,
       "isLocal": true,
       "nearestTown": "{'town': 'Westwater, UT', 'bearing': 'SW', 'distanceKM': 7.550310630585517}",
+      "version": null
+    },
+    {
+      "identifier": "uu80112841",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753866435.9699993,
+      "latitudeDeg": 44.754333333333335,
+      "longitudeDeg": -110.93283333333333,
+      "depthKm": 8.42,
+      "magnitude": 0.8,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 16.981354713741922}",
       "version": null
     },
     {
