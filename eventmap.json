@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ac06858d9dd53e55ec3eca6c9111157dfcd48a6d",
+    "hashString": "49ba36d1b82fc326e0738174c66174553a3c6b31",
     "events": [
       {
         "identifier": "mb90104098",
@@ -1841,6 +1841,22 @@
           "town": "Westwater, UT",
           "bearing": "SW",
           "distanceKM": 7.550310630585517
+        }
+      },
+      {
+        "identifier": "uu80112841",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753866435.9699993,
+        "latitudeDeg": 44.754333333333335,
+        "longitudeDeg": -110.93283333333333,
+        "depthKM": 8.42,
+        "magnitude": 0.8,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "NE",
+          "distanceKM": 16.981354713741922
         }
       },
       {
