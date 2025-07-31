@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ec5df8b8d8f72ed44aae286c14c2e8ede093d951",
+    "hashString": "ec6ec826c7bfde85f33c49dcee1798ab6bbf161d",
     "events": [
       {
         "identifier": "mb90104098",
@@ -1753,6 +1753,22 @@
           "town": "Genola, UT",
           "bearing": "NNW",
           "distanceKM": 4.5616213238446495
+        }
+      },
+      {
+        "identifier": "uu80112976",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753967609.7999992,
+        "latitudeDeg": 44.75533333333333,
+        "longitudeDeg": -110.77883333333334,
+        "depthKM": 5.47,
+        "magnitude": 1.44,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 25.32072636892973
         }
       },
       {
