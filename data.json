@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-31T16:08:12Z",
+  "fetchedAt": "2025-07-31T16:49:38Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -546,6 +546,19 @@
       "magnitude": 1.31,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SSE', 'distanceKM': 10.297312732734955}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004283",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753949685.9699974,
+      "latitudeDeg": 39.51566666666667,
+      "longitudeDeg": -111.90533333333333,
+      "depthKm": 4.18,
+      "magnitude": 1.1500000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Levan, UT', 'bearing': 'SW', 'distanceKM': 6.055045268329335}",
       "version": null
     },
     {
