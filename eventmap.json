@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3327d223d427bf14dd8341091cdf098e3eb5aeb9",
+    "hashString": "ec5df8b8d8f72ed44aae286c14c2e8ede093d951",
     "events": [
       {
         "identifier": "mb90104098",
@@ -453,6 +453,22 @@
           "town": "Springdale, UT",
           "bearing": "E",
           "distanceKM": 11.451842706743399
+        }
+      },
+      {
+        "identifier": "uu80004288",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753957431.2999992,
+        "latitudeDeg": 39.63933333333333,
+        "longitudeDeg": -111.254,
+        "depthKM": -2.23,
+        "magnitude": 0.61,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "W",
+          "distanceKM": 8.600203662513492
         }
       },
       {
@@ -1230,6 +1246,22 @@
         "magnitude": 1.8,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80004293",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753959306.29,
+        "latitudeDeg": 40.493833333333335,
+        "longitudeDeg": -111.51683333333334,
+        "depthKM": 0.95,
+        "magnitude": 0.15,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Midway, UT",
+          "bearing": "WSW",
+          "distanceKM": 4.135620392537639
+        }
       },
       {
         "identifier": "uu80004113",
