@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-31T15:07:24Z",
+  "fetchedAt": "2025-07-31T16:08:12Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -336,6 +336,32 @@
       "longitudeDeg": -112.286333333333,
       "depthKm": 3.38,
       "magnitude": 0.75,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80112971",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1753948388.9499998,
+      "latitudeDeg": 37.16166666666667,
+      "longitudeDeg": -113.51016666666666,
+      "depthKm": 8.51,
+      "magnitude": 1.51,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Washington, UT', 'bearing': 'N', 'distanceKM': 3.4695222848594813}",
+      "version": null
+    },
+    {
+      "identifier": "mb90104758",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753970594.31,
+      "latitudeDeg": 44.2001666666667,
+      "longitudeDeg": -115.0895,
+      "depthKm": 9.51,
+      "magnitude": 1.12,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1766,19 +1792,6 @@
       "longitudeDeg": -111.022666666667,
       "depthKm": 16.17,
       "magnitude": 1.66,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "mb90103683",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1753569064.24,
-      "latitudeDeg": 44.2523333333333,
-      "longitudeDeg": -114.147833333333,
-      "depthKm": 3.94,
-      "magnitude": 1.58,
       "isLocal": false,
       "nearestTown": null,
       "version": null
