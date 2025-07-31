@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-07-31T20:07:32Z",
+  "fetchedAt": "2025-07-31T21:29:29Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -848,6 +848,19 @@
       "version": null
     },
     {
+      "identifier": "mb90104828",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753958903.22,
+      "latitudeDeg": 44.8655,
+      "longitudeDeg": -111.4845,
+      "depthKm": 11.18,
+      "magnitude": 0.31,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80004178",
       "authority": "UU",
       "eventType": "eq",
@@ -1511,6 +1524,19 @@
       "version": null
     },
     {
+      "identifier": "mb90104833",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753977983.1000001,
+      "latitudeDeg": 44.9261666666667,
+      "longitudeDeg": -111.497333333333,
+      "depthKm": 10.44,
+      "magnitude": 0.28,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80112171",
       "authority": "UU",
       "eventType": "eq",
@@ -1521,6 +1547,19 @@
       "magnitude": 1.41,
       "isLocal": true,
       "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'NW', 'distanceKM': 2.742279440844917}",
+      "version": null
+    },
+    {
+      "identifier": "mb90104823",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1753944437.88,
+      "latitudeDeg": 44.8628333333333,
+      "longitudeDeg": -111.483666666667,
+      "depthKm": 10.59,
+      "magnitude": 0.09,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
