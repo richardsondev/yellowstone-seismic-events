@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2e375bc9d57f9a083cce4df84f5855f56dd2de83",
+    "hashString": "3327d223d427bf14dd8341091cdf098e3eb5aeb9",
     "events": [
       {
         "identifier": "mb90104098",
@@ -597,6 +597,22 @@
           "town": "West Thumb, WY",
           "bearing": "SSE",
           "distanceKM": 10.297312732734955
+        }
+      },
+      {
+        "identifier": "uu80004283",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753949685.9699974,
+        "latitudeDeg": 39.51566666666667,
+        "longitudeDeg": -111.90533333333333,
+        "depthKM": 4.18,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Levan, UT",
+          "bearing": "SW",
+          "distanceKM": 6.055045268329335
         }
       },
       {
