@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-01T08:09:46Z",
+  "fetchedAt": "2025-08-01T08:49:45Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -663,6 +663,19 @@
       "magnitude": 1.3900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Westwater, UT', 'bearing': 'WSW', 'distanceKM': 11.261946070650481}",
+      "version": null
+    },
+    {
+      "identifier": "nn00901865",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1754037670.073,
+      "latitudeDeg": 36.903,
+      "longitudeDeg": -114.589,
+      "depthKm": 13.7,
+      "magnitude": 1.5,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
