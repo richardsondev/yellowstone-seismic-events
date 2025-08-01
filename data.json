@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-01T14:48:08Z",
+  "fetchedAt": "2025-08-01T15:07:23Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -887,19 +887,6 @@
       "version": null
     },
     {
-      "identifier": "uu80112156",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1752850249.3400002,
-      "latitudeDeg": 44.63766666666667,
-      "longitudeDeg": -110.35433333333333,
-      "depthKm": 6.16,
-      "magnitude": 0.63,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 10.316335643436735}",
-      "version": null
-    },
-    {
       "identifier": "mb90104213",
       "authority": "MB",
       "eventType": "eq",
@@ -1212,6 +1199,19 @@
       "version": null
     },
     {
+      "identifier": "uu80113031",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754037238.9699974,
+      "latitudeDeg": 40.467333333333336,
+      "longitudeDeg": -111.941,
+      "depthKm": 7.47,
+      "magnitude": 0.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Bluffdale, UT', 'bearing': 'S', 'distanceKM': 2.494011089556455}",
+      "version": null
+    },
+    {
       "identifier": "uu80112851",
       "authority": "UU",
       "eventType": "eq",
@@ -1365,6 +1365,19 @@
       "magnitude": 0.35000000000000003,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'S', 'distanceKM': 9.944040578798784}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113046",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754041970.289997,
+      "latitudeDeg": 37.05016666666667,
+      "longitudeDeg": -112.90466666666667,
+      "depthKm": 11.68,
+      "magnitude": 2.33,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 7.571852701230736}",
       "version": null
     },
     {
