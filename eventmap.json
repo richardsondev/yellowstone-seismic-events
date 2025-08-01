@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4f7b3eaed7c74f4081caea3d428f81fe38b89f5a",
+    "hashString": "325cc5dd4122a9926c8193f5ff255c2a0d0fe7ab",
     "events": [
       {
         "identifier": "mb90104098",
@@ -972,22 +972,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80112156",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1752850249.3400002,
-        "latitudeDeg": 44.63766666666667,
-        "longitudeDeg": -110.35433333333333,
-        "depthKM": 6.16,
-        "magnitude": 0.63,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "NNE",
-          "distanceKM": 10.316335643436735
-        }
-      },
-      {
         "identifier": "mb90104213",
         "authority": "MB",
         "eventType": "eq",
@@ -1344,6 +1328,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80113031",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754037238.9699974,
+        "latitudeDeg": 40.467333333333336,
+        "longitudeDeg": -111.941,
+        "depthKM": 7.47,
+        "magnitude": 0.53,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Bluffdale, UT",
+          "bearing": "S",
+          "distanceKM": 2.494011089556455
+        }
+      },
+      {
         "identifier": "uu80112851",
         "authority": "UU",
         "eventType": "eq",
@@ -1525,6 +1525,22 @@
           "town": "Clear Creek, UT",
           "bearing": "S",
           "distanceKM": 9.944040578798784
+        }
+      },
+      {
+        "identifier": "uu80113046",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754041970.289997,
+        "latitudeDeg": 37.05016666666667,
+        "longitudeDeg": -112.90466666666667,
+        "depthKM": 11.68,
+        "magnitude": 2.33,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 7.571852701230736
         }
       },
       {
