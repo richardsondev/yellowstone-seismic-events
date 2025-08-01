@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c81a51e5c8146a9e6f2420d0d8904c39c1eee07f",
+    "hashString": "0d3b5b7e6c03bf8fd0a07c0bb9de309a8fc06c93",
     "events": [
       {
         "identifier": "mb90104098",
@@ -690,6 +690,22 @@
         "magnitude": 0.92,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80004298",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754042730.5599995,
+        "latitudeDeg": 37.05166666666667,
+        "longitudeDeg": -112.89216666666667,
+        "depthKM": 12.39,
+        "magnitude": -0.02,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 8.519357858547806
+        }
       },
       {
         "identifier": "uu80112361",
