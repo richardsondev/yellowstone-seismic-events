@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-01T02:02:46Z",
+  "fetchedAt": "2025-08-01T03:59:17Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -1365,6 +1365,19 @@
       "magnitude": 1.54,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 14.546386861853012}",
+      "version": null
+    },
+    {
+      "identifier": "nn00901847",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1754018505.512,
+      "latitudeDeg": 36.9404,
+      "longitudeDeg": -114.5416,
+      "depthKm": 4.9,
+      "magnitude": 1.1,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
