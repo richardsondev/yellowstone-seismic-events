@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-01T03:59:17Z",
+  "fetchedAt": "2025-08-01T04:31:27Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -858,6 +858,19 @@
       "magnitude": 0.8300000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Mount Carmel, UT', 'bearing': 'WNW', 'distanceKM': 9.809963173808086}",
+      "version": null
+    },
+    {
+      "identifier": "nn00901848",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1754019892.437,
+      "latitudeDeg": 36.9305,
+      "longitudeDeg": -115.2189,
+      "depthKm": 0.3,
+      "magnitude": 0.2,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
