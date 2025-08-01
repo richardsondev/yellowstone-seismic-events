@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-01T17:08:40Z",
+  "fetchedAt": "2025-08-01T17:30:46Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -598,6 +598,19 @@
       "magnitude": 0.78,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NE', 'distanceKM': 15.012911580892759}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004303",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754042072.5599976,
+      "latitudeDeg": 37.3235,
+      "longitudeDeg": -113.82833333333333,
+      "depthKm": 2.84,
+      "magnitude": 1.47,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Gunlock, UT', 'bearing': 'NW', 'distanceKM': 6.6766874670030045}",
       "version": null
     },
     {
@@ -1326,19 +1339,6 @@
       "magnitude": 1.01,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 25.9451116033199}",
-      "version": null
-    },
-    {
-      "identifier": "nn00901898",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1754057887.359,
-      "latitudeDeg": 37.3212,
-      "longitudeDeg": -113.8193,
-      "depthKm": 2.8,
-      "magnitude": 1.5,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
