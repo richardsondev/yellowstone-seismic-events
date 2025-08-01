@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-01T13:34:01Z",
+  "fetchedAt": "2025-08-01T14:30:53Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -1768,6 +1768,19 @@
       "magnitude": 1.24,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 16.20603419993464}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113026",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754028486.0099998,
+      "latitudeDeg": 41.87716666666667,
+      "longitudeDeg": -111.5305,
+      "depthKm": 0.5,
+      "magnitude": 0.66,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Garden City, UT', 'bearing': 'SW', 'distanceKM': 13.73463611584672}",
       "version": null
     },
     {
