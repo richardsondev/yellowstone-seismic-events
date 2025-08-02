@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8cb5dfeb6a4959a777e9926934a0947d321f8c7c",
+    "hashString": "518f3499a0a80ba40196ef8f6b94d9c88f48025b",
     "events": [
       {
         "identifier": "mb90104098",
@@ -948,34 +948,6 @@
         "longitudeDeg": -111.4845,
         "depthKM": 11.18,
         "magnitude": 0.31,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "uu80004178",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1752905252.2999992,
-        "latitudeDeg": 37.291,
-        "longitudeDeg": -112.76283333333333,
-        "depthKM": 18.47,
-        "magnitude": 0.8300000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mount Carmel, UT",
-          "bearing": "WNW",
-          "distanceKM": 9.809963173808086
-        }
-      },
-      {
-        "identifier": "mb90104213",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1753508940,
-        "latitudeDeg": 45.5578333333333,
-        "longitudeDeg": -111.035,
-        "depthKM": 15.09,
-        "magnitude": 0.86,
         "isLocal": false,
         "nearestTown": null
       },
