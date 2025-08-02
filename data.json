@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-02T00:30:01Z",
+  "fetchedAt": "2025-08-02T02:59:11Z",
   "events": [
     {
       "identifier": "mb90104098",
@@ -507,19 +507,6 @@
       "magnitude": 1.3900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'East Carbon, UT', 'bearing': 'NW', 'distanceKM': 20.750481116859156}",
-      "version": null
-    },
-    {
-      "identifier": "mb90103558",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1753495981.23,
-      "latitudeDeg": 43.5636666666667,
-      "longitudeDeg": -110.390166666667,
-      "depthKm": 1.79,
-      "magnitude": 0.83,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -1807,6 +1794,19 @@
       "magnitude": 0.66,
       "isLocal": true,
       "nearestTown": "{'town': 'Garden City, UT', 'bearing': 'SW', 'distanceKM': 13.73463611584672}",
+      "version": null
+    },
+    {
+      "identifier": "nn00901947",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1754100943.335,
+      "latitudeDeg": 36.4031,
+      "longitudeDeg": -114.9297,
+      "depthKm": 0.0,
+      "magnitude": 2.3,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
