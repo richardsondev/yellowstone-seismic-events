@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6c3d87984e5f388758c59a39a30feda3dc77a1f8",
+    "hashString": "15eb20e2f703fdb6f887193e2755c1aec17605b4",
     "events": [
       {
         "identifier": "mb90104098",
@@ -836,22 +836,6 @@
         }
       },
       {
-        "identifier": "uu80004168",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1752989006.3599987,
-        "latitudeDeg": 39.42483333333333,
-        "longitudeDeg": -110.31683333333334,
-        "depthKM": -1.7,
-        "magnitude": 0.6900000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Columbia, UT",
-          "bearing": "SSE",
-          "distanceKM": 11.73279616343318
-        }
-      },
-      {
         "identifier": "uu80112376",
         "authority": "UU",
         "eventType": "eq",
@@ -1588,18 +1572,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "mb90103738",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1753593404.64,
-        "latitudeDeg": 44.774,
-        "longitudeDeg": -111.629166666667,
-        "depthKM": 13.99,
-        "magnitude": 0.55,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80004223",
         "authority": "UU",
         "eventType": "eq",
@@ -1614,18 +1586,6 @@
           "bearing": "NE",
           "distanceKM": 15.905978678712286
         }
-      },
-      {
-        "identifier": "mb90104183",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1753592599.8700001,
-        "latitudeDeg": 44.7681666666667,
-        "longitudeDeg": -111.625333333333,
-        "depthKM": 13.09,
-        "magnitude": 0.75,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "mb90104138",
@@ -1854,18 +1814,6 @@
           "bearing": "NW",
           "distanceKM": 15.655884035396278
         }
-      },
-      {
-        "identifier": "mb90103563",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1753507872.8400002,
-        "latitudeDeg": 45.5598333333333,
-        "longitudeDeg": -111.022666666667,
-        "depthKM": 16.17,
-        "magnitude": 1.66,
-        "isLocal": false,
-        "nearestTown": null
       }
     ]
   },
