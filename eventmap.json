@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5b0f7bb32bbc741ce9f41af1283e60db3b5641ed",
+    "hashString": "b79bb00f6112bedc8b5aa1589e7094ce5acd7542",
     "events": [
       {
         "identifier": "mb90104098",
@@ -1848,18 +1848,6 @@
         }
       },
       {
-        "identifier": "mb90104198",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1753578374.1200001,
-        "latitudeDeg": 44.8031666666667,
-        "longitudeDeg": -111.558333333333,
-        "depthKM": 12.28,
-        "magnitude": 0.26,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80004243",
         "authority": "UU",
         "eventType": "eq",
@@ -1873,6 +1861,22 @@
           "town": "Iron Springs, UT",
           "bearing": "SSE",
           "distanceKM": 5.119590221775882
+        }
+      },
+      {
+        "identifier": "uu80112736",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1753793147.119999,
+        "latitudeDeg": 39.005,
+        "longitudeDeg": -111.396,
+        "depthKM": 7.13,
+        "magnitude": 0.89,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "NW",
+          "distanceKM": 15.655884035396278
         }
       }
     ]
