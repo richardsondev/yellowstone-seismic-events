@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "90bc369ee4ea8698d4d106e6aaa65fa5c6bb60f7",
+    "hashString": "32241d5f1a7117e75028dbe38012097661f8d9f4",
     "events": [
       {
         "identifier": "uu80112741",
@@ -429,6 +429,22 @@
           "town": "East Carbon, UT",
           "bearing": "NW",
           "distanceKM": 20.750481116859156
+        }
+      },
+      {
+        "identifier": "uu80004338",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754236351.8999996,
+        "latitudeDeg": 41.31066666666667,
+        "longitudeDeg": -111.71716666666667,
+        "depthKM": 8.44,
+        "magnitude": 0.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Huntsville, UT",
+          "bearing": "NE",
+          "distanceKM": 7.082384164682258
         }
       },
       {
@@ -1077,6 +1093,22 @@
           "town": "Gunlock, UT",
           "bearing": "WNW",
           "distanceKM": 5.996860024810349
+        }
+      },
+      {
+        "identifier": "uu80113206",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754236422.9899979,
+        "latitudeDeg": 41.31516666666667,
+        "longitudeDeg": -111.7135,
+        "depthKM": 9.6,
+        "magnitude": 1.51,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Huntsville, UT",
+          "bearing": "NE",
+          "distanceKM": 7.664970710280704
         }
       },
       {
