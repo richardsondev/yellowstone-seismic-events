@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7435cf4a5188c3e94c35ee621ef97f09e5047601",
+    "hashString": "a14a8f7470d7e2b5e8fffaff1cc1d0753a20eb46",
     "events": [
       {
         "identifier": "uu80112741",
@@ -988,6 +988,22 @@
         }
       },
       {
+        "identifier": "uu80004323",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754192008.3999996,
+        "latitudeDeg": 41.0985,
+        "longitudeDeg": -111.56883333333333,
+        "depthKM": 8.58,
+        "magnitude": 0.77,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Devils Slide, UT",
+          "bearing": "NNW",
+          "distanceKM": 4.3798950460016695
+        }
+      },
+      {
         "identifier": "mb90104693",
         "authority": "MB",
         "eventType": "eq",
@@ -1289,6 +1305,22 @@
           "town": "Hiawatha, UT",
           "bearing": "N",
           "distanceKM": 2.4786840577694775
+        }
+      },
+      {
+        "identifier": "uu80004348",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754239736.6899986,
+        "latitudeDeg": 41.30533333333333,
+        "longitudeDeg": -111.71316666666667,
+        "depthKM": 6.75,
+        "magnitude": 0.99,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Huntsville, UT",
+          "bearing": "NE",
+          "distanceKM": 6.855211500849071
         }
       },
       {
