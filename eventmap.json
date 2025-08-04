@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e3487f076d19d7ee38e0dac7ded99939df6abe81",
+    "hashString": "1c0494364cc0e0e44f12164afbbf28d205ce941e",
     "events": [
       {
         "identifier": "uu80112741",
@@ -725,6 +725,22 @@
           "town": "Verne, WY",
           "bearing": "SSE",
           "distanceKM": 13.234127083091261
+        }
+      },
+      {
+        "identifier": "uu80113181",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754205265.2399998,
+        "latitudeDeg": 44.75033333333333,
+        "longitudeDeg": -111.17466666666667,
+        "depthKM": 7.19,
+        "magnitude": 0.68,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "SSE",
+          "distanceKM": 5.828646979723728
         }
       },
       {
