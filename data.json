@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-04T17:31:16Z",
+  "fetchedAt": "2025-08-04T18:32:45Z",
   "events": [
     {
       "identifier": "uu80112741",
@@ -1235,6 +1235,19 @@
       "magnitude": 0.28,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80113261",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754326764.5900002,
+      "latitudeDeg": 38.51133333333333,
+      "longitudeDeg": -112.4225,
+      "depthKm": 11.46,
+      "magnitude": 2.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Sulphurdale, UT', 'bearing': 'ESE', 'distanceKM': 15.00054751412638}",
       "version": null
     },
     {
