@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-04T13:34:52Z",
+  "fetchedAt": "2025-08-04T13:53:58Z",
   "events": [
     {
       "identifier": "uu80112741",
@@ -1170,6 +1170,19 @@
       "magnitude": 1.89,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80113201",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754234487.0699997,
+      "latitudeDeg": 44.747,
+      "longitudeDeg": -111.1795,
+      "depthKm": 8.09,
+      "magnitude": 1.37,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'S', 'distanceKM': 6.11350301730467}",
       "version": null
     },
     {
