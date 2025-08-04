@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a14a8f7470d7e2b5e8fffaff1cc1d0753a20eb46",
+    "hashString": "cadb02fd89792d44b192eb20f82523987991a552",
     "events": [
       {
         "identifier": "uu80112741",
@@ -792,6 +792,22 @@
         }
       },
       {
+        "identifier": "uu80004328",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754218175.4199982,
+        "latitudeDeg": 39.49616666666667,
+        "longitudeDeg": -110.99616666666667,
+        "depthKM": 1.45,
+        "magnitude": 0.66,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hiawatha, UT",
+          "bearing": "NE",
+          "distanceKM": 1.9893605681338713
+        }
+      },
+      {
         "identifier": "uu80112716",
         "authority": "UU",
         "eventType": "eq",
@@ -1229,6 +1245,22 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 7.571852701230736
+        }
+      },
+      {
+        "identifier": "uu80004333",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754219316.5999985,
+        "latitudeDeg": 39.50033333333333,
+        "longitudeDeg": -111.00783333333334,
+        "depthKM": 1.67,
+        "magnitude": 0.72,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hiawatha, UT",
+          "bearing": "NNE",
+          "distanceKM": 1.856451871222277
         }
       },
       {
