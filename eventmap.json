@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "655e4ea2796bea612634d4c70ec357907f083e57",
+    "hashString": "0abb5502a85f57d1ac1563f856f5f6f2895db7b5",
     "events": [
       {
         "identifier": "uu80112741",
@@ -581,6 +581,22 @@
           "town": "Corinne, UT",
           "bearing": "SSW",
           "distanceKM": 8.02651969610671
+        }
+      },
+      {
+        "identifier": "uu80113316",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754420152.039997,
+        "latitudeDeg": 44.73883333333333,
+        "longitudeDeg": -110.779,
+        "depthKM": 4.94,
+        "magnitude": 1.53,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "ENE",
+          "distanceKM": 27.07440691291914
         }
       },
       {

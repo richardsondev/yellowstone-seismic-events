@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-05T17:30:12Z",
+  "fetchedAt": "2025-08-05T19:29:15Z",
   "events": [
     {
       "identifier": "uu80112741",
@@ -494,6 +494,19 @@
       "magnitude": 1.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SSW', 'distanceKM': 8.02651969610671}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113316",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754420152.039997,
+      "latitudeDeg": 44.73883333333333,
+      "longitudeDeg": -110.779,
+      "depthKm": 4.94,
+      "magnitude": 1.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 27.07440691291914}",
       "version": null
     },
     {
