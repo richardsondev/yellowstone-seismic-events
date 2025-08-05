@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-05T11:06:59Z",
+  "fetchedAt": "2025-08-05T13:34:49Z",
   "events": [
     {
       "identifier": "uu80112741",
@@ -403,6 +403,19 @@
       "magnitude": -0.02,
       "isLocal": true,
       "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 8.519357858547806}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113291",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754360872.6499977,
+      "latitudeDeg": 44.662333333333336,
+      "longitudeDeg": -110.45633333333333,
+      "depthKm": 3.94,
+      "magnitude": 1.4000000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 13.116080856942956}",
       "version": null
     },
     {
