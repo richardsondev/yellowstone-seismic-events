@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "91834847d66e0ae2abce58586cf8827c910555ef",
+    "hashString": "190ba49c05056950d2a23a60a2085a60d9fb86a9",
     "events": [
       {
         "identifier": "mb90105573",
@@ -985,6 +985,22 @@
           "town": "Emery, UT",
           "bearing": "WNW",
           "distanceKM": 16.102957069439437
+        }
+      },
+      {
+        "identifier": "uu80113376",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754494950.8899994,
+        "latitudeDeg": 39.63066666666667,
+        "longitudeDeg": -111.25483333333334,
+        "depthKM": -3.49,
+        "magnitude": 1.31,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "W",
+          "distanceKM": 8.803082990968216
         }
       },
       {
