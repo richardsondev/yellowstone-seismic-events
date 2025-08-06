@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-06T13:54:11Z",
+  "fetchedAt": "2025-08-06T15:31:36Z",
   "events": [
     {
       "identifier": "uu80112741",
@@ -429,19 +429,6 @@
       "magnitude": 0.65,
       "isLocal": true,
       "nearestTown": "{'town': 'Mink Creek, ID', 'bearing': 'ESE', 'distanceKM': 12.644968466609974}",
-      "version": null
-    },
-    {
-      "identifier": "mb90104498",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1753887913.81,
-      "latitudeDeg": 44.274,
-      "longitudeDeg": -114.381166666667,
-      "depthKm": 6.44,
-      "magnitude": 2.22,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -923,6 +910,19 @@
       "magnitude": 1.54,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 14.546386861853012}",
+      "version": null
+    },
+    {
+      "identifier": "mb90105538",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754101681.98,
+      "latitudeDeg": 45.6316666666667,
+      "longitudeDeg": -111.887333333333,
+      "depthKm": 6.52,
+      "magnitude": 1.1,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
