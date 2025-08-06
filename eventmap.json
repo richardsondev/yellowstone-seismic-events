@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "79c44c3c0034c0ad664fa2f7abe081ca9644b962",
+    "hashString": "4b004522b2a6267a7eb8eef10b02fcb7ce507372",
     "events": [
       {
         "identifier": "uu80112741",
@@ -305,6 +305,22 @@
           "town": "Hamiltons Fort, UT",
           "bearing": "SE",
           "distanceKM": 10.209114896184058
+        }
+      },
+      {
+        "identifier": "uu80113351",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754445988.709999,
+        "latitudeDeg": 44.7685,
+        "longitudeDeg": -110.92466666666667,
+        "depthKM": 7.66,
+        "magnitude": 0.91,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "NE",
+          "distanceKM": 18.466084560611236
         }
       },
       {
