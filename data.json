@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-06T21:06:31Z",
+  "fetchedAt": "2025-08-06T21:28:29Z",
   "events": [
     {
       "identifier": "mb90105573",
@@ -247,19 +247,6 @@
       "magnitude": 1.22,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 22.22669751899109}",
-      "version": null
-    },
-    {
-      "identifier": "mb90104528",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1753909441.1200001,
-      "latitudeDeg": 45.8843333333333,
-      "longitudeDeg": -112.286333333333,
-      "depthKm": 3.38,
-      "magnitude": 0.75,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -988,6 +975,19 @@
       "magnitude": 2.33,
       "isLocal": true,
       "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 7.571852701230736}",
+      "version": null
+    },
+    {
+      "identifier": "mb90106003",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754393723.8600001,
+      "latitudeDeg": 45.3696666666667,
+      "longitudeDeg": -112.639833333333,
+      "depthKm": 7.61,
+      "magnitude": 0.26,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
