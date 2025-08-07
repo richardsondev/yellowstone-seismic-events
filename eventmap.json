@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7d7239ec63f9481c5b88de9062554df80ed2ce52",
+    "hashString": "8d51e32e373dbbf49bfceed3a92dfb595de80cfa",
     "events": [
       {
         "identifier": "mb90105573",
@@ -429,6 +429,22 @@
           "town": "Levan, UT",
           "bearing": "SW",
           "distanceKM": 6.055045268329335
+        }
+      },
+      {
+        "identifier": "uu80113421",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754555555.209999,
+        "latitudeDeg": 44.6075,
+        "longitudeDeg": -110.43733333333333,
+        "depthKM": 5.83,
+        "magnitude": 0.49,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NNW",
+          "distanceKM": 6.893506993194262
         }
       },
       {
