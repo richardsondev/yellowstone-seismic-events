@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-07T20:47:02Z",
+  "fetchedAt": "2025-08-07T21:05:46Z",
   "events": [
     {
       "identifier": "mb90105573",
@@ -185,6 +185,19 @@
       "version": null
     },
     {
+      "identifier": "mb90106198",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754149229.79,
+      "latitudeDeg": 44.849,
+      "longitudeDeg": -111.512,
+      "depthKm": 7.25,
+      "magnitude": 0.5,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80112606",
       "authority": "UU",
       "eventType": "eq",
@@ -351,6 +364,19 @@
       "magnitude": 0.98,
       "isLocal": true,
       "nearestTown": "{'town': 'Huntsville, UT', 'bearing': 'NE', 'distanceKM': 7.082384164682258}",
+      "version": null
+    },
+    {
+      "identifier": "mb90106213",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754219592.28,
+      "latitudeDeg": 44.862,
+      "longitudeDeg": -111.487666666667,
+      "depthKm": 10.77,
+      "magnitude": 0.31,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -557,6 +583,19 @@
       "longitudeDeg": -112.4105,
       "depthKm": 5.38,
       "magnitude": 0.67,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90106188",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754097173.01,
+      "latitudeDeg": 44.8468333333333,
+      "longitudeDeg": -111.515166666667,
+      "depthKm": 6.79,
+      "magnitude": 0.26,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1157,19 +1196,6 @@
       "magnitude": 1.1,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'WSW', 'distanceKM': 7.495843379451309}",
-      "version": null
-    },
-    {
-      "identifier": "mb90104818",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1753995048.52,
-      "latitudeDeg": 44.2636666666667,
-      "longitudeDeg": -114.3725,
-      "depthKm": 5.77,
-      "magnitude": 1.43,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
