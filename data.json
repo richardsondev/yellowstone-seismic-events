@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-07T07:31:42Z",
+  "fetchedAt": "2025-08-07T11:07:01Z",
   "events": [
     {
       "identifier": "mb90105573",
@@ -507,19 +507,6 @@
       "magnitude": 1.53,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 27.07440691291914}",
-      "version": null
-    },
-    {
-      "identifier": "mb90104828",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1753958903.22,
-      "latitudeDeg": 44.8655,
-      "longitudeDeg": -111.4845,
-      "depthKm": 11.18,
-      "magnitude": 0.31,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -1326,6 +1313,19 @@
       "magnitude": 0.89,
       "isLocal": true,
       "nearestTown": "{'town': 'Iron Springs, UT', 'bearing': 'SSE', 'distanceKM': 5.119590221775882}",
+      "version": null
+    },
+    {
+      "identifier": "nn00902176",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1754469312.4390001,
+      "latitudeDeg": 37.3093,
+      "longitudeDeg": -114.8904,
+      "depthKm": 9.2,
+      "magnitude": 1.2,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
