@@ -118,6 +118,19 @@
       "version": null
     },
     {
+      "identifier": "mb90106138",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754108016.57,
+      "latitudeDeg": 44.2318333333333,
+      "longitudeDeg": -114.066833333333,
+      "depthKm": 4.71,
+      "magnitude": 1.09,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80112731",
       "authority": "UU",
       "eventType": "eq",
@@ -651,6 +664,19 @@
       "version": null
     },
     {
+      "identifier": "uu80113411",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754535910.5199995,
+      "latitudeDeg": 44.4815,
+      "longitudeDeg": -111.07166666666667,
+      "depthKm": 12.0,
+      "magnitude": 0.5,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Big Springs, ID', 'bearing': 'E', 'distanceKM': 14.82599452225893}",
+      "version": null
+    },
+    {
       "identifier": "uu80004268",
       "authority": "UU",
       "eventType": "eq",
@@ -947,6 +973,19 @@
       "magnitude": 2.33,
       "isLocal": true,
       "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 7.571852701230736}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113406",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754527318.6899986,
+      "latitudeDeg": 44.658,
+      "longitudeDeg": -110.47166666666666,
+      "depthKm": 2.54,
+      "magnitude": 0.8,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 13.130728806526504}",
       "version": null
     },
     {
@@ -1298,19 +1337,6 @@
       "magnitude": 0.66,
       "isLocal": true,
       "nearestTown": "{'town': 'Garden City, UT', 'bearing': 'SW', 'distanceKM': 13.73463611584672}",
-      "version": null
-    },
-    {
-      "identifier": "uu80004243",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1753597559.8099976,
-      "latitudeDeg": 37.703,
-      "longitudeDeg": -113.21916666666667,
-      "depthKm": 9.91,
-      "magnitude": 0.89,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Iron Springs, UT', 'bearing': 'SSE', 'distanceKM': 5.119590221775882}",
       "version": null
     }
   ],
