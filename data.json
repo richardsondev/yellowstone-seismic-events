@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-07T21:45:55Z",
+  "fetchedAt": "2025-08-07T22:06:53Z",
   "events": [
     {
       "identifier": "mb90105573",
@@ -167,6 +167,19 @@
       "longitudeDeg": -111.674833333333,
       "depthKm": 11.58,
       "magnitude": 0.7,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90106278",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754545039.33,
+      "latitudeDeg": 44.768,
+      "longitudeDeg": -111.675333333333,
+      "depthKm": 13.49,
+      "magnitude": 0.62,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -588,6 +601,19 @@
       "version": null
     },
     {
+      "identifier": "mb90106253",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754468951.56,
+      "latitudeDeg": 44.836,
+      "longitudeDeg": -111.459,
+      "depthKm": 7.26,
+      "magnitude": -0.4,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "mb90106188",
       "authority": "MB",
       "eventType": "eq",
@@ -611,6 +637,19 @@
       "magnitude": 1.58,
       "isLocal": true,
       "nearestTown": "{'town': 'Verne, WY', 'bearing': 'SSE', 'distanceKM': 13.234127083091261}",
+      "version": null
+    },
+    {
+      "identifier": "mb90106268",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754498064.58,
+      "latitudeDeg": 44.7776666666667,
+      "longitudeDeg": -111.663666666667,
+      "depthKm": 10.61,
+      "magnitude": 0.22,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -650,6 +689,19 @@
       "magnitude": 0.68,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SSE', 'distanceKM': 5.828646979723728}",
+      "version": null
+    },
+    {
+      "identifier": "mb90106258",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754485518.2,
+      "latitudeDeg": 44.8225,
+      "longitudeDeg": -111.411833333333,
+      "depthKm": 12.02,
+      "magnitude": -0.12,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
