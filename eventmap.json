@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b27e635e9f0eb2f866f664174ccbf2f631a05a27",
+    "hashString": "2e7d39ee00e0f97e7ba421d7d552cb5a71f72f1c",
     "events": [
       {
         "identifier": "mb90105573",
@@ -1345,6 +1345,22 @@
           "town": "Lake, WY",
           "bearing": "NNW",
           "distanceKM": 14.546386861853012
+        }
+      },
+      {
+        "identifier": "uu80004378",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754638005.9300003,
+        "latitudeDeg": 41.13433333333333,
+        "longitudeDeg": -111.60366666666667,
+        "depthKM": 8.14,
+        "magnitude": 0.9,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Devils Slide, UT",
+          "bearing": "NNW",
+          "distanceKM": 9.235891442234955
         }
       },
       {
