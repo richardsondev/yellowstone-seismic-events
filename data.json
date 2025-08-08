@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-08T14:48:03Z",
+  "fetchedAt": "2025-08-08T15:07:19Z",
   "events": [
     {
       "identifier": "mb90105573",
@@ -1196,6 +1196,19 @@
       "magnitude": 1.54,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 14.546386861853012}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004378",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754638005.9300003,
+      "latitudeDeg": 41.13433333333333,
+      "longitudeDeg": -111.60366666666667,
+      "depthKm": 8.14,
+      "magnitude": 0.9,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Devils Slide, UT', 'bearing': 'NNW', 'distanceKM': 9.235891442234955}",
       "version": null
     },
     {
