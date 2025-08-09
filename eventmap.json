@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "cdc7dc44a5ce92d2c1ae63a78185d86ea3188618",
+    "hashString": "3af6b8e0de74f289c11dec5c2bf05254ff4c4427",
     "events": [
       {
         "identifier": "mb90105573",
@@ -1000,6 +1000,18 @@
         "longitudeDeg": -114.244,
         "depthKM": 4.29,
         "magnitude": 1.68,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
+        "identifier": "mb90106708",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1754761050.45,
+        "latitudeDeg": 44.7736666666667,
+        "longitudeDeg": -111.674,
+        "depthKM": 11.94,
+        "magnitude": 0.84,
         "isLocal": false,
         "nearestTown": null
       },
