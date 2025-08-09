@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-09T16:06:55Z",
+  "fetchedAt": "2025-08-09T16:47:58Z",
   "events": [
     {
       "identifier": "mb90105573",
@@ -481,6 +481,19 @@
       "magnitude": 0.51,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.37870118135414}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113551",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754757104.209999,
+      "latitudeDeg": 37.55866666666667,
+      "longitudeDeg": -113.058,
+      "depthKm": 10.49,
+      "magnitude": 2.31,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 10.326532778060756}",
       "version": null
     },
     {
