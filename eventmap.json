@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e53997fd1f0131781e3a9b03be8c8179b0f6aa1e",
+    "hashString": "cd0d1cfdbde8e692171f5bd1a55bf3fd1b9e6a71",
     "events": [
       {
         "identifier": "uu80112741",
@@ -1277,6 +1277,22 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 7.571852701230736
+        }
+      },
+      {
+        "identifier": "uu80113596",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754839334.5299997,
+        "latitudeDeg": 40.92033333333333,
+        "longitudeDeg": -110.86616666666667,
+        "depthKM": 20.91,
+        "magnitude": 0.9,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Altamont, WY",
+          "bearing": "SSW",
+          "distanceKM": 30.867609125065663
         }
       },
       {
