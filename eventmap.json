@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "08b378c2ebdd232f8786f4473360ec8505c05e4c",
+    "hashString": "6964d1fa70ea5e7433cd8fce71d177bc5f8cba6f",
     "events": [
       {
         "identifier": "uu80112741",
@@ -313,6 +313,22 @@
           "town": "Clear Creek, UT",
           "bearing": "W",
           "distanceKM": 8.600203662513492
+        }
+      },
+      {
+        "identifier": "uu80113576",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754820285,
+        "latitudeDeg": 41.57783333333333,
+        "longitudeDeg": -109.8865,
+        "depthKM": -3.41,
+        "magnitude": 3.46,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Little America, WY",
+          "bearing": "NNW",
+          "distanceKM": 4.403195111018816
         }
       },
       {
