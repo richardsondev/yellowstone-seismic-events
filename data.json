@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-11T15:46:39Z",
+  "fetchedAt": "2025-08-11T16:32:04Z",
   "events": [
     {
       "identifier": "uu80112741",
@@ -182,6 +182,19 @@
       "magnitude": 1.78,
       "isLocal": true,
       "nearestTown": "{'town': 'Gunlock, UT', 'bearing': 'NW', 'distanceKM': 6.438203817710256}",
+      "version": null
+    },
+    {
+      "identifier": "nn00902417",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1754924654.511,
+      "latitudeDeg": 37.9966,
+      "longitudeDeg": -114.6013,
+      "depthKm": 2.5,
+      "magnitude": 2.2,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -702,6 +715,19 @@
       "magnitude": 2.01,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80113541",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754754374.2199993,
+      "latitudeDeg": 44.531,
+      "longitudeDeg": -110.58883333333333,
+      "depthKm": 4.26,
+      "magnitude": 0.5,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'N', 'distanceKM': 12.863365739098752}",
       "version": null
     },
     {
