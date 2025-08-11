@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-11T13:52:18Z",
+  "fetchedAt": "2025-08-11T14:07:35Z",
   "events": [
     {
       "identifier": "uu80112741",
@@ -897,6 +897,19 @@
       "magnitude": 1.5,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 16.526334226742296}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004403",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754757136.3199997,
+      "latitudeDeg": 37.558,
+      "longitudeDeg": -113.05566666666667,
+      "depthKm": 11.75,
+      "magnitude": 1.93,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 10.516610187369468}",
       "version": null
     },
     {
