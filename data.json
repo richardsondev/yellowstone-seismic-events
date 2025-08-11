@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-11T17:46:49Z",
+  "fetchedAt": "2025-08-11T18:32:42Z",
   "events": [
     {
       "identifier": "uu80112741",
@@ -926,6 +926,19 @@
       "version": null
     },
     {
+      "identifier": "uu80113556",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754757375.9399996,
+      "latitudeDeg": 37.560833333333335,
+      "longitudeDeg": -113.0585,
+      "depthKm": 12.08,
+      "magnitude": 1.68,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 10.114960285858897}",
+      "version": null
+    },
+    {
       "identifier": "uu80113156",
       "authority": "UU",
       "eventType": "eq",
@@ -1196,6 +1209,19 @@
       "magnitude": 0.9,
       "isLocal": true,
       "nearestTown": "{'town': 'Devils Slide, UT', 'bearing': 'NNW', 'distanceKM': 9.235891442234955}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113616",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1754876668.8899994,
+      "latitudeDeg": 40.385333333333335,
+      "longitudeDeg": -111.82566666666666,
+      "depthKm": 7.65,
+      "magnitude": 0.6900000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cedar Hills, UT', 'bearing': 'WSW', 'distanceKM': 6.525412736477847}",
       "version": null
     },
     {
