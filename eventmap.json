@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e85e7e6c8bb0997cfd3f3e3d7d43217fed3507ed",
+    "hashString": "8aeba121fbf2849f8fd8bbe55a5db3f8c8b6cd98",
     "events": [
       {
         "identifier": "uu80112741",
@@ -1457,6 +1457,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "NE",
           "distanceKM": 16.628915842444915
+        }
+      },
+      {
+        "identifier": "uu80004443",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754844566.42,
+        "latitudeDeg": 39.5045,
+        "longitudeDeg": -111.01616666666666,
+        "depthKM": 1.18,
+        "magnitude": 1.03,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hiawatha, UT",
+          "bearing": "N",
+          "distanceKM": 2.2697067227632983
         }
       },
       {
