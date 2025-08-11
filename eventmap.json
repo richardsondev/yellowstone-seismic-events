@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c119c84a275cc0efed3c25c902267364ab26bd7c",
+    "hashString": "a9b86ab8595d4bfa6ebf754a5c47da2a2e99957a",
     "events": [
       {
         "identifier": "uu80112741",
@@ -1025,6 +1025,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "NE",
           "distanceKM": 16.526334226742296
+        }
+      },
+      {
+        "identifier": "uu80004403",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754757136.3199997,
+        "latitudeDeg": 37.558,
+        "longitudeDeg": -113.05566666666667,
+        "depthKM": 11.75,
+        "magnitude": 1.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 10.516610187369468
         }
       },
       {
