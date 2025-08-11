@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a1d4210ce8607b1cd7eac327f530f1b43a3bce48",
+    "hashString": "87651d87d8647e3cad3e517eaa8e4ea23064e6f7",
     "events": [
       {
         "identifier": "uu80112741",
@@ -1044,6 +1044,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80113556",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754757375.9399996,
+        "latitudeDeg": 37.560833333333335,
+        "longitudeDeg": -113.0585,
+        "depthKM": 12.08,
+        "magnitude": 1.68,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 10.114960285858897
+        }
+      },
+      {
         "identifier": "uu80113156",
         "authority": "UU",
         "eventType": "eq",
@@ -1361,6 +1377,22 @@
           "town": "Devils Slide, UT",
           "bearing": "NNW",
           "distanceKM": 9.235891442234955
+        }
+      },
+      {
+        "identifier": "uu80113616",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754876668.8899994,
+        "latitudeDeg": 40.385333333333335,
+        "longitudeDeg": -111.82566666666666,
+        "depthKM": 7.65,
+        "magnitude": 0.6900000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cedar Hills, UT",
+          "bearing": "WSW",
+          "distanceKM": 6.525412736477847
         }
       },
       {
