@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-11T22:29:45Z",
+  "fetchedAt": "2025-08-11T22:46:00Z",
   "events": [
     {
       "identifier": "uu80112741",
@@ -1274,6 +1274,19 @@
       "magnitude": 1.1,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'WSW', 'distanceKM': 7.495843379451309}",
+      "version": null
+    },
+    {
+      "identifier": "mb90106858",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1754934201.55,
+      "latitudeDeg": 44.8068333333333,
+      "longitudeDeg": -111.515833333333,
+      "depthKm": 13.28,
+      "magnitude": 0.82,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
