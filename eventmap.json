@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4835865f64cdfa1d8a75915974cb43574b50501c",
+    "hashString": "d9969b7c0f3a0bdb2d58ef4b5fa11e7188a7a5cb",
     "events": [
       {
         "identifier": "uu80112741",
@@ -945,6 +945,22 @@
           "town": "Woodside, UT",
           "bearing": "SW",
           "distanceKM": 31.689203223879872
+        }
+      },
+      {
+        "identifier": "uu80004428",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1754901054.2999992,
+        "latitudeDeg": 39.634,
+        "longitudeDeg": -111.26566666666666,
+        "depthKM": -3.47,
+        "magnitude": 1.08,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "W",
+          "distanceKM": 9.658360357608373
         }
       },
       {
