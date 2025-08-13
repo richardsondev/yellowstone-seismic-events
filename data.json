@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-13T13:20:47Z",
+  "fetchedAt": "2025-08-13T13:50:20Z",
   "events": [
     {
       "identifier": "mb90106118",
@@ -1443,6 +1443,19 @@
       "magnitude": 0.32,
       "isLocal": true,
       "nearestTown": "{'town': 'Cleveland, UT', 'bearing': 'SSE', 'distanceKM': 6.668218440434022}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113731",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755055448.58,
+      "latitudeDeg": 44.5675,
+      "longitudeDeg": -111.0905,
+      "depthKm": 7.13,
+      "magnitude": 1.03,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'S', 'distanceKM': 10.57397884954387}",
       "version": null
     },
     {
