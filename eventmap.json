@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "dc5f240e2ed947e24fd32566a37043369fa1bd16",
+    "hashString": "494a7afb7af8bcf3b4a6b976a4362e7950de910f",
     "events": [
       {
         "identifier": "mb90106118",
@@ -1449,6 +1449,22 @@
           "town": "Huntsville, UT",
           "bearing": "NE",
           "distanceKM": 6.855211500849071
+        }
+      },
+      {
+        "identifier": "uu80113751",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755075493.1499996,
+        "latitudeDeg": 41.885,
+        "longitudeDeg": -112.375,
+        "depthKM": 9.81,
+        "magnitude": 1.4000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Blue Creek, UT",
+          "bearing": "ENE",
+          "distanceKM": 7.379257253837012
         }
       },
       {
