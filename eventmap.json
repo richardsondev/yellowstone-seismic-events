@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5bfbb4810c4c549c991002442445fa3be0f20a2c",
+    "hashString": "40ca9d7127e0f6ca4a3d83d2368c0c7e4bff5127",
     "events": [
       {
         "identifier": "mb90106118",
@@ -1601,6 +1601,22 @@
           "town": "Grayling, MT",
           "bearing": "S",
           "distanceKM": 6.11350301730467
+        }
+      },
+      {
+        "identifier": "uu80004453",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755077934.5,
+        "latitudeDeg": 38.20283333333333,
+        "longitudeDeg": -112.55416666666666,
+        "depthKM": 7.58,
+        "magnitude": 1.12,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Beaver, UT",
+          "bearing": "SE",
+          "distanceKM": 11.201469869267605
         }
       },
       {
