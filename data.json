@@ -534,6 +534,19 @@
       "version": null
     },
     {
+      "identifier": "uu80113716",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755044361.0200005,
+      "latitudeDeg": 37.298,
+      "longitudeDeg": -114.18733333333333,
+      "depthKm": 7.89,
+      "magnitude": 2.08,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Acoma, NV', 'bearing': 'S', 'distanceKM': 27.866263477485738}",
+      "version": null
+    },
+    {
       "identifier": "mb90107003",
       "authority": "MB",
       "eventType": "eq",
@@ -687,19 +700,6 @@
       "magnitude": 0.68,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SSE', 'distanceKM': 5.828646979723728}",
-      "version": null
-    },
-    {
-      "identifier": "mb90106258",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1754485518.2,
-      "latitudeDeg": 44.8225,
-      "longitudeDeg": -111.411833333333,
-      "depthKm": 12.02,
-      "magnitude": -0.12,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -1083,10 +1083,10 @@
       "identifier": "us6000r07p",
       "authority": "US",
       "eventType": "eq",
-      "originTimeUtc": 1755037305.822,
-      "latitudeDeg": 35.9774,
-      "longitudeDeg": -115.1593,
-      "depthKm": 11.014,
+      "originTimeUtc": 1755037305.708,
+      "latitudeDeg": 35.9534,
+      "longitudeDeg": -115.1631,
+      "depthKm": 10.042,
       "magnitude": 1.9,
       "isLocal": false,
       "nearestTown": null,
@@ -1168,6 +1168,19 @@
       "magnitude": 0.8,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 13.130728806526504}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113741",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755056778.619999,
+      "latitudeDeg": 44.733333333333334,
+      "longitudeDeg": -111.03633333333333,
+      "depthKm": 6.75,
+      "magnitude": 1.1300000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 9.561842359825953}",
       "version": null
     },
     {
@@ -1543,19 +1556,6 @@
       "longitudeDeg": -111.530666666667,
       "depthKm": 8.29,
       "magnitude": 0.09,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "nn00902519",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1755044363.18,
-      "latitudeDeg": 37.4691,
-      "longitudeDeg": -114.4349,
-      "depthKm": 15.9,
-      "magnitude": 2.1,
       "isLocal": false,
       "nearestTown": null,
       "version": null
