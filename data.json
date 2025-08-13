@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-13T22:06:42Z",
+  "fetchedAt": "2025-08-13T22:45:22Z",
   "events": [
     {
       "identifier": "mb90106118",
@@ -767,6 +767,19 @@
       "magnitude": 0.5,
       "isLocal": true,
       "nearestTown": "{'town': 'Big Springs, ID', 'bearing': 'E', 'distanceKM': 14.82599452225893}",
+      "version": null
+    },
+    {
+      "identifier": "mb90107058",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755055793.83,
+      "latitudeDeg": 44.8126666666667,
+      "longitudeDeg": -111.527666666667,
+      "depthKm": 10.6,
+      "magnitude": 1.54,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
