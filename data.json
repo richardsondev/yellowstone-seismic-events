@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-13T22:45:22Z",
+  "fetchedAt": "2025-08-13T23:44:52Z",
   "events": [
     {
       "identifier": "mb90106118",
@@ -169,6 +169,19 @@
       "magnitude": 1.78,
       "isLocal": true,
       "nearestTown": "{'town': 'Gunlock, UT', 'bearing': 'NW', 'distanceKM': 6.438203817710256}",
+      "version": null
+    },
+    {
+      "identifier": "us6000r0gc",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1755127390.208,
+      "latitudeDeg": 44.8115,
+      "longitudeDeg": -111.5189,
+      "depthKm": 12.506,
+      "magnitude": 3.2,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
