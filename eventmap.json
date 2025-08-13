@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b81f3c6012b912f562ad9d3b2d96d877674978a9",
+    "hashString": "13c864116f15a58b28878336dfff2613f9e60c21",
     "events": [
       {
         "identifier": "mb90106118",
@@ -884,6 +884,18 @@
         }
       },
       {
+        "identifier": "mb90107123",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1755102743.93,
+        "latitudeDeg": 44.5015,
+        "longitudeDeg": -113.2465,
+        "depthKM": 6.34,
+        "magnitude": 1.34,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80004293",
         "authority": "UU",
         "eventType": "eq",
@@ -1417,22 +1429,6 @@
           "town": "Blue Creek, UT",
           "bearing": "ENE",
           "distanceKM": 7.379257253837012
-        }
-      },
-      {
-        "identifier": "uu80112941",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1753912738.1599998,
-        "latitudeDeg": 40.31033333333333,
-        "longitudeDeg": -111.3695,
-        "depthKM": 1.52,
-        "magnitude": 1.93,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Wallsburg, UT",
-          "bearing": "SSE",
-          "distanceKM": 9.700742237838902
         }
       },
       {
