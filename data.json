@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-13T13:50:20Z",
+  "fetchedAt": "2025-08-13T14:30:34Z",
   "events": [
     {
       "identifier": "mb90106118",
@@ -1287,6 +1287,19 @@
       "magnitude": 0.99,
       "isLocal": true,
       "nearestTown": "{'town': 'Huntsville, UT', 'bearing': 'NE', 'distanceKM': 6.855211500849071}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113751",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755075493.1499996,
+      "latitudeDeg": 41.885,
+      "longitudeDeg": -112.375,
+      "depthKm": 9.81,
+      "magnitude": 1.4000000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'ENE', 'distanceKM': 7.379257253837012}",
       "version": null
     },
     {
