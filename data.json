@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-14T16:08:04Z",
+  "fetchedAt": "2025-08-14T16:31:58Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -458,6 +458,19 @@
       "version": null
     },
     {
+      "identifier": "mb90107253",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755139416.14,
+      "latitudeDeg": 44.7128333333333,
+      "longitudeDeg": -111.805666666667,
+      "depthKm": 10.98,
+      "magnitude": 0.48,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80113151",
       "authority": "UU",
       "eventType": "eq",
@@ -481,19 +494,6 @@
       "magnitude": 1.53,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 27.07440691291914}",
-      "version": null
-    },
-    {
-      "identifier": "mb90106143",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1754583388.8,
-      "latitudeDeg": 44.439,
-      "longitudeDeg": -115.198,
-      "depthKm": 6.6,
-      "magnitude": 2.38,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
