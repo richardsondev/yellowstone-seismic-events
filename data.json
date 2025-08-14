@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-14T21:06:13Z",
+  "fetchedAt": "2025-08-14T21:28:16Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -1300,6 +1300,19 @@
       "magnitude": 1.19,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'W', 'distanceKM': 10.871696413374666}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113826",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755202242.8999977,
+      "latitudeDeg": 42.391333333333336,
+      "longitudeDeg": -111.5175,
+      "depthKm": -0.32,
+      "magnitude": 2.05,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Sharon, ID', 'bearing': 'NW', 'distanceKM': 5.5099619684558645}",
       "version": null
     },
     {
