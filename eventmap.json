@@ -1,20 +1,8 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d0b1f3030c12a58e2fbe43e69fff21f0e44f792a",
+    "hashString": "8ba4e305109fdfdfc49c5e4d860b668edbd868ff",
     "events": [
-      {
-        "identifier": "mb90106118",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1754529198.22,
-        "latitudeDeg": 44.8276666666667,
-        "longitudeDeg": -112.933333333333,
-        "depthKM": 6.72,
-        "magnitude": 0.74,
-        "isLocal": false,
-        "nearestTown": null
-      },
       {
         "identifier": "uu80004368",
         "authority": "UU",
@@ -1209,22 +1197,6 @@
           "town": "Lake, WY",
           "bearing": "S",
           "distanceKM": 6.161009730303393
-        }
-      },
-      {
-        "identifier": "uu80112951",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1753926700.079998,
-        "latitudeDeg": 44.75216666666667,
-        "longitudeDeg": -110.94016666666667,
-        "depthKM": 8.23,
-        "magnitude": 0.87,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "West Yellowstone, MT",
-          "bearing": "NE",
-          "distanceKM": 16.37491018591557
         }
       },
       {
