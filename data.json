@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-15T12:11:02Z",
+  "fetchedAt": "2025-08-15T14:29:44Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -117,19 +117,6 @@
       "magnitude": 1.3900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Cane Beds, AZ', 'bearing': 'S', 'distanceKM': 19.5387717336982}",
-      "version": null
-    },
-    {
-      "identifier": "uu80113076",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1754057887.1399999,
-      "latitudeDeg": 37.323,
-      "longitudeDeg": -113.8255,
-      "depthKm": 4.76,
-      "magnitude": 1.78,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Gunlock, UT', 'bearing': 'NW', 'distanceKM': 6.438203817710256}",
       "version": null
     },
     {
@@ -731,6 +718,19 @@
       "version": null
     },
     {
+      "identifier": "uu80113851",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755259007.2799988,
+      "latitudeDeg": 44.804,
+      "longitudeDeg": -110.85783333333333,
+      "depthKm": 10.21,
+      "magnitude": 1.87,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.72847759407099}",
+      "version": null
+    },
+    {
       "identifier": "uu80004353",
       "authority": "UU",
       "eventType": "eq",
@@ -1326,6 +1326,19 @@
       "magnitude": 1.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'N', 'distanceKM': 2.2697067227632983}",
+      "version": null
+    },
+    {
+      "identifier": "uu80113841",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755247857.4799995,
+      "latitudeDeg": 44.459833333333336,
+      "longitudeDeg": -110.76916666666666,
+      "depthKm": 3.73,
+      "magnitude": 0.66,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'E', 'distanceKM': 5.193155515365812}",
       "version": null
     },
     {
