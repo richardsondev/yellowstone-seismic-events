@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d55d6e023b9bb6af48aa671ddb81dfb6d9a510c3",
+    "hashString": "53efb257f4faf5bbca3ddd507205f9c0e0db0dfb",
     "events": [
       {
         "identifier": "uu80004368",
@@ -345,38 +345,6 @@
           "town": "Lake, WY",
           "bearing": "NNW",
           "distanceKM": 6.893506993194262
-        }
-      },
-      {
-        "identifier": "uu80004303",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1754042072.5599976,
-        "latitudeDeg": 37.3235,
-        "longitudeDeg": -113.82833333333333,
-        "depthKM": 2.84,
-        "magnitude": 1.47,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Gunlock, UT",
-          "bearing": "NW",
-          "distanceKM": 6.6766874670030045
-        }
-      },
-      {
-        "identifier": "uu80004298",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1754042730.5599995,
-        "latitudeDeg": 37.05166666666667,
-        "longitudeDeg": -112.89216666666667,
-        "depthKM": 12.39,
-        "magnitude": -0.02,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hildale, UT",
-          "bearing": "NE",
-          "distanceKM": 8.519357858547806
         }
       },
       {
@@ -1270,22 +1238,6 @@
         "magnitude": 0.09,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80113046",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1754041970.289997,
-        "latitudeDeg": 37.05016666666667,
-        "longitudeDeg": -112.90466666666667,
-        "depthKM": 11.68,
-        "magnitude": 2.33,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hildale, UT",
-          "bearing": "NE",
-          "distanceKM": 7.571852701230736
-        }
       },
       {
         "identifier": "uu80113596",
