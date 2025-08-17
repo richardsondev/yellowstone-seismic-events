@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-17T11:26:07Z",
+  "fetchedAt": "2025-08-17T13:45:46Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -1027,6 +1027,19 @@
       "magnitude": 0.6900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Cedar Hills, UT', 'bearing': 'WSW', 'distanceKM': 6.525412736477847}",
+      "version": null
+    },
+    {
+      "identifier": "mb90107443",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755311960.9,
+      "latitudeDeg": 44.8081666666667,
+      "longitudeDeg": -111.517,
+      "depthKm": 12.86,
+      "magnitude": 1.05,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
