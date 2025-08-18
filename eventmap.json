@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c71c6c6a46519373f9cee5a306353073599cd279",
+    "hashString": "847d2fc57971ae34864335372f95536a661214e5",
     "events": [
       {
         "identifier": "uu80004368",
@@ -1273,6 +1273,22 @@
           "town": "Sulphurdale, UT",
           "bearing": "ESE",
           "distanceKM": 15.00054751412638
+        }
+      },
+      {
+        "identifier": "uu80113931",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755440813.5900002,
+        "latitudeDeg": 39.3865,
+        "longitudeDeg": -111.08583333333333,
+        "depthKM": 2.94,
+        "magnitude": 1.03,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Huntington, UT",
+          "bearing": "WNW",
+          "distanceKM": 12.369694906043868
         }
       },
       {
