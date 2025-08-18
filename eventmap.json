@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "847d2fc57971ae34864335372f95536a661214e5",
+    "hashString": "18fb75bb73856f938f5847eabb9ce3eff5f29a1a",
     "events": [
       {
         "identifier": "uu80004368",
@@ -836,6 +836,22 @@
         }
       },
       {
+        "identifier": "uu80004543",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755333069.9399996,
+        "latitudeDeg": 37.531666666666666,
+        "longitudeDeg": -114.18433333333333,
+        "depthKM": 2.85,
+        "magnitude": 1.19,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Acoma, NV",
+          "bearing": "SSW",
+          "distanceKM": 2.0527426004673206
+        }
+      },
+      {
         "identifier": "uu80113431",
         "authority": "UU",
         "eventType": "eq",
@@ -1109,6 +1125,22 @@
           "town": "Clear Creek, UT",
           "bearing": "W",
           "distanceKM": 10.871696413374666
+        }
+      },
+      {
+        "identifier": "uu80004538",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755347115.79,
+        "latitudeDeg": 41.8865,
+        "longitudeDeg": -111.50583333333333,
+        "depthKM": 1.49,
+        "magnitude": 0.48,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Garden City, UT",
+          "bearing": "SW",
+          "distanceKM": 11.467264371742257
         }
       },
       {
@@ -1468,16 +1500,20 @@
         "nearestTown": null
       },
       {
-        "identifier": "mb90106993",
-        "authority": "MB",
+        "identifier": "uu80113881",
+        "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1754942133.5900002,
-        "latitudeDeg": 44.8036666666667,
-        "longitudeDeg": -111.530666666667,
-        "depthKM": 8.29,
-        "magnitude": 0.09,
-        "isLocal": false,
-        "nearestTown": null
+        "originTimeUTC": 1755340513.9299994,
+        "latitudeDeg": 39.70133333333333,
+        "longitudeDeg": -110.81733333333334,
+        "depthKM": 1.63,
+        "magnitude": 2.04,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Helper, UT",
+          "bearing": "ENE",
+          "distanceKM": 3.7201304615553408
+        }
       }
     ]
   },
