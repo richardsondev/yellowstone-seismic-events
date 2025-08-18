@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c41da3237290143db2d88c18f327d29b1b10f18a",
+    "hashString": "c71c6c6a46519373f9cee5a306353073599cd279",
     "events": [
       {
         "identifier": "uu80004368",
@@ -100,18 +100,6 @@
         "longitudeDeg": -111.5189,
         "depthKM": 12.506,
         "magnitude": 3.2,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "nn00902417",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1754924654.511,
-        "latitudeDeg": 37.9966,
-        "longitudeDeg": -114.6013,
-        "depthKM": 2.5,
-        "magnitude": 2.2,
         "isLocal": false,
         "nearestTown": null
       },
@@ -736,6 +724,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80004503",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755502138.079998,
+        "latitudeDeg": 39.70733333333333,
+        "longitudeDeg": -110.72466666666666,
+        "depthKM": -2.91,
+        "magnitude": 0.14,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Helper, UT",
+          "bearing": "ENE",
+          "distanceKM": 11.413148675536112
+        }
+      },
+      {
         "identifier": "mb90107063",
         "authority": "MB",
         "eventType": "eq",
@@ -1165,6 +1169,22 @@
           "town": "Blue Creek, UT",
           "bearing": "ENE",
           "distanceKM": 7.379257253837012
+        }
+      },
+      {
+        "identifier": "uu80004548",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755327745.1299992,
+        "latitudeDeg": 37.17583333333334,
+        "longitudeDeg": -113.40133333333333,
+        "depthKM": 6.24,
+        "magnitude": 1.26,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Leeds, UT",
+          "bearing": "SSW",
+          "distanceKM": 7.91837097297324
         }
       },
       {
