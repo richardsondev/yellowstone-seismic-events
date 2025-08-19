@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "acda29126c92574a8168c6227ba1367ae7c82518",
+    "hashString": "5de1f3b1726efc163fb5284d8b36c51189531946",
     "events": [
       {
         "identifier": "uu80004368",
@@ -381,6 +381,22 @@
           "town": "Acoma, NV",
           "bearing": "S",
           "distanceKM": 27.866263477485738
+        }
+      },
+      {
+        "identifier": "uu80114026",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755562417.8799973,
+        "latitudeDeg": 44.754,
+        "longitudeDeg": -110.93766666666667,
+        "depthKM": 8.25,
+        "magnitude": 0.84,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "NE",
+          "distanceKM": 16.65578387781659
         }
       },
       {

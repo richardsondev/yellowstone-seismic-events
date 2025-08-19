@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-19T13:33:19Z",
+  "fetchedAt": "2025-08-19T14:06:56Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -325,6 +325,19 @@
       "magnitude": 2.08,
       "isLocal": true,
       "nearestTown": "{'town': 'Acoma, NV', 'bearing': 'S', 'distanceKM': 27.866263477485738}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114026",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755562417.8799973,
+      "latitudeDeg": 44.754,
+      "longitudeDeg": -110.93766666666667,
+      "depthKm": 8.25,
+      "magnitude": 0.84,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 16.65578387781659}",
       "version": null
     },
     {
