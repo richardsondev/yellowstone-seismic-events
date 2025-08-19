@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "61e570572906a0e7ae4734fdae168cd2a6c8d383",
+    "hashString": "c358ef4a57fe8117d99fa8240461fb78402a83aa",
     "events": [
       {
         "identifier": "uu80004368",
@@ -829,6 +829,22 @@
           "town": "Hamiltons Fort, UT",
           "bearing": "SE",
           "distanceKM": 10.114960285858897
+        }
+      },
+      {
+        "identifier": "uu80114081",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755624446.4799995,
+        "latitudeDeg": 44.80433333333333,
+        "longitudeDeg": -110.85183333333333,
+        "depthKM": 11.2,
+        "magnitude": 2.1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.447516750414486
         }
       },
       {
