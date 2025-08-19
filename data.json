@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-19T14:06:56Z",
+  "fetchedAt": "2025-08-19T15:07:11Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -13,6 +13,19 @@
       "magnitude": 1.44,
       "isLocal": true,
       "nearestTown": "{'town': 'Zane, UT', 'bearing': 'ESE', 'distanceKM': 4.92512638055932}",
+      "version": null
+    },
+    {
+      "identifier": "mb90107848",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755563886.06,
+      "latitudeDeg": 44.8118333333333,
+      "longitudeDeg": -111.517333333333,
+      "depthKm": 12.21,
+      "magnitude": 0.72,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -117,6 +130,19 @@
       "magnitude": 1.51,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WSW', 'distanceKM': 22.587338089247233}",
+      "version": null
+    },
+    {
+      "identifier": "mb90107883",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755584668.46,
+      "latitudeDeg": 44.8141666666667,
+      "longitudeDeg": -111.527833333333,
+      "depthKm": 10.07,
+      "magnitude": 1.0,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1168,6 +1194,19 @@
       "longitudeDeg": -111.9335,
       "depthKm": 8.84,
       "magnitude": 0.0,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90107878",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755579624.69,
+      "latitudeDeg": 43.5466666666667,
+      "longitudeDeg": -110.619333333333,
+      "depthKm": 4.48,
+      "magnitude": 1.7,
       "isLocal": false,
       "nearestTown": null,
       "version": null
