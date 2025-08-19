@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-19T12:11:11Z",
+  "fetchedAt": "2025-08-19T13:33:19Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -26,6 +26,19 @@
       "magnitude": 2.24,
       "isLocal": true,
       "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'NW', 'distanceKM': 2.7765279328451093}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114046",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755604230.0,
+      "latitudeDeg": 37.4835,
+      "longitudeDeg": -113.577,
+      "depthKm": 10.54,
+      "magnitude": 1.09,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Central, UT', 'bearing': 'NNE', 'distanceKM': 8.612694651570651}",
       "version": null
     },
     {
