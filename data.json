@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-19T17:44:42Z",
+  "fetchedAt": "2025-08-19T18:08:57Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -546,6 +546,19 @@
       "magnitude": -0.3,
       "isLocal": true,
       "nearestTown": "{'town': 'Park City, UT', 'bearing': 'NNE', 'distanceKM': 7.904964732220676}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114086",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755625014.8400002,
+      "latitudeDeg": 44.79683333333333,
+      "longitudeDeg": -110.85066666666667,
+      "depthKm": 11.51,
+      "magnitude": 1.22,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.11779582032359}",
       "version": null
     },
     {
@@ -1267,13 +1280,13 @@
       "identifier": "uu80114071",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1755623693.0699997,
-      "latitudeDeg": 44.8045,
-      "longitudeDeg": -110.85866666666666,
-      "depthKm": 10.74,
-      "magnitude": 3.63,
+      "originTimeUtc": 1755623693.0200005,
+      "latitudeDeg": 44.807833333333335,
+      "longitudeDeg": -110.85966666666667,
+      "depthKm": 11.55,
+      "magnitude": 3.71,
       "isLocal": true,
-      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.716750427593038}",
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.44810017750027}",
       "version": null
     },
     {
