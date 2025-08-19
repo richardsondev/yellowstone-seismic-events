@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-19T16:47:44Z",
+  "fetchedAt": "2025-08-19T17:06:00Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -939,6 +939,19 @@
       "version": null
     },
     {
+      "identifier": "uu80114066",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755619602.5200005,
+      "latitudeDeg": 42.06733333333333,
+      "longitudeDeg": -111.6935,
+      "depthKm": 6.0,
+      "magnitude": 0.99,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Franklin, ID', 'bearing': 'ENE', 'distanceKM': 11.1353021023203}",
+      "version": null
+    },
+    {
       "identifier": "uu80113741",
       "authority": "UU",
       "eventType": "eq",
@@ -1300,19 +1313,6 @@
       "magnitude": 1.7,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80113881",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1755340513.9299994,
-      "latitudeDeg": 39.70133333333333,
-      "longitudeDeg": -110.81733333333334,
-      "depthKm": 1.63,
-      "magnitude": 2.04,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Helper, UT', 'bearing': 'ENE', 'distanceKM': 3.7201304615553408}",
       "version": null
     },
     {
