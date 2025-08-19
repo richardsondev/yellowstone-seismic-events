@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-19T21:05:57Z",
+  "fetchedAt": "2025-08-19T21:27:33Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -193,6 +193,19 @@
       "longitudeDeg": -111.5405,
       "depthKm": 8.19,
       "magnitude": 0.89,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90107318",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755229667.79,
+      "latitudeDeg": 44.8163333333333,
+      "longitudeDeg": -111.439,
+      "depthKm": 9.87,
+      "magnitude": 0.73,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1170,6 +1183,19 @@
       "magnitude": 0.66,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'E', 'distanceKM': 5.193155515365812}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114121",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755636147.8999996,
+      "latitudeDeg": 37.475,
+      "longitudeDeg": -113.583,
+      "depthKm": 1.14,
+      "magnitude": 1.3800000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Central, UT', 'bearing': 'NNE', 'distanceKM': 7.529674580842033}",
       "version": null
     },
     {
