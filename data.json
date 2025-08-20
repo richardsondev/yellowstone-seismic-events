@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-20T15:30:05Z",
+  "fetchedAt": "2025-08-20T15:45:25Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -117,6 +117,19 @@
       "magnitude": 1.3900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Cane Beds, AZ', 'bearing': 'S', 'distanceKM': 19.5387717336982}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114151",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755655225.08,
+      "latitudeDeg": 44.801833333333335,
+      "longitudeDeg": -110.86633333333333,
+      "depthKm": 8.18,
+      "magnitude": 0.78,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.294447179849918}",
       "version": null
     },
     {
@@ -884,19 +897,6 @@
       "magnitude": 0.84,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WNW', 'distanceKM': 17.8544041032935}",
-      "version": null
-    },
-    {
-      "identifier": "uu80113376",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1754494950.8899994,
-      "latitudeDeg": 39.63066666666667,
-      "longitudeDeg": -111.25483333333334,
-      "depthKm": -3.49,
-      "magnitude": 1.31,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'W', 'distanceKM': 8.803082990968216}",
       "version": null
     },
     {
