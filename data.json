@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-20T14:06:40Z",
+  "fetchedAt": "2025-08-20T14:30:04Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -224,6 +224,19 @@
       "version": null
     },
     {
+      "identifier": "uu80114206",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755694421.2299995,
+      "latitudeDeg": 44.797666666666665,
+      "longitudeDeg": -110.8495,
+      "depthKm": 7.77,
+      "magnitude": 0.8,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.99151567092977}",
+      "version": null
+    },
+    {
       "identifier": "mb90107318",
       "authority": "MB",
       "eventType": "eq",
@@ -416,6 +429,19 @@
       "magnitude": 1.73,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80114201",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755693736.8899994,
+      "latitudeDeg": 38.834833333333336,
+      "longitudeDeg": -111.41866666666667,
+      "depthKm": 14.05,
+      "magnitude": 0.9,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WSW', 'distanceKM': 17.672620907172195}",
       "version": null
     },
     {
@@ -1105,6 +1131,19 @@
       "magnitude": 2.05,
       "isLocal": true,
       "nearestTown": "{'town': 'Sharon, ID', 'bearing': 'NW', 'distanceKM': 5.5099619684558645}",
+      "version": null
+    },
+    {
+      "identifier": "mb90108033",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755664212.41,
+      "latitudeDeg": 44.8273333333333,
+      "longitudeDeg": -112.923666666667,
+      "depthKm": 7.89,
+      "magnitude": 1.76,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
