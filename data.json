@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-20T03:50:10Z",
+  "fetchedAt": "2025-08-20T13:17:15Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -13,6 +13,19 @@
       "magnitude": 1.44,
       "isLocal": true,
       "nearestTown": "{'town': 'Zane, UT', 'bearing': 'ESE', 'distanceKM': 4.92512638055932}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114196",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755691837.7700005,
+      "latitudeDeg": 44.8035,
+      "longitudeDeg": -110.85216666666666,
+      "depthKm": 10.31,
+      "magnitude": 2.17,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.540362466437667}",
       "version": null
     },
     {
