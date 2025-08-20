@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9d3a724ed84517258d45415fd45c98b2cbeff075",
+    "hashString": "a77c64b34cc841d23fbf53ac143fe3cc079d0a4e",
     "events": [
       {
         "identifier": "uu80114146",
@@ -652,6 +652,22 @@
         }
       },
       {
+        "identifier": "uu80114156",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755656114.9699993,
+        "latitudeDeg": 37.467333333333336,
+        "longitudeDeg": -113.58866666666667,
+        "depthKM": 0.23,
+        "magnitude": 0.12,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Central, UT",
+          "bearing": "NNE",
+          "distanceKM": 6.541346934160366
+        }
+      },
+      {
         "identifier": "uu80113796",
         "authority": "UU",
         "eventType": "eq",
@@ -1028,6 +1044,22 @@
         }
       },
       {
+        "identifier": "uu80114166",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755662592.88,
+        "latitudeDeg": 37.474666666666664,
+        "longitudeDeg": -113.57933333333334,
+        "depthKM": 1.83,
+        "magnitude": 0.91,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Central, UT",
+          "bearing": "NNE",
+          "distanceKM": 7.669050282624554
+        }
+      },
+      {
         "identifier": "mb90107198",
         "authority": "MB",
         "eventType": "eq",
@@ -1326,6 +1358,22 @@
         "magnitude": 1.05,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80004558",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755656125.08,
+        "latitudeDeg": 37.467666666666666,
+        "longitudeDeg": -113.57233333333333,
+        "depthKM": 1.81,
+        "magnitude": 0.74,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Central, UT",
+          "bearing": "NE",
+          "distanceKM": 7.412469689616798
+        }
       },
       {
         "identifier": "uu80004478",
@@ -1764,18 +1812,6 @@
         "longitudeDeg": -111.529,
         "depthKM": 12.7,
         "magnitude": -0.03,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90107228",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1755171333.8,
-        "latitudeDeg": 45.775,
-        "longitudeDeg": -111.9335,
-        "depthKM": 8.84,
-        "magnitude": 0,
         "isLocal": false,
         "nearestTown": null
       }
