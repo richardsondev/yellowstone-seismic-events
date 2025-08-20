@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "13eeefe90df7c12dac856ab9b142b7dfe170736d",
+    "hashString": "a83fed9f671a9baf7e8a116528baff3f7606e63e",
     "events": [
       {
         "identifier": "uu80004368",
@@ -17,6 +17,22 @@
           "town": "Zane, UT",
           "bearing": "ESE",
           "distanceKM": 4.92512638055932
+        }
+      },
+      {
+        "identifier": "uu80114196",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755691837.7700005,
+        "latitudeDeg": 44.8035,
+        "longitudeDeg": -110.85216666666666,
+        "depthKM": 10.31,
+        "magnitude": 2.17,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.540362466437667
         }
       },
       {
