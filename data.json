@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-20T13:17:15Z",
+  "fetchedAt": "2025-08-20T13:35:01Z",
   "events": [
     {
       "identifier": "uu80004368",
@@ -390,6 +390,19 @@
       "magnitude": 1.52,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 16.35028378812978}",
+      "version": null
+    },
+    {
+      "identifier": "mb90108058",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755678984.71,
+      "latitudeDeg": 44.8283333333333,
+      "longitudeDeg": -112.924,
+      "depthKm": 6.56,
+      "magnitude": 1.73,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1326,6 +1339,19 @@
       "magnitude": 1.03,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'S', 'distanceKM': 10.57397884954387}",
+      "version": null
+    },
+    {
+      "identifier": "mb90108053",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755678947.5900002,
+      "latitudeDeg": 44.8333333333333,
+      "longitudeDeg": -112.929166666667,
+      "depthKm": 6.28,
+      "magnitude": 1.75,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
