@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-20T22:05:39Z",
+  "fetchedAt": "2025-08-20T22:28:40Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -323,6 +323,19 @@
       "longitudeDeg": -112.423833333333,
       "depthKm": 4.85,
       "magnitude": 0.45,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90108203",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755494072.26,
+      "latitudeDeg": 44.6211666666667,
+      "longitudeDeg": -112.085666666667,
+      "depthKm": 2.5,
+      "magnitude": 0.68,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1365,6 +1378,19 @@
       "magnitude": 1.19,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'W', 'distanceKM': 10.871696413374666}",
+      "version": null
+    },
+    {
+      "identifier": "mb90108198",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755465879.1000001,
+      "latitudeDeg": 44.6651666666667,
+      "longitudeDeg": -114.369,
+      "depthKm": 5.0,
+      "magnitude": 1.43,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
