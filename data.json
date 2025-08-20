@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-20T22:28:40Z",
+  "fetchedAt": "2025-08-20T22:44:21Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -154,6 +154,19 @@
       "longitudeDeg": -111.5189,
       "depthKm": 12.506,
       "magnitude": 3.2,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90108208",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755520804.63,
+      "latitudeDeg": 44.7506666666667,
+      "longitudeDeg": -113.3615,
+      "depthKm": 6.51,
+      "magnitude": 1.15,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -377,6 +390,19 @@
       "magnitude": 2.11,
       "isLocal": true,
       "nearestTown": "{'town': 'Joseph, UT', 'bearing': 'SSE', 'distanceKM': 6.966543969613733}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114251",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755728345.6299996,
+      "latitudeDeg": 37.4855,
+      "longitudeDeg": -113.58133333333333,
+      "depthKm": 9.65,
+      "magnitude": 1.59,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Central, UT', 'bearing': 'NNE', 'distanceKM': 8.621072191560962}",
       "version": null
     },
     {
@@ -1277,6 +1303,19 @@
       "version": null
     },
     {
+      "identifier": "mb90108218",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755533133.17,
+      "latitudeDeg": 44.8113333333333,
+      "longitudeDeg": -111.5155,
+      "depthKm": 13.27,
+      "magnitude": 0.47,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80114186",
       "authority": "UU",
       "eventType": "eq",
@@ -1352,6 +1391,19 @@
       "magnitude": 1.05,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80114241",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755728006.2600002,
+      "latitudeDeg": 37.478833333333334,
+      "longitudeDeg": -113.58283333333333,
+      "depthKm": 9.65,
+      "magnitude": 2.57,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Central, UT', 'bearing': 'NNE', 'distanceKM': 7.906159517736174}",
       "version": null
     },
     {
