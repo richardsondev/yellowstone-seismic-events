@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4f1dd9ac2082f4967ac0f05e692304230ed904aa",
+    "hashString": "83f626acc254e956ae015cca25a0c0999e7307c4",
     "events": [
       {
         "identifier": "uu80114146",
@@ -205,6 +205,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.68318554777043
+        }
+      },
+      {
+        "identifier": "uu80004573",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1755785721.67,
+        "latitudeDeg": 38.503166666666665,
+        "longitudeDeg": -112.88683333333333,
+        "depthKM": 1.81,
+        "magnitude": 1.1300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.005122987158888
         }
       },
       {
