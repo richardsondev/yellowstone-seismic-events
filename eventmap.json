@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "62db3332c979a797c03e41f4e756e81532e61b90",
+    "hashString": "224f674572ef73dfd650334cbbb7982f66cc9de4",
     "events": [
       {
         "identifier": "uu80114146",
@@ -392,22 +392,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80113421",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1754555555.209999,
-        "latitudeDeg": 44.6075,
-        "longitudeDeg": -110.43733333333333,
-        "depthKM": 5.83,
-        "magnitude": 0.49,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "NNW",
-          "distanceKM": 6.893506993194262
-        }
-      },
-      {
         "identifier": "uu80113801",
         "authority": "UU",
         "eventType": "eq",
@@ -744,18 +728,6 @@
         "longitudeDeg": -111.516833333333,
         "depthKM": 13.74,
         "magnitude": 0.6,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "nn00902575",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1755159648.946,
-        "latitudeDeg": 37.3008,
-        "longitudeDeg": -114.9008,
-        "depthKM": 3.5,
-        "magnitude": 1.2,
         "isLocal": false,
         "nearestTown": null
       },
