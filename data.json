@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-22T15:06:40Z",
+  "fetchedAt": "2025-08-22T15:44:21Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -692,6 +692,19 @@
       "version": null
     },
     {
+      "identifier": "uu80114376",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755835394.7999992,
+      "latitudeDeg": 44.732166666666664,
+      "longitudeDeg": -110.8685,
+      "depthKm": 9.05,
+      "magnitude": 1.09,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 20.186210741851717}",
+      "version": null
+    },
+    {
       "identifier": "uu80114156",
       "authority": "UU",
       "eventType": "eq",
@@ -1183,6 +1196,19 @@
       "magnitude": 0.49,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80114391",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755857985.9099998,
+      "latitudeDeg": 44.80233333333334,
+      "longitudeDeg": -110.857,
+      "depthKm": 8.02,
+      "magnitude": 0.85,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.850558655538666}",
       "version": null
     },
     {
