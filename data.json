@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-23T10:29:05Z",
+  "fetchedAt": "2025-08-23T14:05:31Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -832,6 +832,19 @@
       "magnitude": 0.9,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.964611443135432}",
+      "version": null
+    },
+    {
+      "identifier": "mb90108523",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755949059.8600001,
+      "latitudeDeg": 44.5721666666667,
+      "longitudeDeg": -112.2155,
+      "depthKm": 9.06,
+      "magnitude": 1.26,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1924,6 +1937,19 @@
       "magnitude": 1.01,
       "isLocal": true,
       "nearestTown": "{'town': 'Cedar Fort, UT', 'bearing': 'N', 'distanceKM': 9.52206298453044}",
+      "version": null
+    },
+    {
+      "identifier": "mb90108508",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755905936.2,
+      "latitudeDeg": 45.8711666666667,
+      "longitudeDeg": -112.299333333333,
+      "depthKm": 7.03,
+      "magnitude": 1.69,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
