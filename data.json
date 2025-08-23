@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-23T03:05:54Z",
+  "fetchedAt": "2025-08-23T03:48:29Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -1599,6 +1599,19 @@
       "magnitude": 1.6600000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Franklin, ID', 'bearing': 'NE', 'distanceKM': 11.692164604523732}",
+      "version": null
+    },
+    {
+      "identifier": "nn00903041",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1755920543.0310001,
+      "latitudeDeg": 37.2903,
+      "longitudeDeg": -114.7584,
+      "depthKm": 9.3,
+      "magnitude": 1.1,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
