@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-24T17:05:31Z",
+  "fetchedAt": "2025-08-24T18:47:05Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -1274,6 +1274,19 @@
       "magnitude": 2.57,
       "isLocal": true,
       "nearestTown": "{'town': 'Central, UT', 'bearing': 'NNE', 'distanceKM': 7.906159517736174}",
+      "version": null
+    },
+    {
+      "identifier": "mb90108548",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1755991169.5900002,
+      "latitudeDeg": 44.8123333333333,
+      "longitudeDeg": -111.528166666667,
+      "depthKm": 10.78,
+      "magnitude": 0.89,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
