@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "570f27acdbb1db71dc8820a2746033c798fec74c",
+    "hashString": "3eb42965b1091f298d3ab80d41afc5584af62d6d",
     "events": [
       {
         "identifier": "uu80114146",
@@ -130,6 +130,22 @@
         "magnitude": 0.15,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80114526",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756032980.9699993,
+        "latitudeDeg": 38.19616666666667,
+        "longitudeDeg": -114.078,
+        "depthKM": 5.32,
+        "magnitude": 2.62,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Ursine, NV",
+          "bearing": "NNE",
+          "distanceKM": 26.46191399414613
+        }
       },
       {
         "identifier": "nn00903030",
