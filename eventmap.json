@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f731d5857ce58798135ea127b85d305f709e29a6",
+    "hashString": "31fbd6a59ae52c4ca3ada2e730df97fb73aadca4",
     "events": [
       {
         "identifier": "uu80114146",
@@ -1105,6 +1105,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.282734065608775
+        }
+      },
+      {
+        "identifier": "uu80114651",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756130447.959999,
+        "latitudeDeg": 39.04233333333333,
+        "longitudeDeg": -110.80266666666667,
+        "depthKM": 16.77,
+        "magnitude": 1.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Castle Dale, UT",
+          "bearing": "SE",
+          "distanceKM": 26.588034549417575
         }
       },
       {
