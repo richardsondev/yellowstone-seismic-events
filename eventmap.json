@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "31fbd6a59ae52c4ca3ada2e730df97fb73aadca4",
+    "hashString": "c4d7a68ba29350619efead64f7a266c4d49389f6",
     "events": [
       {
         "identifier": "uu80114146",
@@ -920,6 +920,22 @@
         }
       },
       {
+        "identifier": "uu80114641",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756123102.3799992,
+        "latitudeDeg": 39.01316666666666,
+        "longitudeDeg": -111.398,
+        "depthKM": -1.34,
+        "magnitude": 0.87,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "NW",
+          "distanceKM": 16.337175518055357
+        }
+      },
+      {
         "identifier": "mb90108263",
         "authority": "MB",
         "eventType": "eq",
@@ -1352,18 +1368,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "mb90108218",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1755533133.17,
-        "latitudeDeg": 44.8113333333333,
-        "longitudeDeg": -111.5155,
-        "depthKM": 13.27,
-        "magnitude": 0.47,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "mb90108518",
         "authority": "MB",
         "eventType": "eq",
@@ -1629,6 +1633,22 @@
           "town": "Leeds, UT",
           "bearing": "SSW",
           "distanceKM": 7.91837097297324
+        }
+      },
+      {
+        "identifier": "uu80004583",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756126842.5599976,
+        "latitudeDeg": 38.999,
+        "longitudeDeg": -111.41716666666667,
+        "depthKM": -1.77,
+        "magnitude": 1.49,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "WNW",
+          "distanceKM": 16.832501659718766
         }
       },
       {
@@ -1918,22 +1938,6 @@
         "magnitude": 1.69,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80004458",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1755075606.5099998,
-        "latitudeDeg": 41.887,
-        "longitudeDeg": -112.37233333333333,
-        "depthKM": 8.75,
-        "magnitude": 0.73,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Blue Creek, UT",
-          "bearing": "ENE",
-          "distanceKM": 7.664884614804627
-        }
       }
     ]
   },
