@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c4d7a68ba29350619efead64f7a266c4d49389f6",
+    "hashString": "af5e00afb05006e3af5cc3fb8f5e2a6ccca82857",
     "events": [
       {
         "identifier": "uu80114146",
@@ -738,6 +738,22 @@
         "magnitude": 1.38,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80004593",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756109033.8499985,
+        "latitudeDeg": 39.92816666666667,
+        "longitudeDeg": -111.37016666666666,
+        "depthKM": 2.83,
+        "magnitude": 0.71,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Thistle, UT",
+          "bearing": "ESE",
+          "distanceKM": 13.13475989149478
+        }
       },
       {
         "identifier": "uu80114281",

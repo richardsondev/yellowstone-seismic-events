@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-25T16:31:52Z",
+  "fetchedAt": "2025-08-25T17:27:31Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -650,6 +650,19 @@
       "magnitude": 1.38,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80004593",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756109033.8499985,
+      "latitudeDeg": 39.92816666666667,
+      "longitudeDeg": -111.37016666666666,
+      "depthKm": 2.83,
+      "magnitude": 0.71,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Thistle, UT', 'bearing': 'ESE', 'distanceKM': 13.13475989149478}",
       "version": null
     },
     {
