@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-25T19:25:44Z",
+  "fetchedAt": "2025-08-25T19:43:38Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -276,6 +276,19 @@
       "version": null
     },
     {
+      "identifier": "uu80004608",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756050820.5299988,
+      "latitudeDeg": 41.495,
+      "longitudeDeg": -112.165,
+      "depthKm": 8.66,
+      "magnitude": 0.9,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SW', 'distanceKM': 7.71929258579638}",
+      "version": null
+    },
+    {
       "identifier": "uu80114206",
       "authority": "UU",
       "eventType": "eq",
@@ -299,6 +312,19 @@
       "magnitude": 1.85,
       "isLocal": true,
       "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'W', 'distanceKM': 12.013752958041948}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114536",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756053637.0499992,
+      "latitudeDeg": 39.01533333333333,
+      "longitudeDeg": -111.39566666666667,
+      "depthKm": -1.26,
+      "magnitude": 1.08,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 16.328627035186045}",
       "version": null
     },
     {
@@ -403,6 +429,19 @@
       "magnitude": 1.04,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'W', 'distanceKM': 15.186103822910892}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114546",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756065201.6999989,
+      "latitudeDeg": 41.30433333333333,
+      "longitudeDeg": -111.83483333333334,
+      "depthKm": 3.69,
+      "magnitude": 1.1,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Huntsville, UT', 'bearing': 'NW', 'distanceKM': 7.2712593925834055}",
       "version": null
     },
     {
