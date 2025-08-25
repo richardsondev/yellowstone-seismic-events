@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a685dc4fa7aa03b445a34f22da455507763446cf",
+    "hashString": "99b027a6a1acae825325027c5d13b769a697ef67",
     "events": [
       {
         "identifier": "uu80114146",
@@ -1793,6 +1793,22 @@
           "town": "Blue Creek, UT",
           "bearing": "ENE",
           "distanceKM": 7.379257253837012
+        }
+      },
+      {
+        "identifier": "uu80004618",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756027270.8400002,
+        "latitudeDeg": 38.9965,
+        "longitudeDeg": -111.41116666666667,
+        "depthKM": -1.6,
+        "magnitude": 0.74,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "WNW",
+          "distanceKM": 16.244509451699166
         }
       },
       {
