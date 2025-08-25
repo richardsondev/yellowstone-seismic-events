@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-25T17:27:31Z",
+  "fetchedAt": "2025-08-25T18:09:00Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -273,6 +273,19 @@
       "magnitude": 0.8,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.99151567092977}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004598",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756084144.8399997,
+      "latitudeDeg": 41.853833333333334,
+      "longitudeDeg": -112.60316666666667,
+      "depthKm": 1.72,
+      "magnitude": 1.85,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'W', 'distanceKM': 12.013752958041948}",
       "version": null
     },
     {
