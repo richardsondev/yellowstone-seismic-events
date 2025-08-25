@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-25T18:32:24Z",
+  "fetchedAt": "2025-08-25T18:48:37Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -341,6 +341,19 @@
       "version": null
     },
     {
+      "identifier": "uu80004643",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756070828.9399996,
+      "latitudeDeg": 44.480666666666664,
+      "longitudeDeg": -110.44466666666666,
+      "depthKm": 2.97,
+      "magnitude": 1.72,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'SSW', 'distanceKM': 8.55658701570116}",
+      "version": null
+    },
+    {
       "identifier": "uu80113801",
       "authority": "UU",
       "eventType": "eq",
@@ -481,6 +494,19 @@
       "magnitude": 1.06,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.87307066276609}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114561",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756070825.1599998,
+      "latitudeDeg": 44.471666666666664,
+      "longitudeDeg": -110.43833333333333,
+      "depthKm": 2.03,
+      "magnitude": 1.35,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'SSW', 'distanceKM': 9.310445384478912}",
       "version": null
     },
     {
@@ -676,6 +702,19 @@
       "magnitude": 1.32,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 16.438869406461684}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114571",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756071443.0299988,
+      "latitudeDeg": 44.479,
+      "longitudeDeg": -110.45216666666667,
+      "depthKm": 2.93,
+      "magnitude": 0.68,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'SSW', 'distanceKM': 8.978048605544803}",
       "version": null
     },
     {
@@ -1753,32 +1792,6 @@
       "longitudeDeg": -111.511,
       "depthKm": 11.5,
       "magnitude": 0.08,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80004473",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1755179095.9699974,
-      "latitudeDeg": 40.41283333333333,
-      "longitudeDeg": -112.10483333333333,
-      "depthKm": -0.23,
-      "magnitude": 1.01,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Cedar Fort, UT', 'bearing': 'N', 'distanceKM': 9.52206298453044}",
-      "version": null
-    },
-    {
-      "identifier": "mb90108508",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1755905936.2,
-      "latitudeDeg": 45.8711666666667,
-      "longitudeDeg": -112.299333333333,
-      "depthKm": 7.03,
-      "magnitude": 1.69,
       "isLocal": false,
       "nearestTown": null,
       "version": null
