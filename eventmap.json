@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "116f5d3148f6f4a14aea3f8779dccc44448c5550",
+    "hashString": "a685dc4fa7aa03b445a34f22da455507763446cf",
     "events": [
       {
         "identifier": "uu80114146",
@@ -1164,6 +1164,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80004613",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756035806.0499992,
+        "latitudeDeg": 37.30733333333333,
+        "longitudeDeg": -114.18233333333333,
+        "depthKM": 9.35,
+        "magnitude": 0.85,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Acoma, NV",
+          "bearing": "S",
+          "distanceKM": 26.81431326306233
+        }
+      },
+      {
         "identifier": "uu80114081",
         "authority": "UU",
         "eventType": "eq",
@@ -1739,11 +1755,11 @@
         "identifier": "nn00903041",
         "authority": "NN",
         "eventType": "eq",
-        "originTimeUTC": 1755920543.0310001,
-        "latitudeDeg": 37.2903,
-        "longitudeDeg": -114.7584,
-        "depthKM": 9.3,
-        "magnitude": 1.1,
+        "originTimeUTC": 1755920540.289,
+        "latitudeDeg": 37.2536,
+        "longitudeDeg": -114.5407,
+        "depthKM": 4.4,
+        "magnitude": 1.2,
         "isLocal": false,
         "nearestTown": null
       },
