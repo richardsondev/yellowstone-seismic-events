@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-25T19:43:38Z",
+  "fetchedAt": "2025-08-25T20:06:56Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -1017,6 +1017,19 @@
       "version": null
     },
     {
+      "identifier": "uu80004613",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756035806.0499992,
+      "latitudeDeg": 37.30733333333333,
+      "longitudeDeg": -114.18233333333333,
+      "depthKm": 9.35,
+      "magnitude": 0.85,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Acoma, NV', 'bearing': 'S', 'distanceKM': 26.81431326306233}",
+      "version": null
+    },
+    {
       "identifier": "uu80114081",
       "authority": "UU",
       "eventType": "eq",
@@ -1514,11 +1527,11 @@
       "identifier": "nn00903041",
       "authority": "NN",
       "eventType": "eq",
-      "originTimeUtc": 1755920543.0310001,
-      "latitudeDeg": 37.2903,
-      "longitudeDeg": -114.7584,
-      "depthKm": 9.3,
-      "magnitude": 1.1,
+      "originTimeUtc": 1755920540.289,
+      "latitudeDeg": 37.2536,
+      "longitudeDeg": -114.5407,
+      "depthKm": 4.4,
+      "magnitude": 1.2,
       "isLocal": false,
       "nearestTown": null,
       "version": null
