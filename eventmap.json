@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0f128ca529b0b7bfe12014e06f0b706472759959",
+    "hashString": "16b1354897c5caa7d97e35296453c3017597c7be",
     "events": [
       {
         "identifier": "uu80114146",
@@ -677,6 +677,22 @@
           "town": "Lake, WY",
           "bearing": "SSW",
           "distanceKM": 8.250816343760384
+        }
+      },
+      {
+        "identifier": "uu80114686",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756169226.1599998,
+        "latitudeDeg": 37.29333333333334,
+        "longitudeDeg": -114.19066666666667,
+        "depthKM": 6.48,
+        "magnitude": 2.25,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Acoma, NV",
+          "bearing": "S",
+          "distanceKM": 28.398029497380215
         }
       },
       {
