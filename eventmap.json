@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "120f7f987b4190279674cc62dbff6cdf1008b73b",
+    "hashString": "c6d58755aaa6b0232c869fdd6afe9e47a2e7a2d3",
     "events": [
       {
         "identifier": "uu80114146",
@@ -2218,6 +2218,22 @@
         "magnitude": 0.78,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80114711",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756191755.9199982,
+        "latitudeDeg": 39.50516666666667,
+        "longitudeDeg": -110.34516666666667,
+        "depthKM": 2.12,
+        "magnitude": 1.37,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Columbia, UT",
+          "bearing": "ESE",
+          "distanceKM": 3.589803071091663
+        }
       },
       {
         "identifier": "uu80113731",
