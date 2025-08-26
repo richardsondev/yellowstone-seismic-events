@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9bd9bdc9c46650954587ba04607be738d4b0dd57",
+    "hashString": "3a642596d73a47698e595cd204dd6f64cb5c6c0f",
     "events": [
       {
         "identifier": "uu80114146",
@@ -1065,6 +1065,22 @@
           "town": "Lake, WY",
           "bearing": "NE",
           "distanceKM": 7.926447353536107
+        }
+      },
+      {
+        "identifier": "uu80004653",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756170932.8099976,
+        "latitudeDeg": 39.93933333333333,
+        "longitudeDeg": -111.87533333333333,
+        "depthKM": 4.92,
+        "magnitude": 0.58,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Goshen, UT",
+          "bearing": "SE",
+          "distanceKM": 2.649995069938102
         }
       },
       {
@@ -2372,18 +2388,6 @@
         "longitudeDeg": -112.929166666667,
         "depthKM": 6.28,
         "magnitude": 1.75,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90108768",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1756168903.04,
-        "latitudeDeg": 44.8128333333333,
-        "longitudeDeg": -111.531333333333,
-        "depthKM": 10.24,
-        "magnitude": 1.55,
         "isLocal": false,
         "nearestTown": null
       }
