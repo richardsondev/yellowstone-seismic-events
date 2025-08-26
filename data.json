@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-26T06:09:51Z",
+  "fetchedAt": "2025-08-26T06:49:27Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -234,19 +234,6 @@
       "magnitude": 1.51,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WSW', 'distanceKM': 22.587338089247233}",
-      "version": null
-    },
-    {
-      "identifier": "mb90107883",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1755584668.46,
-      "latitudeDeg": 44.8141666666667,
-      "longitudeDeg": -111.527833333333,
-      "depthKm": 10.07,
-      "magnitude": 1.0,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -822,19 +809,6 @@
       "version": null
     },
     {
-      "identifier": "mb90108353",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1755585156.6200001,
-      "latitudeDeg": 44.3748333333333,
-      "longitudeDeg": -115.173666666667,
-      "depthKm": 3.44,
-      "magnitude": 1.38,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80004593",
       "authority": "UU",
       "eventType": "eq",
@@ -1066,19 +1040,6 @@
       "magnitude": 1.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Central, UT', 'bearing': 'NE', 'distanceKM': 7.71500117236798}",
-      "version": null
-    },
-    {
-      "identifier": "mb90108243",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1755585406.38,
-      "latitudeDeg": 45.047,
-      "longitudeDeg": -111.780166666667,
-      "depthKm": 9.11,
-      "magnitude": 0.97,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -1963,6 +1924,19 @@
       "magnitude": 1.75,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80114071",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1755623693.0200005,
+      "latitudeDeg": 44.807833333333335,
+      "longitudeDeg": -110.85966666666667,
+      "depthKm": 11.55,
+      "magnitude": 3.71,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.44810017750027}",
       "version": null
     },
     {
