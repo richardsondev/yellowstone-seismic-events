@@ -79,19 +79,6 @@
       "version": null
     },
     {
-      "identifier": "mb90108258",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1755694959.3700001,
-      "latitudeDeg": 45.7348333333333,
-      "longitudeDeg": -111.866,
-      "depthKm": 8.09,
-      "magnitude": 1.25,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "mb90108408",
       "authority": "MB",
       "eventType": "eq",
@@ -1103,6 +1090,19 @@
       "magnitude": 0.14,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80114836",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756289329.0699997,
+      "latitudeDeg": 39.56216666666667,
+      "longitudeDeg": -111.37366666666667,
+      "depthKm": 1.39,
+      "magnitude": 2.46,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mount Pleasant, UT', 'bearing': 'ENE', 'distanceKM': 7.218302306544249}",
       "version": null
     },
     {
