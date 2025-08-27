@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "42cd6e599820dd4ee7074f4a9f7d0bdf6ee54715",
+    "hashString": "02e2c105f20058d68421308c7ed3e55d15c05c6d",
     "events": [
       {
         "identifier": "uu80114146",
@@ -457,6 +457,22 @@
           "town": "Emery, UT",
           "bearing": "NW",
           "distanceKM": 16.328627035186045
+        }
+      },
+      {
+        "identifier": "uu80004673",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756269137.25,
+        "latitudeDeg": 36.98716666666667,
+        "longitudeDeg": -112.36233333333334,
+        "depthKM": 19.98,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fredonia, AZ",
+          "bearing": "ENE",
+          "distanceKM": 15.311806978144318
         }
       },
       {
