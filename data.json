@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-27T17:05:54Z",
+  "fetchedAt": "2025-08-27T17:27:55Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -390,6 +390,19 @@
       "magnitude": 1.85,
       "isLocal": true,
       "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'W', 'distanceKM': 12.013752958041948}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114811",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756267661.459999,
+      "latitudeDeg": 38.5025,
+      "longitudeDeg": -112.88816666666666,
+      "depthKm": 1.86,
+      "magnitude": 1.68,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.872152534983842}",
       "version": null
     },
     {
