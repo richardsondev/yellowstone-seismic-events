@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-27T20:45:13Z",
+  "fetchedAt": "2025-08-27T21:26:42Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -26,6 +26,19 @@
       "magnitude": 2.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.540362466437667}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114871",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756328495.5900002,
+      "latitudeDeg": 39.419333333333334,
+      "longitudeDeg": -111.07316666666667,
+      "depthKm": 1.68,
+      "magnitude": 1.35,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'SW', 'distanceKM': 8.852018728706376}",
       "version": null
     },
     {
