@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4edfbc106a801e646f6486a2bcea0c058eaafd21",
+    "hashString": "dca9533228dba71845a6ee7ccf6236677f141a05",
     "events": [
       {
         "identifier": "uu80114146",
@@ -1253,6 +1253,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "ENE",
           "distanceKM": 19.434172548862144
+        }
+      },
+      {
+        "identifier": "uu80115036",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756409432.4899979,
+        "latitudeDeg": 38.50266666666667,
+        "longitudeDeg": -112.8915,
+        "depthKM": 2.27,
+        "magnitude": 0.88,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.692193904537955
         }
       },
       {
@@ -2764,22 +2780,6 @@
         }
       },
       {
-        "identifier": "uu80113826",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1755202242.8999977,
-        "latitudeDeg": 42.391333333333336,
-        "longitudeDeg": -111.5175,
-        "depthKM": -0.32,
-        "magnitude": 2.05,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Sharon, ID",
-          "bearing": "NW",
-          "distanceKM": 5.5099619684558645
-        }
-      },
-      {
         "identifier": "uu80113961",
         "authority": "UU",
         "eventType": "eq",
@@ -3184,18 +3184,6 @@
         "longitudeDeg": -111.540166666667,
         "depthKM": 8.68,
         "magnitude": 0.41,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "nn00902962",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1755820794.2810001,
-        "latitudeDeg": 37.233,
-        "longitudeDeg": -114.5282,
-        "depthKM": 3.5,
-        "magnitude": 2.2,
         "isLocal": false,
         "nearestTown": null
       }
