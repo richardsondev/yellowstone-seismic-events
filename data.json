@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-28T15:44:56Z",
+  "fetchedAt": "2025-08-28T16:07:36Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -2405,6 +2405,19 @@
       "magnitude": 0.98,
       "isLocal": true,
       "nearestTown": "{'town': 'Columbia, UT', 'bearing': 'ESE', 'distanceKM': 3.7965222775979552}",
+      "version": null
+    },
+    {
+      "identifier": "mb90109143",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1756282885.56,
+      "latitudeDeg": 45.7368333333333,
+      "longitudeDeg": -110.8735,
+      "depthKm": 12.92,
+      "magnitude": 0.59,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
