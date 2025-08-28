@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-28T18:48:03Z",
+  "fetchedAt": "2025-08-28T19:05:34Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -1976,6 +1976,19 @@
       "magnitude": 1.12,
       "isLocal": true,
       "nearestTown": "{'town': 'Central, UT', 'bearing': 'NE', 'distanceKM': 7.744138173695098}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114976",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756374840.16,
+      "latitudeDeg": 38.504666666666665,
+      "longitudeDeg": -112.88733333333333,
+      "depthKm": 1.73,
+      "magnitude": 1.22,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.099469977481142}",
       "version": null
     },
     {
