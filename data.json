@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-28T21:06:08Z",
+  "fetchedAt": "2025-08-28T22:44:00Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -910,6 +910,19 @@
       "magnitude": 1.46,
       "isLocal": true,
       "nearestTown": "{'town': 'Leeds, UT', 'bearing': 'SSW', 'distanceKM': 8.477724768952408}",
+      "version": null
+    },
+    {
+      "identifier": "mb90109248",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1756415041.14,
+      "latitudeDeg": 44.8158333333333,
+      "longitudeDeg": -111.531166666667,
+      "depthKm": 11.69,
+      "magnitude": 0.54,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -2858,19 +2871,6 @@
       "longitudeDeg": -111.8505,
       "depthKm": 1.12,
       "magnitude": 2.15,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "mb90108783",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1756190966.19,
-      "latitudeDeg": 44.809,
-      "longitudeDeg": -111.540166666667,
-      "depthKm": 8.68,
-      "magnitude": 0.41,
       "isLocal": false,
       "nearestTown": null,
       "version": null
