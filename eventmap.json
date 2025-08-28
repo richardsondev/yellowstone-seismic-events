@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4870d2cc54ce9f0f5011820bf1196ad799280dde",
+    "hashString": "e43be2a665ae126c07174cd5f001a5462fddcc83",
     "events": [
       {
         "identifier": "uu80114146",
@@ -2245,6 +2245,22 @@
           "town": "Central, UT",
           "bearing": "NE",
           "distanceKM": 7.744138173695098
+        }
+      },
+      {
+        "identifier": "uu80114976",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756374840.16,
+        "latitudeDeg": 38.504666666666665,
+        "longitudeDeg": -112.88733333333333,
+        "depthKM": 1.73,
+        "magnitude": 1.22,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.099469977481142
         }
       },
       {
