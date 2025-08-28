@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-28T16:07:36Z",
+  "fetchedAt": "2025-08-28T17:28:04Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -832,6 +832,19 @@
       "magnitude": 1.35,
       "isLocal": true,
       "nearestTown": "{'town': 'Summit, UT', 'bearing': 'NW', 'distanceKM': 11.926478494082286}",
+      "version": null
+    },
+    {
+      "identifier": "uu80114911",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756361892.37,
+      "latitudeDeg": 38.50933333333333,
+      "longitudeDeg": -112.88883333333334,
+      "depthKm": 1.98,
+      "magnitude": 0.38,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.404250968207347}",
       "version": null
     },
     {
