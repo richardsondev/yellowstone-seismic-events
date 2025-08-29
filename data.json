@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-29T01:04:06Z",
+  "fetchedAt": "2025-08-29T02:00:12Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -91,6 +91,19 @@
       "magnitude": 1.09,
       "isLocal": true,
       "nearestTown": "{'town': 'Central, UT', 'bearing': 'NNE', 'distanceKM': 8.612694651570651}",
+      "version": null
+    },
+    {
+      "identifier": "nn00903322",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1756430176.7020001,
+      "latitudeDeg": 36.9162,
+      "longitudeDeg": -115.2263,
+      "depthKm": 0.0,
+      "magnitude": 0.7,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -2093,19 +2106,6 @@
       "magnitude": 0.59,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SW', 'distanceKM': 23.620469926775034}",
-      "version": null
-    },
-    {
-      "identifier": "mb90108443",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1755825034.0,
-      "latitudeDeg": 44.6851666666667,
-      "longitudeDeg": -111.8765,
-      "depthKm": 9.52,
-      "magnitude": 0.72,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
