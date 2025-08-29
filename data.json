@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-29T06:48:21Z",
+  "fetchedAt": "2025-08-29T08:08:42Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -754,19 +754,6 @@
       "magnitude": 1.1,
       "isLocal": true,
       "nearestTown": "{'town': 'Huntsville, UT', 'bearing': 'NW', 'distanceKM': 7.2712593925834055}",
-      "version": null
-    },
-    {
-      "identifier": "mb90108413",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1755848204.19,
-      "latitudeDeg": 44.8153333333333,
-      "longitudeDeg": -111.6015,
-      "depthKm": 10.64,
-      "magnitude": 1.58,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -2858,6 +2845,19 @@
       "longitudeDeg": -111.8505,
       "depthKm": 1.12,
       "magnitude": 2.15,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90108783",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1756190966.19,
+      "latitudeDeg": 44.809,
+      "longitudeDeg": -111.540166666667,
+      "depthKm": 8.68,
+      "magnitude": 0.41,
       "isLocal": false,
       "nearestTown": null,
       "version": null
