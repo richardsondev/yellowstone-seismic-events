@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-08-29T16:07:31Z",
+  "fetchedAt": "2025-08-29T16:31:38Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -52,6 +52,19 @@
       "magnitude": 1.35,
       "isLocal": true,
       "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'SW', 'distanceKM': 8.852018728706376}",
+      "version": null
+    },
+    {
+      "identifier": "uu80115121",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756440678.3099995,
+      "latitudeDeg": 38.50716666666667,
+      "longitudeDeg": -112.892,
+      "depthKm": 1.81,
+      "magnitude": 0.81,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.042301296989486}",
       "version": null
     },
     {
@@ -3055,19 +3068,6 @@
       "magnitude": 1.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Huntington, UT', 'bearing': 'WNW', 'distanceKM': 12.369694906043868}",
-      "version": null
-    },
-    {
-      "identifier": "mb90108703",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1756114742.24,
-      "latitudeDeg": 45.5401666666667,
-      "longitudeDeg": -111.8505,
-      "depthKm": 1.12,
-      "magnitude": 2.15,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
