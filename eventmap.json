@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fafdba768de45f3974822813183353057ff44ff4",
+    "hashString": "4b0aaa6e758a69929a7070802ba9d0cf1a7917b3",
     "events": [
       {
         "identifier": "uu80114146",
@@ -661,6 +661,22 @@
           "town": "Fredonia, AZ",
           "bearing": "ENE",
           "distanceKM": 15.311806978144318
+        }
+      },
+      {
+        "identifier": "uu80116286",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756810939.5,
+        "latitudeDeg": 44.801833333333335,
+        "longitudeDeg": -110.85033333333334,
+        "depthKM": 7.14,
+        "magnitude": 0.79,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.62481966623776
         }
       },
       {
@@ -2056,22 +2072,6 @@
         }
       },
       {
-        "identifier": "uu80114081",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1755624446.4799995,
-        "latitudeDeg": 44.80433333333333,
-        "longitudeDeg": -110.85183333333333,
-        "depthKM": 11.2,
-        "magnitude": 2.1,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 22.447516750414486
-        }
-      },
-      {
         "identifier": "mb90109508",
         "authority": "MB",
         "eventType": "eq",
@@ -2357,6 +2357,22 @@
           "town": "Castle Dale, UT",
           "bearing": "SE",
           "distanceKM": 26.588034549417575
+        }
+      },
+      {
+        "identifier": "uu80116276",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756808050.8000002,
+        "latitudeDeg": 38.492666666666665,
+        "longitudeDeg": -112.8955,
+        "depthKM": 2.04,
+        "magnitude": 0.63,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.636409235689044
         }
       },
       {
