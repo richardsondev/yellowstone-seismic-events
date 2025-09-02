@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-02T15:06:49Z",
+  "fetchedAt": "2025-09-02T15:45:13Z",
   "events": [
     {
       "identifier": "uu80114146",
@@ -585,6 +585,19 @@
       "magnitude": 1.16,
       "isLocal": true,
       "nearestTown": "{'town': 'Levan, UT', 'bearing': 'SW', 'distanceKM': 7.6012382694498815}",
+      "version": null
+    },
+    {
+      "identifier": "mb90109858",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1756769552.81,
+      "latitudeDeg": 44.3486666666667,
+      "longitudeDeg": -115.177166666667,
+      "depthKm": 8.27,
+      "magnitude": 2.61,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
