@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ec7ca0a89aa9c15d522958685774ba15cda5e3cd",
+    "hashString": "d7023ef852d62d216a12dcfe33ad0f447771e799",
     "events": [
       {
         "identifier": "uu80116071",
@@ -577,22 +577,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.90198585697528
-        }
-      },
-      {
-        "identifier": "uu80114206",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1755694421.2299995,
-        "latitudeDeg": 44.797666666666665,
-        "longitudeDeg": -110.8495,
-        "depthKM": 7.77,
-        "magnitude": 0.8,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 22.99151567092977
         }
       },
       {
@@ -1417,22 +1401,6 @@
           "town": "Central, UT",
           "bearing": "NNE",
           "distanceKM": 9.05443971213269
-        }
-      },
-      {
-        "identifier": "uu80114201",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1755693736.8899994,
-        "latitudeDeg": 38.834833333333336,
-        "longitudeDeg": -111.41866666666667,
-        "depthKM": 14.05,
-        "magnitude": 0.9,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Emery, UT",
-          "bearing": "WSW",
-          "distanceKM": 17.672620907172195
         }
       },
       {
@@ -2646,6 +2614,18 @@
           "bearing": "NE",
           "distanceKM": 14.72019691765329
         }
+      },
+      {
+        "identifier": "mb90110073",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1756870920.7,
+        "latitudeDeg": 45.9328333333333,
+        "longitudeDeg": -111.381,
+        "depthKM": 7.27,
+        "magnitude": 2.13,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80114501",
