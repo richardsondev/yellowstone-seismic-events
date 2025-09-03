@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-03T14:06:25Z",
+  "fetchedAt": "2025-09-03T14:29:23Z",
   "events": [
     {
       "identifier": "uu80116071",
@@ -952,6 +952,19 @@
       "version": null
     },
     {
+      "identifier": "uu80116431",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756866243.51,
+      "latitudeDeg": 44.7995,
+      "longitudeDeg": -110.84916666666666,
+      "depthKm": 4.57,
+      "magnitude": 1.05,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.80191073763723}",
+      "version": null
+    },
+    {
       "identifier": "uu80116411",
       "authority": "UU",
       "eventType": "eq",
@@ -962,6 +975,19 @@
       "magnitude": 2.07,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.149362702208604}",
+      "version": null
+    },
+    {
+      "identifier": "mb90110118",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1756648163.3600001,
+      "latitudeDeg": 44.811,
+      "longitudeDeg": -111.537666666667,
+      "depthKm": 10.12,
+      "magnitude": 0.17,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1638,19 +1664,6 @@
       "magnitude": 1.77,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.696738040937825}",
-      "version": null
-    },
-    {
-      "identifier": "mb90108938",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1756303741.08,
-      "latitudeDeg": 44.5145,
-      "longitudeDeg": -114.598166666667,
-      "depthKm": 4.45,
-      "magnitude": 1.29,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -2756,6 +2769,19 @@
       "magnitude": 1.16,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WNW', 'distanceKM': 16.084578668844518}",
+      "version": null
+    },
+    {
+      "identifier": "mb90110113",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1756647951.92,
+      "latitudeDeg": 44.812,
+      "longitudeDeg": -111.5345,
+      "depthKm": 11.88,
+      "magnitude": 0.34,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
