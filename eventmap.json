@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f778c8b61de8d5150a0c1c12230d6287cf59b865",
+    "hashString": "403a130c99a93e39808074b4f54af624376ecb3d",
     "events": [
       {
         "identifier": "uu80116071",
@@ -1370,6 +1370,22 @@
         "magnitude": 0.02,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80116131",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756763384.8999977,
+        "latitudeDeg": 38.5015,
+        "longitudeDeg": -112.89933333333333,
+        "depthKM": 2.43,
+        "magnitude": 0.72,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.149377914966355
+        }
       },
       {
         "identifier": "uu80115221",
@@ -3480,6 +3496,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80115391",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756577778.8999996,
+        "latitudeDeg": 38.501333333333335,
+        "longitudeDeg": -112.89233333333334,
+        "depthKM": 2.01,
+        "magnitude": 1.21,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.533159690642364
+        }
+      },
+      {
         "identifier": "uu80115146",
         "authority": "UU",
         "eventType": "eq",
@@ -3988,6 +4020,22 @@
         }
       },
       {
+        "identifier": "uu80115381",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756576573.0299997,
+        "latitudeDeg": 38.498,
+        "longitudeDeg": -112.8885,
+        "depthKM": 1.74,
+        "magnitude": 1.1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.485880660859225
+        }
+      },
+      {
         "identifier": "uu80115376",
         "authority": "UU",
         "eventType": "eq",
@@ -4145,22 +4193,6 @@
           "town": "Sulphurdale, UT",
           "bearing": "NE",
           "distanceKM": 2.926913634510968
-        }
-      },
-      {
-        "identifier": "uu80004683",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756291978.3400002,
-        "latitudeDeg": 39.504333333333335,
-        "longitudeDeg": -110.343,
-        "depthKM": -1.71,
-        "magnitude": 0.98,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Columbia, UT",
-          "bearing": "ESE",
-          "distanceKM": 3.7965222775979552
         }
       }
     ]
