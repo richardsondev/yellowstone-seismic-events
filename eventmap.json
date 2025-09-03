@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1b12cb295b2077a0f88dcf59ea8d810b0ba66eb3",
+    "hashString": "d1a1e64642d1bb1acad6a662c9252e7ae8b9ac44",
     "events": [
       {
         "identifier": "uu80115906",
@@ -748,6 +748,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80115526",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756625337.0099983,
+        "latitudeDeg": 38.50416666666667,
+        "longitudeDeg": -112.89516666666667,
+        "depthKM": 2.18,
+        "magnitude": 0.7000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.609655898697113
+        }
+      },
+      {
         "identifier": "uu80116281",
         "authority": "UU",
         "eventType": "eq",
@@ -1237,22 +1253,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.851349714142684
-        }
-      },
-      {
-        "identifier": "uu80114251",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1755728345.6299996,
-        "latitudeDeg": 37.4855,
-        "longitudeDeg": -113.58133333333333,
-        "depthKM": 9.65,
-        "magnitude": 1.59,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Central, UT",
-          "bearing": "NNE",
-          "distanceKM": 8.621072191560962
         }
       },
       {
@@ -2346,6 +2346,22 @@
         "magnitude": 1.32,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80115521",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756623155.9099998,
+        "latitudeDeg": 38.5005,
+        "longitudeDeg": -112.88966666666667,
+        "depthKM": 1.64,
+        "magnitude": 0.9500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.619930018561499
+        }
       },
       {
         "identifier": "mb90110143",
@@ -4249,22 +4265,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.832214044941031
-        }
-      },
-      {
-        "identifier": "uu80114241",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1755728006.2600002,
-        "latitudeDeg": 37.478833333333334,
-        "longitudeDeg": -113.58283333333333,
-        "depthKM": 9.65,
-        "magnitude": 2.57,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Central, UT",
-          "bearing": "NNE",
-          "distanceKM": 7.906159517736174
         }
       },
       {
