@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6a878ddf516c5d87af0420bd5ce3e10e3afb4a8c",
+    "hashString": "40f9aef270f076c088ed29a3e5852f128053c4f3",
     "events": [
       {
         "identifier": "uu80116071",
@@ -497,6 +497,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.68318554777043
+        }
+      },
+      {
+        "identifier": "uu80115496",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756615848.329998,
+        "latitudeDeg": 38.49616666666667,
+        "longitudeDeg": -112.8865,
+        "depthKM": 1.61,
+        "magnitude": 1.69,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.460076184025102
         }
       },
       {
@@ -1961,6 +1977,22 @@
           "town": "Lake, WY",
           "bearing": "SSW",
           "distanceKM": 9.426788739703428
+        }
+      },
+      {
+        "identifier": "uu80115891",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756695400.3499985,
+        "latitudeDeg": 38.4975,
+        "longitudeDeg": -112.90066666666667,
+        "depthKM": 2.52,
+        "magnitude": 1.59,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.734973838088866
         }
       },
       {
@@ -4593,22 +4625,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.315380325192113
-        }
-      },
-      {
-        "identifier": "uu80115881",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756692614.62,
-        "latitudeDeg": 44.7985,
-        "longitudeDeg": -110.85233333333333,
-        "depthKM": 4.74,
-        "magnitude": 1.06,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 23.024154025818273
         }
       }
     ]
