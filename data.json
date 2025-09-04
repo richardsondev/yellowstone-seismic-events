@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-04T18:47:10Z",
+  "fetchedAt": "2025-09-04T19:05:37Z",
   "events": [
     {
       "identifier": "uu80115906",
@@ -429,6 +429,19 @@
       "magnitude": 0.55,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'SSW', 'distanceKM': 9.111224115018913}",
+      "version": null
+    },
+    {
+      "identifier": "uu80116611",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757005191.6599998,
+      "latitudeDeg": 44.80466666666667,
+      "longitudeDeg": -110.868,
+      "depthKm": 5.84,
+      "magnitude": 1.5,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SW', 'distanceKM': 23.105325594389594}",
       "version": null
     },
     {
@@ -1352,6 +1365,19 @@
       "magnitude": 1.91,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80115661",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756645785.579998,
+      "latitudeDeg": 38.501333333333335,
+      "longitudeDeg": -112.9,
+      "depthKm": 2.33,
+      "magnitude": 1.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.09799324295881}",
       "version": null
     },
     {
@@ -4238,19 +4264,6 @@
       "magnitude": 0.61,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.153866002547455}",
-      "version": null
-    },
-    {
-      "identifier": "uu80115381",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1756576573.0299997,
-      "latitudeDeg": 38.498,
-      "longitudeDeg": -112.8885,
-      "depthKm": 1.74,
-      "magnitude": 1.1,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.485880660859225}",
       "version": null
     },
     {
