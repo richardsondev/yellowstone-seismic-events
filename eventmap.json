@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "352b388e217066b0ca46cef87e36d2b04332f608",
+    "hashString": "fcdd46e655b227b752b0369af106f788884158e4",
     "events": [
       {
         "identifier": "uu80115906",
@@ -3468,22 +3468,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80114316",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1755782230.9399996,
-        "latitudeDeg": 41.92916666666667,
-        "longitudeDeg": -112.56183333333334,
-        "depthKM": 6.1,
-        "magnitude": 1.03,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Blue Creek, UT",
-          "bearing": "NW",
-          "distanceKM": 11.36942269307864
-        }
-      },
-      {
         "identifier": "uu80116291",
         "authority": "UU",
         "eventType": "eq",
@@ -3553,6 +3537,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.569227726755786
+        }
+      },
+      {
+        "identifier": "uu80116581",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756984857.6100006,
+        "latitudeDeg": 38.50566666666667,
+        "longitudeDeg": -112.898,
+        "depthKM": 2.43,
+        "magnitude": 0.99,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.58069086708906
         }
       },
       {
@@ -4357,6 +4357,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.957611510517877
+        }
+      },
+      {
+        "identifier": "uu80116571",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756966384.88,
+        "latitudeDeg": 44.794666666666664,
+        "longitudeDeg": -110.84583333333333,
+        "depthKM": 5.07,
+        "magnitude": 0.96,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.13974357419758
         }
       },
       {

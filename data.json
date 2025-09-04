@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-04T13:12:06Z",
+  "fetchedAt": "2025-09-04T13:32:14Z",
   "events": [
     {
       "identifier": "uu80115906",
@@ -2993,19 +2993,6 @@
       "version": null
     },
     {
-      "identifier": "uu80114316",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1755782230.9399996,
-      "latitudeDeg": 41.92916666666667,
-      "longitudeDeg": -112.56183333333334,
-      "depthKm": 6.1,
-      "magnitude": 1.03,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'NW', 'distanceKM': 11.36942269307864}",
-      "version": null
-    },
-    {
       "identifier": "uu80116291",
       "authority": "UU",
       "eventType": "eq",
@@ -3068,6 +3055,19 @@
       "magnitude": 0.76,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.569227726755786}",
+      "version": null
+    },
+    {
+      "identifier": "uu80116581",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756984857.6100006,
+      "latitudeDeg": 38.50566666666667,
+      "longitudeDeg": -112.898,
+      "depthKm": 2.43,
+      "magnitude": 0.99,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.58069086708906}",
       "version": null
     },
     {
@@ -3770,6 +3770,19 @@
       "magnitude": 1.05,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.957611510517877}",
+      "version": null
+    },
+    {
+      "identifier": "uu80116571",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756966384.88,
+      "latitudeDeg": 44.794666666666664,
+      "longitudeDeg": -110.84583333333333,
+      "depthKm": 5.07,
+      "magnitude": 0.96,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.13974357419758}",
       "version": null
     },
     {
