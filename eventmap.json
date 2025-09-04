@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8f53dbcddac97778a44b9364c561e44f30bb9200",
+    "hashString": "b774356eb83bee31fe81905bfcf0a5e8089a91c0",
     "events": [
       {
         "identifier": "uu80115906",
@@ -4640,6 +4640,22 @@
         }
       },
       {
+        "identifier": "uu80115756",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756670156.8199997,
+        "latitudeDeg": 38.499,
+        "longitudeDeg": -112.90016666666666,
+        "depthKM": 2.23,
+        "magnitude": 1.76,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.890064844282062
+        }
+      },
+      {
         "identifier": "uu80115391",
         "authority": "UU",
         "eventType": "eq",
@@ -4669,6 +4685,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.58643731052907
+        }
+      },
+      {
+        "identifier": "uu80115766",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756671247.17,
+        "latitudeDeg": 38.501,
+        "longitudeDeg": -112.896,
+        "depthKM": 2.03,
+        "magnitude": 1.95,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.294893922069205
         }
       },
       {
@@ -5188,6 +5220,22 @@
         }
       },
       {
+        "identifier": "uu80115806",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756680426.5499997,
+        "latitudeDeg": 38.4955,
+        "longitudeDeg": -112.89416666666666,
+        "depthKM": 0.72,
+        "magnitude": 1.62,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.945733890457825
+        }
+      },
+      {
         "identifier": "uu80115276",
         "authority": "UU",
         "eventType": "eq",
@@ -5246,22 +5294,6 @@
         "magnitude": 0.29,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80115991",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756713412.8400002,
-        "latitudeDeg": 38.50516666666667,
-        "longitudeDeg": -112.90066666666667,
-        "depthKM": 2.22,
-        "magnitude": 0.73,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.391841358353204
-        }
       }
     ]
   },
