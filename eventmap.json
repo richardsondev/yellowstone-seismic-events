@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "eb0f026e32e5efb3b74a9ceb49427e5b9d918824",
+    "hashString": "0895788e19089f188efeb7f09f79daafc9ce89a5",
     "events": [
       {
         "identifier": "uu80115906",
@@ -1992,6 +1992,18 @@
         }
       },
       {
+        "identifier": "mb90110283",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1756994916.74,
+        "latitudeDeg": 44.5711666666667,
+        "longitudeDeg": -112.215166666667,
+        "depthKM": 9,
+        "magnitude": 1.82,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80115151",
         "authority": "UU",
         "eventType": "eq",
@@ -2561,22 +2573,6 @@
           "town": "Thistle, UT",
           "bearing": "ESE",
           "distanceKM": 13.13475989149478
-        }
-      },
-      {
-        "identifier": "uu80114321",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1755788664.08,
-        "latitudeDeg": 44.59616666666667,
-        "longitudeDeg": -110.32366666666667,
-        "depthKM": 5.46,
-        "magnitude": 1.58,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "NE",
-          "distanceKM": 7.926447353536107
         }
       },
       {
