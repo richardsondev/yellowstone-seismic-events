@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-05T16:46:11Z",
+  "fetchedAt": "2025-09-05T17:05:53Z",
   "events": [
     {
       "identifier": "uu80115906",
@@ -1703,6 +1703,19 @@
       "magnitude": 0.99,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.007655469495742}",
+      "version": null
+    },
+    {
+      "identifier": "uu80116676",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757052524.5599976,
+      "latitudeDeg": 44.7355,
+      "longitudeDeg": -111.22633333333333,
+      "depthKm": 4.7,
+      "magnitude": 1.02,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SSW', 'distanceKM': 7.778452694598079}",
       "version": null
     },
     {
