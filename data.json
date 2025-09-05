@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-05T15:06:57Z",
+  "fetchedAt": "2025-09-05T15:27:57Z",
   "events": [
     {
       "identifier": "uu80115906",
@@ -1521,6 +1521,19 @@
       "magnitude": 0.73,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.3954777759783}",
+      "version": null
+    },
+    {
+      "identifier": "mb90110448",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1757029582.8500001,
+      "latitudeDeg": 44.81,
+      "longitudeDeg": -111.578833333333,
+      "depthKm": 6.52,
+      "magnitude": 0.55,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -3487,6 +3500,19 @@
       "version": null
     },
     {
+      "identifier": "mb90110453",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1757075990.94,
+      "latitudeDeg": 44.8006666666667,
+      "longitudeDeg": -111.599166666667,
+      "depthKm": 12.07,
+      "magnitude": 0.5,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "mb90110123",
       "authority": "MB",
       "eventType": "eq",
@@ -4355,19 +4381,6 @@
       "magnitude": 1.49,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WNW', 'distanceKM': 16.832501659718766}",
-      "version": null
-    },
-    {
-      "identifier": "mb90109668",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1756533000.51,
-      "latitudeDeg": 44.8001666666667,
-      "longitudeDeg": -111.542833333333,
-      "depthKm": 13.18,
-      "magnitude": 0.29,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
