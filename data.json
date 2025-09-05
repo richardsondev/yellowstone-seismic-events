@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-05T04:08:02Z",
+  "fetchedAt": "2025-09-05T06:09:39Z",
   "events": [
     {
       "identifier": "uu80115906",
@@ -3123,19 +3123,6 @@
       "version": null
     },
     {
-      "identifier": "mb90109528",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1756447250.97,
-      "latitudeDeg": 45.6591666666667,
-      "longitudeDeg": -111.828333333333,
-      "depthKm": 1.77,
-      "magnitude": 0.35,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80114641",
       "authority": "UU",
       "eventType": "eq",
@@ -3742,19 +3729,6 @@
       "longitudeDeg": -111.510333333333,
       "depthKm": 15.34,
       "magnitude": -0.04,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "mb90109518",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1756447277.41,
-      "latitudeDeg": 45.6595,
-      "longitudeDeg": -111.825666666667,
-      "depthKm": 1.88,
-      "magnitude": 0.79,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -4446,6 +4420,19 @@
       "magnitude": 1.49,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WNW', 'distanceKM': 16.832501659718766}",
+      "version": null
+    },
+    {
+      "identifier": "mb90109668",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1756533000.51,
+      "latitudeDeg": 44.8001666666667,
+      "longitudeDeg": -111.542833333333,
+      "depthKm": 13.18,
+      "magnitude": 0.29,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
