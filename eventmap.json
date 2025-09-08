@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d9c54f382ef14bcf542f5cd481596002e354e488",
+    "hashString": "0db6f01084181c8618acac60da028cfd6387d561",
     "events": [
       {
         "identifier": "uu80115906",
@@ -1752,18 +1752,6 @@
         }
       },
       {
-        "identifier": "mb90109958",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1756713000.38,
-        "latitudeDeg": 45.3466666666667,
-        "longitudeDeg": -112.1045,
-        "depthKM": 8.86,
-        "magnitude": 0.02,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80116131",
         "authority": "UU",
         "eventType": "eq",
@@ -2849,22 +2837,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.64525534825605
-        }
-      },
-      {
-        "identifier": "uu80004593",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756109033.8499985,
-        "latitudeDeg": 39.92816666666667,
-        "longitudeDeg": -111.37016666666666,
-        "depthKM": 2.83,
-        "magnitude": 0.71,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Thistle, UT",
-          "bearing": "ESE",
-          "distanceKM": 13.13475989149478
         }
       },
       {
@@ -4154,6 +4126,18 @@
           "bearing": "NE",
           "distanceKM": 14.890064844282062
         }
+      },
+      {
+        "identifier": "us7000qup5",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1757314642.9980001,
+        "latitudeDeg": 44.571,
+        "longitudeDeg": -112.2207,
+        "depthKM": 10,
+        "magnitude": 3.7,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80115391",
