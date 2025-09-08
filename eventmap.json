@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "66c3bcb39d4f48d226ab26ee96b918f685ca4230",
+    "hashString": "f05784ca3efa37aaff1724e5de59b9ccc978442c",
     "events": [
       {
         "identifier": "uu80115906",
@@ -2161,6 +2161,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.318475565991653
+        }
+      },
+      {
+        "identifier": "uu80116751",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1757133364.9699998,
+        "latitudeDeg": 39.348166666666664,
+        "longitudeDeg": -111.44316666666667,
+        "depthKM": 7.6,
+        "magnitude": 0.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Ephraim, UT",
+          "bearing": "E",
+          "distanceKM": 12.373352845560559
         }
       },
       {
@@ -4665,22 +4681,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.957611510517877
-        }
-      },
-      {
-        "identifier": "uu80116571",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756966384.88,
-        "latitudeDeg": 44.794666666666664,
-        "longitudeDeg": -110.84583333333333,
-        "depthKM": 5.07,
-        "magnitude": 0.96,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 23.13974357419758
         }
       }
     ]
