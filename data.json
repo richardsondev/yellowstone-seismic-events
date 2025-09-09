@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-09T20:44:10Z",
+  "fetchedAt": "2025-09-09T22:27:45Z",
   "events": [
     {
       "identifier": "uu80115906",
@@ -1709,11 +1709,11 @@
       "identifier": "nn00903897",
       "authority": "NN",
       "eventType": "eq",
-      "originTimeUtc": 1757117829.899,
-      "latitudeDeg": 37.3708,
-      "longitudeDeg": -114.5334,
-      "depthKm": 16.0,
-      "magnitude": 1.5,
+      "originTimeUtc": 1757117830.6330001,
+      "latitudeDeg": 37.2246,
+      "longitudeDeg": -114.5576,
+      "depthKm": 0.0,
+      "magnitude": 1.2,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1859,19 +1859,6 @@
       "magnitude": 1.86,
       "isLocal": true,
       "nearestTown": "{'town': 'Beryl, UT', 'bearing': 'SSW', 'distanceKM': 14.722746549211202}",
-      "version": null
-    },
-    {
-      "identifier": "uu80114751",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1756246005.9699974,
-      "latitudeDeg": 38.508,
-      "longitudeDeg": -112.89016666666667,
-      "depthKm": 1.97,
-      "magnitude": 0.71,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.216153398766394}",
       "version": null
     },
     {
@@ -3071,19 +3058,6 @@
       "version": null
     },
     {
-      "identifier": "uu80114756",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1756247090.2199974,
-      "latitudeDeg": 38.50566666666667,
-      "longitudeDeg": -112.89283333333333,
-      "depthKm": 2.07,
-      "magnitude": 1.04,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.868181421767842}",
-      "version": null
-    },
-    {
       "identifier": "uu80115271",
       "authority": "UU",
       "eventType": "eq",
@@ -3341,6 +3315,19 @@
       "magnitude": 0.9400000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.065746557038842}",
+      "version": null
+    },
+    {
+      "identifier": "mb90110743",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1757296251.68,
+      "latitudeDeg": 44.7761666666667,
+      "longitudeDeg": -111.670833333333,
+      "depthKm": 10.3,
+      "magnitude": 0.14,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
