@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e7278ac2d02491d53ba2a77248f281b1c01bd63c",
+    "hashString": "be2b953b522aaaf7ab978d90b2dc92dacf49a761",
     "events": [
       {
         "identifier": "uu80115906",
@@ -1468,6 +1468,18 @@
         "longitudeDeg": -112.214833333333,
         "depthKM": 9.64,
         "magnitude": 2.64,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
+        "identifier": "mb90110863",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1757331751.63,
+        "latitudeDeg": 44.5703333333333,
+        "longitudeDeg": -112.210333333333,
+        "depthKM": 6.01,
+        "magnitude": 2.05,
         "isLocal": false,
         "nearestTown": null
       },
@@ -3049,22 +3061,6 @@
           "town": "Moran, WY",
           "bearing": "NW",
           "distanceKM": 33.4427843909554
-        }
-      },
-      {
-        "identifier": "uu80114741",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756237940.8599987,
-        "latitudeDeg": 38.507,
-        "longitudeDeg": -112.889,
-        "depthKM": 1.96,
-        "magnitude": 1.35,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.19799136188611
         }
       },
       {
