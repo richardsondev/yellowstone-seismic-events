@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-10T13:31:42Z",
+  "fetchedAt": "2025-09-10T14:06:41Z",
   "events": [
     {
       "identifier": "uu80115906",
@@ -572,6 +572,19 @@
       "magnitude": 1.8,
       "isLocal": true,
       "nearestTown": "{'town': 'Pahaska Tepee, WY', 'bearing': 'NNW', 'distanceKM': 20.09119159353019}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117101",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757486711.3400002,
+      "latitudeDeg": 44.799,
+      "longitudeDeg": -110.845,
+      "depthKm": 4.12,
+      "magnitude": 0.27,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.686918502424998}",
       "version": null
     },
     {
