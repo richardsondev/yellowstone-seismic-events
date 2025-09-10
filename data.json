@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-10T10:29:32Z",
+  "fetchedAt": "2025-09-10T13:31:42Z",
   "events": [
     {
       "identifier": "uu80115906",
@@ -338,6 +338,19 @@
       "magnitude": 1.07,
       "isLocal": true,
       "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'NW', 'distanceKM': 4.97787926766043}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117106",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757492411.1499996,
+      "latitudeDeg": 44.778333333333336,
+      "longitudeDeg": -111.05833333333334,
+      "depthKm": 9.73,
+      "magnitude": 1.09,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'ESE', 'distanceKM': 10.888747415855535}",
       "version": null
     },
     {
@@ -3136,6 +3149,19 @@
       "version": null
     },
     {
+      "identifier": "uu80117111",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757502217.0699997,
+      "latitudeDeg": 44.79516666666667,
+      "longitudeDeg": -111.30433333333333,
+      "depthKm": 9.56,
+      "magnitude": 0.56,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'W', 'distanceKM': 8.849467710495531}",
+      "version": null
+    },
+    {
       "identifier": "uu80116171",
       "authority": "UU",
       "eventType": "eq",
@@ -3471,19 +3497,6 @@
       "magnitude": 0.88,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.263800056287764}",
-      "version": null
-    },
-    {
-      "identifier": "mb90110088",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1756904988.27,
-      "latitudeDeg": 44.292,
-      "longitudeDeg": -114.815833333333,
-      "depthKm": 2.53,
-      "magnitude": 1.24,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
