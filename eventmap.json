@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "93bd59a4a45a57dece26289f2a82e1b4990ef2c5",
+    "hashString": "b060d0058e0225839dd2b61dcfbbd431cc5ca66a",
     "events": [
       {
         "identifier": "uu80115906",
@@ -3251,16 +3251,16 @@
         "identifier": "uu80117176",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1757548667.4099998,
-        "latitudeDeg": 40.47516666666667,
-        "longitudeDeg": -109.6955,
-        "depthKM": 69.39,
+        "originTimeUTC": 1757548667.4500008,
+        "latitudeDeg": 40.48016666666667,
+        "longitudeDeg": -109.70483333333334,
+        "depthKM": 68.34,
         "magnitude": 4.13,
         "isLocal": true,
         "nearestTown": {
           "town": "Maeser, UT",
           "bearing": "W",
-          "distanceKM": 9.078089887014531
+          "distanceKM": 9.871160708595033
         }
       },
       {
@@ -4618,18 +4618,6 @@
           "bearing": "NE",
           "distanceKM": 16.08004141120666
         }
-      },
-      {
-        "identifier": "us7000qvcv",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1757548664.3040001,
-        "latitudeDeg": 40.4248,
-        "longitudeDeg": -109.6296,
-        "depthKM": 10,
-        "magnitude": 4.1,
-        "isLocal": false,
-        "nearestTown": null
       }
     ]
   },
