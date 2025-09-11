@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-10T22:44:02Z",
+  "fetchedAt": "2025-09-11T00:27:01Z",
   "events": [
     {
       "identifier": "uu80115906",
@@ -2746,6 +2746,19 @@
       "version": null
     },
     {
+      "identifier": "uu80117176",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757548667.4099998,
+      "latitudeDeg": 40.47516666666667,
+      "longitudeDeg": -109.6955,
+      "depthKm": 69.39,
+      "magnitude": 4.13,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Maeser, UT', 'bearing': 'W', 'distanceKM': 9.078089887014531}",
+      "version": null
+    },
+    {
       "identifier": "uu80115326",
       "authority": "UU",
       "eventType": "eq",
@@ -3900,6 +3913,19 @@
       "magnitude": 1.28,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.08004141120666}",
+      "version": null
+    },
+    {
+      "identifier": "us7000qvcv",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1757548664.3040001,
+      "latitudeDeg": 40.4248,
+      "longitudeDeg": -109.6296,
+      "depthKm": 10.0,
+      "magnitude": 4.1,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
