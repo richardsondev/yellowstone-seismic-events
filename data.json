@@ -1977,19 +1977,6 @@
       "version": null
     },
     {
-      "identifier": "mb90110428",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1757075858.42,
-      "latitudeDeg": 44.3751666666667,
-      "longitudeDeg": -115.192333333333,
-      "depthKm": 9.06,
-      "magnitude": 2.82,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80115971",
       "authority": "UU",
       "eventType": "eq",
@@ -2900,19 +2887,6 @@
       "version": null
     },
     {
-      "identifier": "mb90110453",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1757075990.94,
-      "latitudeDeg": 44.8006666666667,
-      "longitudeDeg": -111.599166666667,
-      "depthKm": 12.07,
-      "magnitude": 0.5,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80116186",
       "authority": "UU",
       "eventType": "eq",
@@ -2973,19 +2947,6 @@
       "longitudeDeg": -112.213666666667,
       "depthKm": 7.45,
       "magnitude": 1.42,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "mb90110458",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1757076115.18,
-      "latitudeDeg": 44.8001666666667,
-      "longitudeDeg": -111.599833333333,
-      "depthKm": 12.68,
-      "magnitude": 0.83,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -3443,6 +3404,19 @@
       "magnitude": 1.1400000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Herriman, UT', 'bearing': 'W', 'distanceKM': 11.3101854821391}",
+      "version": null
+    },
+    {
+      "identifier": "uu80116221",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1756790096.459999,
+      "latitudeDeg": 38.498666666666665,
+      "longitudeDeg": -112.896,
+      "depthKm": 2.49,
+      "magnitude": 1.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.099594346055593}",
       "version": null
     }
   ],
