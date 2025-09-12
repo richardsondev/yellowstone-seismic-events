@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "716d488a5fa69d87eb124f6929aad6b07aeacfa2",
+    "hashString": "817ee126823fdad5d9d1b00d39edead562d7de38",
     "events": [
       {
         "identifier": "uu80115906",
@@ -2348,18 +2348,6 @@
         }
       },
       {
-        "identifier": "mb90110428",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1757075858.42,
-        "latitudeDeg": 44.3751666666667,
-        "longitudeDeg": -115.192333333333,
-        "depthKM": 9.06,
-        "magnitude": 2.82,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80115971",
         "authority": "UU",
         "eventType": "eq",
@@ -3448,18 +3436,6 @@
         }
       },
       {
-        "identifier": "mb90110453",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1757075990.94,
-        "latitudeDeg": 44.8006666666667,
-        "longitudeDeg": -111.599166666667,
-        "depthKM": 12.07,
-        "magnitude": 0.5,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80116186",
         "authority": "UU",
         "eventType": "eq",
@@ -3532,18 +3508,6 @@
         "longitudeDeg": -112.213666666667,
         "depthKM": 7.45,
         "magnitude": 1.42,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90110458",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1757076115.18,
-        "latitudeDeg": 44.8001666666667,
-        "longitudeDeg": -111.599833333333,
-        "depthKM": 12.68,
-        "magnitude": 0.83,
         "isLocal": false,
         "nearestTown": null
       },
@@ -4077,6 +4041,22 @@
           "town": "Herriman, UT",
           "bearing": "W",
           "distanceKM": 11.3101854821391
+        }
+      },
+      {
+        "identifier": "uu80116221",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756790096.459999,
+        "latitudeDeg": 38.498666666666665,
+        "longitudeDeg": -112.896,
+        "depthKM": 2.49,
+        "magnitude": 1.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.099594346055593
         }
       }
     ]
