@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "06359a2531133c4f6eea79706f1a7c7102257347",
+    "hashString": "9dd4c8717b506dd8a199241b6709b6bd51dad334",
     "events": [
       {
         "identifier": "uu80115906",
@@ -3832,18 +3832,6 @@
         }
       },
       {
-        "identifier": "mb90110523",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1757125359.8400002,
-        "latitudeDeg": 44.8085,
-        "longitudeDeg": -111.365166666667,
-        "depthKM": 8.61,
-        "magnitude": 1.69,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80116366",
         "authority": "UU",
         "eventType": "eq",
@@ -3997,6 +3985,22 @@
           "town": "Herriman, UT",
           "bearing": "W",
           "distanceKM": 11.3101854821391
+        }
+      },
+      {
+        "identifier": "uu80116221",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1756790096.459999,
+        "latitudeDeg": 38.498666666666665,
+        "longitudeDeg": -112.896,
+        "depthKM": 2.49,
+        "magnitude": 1.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.099594346055593
         }
       }
     ]
