@@ -1,20 +1,7 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-15T14:44:50Z",
+  "fetchedAt": "2025-09-15T15:07:36Z",
   "events": [
-    {
-      "identifier": "uu80116071",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1756738602.7700005,
-      "latitudeDeg": 44.752833333333335,
-      "longitudeDeg": -111.18083333333334,
-      "depthKm": 7.39,
-      "magnitude": 0.67,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'S', 'distanceKM': 5.456397133519334}",
-      "version": null
-    },
     {
       "identifier": "uu80116696",
       "authority": "UU",
@@ -822,16 +809,16 @@
       "version": null
     },
     {
-      "identifier": "uu80116066",
+      "identifier": "uu80117401",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1756738191.699997,
-      "latitudeDeg": 39.755,
-      "longitudeDeg": -110.901,
-      "depthKm": 1.82,
-      "magnitude": 1.47,
+      "originTimeUtc": 1757882781.5,
+      "latitudeDeg": 44.77433333333333,
+      "longitudeDeg": -111.11316666666667,
+      "depthKm": 8.77,
+      "magnitude": 0.64,
       "isLocal": true,
-      "nearestTown": "{'town': 'Castle Gate, UT', 'bearing': 'NW', 'distanceKM': 4.092421326796712}",
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'ESE', 'distanceKM': 6.9370122205128695}",
       "version": null
     },
     {
@@ -1602,6 +1589,19 @@
       "version": null
     },
     {
+      "identifier": "uu80004848",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757668500.44,
+      "latitudeDeg": 44.804,
+      "longitudeDeg": -110.85166666666667,
+      "depthKm": 5.1,
+      "magnitude": -0.23,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.472367451945356}",
+      "version": null
+    },
+    {
       "identifier": "mb90110993",
       "authority": "MB",
       "eventType": "eq",
@@ -1610,6 +1610,19 @@
       "longitudeDeg": -112.212166666667,
       "depthKm": 7.64,
       "magnitude": 1.87,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90111558",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1757772743.04,
+      "latitudeDeg": 44.3445,
+      "longitudeDeg": -115.019666666667,
+      "depthKm": 4.68,
+      "magnitude": 1.86,
       "isLocal": false,
       "nearestTown": null,
       "version": null
