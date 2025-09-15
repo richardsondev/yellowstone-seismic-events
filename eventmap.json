@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "bf931f9ef32ef496a74b0b53c27920792b933c02",
+    "hashString": "9f195780ca907342b8b7b960106f5c9a0ab41b2d",
     "events": [
       {
         "identifier": "uu80116696",
@@ -65,6 +65,22 @@
           "town": "Burrville, UT",
           "bearing": "ENE",
           "distanceKM": 12.722425508201443
+        }
+      },
+      {
+        "identifier": "uu80004843",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1757922310.3499994,
+        "latitudeDeg": 38.62266666666667,
+        "longitudeDeg": -112.572,
+        "depthKM": -0.02,
+        "magnitude": 1.85,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cove Fort, UT",
+          "bearing": "NNE",
+          "distanceKM": 2.556940504505952
         }
       },
       {
@@ -513,6 +529,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.11771978803079
+        }
+      },
+      {
+        "identifier": "uu80004833",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1757921235.0599995,
+        "latitudeDeg": 40.92733333333334,
+        "longitudeDeg": -111.5655,
+        "depthKM": 7.52,
+        "magnitude": 0.67,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Echo, UT",
+          "bearing": "WSW",
+          "distanceKM": 11.271509656750766
         }
       },
       {
