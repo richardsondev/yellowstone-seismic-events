@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "217fcf91278d27254da86a6a8fecd546c14986f0",
+    "hashString": "bf931f9ef32ef496a74b0b53c27920792b933c02",
     "events": [
       {
         "identifier": "uu80116696",
@@ -449,6 +449,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.71344643385013
+        }
+      },
+      {
+        "identifier": "uu80117371",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1757847674.21,
+        "latitudeDeg": 37.18716666666667,
+        "longitudeDeg": -112.888,
+        "depthKM": 19.9,
+        "magnitude": 1.52,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Springdale, UT",
+          "bearing": "E",
+          "distanceKM": 9.799299291277384
         }
       },
       {
@@ -2041,22 +2057,6 @@
           "town": "Peoa, UT",
           "bearing": "W",
           "distanceKM": 6.197107801513536
-        }
-      },
-      {
-        "identifier": "uu80116086",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756747553.0299988,
-        "latitudeDeg": 38.4945,
-        "longitudeDeg": -112.89633333333333,
-        "depthKM": 2.2,
-        "magnitude": 1.43,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.736110619982176
         }
       },
       {
