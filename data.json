@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-15T15:44:41Z",
+  "fetchedAt": "2025-09-15T16:07:37Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -848,6 +848,32 @@
       "version": null
     },
     {
+      "identifier": "uu80117381",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757872285.0299988,
+      "latitudeDeg": 44.5645,
+      "longitudeDeg": -110.7325,
+      "depthKm": 5.84,
+      "magnitude": 0.7000000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NE', 'distanceKM': 14.198587250992254}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117376",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757858123.9300003,
+      "latitudeDeg": 44.6115,
+      "longitudeDeg": -110.44633333333333,
+      "depthKm": 4.77,
+      "magnitude": 1.07,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 7.608166087418713}",
+      "version": null
+    },
+    {
       "identifier": "uu80116871",
       "authority": "UU",
       "eventType": "eq",
@@ -871,19 +897,6 @@
       "magnitude": 1.86,
       "isLocal": true,
       "nearestTown": "{'town': 'Beryl, UT', 'bearing': 'SSW', 'distanceKM': 14.722746549211202}",
-      "version": null
-    },
-    {
-      "identifier": "uu80116076",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1756741568.0900002,
-      "latitudeDeg": 37.656666666666666,
-      "longitudeDeg": -113.55733333333333,
-      "depthKm": 1.66,
-      "magnitude": 1.57,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Newcastle, UT', 'bearing': 'SSW', 'distanceKM': 1.2255832621661018}",
       "version": null
     },
     {
@@ -1170,6 +1183,19 @@
       "magnitude": 0.75,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'S', 'distanceKM': 4.883808357904252}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117366",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1757842939.4399986,
+      "latitudeDeg": 44.79683333333333,
+      "longitudeDeg": -110.85333333333334,
+      "depthKm": 4.84,
+      "magnitude": 1.49,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.223868866165816}",
       "version": null
     },
     {
