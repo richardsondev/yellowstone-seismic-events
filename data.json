@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-16T13:14:52Z",
+  "fetchedAt": "2025-09-16T13:46:26Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -936,6 +936,19 @@
       "magnitude": 0.84,
       "isLocal": true,
       "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'NNE', 'distanceKM': 1.9163733052701954}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117506",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758012365.42,
+      "latitudeDeg": 44.77166666666667,
+      "longitudeDeg": -110.52733333333333,
+      "depthKm": 5.06,
+      "magnitude": 0.76,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 26.4771082074982}",
       "version": null
     },
     {
