@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-16T12:56:46Z",
+  "fetchedAt": "2025-09-16T13:14:52Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -939,19 +939,6 @@
       "version": null
     },
     {
-      "identifier": "uu80116301",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1756818079.8799992,
-      "latitudeDeg": 38.49883333333333,
-      "longitudeDeg": -112.89333333333333,
-      "depthKm": 2.53,
-      "magnitude": 1.42,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.268088217324037}",
-      "version": null
-    },
-    {
       "identifier": "uu80117176",
       "authority": "UU",
       "eventType": "eq",
@@ -1196,6 +1183,19 @@
       "magnitude": 1.97,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80117516",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758020468.4899998,
+      "latitudeDeg": 44.79333333333334,
+      "longitudeDeg": -110.75583333333333,
+      "depthKm": 2.17,
+      "magnitude": 0.77,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 20.80213542444154}",
       "version": null
     },
     {
