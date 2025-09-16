@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-16T13:46:26Z",
+  "fetchedAt": "2025-09-16T14:07:11Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -13,6 +13,19 @@
       "magnitude": 1.07,
       "isLocal": true,
       "nearestTown": "{'town': 'Levan, UT', 'bearing': 'NW', 'distanceKM': 13.647801686003776}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004853",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758004098.0299988,
+      "latitudeDeg": 38.45583333333333,
+      "longitudeDeg": -112.20116666666667,
+      "depthKm": 1.66,
+      "magnitude": 0.73,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Marysvale, UT', 'bearing': 'ENE', 'distanceKM': 2.627457756006499}",
       "version": null
     },
     {
@@ -1287,6 +1300,19 @@
       "magnitude": 0.8200000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Spry, UT', 'bearing': 'SE', 'distanceKM': 18.211362507491117}",
+      "version": null
+    },
+    {
+      "identifier": "mb90111843",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1757974798.29,
+      "latitudeDeg": 44.2038333333333,
+      "longitudeDeg": -115.0745,
+      "depthKm": 2.65,
+      "magnitude": 0.99,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
