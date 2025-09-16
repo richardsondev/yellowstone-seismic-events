@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-16T22:43:25Z",
+  "fetchedAt": "2025-09-16T23:06:01Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -1417,6 +1417,19 @@
       "magnitude": 0.79,
       "isLocal": true,
       "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'SSW', 'distanceKM': 29.046254626211596}",
+      "version": null
+    },
+    {
+      "identifier": "mb90112153",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1757935144.88,
+      "latitudeDeg": 43.4056666666667,
+      "longitudeDeg": -110.712333333333,
+      "depthKm": 7.19,
+      "magnitude": 1.84,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
