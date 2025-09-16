@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "60686561a9b03467eba41f263c03b35b2dba60c1",
+    "hashString": "ca06518a56cb335327ff4f5aa40a74c4a74d7895",
     "events": [
       {
         "identifier": "uu80116696",
@@ -17,22 +17,6 @@
           "town": "Levan, UT",
           "bearing": "NW",
           "distanceKM": 13.647801686003776
-        }
-      },
-      {
-        "identifier": "uu80116201",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756782356.199997,
-        "latitudeDeg": 38.499,
-        "longitudeDeg": -112.90083333333334,
-        "depthKM": 2.35,
-        "magnitude": 1.1400000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.852565801291993
         }
       },
       {
@@ -576,18 +560,6 @@
         }
       },
       {
-        "identifier": "mb90111898",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1757386740.38,
-        "latitudeDeg": 44.5671666666667,
-        "longitudeDeg": -112.201333333333,
-        "depthKM": 2.52,
-        "magnitude": 0.97,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80116286",
         "authority": "UU",
         "eventType": "eq",
@@ -1120,18 +1092,6 @@
         "longitudeDeg": -112.204666666667,
         "depthKM": 4.81,
         "magnitude": 1.49,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90111908",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1757386904.72,
-        "latitudeDeg": 44.5665,
-        "longitudeDeg": -112.212833333333,
-        "depthKM": 5.58,
-        "magnitude": 1.27,
         "isLocal": false,
         "nearestTown": null
       },
