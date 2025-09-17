@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-17T15:07:25Z",
+  "fetchedAt": "2025-09-17T15:28:43Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -845,6 +845,19 @@
       "magnitude": 0.93,
       "isLocal": true,
       "nearestTown": "{'town': 'Moran, WY', 'bearing': 'NW', 'distanceKM': 33.4427843909554}",
+      "version": null
+    },
+    {
+      "identifier": "mb90112243",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758095054.91,
+      "latitudeDeg": 45.0218333333333,
+      "longitudeDeg": -111.951666666667,
+      "depthKm": 1.26,
+      "magnitude": 0.47,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
