@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-17T13:31:55Z",
+  "fetchedAt": "2025-09-17T14:06:49Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -562,19 +562,6 @@
       "version": null
     },
     {
-      "identifier": "mb90111988",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1757511548.51,
-      "latitudeDeg": 44.5616666666667,
-      "longitudeDeg": -112.2005,
-      "depthKm": 5.0,
-      "magnitude": 1.15,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80117381",
       "authority": "UU",
       "eventType": "eq",
@@ -1053,6 +1040,19 @@
       "magnitude": 1.35,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.30668232817288}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117541",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758062779.5,
+      "latitudeDeg": 44.758833333333335,
+      "longitudeDeg": -110.51266666666666,
+      "depthKm": 6.13,
+      "magnitude": 1.24,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 24.724396018118885}",
       "version": null
     },
     {
