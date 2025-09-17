@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-17T12:56:48Z",
+  "fetchedAt": "2025-09-17T13:31:55Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -1807,6 +1807,19 @@
       "magnitude": 0.79,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.616073189658643}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117546",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758092910.17,
+      "latitudeDeg": 38.619,
+      "longitudeDeg": -112.62433333333334,
+      "depthKm": 4.98,
+      "magnitude": 1.37,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'WNW', 'distanceKM': 4.046548697161358}",
       "version": null
     },
     {
