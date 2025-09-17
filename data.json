@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-17T14:45:22Z",
+  "fetchedAt": "2025-09-17T15:07:25Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -1677,6 +1677,19 @@
       "magnitude": 0.52,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 10.630847276970966}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004863",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758106991.37,
+      "latitudeDeg": 36.7735,
+      "longitudeDeg": -112.905,
+      "depthKm": 17.04,
+      "magnitude": 1.33,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cane Beds, AZ', 'bearing': 'S', 'distanceKM': 19.218248032577822}",
       "version": null
     },
     {
