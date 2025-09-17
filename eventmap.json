@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f0a8f17de21a81dd7528c9a1e603f60e7dba4b99",
+    "hashString": "ad8f46b45cbb4721eaa756eab7c09a6a2e822e21",
     "events": [
       {
         "identifier": "uu80116696",
@@ -1204,6 +1204,18 @@
         }
       },
       {
+        "identifier": "mb90112198",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1757902552.98,
+        "latitudeDeg": 44.8138333333333,
+        "longitudeDeg": -111.523166666667,
+        "depthKM": 11.47,
+        "magnitude": 0.23,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80116501",
         "authority": "UU",
         "eventType": "eq",
@@ -1976,22 +1988,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80116396",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756858160.5900002,
-        "latitudeDeg": 38.49933333333333,
-        "longitudeDeg": -112.89816666666667,
-        "depthKM": 2.12,
-        "magnitude": 1.41,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.031399296824963
-        }
-      },
-      {
         "identifier": "us7000qtgi",
         "authority": "US",
         "eventType": "eq",
@@ -2045,22 +2041,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.829144209705623
-        }
-      },
-      {
-        "identifier": "uu80116391",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1756857150.209999,
-        "latitudeDeg": 38.5015,
-        "longitudeDeg": -112.89633333333333,
-        "depthKM": 2.04,
-        "magnitude": 1.51,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.318085849758623
         }
       },
       {
@@ -2206,18 +2186,6 @@
           "bearing": "ENE",
           "distanceKM": 4.521538336074891
         }
-      },
-      {
-        "identifier": "mb90110193",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1756858252.57,
-        "latitudeDeg": 44.6085,
-        "longitudeDeg": -113.002,
-        "depthKM": 4.88,
-        "magnitude": 0.43,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80116586",
