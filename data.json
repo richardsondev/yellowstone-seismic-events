@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-18T15:44:32Z",
+  "fetchedAt": "2025-09-18T16:07:31Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -26,6 +26,19 @@
       "magnitude": 0.73,
       "isLocal": true,
       "nearestTown": "{'town': 'Marysvale, UT', 'bearing': 'ENE', 'distanceKM': 2.627457756006499}",
+      "version": null
+    },
+    {
+      "identifier": "mb90112528",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758208607.64,
+      "latitudeDeg": 44.8096666666667,
+      "longitudeDeg": -111.5395,
+      "depthKm": 9.0,
+      "magnitude": 0.46,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -260,6 +273,19 @@
       "magnitude": 1.8,
       "isLocal": true,
       "nearestTown": "{'town': 'Pahaska Tepee, WY', 'bearing': 'NNW', 'distanceKM': 20.09119159353019}",
+      "version": null
+    },
+    {
+      "identifier": "mb90112523",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758209432.74,
+      "latitudeDeg": 44.7725,
+      "longitudeDeg": -114.411,
+      "depthKm": 6.48,
+      "magnitude": 1.59,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -718,6 +744,19 @@
       "version": null
     },
     {
+      "identifier": "mb90112518",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758209273.81,
+      "latitudeDeg": 44.8055,
+      "longitudeDeg": -111.524833333333,
+      "depthKm": 13.04,
+      "magnitude": 0.77,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80004763",
       "authority": "UU",
       "eventType": "eq",
@@ -1082,6 +1121,19 @@
       "version": null
     },
     {
+      "identifier": "mb90112533",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758208491.8600001,
+      "latitudeDeg": 44.8046666666667,
+      "longitudeDeg": -111.528333333333,
+      "depthKm": 11.02,
+      "magnitude": 0.16,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "mb90112458",
       "authority": "MB",
       "eventType": "eq",
@@ -1415,6 +1467,19 @@
       "longitudeDeg": -112.228,
       "depthKm": 10.196,
       "magnitude": 3.4,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90112538",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758209916.52,
+      "latitudeDeg": 44.814,
+      "longitudeDeg": -111.527166666667,
+      "depthKm": 11.26,
+      "magnitude": 1.33,
       "isLocal": false,
       "nearestTown": null,
       "version": null
