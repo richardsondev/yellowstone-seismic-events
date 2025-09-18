@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-18T15:06:59Z",
+  "fetchedAt": "2025-09-18T15:28:52Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -1209,6 +1209,19 @@
       "magnitude": 0.8200000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Spry, UT', 'bearing': 'SE', 'distanceKM': 18.211362507491117}",
+      "version": null
+    },
+    {
+      "identifier": "mb90112493",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758130474.29,
+      "latitudeDeg": 44.7753333333333,
+      "longitudeDeg": -114.402,
+      "depthKm": 4.0,
+      "magnitude": 1.33,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
