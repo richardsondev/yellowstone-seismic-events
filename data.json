@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-17T23:07:14Z",
+  "fetchedAt": "2025-09-18T00:26:03Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -1898,6 +1898,19 @@
       "magnitude": 1.43,
       "isLocal": true,
       "nearestTown": "{'town': 'Echo, UT', 'bearing': 'WSW', 'distanceKM': 11.254948468108594}",
+      "version": null
+    },
+    {
+      "identifier": "nn00904529",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1758154262.033,
+      "latitudeDeg": 36.9168,
+      "longitudeDeg": -115.2025,
+      "depthKm": 0.0,
+      "magnitude": 0.6,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
