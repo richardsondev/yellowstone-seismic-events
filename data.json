@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-18T16:07:31Z",
+  "fetchedAt": "2025-09-18T17:06:42Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -221,19 +221,6 @@
       "magnitude": 1.57,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80116611",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1757005191.6599998,
-      "latitudeDeg": 44.80466666666667,
-      "longitudeDeg": -110.868,
-      "depthKm": 5.84,
-      "magnitude": 1.5,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SW', 'distanceKM': 23.105325594389594}",
       "version": null
     },
     {
@@ -663,6 +650,19 @@
       "magnitude": 1.86,
       "isLocal": true,
       "nearestTown": "{'town': 'Beryl, UT', 'bearing': 'SSW', 'distanceKM': 14.722746549211202}",
+      "version": null
+    },
+    {
+      "identifier": "nn00904586",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1758214046.137,
+      "latitudeDeg": 36.9243,
+      "longitudeDeg": -115.2122,
+      "depthKm": 4.8,
+      "magnitude": 0.8,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1196,19 +1196,6 @@
       "magnitude": 0.56,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'W', 'distanceKM': 8.849467710495531}",
-      "version": null
-    },
-    {
-      "identifier": "mb90111263",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1757610059.81,
-      "latitudeDeg": 44.5715,
-      "longitudeDeg": -112.223666666667,
-      "depthKm": 8.9,
-      "magnitude": 1.98,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
