@@ -1,19 +1,6 @@
 {
   "events": [
     {
-      "identifier": "uu80116696",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1757088232.25,
-      "latitudeDeg": 39.63066666666667,
-      "longitudeDeg": -111.99083333333333,
-      "depthKm": 8.09,
-      "magnitude": 1.07,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Levan, UT', 'bearing': 'NW', 'distanceKM': 13.647801686003776}",
-      "version": null
-    },
-    {
       "identifier": "uu80004853",
       "authority": "UU",
       "eventType": "eq",
@@ -755,6 +742,19 @@
       "version": null
     },
     {
+      "identifier": "mb90112653",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758294134.46,
+      "latitudeDeg": 44.8085,
+      "longitudeDeg": -111.519333333333,
+      "depthKm": 13.09,
+      "magnitude": 0.3,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80004763",
       "authority": "UU",
       "eventType": "eq",
@@ -1064,6 +1064,19 @@
       "magnitude": 0.48,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.147908484112937}",
+      "version": null
+    },
+    {
+      "identifier": "mb90112648",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758294139.5,
+      "latitudeDeg": 44.803,
+      "longitudeDeg": -111.537333333333,
+      "depthKm": 11.71,
+      "magnitude": 0.72,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1842,6 +1855,19 @@
       "longitudeDeg": -114.375,
       "depthKm": 6.37,
       "magnitude": 1.56,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90112643",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758255793.13,
+      "latitudeDeg": 44.8105,
+      "longitudeDeg": -111.529333333333,
+      "depthKm": 11.61,
+      "magnitude": 0.57,
       "isLocal": false,
       "nearestTown": null,
       "version": null
