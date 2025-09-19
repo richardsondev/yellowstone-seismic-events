@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-19T15:06:43Z",
+  "fetchedAt": "2025-09-19T15:28:07Z",
   "events": [
     {
       "identifier": "uu80116696",
@@ -1677,6 +1677,19 @@
       "magnitude": 0.84,
       "isLocal": true,
       "nearestTown": "{'town': 'Howell, UT', 'bearing': 'WNW', 'distanceKM': 5.300862349750954}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004888",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758272553.0599976,
+      "latitudeDeg": 39.628166666666665,
+      "longitudeDeg": -111.2815,
+      "depthKm": -3.4,
+      "magnitude": 1.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'W', 'distanceKM': 11.099144276823155}",
       "version": null
     },
     {
