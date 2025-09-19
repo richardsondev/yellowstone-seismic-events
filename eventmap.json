@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e4485528c5d209fe28190386b0e4452bdd7599bc",
+    "hashString": "17455f7f66e4951c4bde8436e3d31eae008cef5e",
     "events": [
       {
         "identifier": "uu80116696",
@@ -2017,6 +2017,22 @@
           "town": "Columbia, UT",
           "bearing": "ENE",
           "distanceKM": 4.521538336074891
+        }
+      },
+      {
+        "identifier": "uu80117666",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1758255223.1800003,
+        "latitudeDeg": 39.705,
+        "longitudeDeg": -110.8855,
+        "depthKM": 5.36,
+        "magnitude": 1.34,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Castle Gate, UT",
+          "bearing": "SSW",
+          "distanceKM": 2.896062233796118
         }
       },
       {
