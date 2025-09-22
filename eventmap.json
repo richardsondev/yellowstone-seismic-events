@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a869a017efb187432e7e7c2e5a419c96a809185a",
+    "hashString": "90713bf3d4055ff214cc03fbd5192707e6d58fb3",
     "events": [
       {
         "identifier": "uu80004853",
@@ -754,6 +754,22 @@
         "magnitude": -0.16,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80004893",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1758438607.2199998,
+        "latitudeDeg": 41.5065,
+        "longitudeDeg": -112.16633333333333,
+        "depthKM": 2.95,
+        "magnitude": 0.19,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Corinne, UT",
+          "bearing": "SW",
+          "distanceKM": 6.805781718703201
+        }
       },
       {
         "identifier": "uu80117676",
