@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-22T14:30:05Z",
+  "fetchedAt": "2025-09-22T14:46:33Z",
   "events": [
     {
       "identifier": "uu80004853",
@@ -1209,6 +1209,19 @@
       "magnitude": 1.1400000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Herriman, UT', 'bearing': 'W', 'distanceKM': 11.3101854821391}",
+      "version": null
+    },
+    {
+      "identifier": "mb90112873",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758537246.54,
+      "latitudeDeg": 44.8176666666667,
+      "longitudeDeg": -111.537166666667,
+      "depthKm": 11.47,
+      "magnitude": 0.87,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
