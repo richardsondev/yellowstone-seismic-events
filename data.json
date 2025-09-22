@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-22T17:06:01Z",
+  "fetchedAt": "2025-09-22T20:07:04Z",
   "events": [
     {
       "identifier": "uu80004853",
@@ -1833,6 +1833,19 @@
       "magnitude": 1.75,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80117896",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758570211.539999,
+      "latitudeDeg": 39.371833333333335,
+      "longitudeDeg": -111.776,
+      "depthKm": 3.08,
+      "magnitude": 1.37,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Ephraim, UT', 'bearing': 'W', 'distanceKM': 16.36350041050582}",
       "version": null
     },
     {
