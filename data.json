@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-22T15:44:49Z",
+  "fetchedAt": "2025-09-22T16:07:47Z",
   "events": [
     {
       "identifier": "uu80004853",
@@ -91,6 +91,19 @@
       "magnitude": 0.41000000000000003,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.666281559601154}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117806",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758393880.8499985,
+      "latitudeDeg": 44.315666666666665,
+      "longitudeDeg": -110.612,
+      "depthKm": 5.22,
+      "magnitude": 0.72,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SSW', 'distanceKM': 11.445503225338355}",
       "version": null
     },
     {
@@ -718,6 +731,19 @@
       "version": null
     },
     {
+      "identifier": "mb90112878",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758539554.8600001,
+      "latitudeDeg": 44.327,
+      "longitudeDeg": -115.157666666667,
+      "depthKm": 8.77,
+      "magnitude": 2.68,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80117016",
       "authority": "UU",
       "eventType": "eq",
@@ -856,6 +882,19 @@
       "longitudeDeg": -111.537333333333,
       "depthKm": 11.71,
       "magnitude": 0.72,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90112868",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758518643.6200001,
+      "latitudeDeg": 44.4408333333333,
+      "longitudeDeg": -115.204666666667,
+      "depthKm": 7.78,
+      "magnitude": 2.06,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1391,6 +1430,19 @@
       "magnitude": 2.18,
       "isLocal": true,
       "nearestTown": "{'town': 'Little America, WY', 'bearing': 'N', 'distanceKM': 3.256726380764855}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004903",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758372781.29,
+      "latitudeDeg": 39.34883333333333,
+      "longitudeDeg": -111.93383333333334,
+      "depthKm": 13.24,
+      "magnitude": 1.05,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'NNW', 'distanceKM': 15.269993806765923}",
       "version": null
     },
     {
