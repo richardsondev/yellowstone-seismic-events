@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-22T13:33:46Z",
+  "fetchedAt": "2025-09-22T13:46:08Z",
   "events": [
     {
       "identifier": "uu80004853",
@@ -793,6 +793,19 @@
       "magnitude": 4.13,
       "isLocal": true,
       "nearestTown": "{'town': 'Maeser, UT', 'bearing': 'W', 'distanceKM': 9.871160708595033}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117811",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758394085.7599998,
+      "latitudeDeg": 44.31066666666667,
+      "longitudeDeg": -110.6065,
+      "depthKm": 6.18,
+      "magnitude": 1.21,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'S', 'distanceKM': 11.893622299172947}",
       "version": null
     },
     {
