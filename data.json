@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-22T16:07:47Z",
+  "fetchedAt": "2025-09-22T16:31:54Z",
   "events": [
     {
       "identifier": "uu80004853",
@@ -484,6 +484,19 @@
       "version": null
     },
     {
+      "identifier": "uu80117751",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758319488.6699982,
+      "latitudeDeg": 44.64233333333333,
+      "longitudeDeg": -110.373,
+      "depthKm": 6.81,
+      "magnitude": -0.05,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 10.387497708332143}",
+      "version": null
+    },
+    {
       "identifier": "uu80117401",
       "authority": "UU",
       "eventType": "eq",
@@ -614,6 +627,19 @@
       "version": null
     },
     {
+      "identifier": "uu80117746",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758304002.3799973,
+      "latitudeDeg": 39.02766666666667,
+      "longitudeDeg": -111.39366666666666,
+      "depthKm": -2.87,
+      "magnitude": 1.1500000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 17.096112065418392}",
+      "version": null
+    },
+    {
       "identifier": "mb90112518",
       "authority": "MB",
       "eventType": "eq",
@@ -739,6 +765,19 @@
       "longitudeDeg": -115.157666666667,
       "depthKm": 8.77,
       "magnitude": 2.68,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90112763",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758449784.22,
+      "latitudeDeg": 44.8136666666667,
+      "longitudeDeg": -111.534333333333,
+      "depthKm": 10.91,
+      "magnitude": 0.89,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1664,6 +1703,19 @@
       "magnitude": 1.34,
       "isLocal": true,
       "nearestTown": "{'town': 'Castle Gate, UT', 'bearing': 'SSW', 'distanceKM': 2.896062233796118}",
+      "version": null
+    },
+    {
+      "identifier": "mb90112718",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758329632.58,
+      "latitudeDeg": 43.3781666666667,
+      "longitudeDeg": -111.072666666667,
+      "depthKm": 4.97,
+      "magnitude": 2.51,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
