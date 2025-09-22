@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-22T14:46:33Z",
+  "fetchedAt": "2025-09-22T15:29:23Z",
   "events": [
     {
       "identifier": "uu80004853",
@@ -299,6 +299,19 @@
       "magnitude": 0.51,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.78355348091972}",
+      "version": null
+    },
+    {
+      "identifier": "uu80117821",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758423537.3499985,
+      "latitudeDeg": 39.37233333333333,
+      "longitudeDeg": -111.30866666666667,
+      "depthKm": 15.33,
+      "magnitude": 1.1500000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Spring City, UT', 'bearing': 'SE', 'distanceKM': 20.22259132336893}",
       "version": null
     },
     {
