@@ -66,6 +66,19 @@
       "version": null
     },
     {
+      "identifier": "uu80117801",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758393737.7600002,
+      "latitudeDeg": 44.31433333333333,
+      "longitudeDeg": -110.61216666666667,
+      "depthKm": 6.2,
+      "magnitude": 1.82,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SSW', 'distanceKM': 11.59264826662424}",
+      "version": null
+    },
+    {
       "identifier": "uu80117126",
       "authority": "UU",
       "eventType": "eq",
@@ -399,6 +412,19 @@
       "longitudeDeg": -111.533666666667,
       "depthKm": 11.18,
       "magnitude": 0.38,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90112883",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758543218.48,
+      "latitudeDeg": 44.7656666666667,
+      "longitudeDeg": -112.7505,
+      "depthKm": 9.12,
+      "magnitude": 1.63,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1387,19 +1413,6 @@
       "longitudeDeg": -112.198166666667,
       "depthKm": 1.56,
       "magnitude": 0.99,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "mb90110878",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1757339609.47,
-      "latitudeDeg": 44.5713333333333,
-      "longitudeDeg": -112.215166666667,
-      "depthKm": 5.46,
-      "magnitude": 1.89,
       "isLocal": false,
       "nearestTown": null,
       "version": null
