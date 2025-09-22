@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c3ce3c2c61be3cb29a67ece0505f9fbfb7ff5199",
+    "hashString": "7ec585a36584e45e79c2e99851a08ba189ee2e60",
     "events": [
       {
         "identifier": "uu80004853",
@@ -45,6 +45,22 @@
           "town": "Cove Fort, UT",
           "bearing": "NNE",
           "distanceKM": 2.556940504505952
+        }
+      },
+      {
+        "identifier": "uu80117826",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1758428653.5999994,
+        "latitudeDeg": 41.508833333333335,
+        "longitudeDeg": -112.16966666666667,
+        "depthKM": 5.52,
+        "magnitude": 0.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Corinne, UT",
+          "bearing": "SW",
+          "distanceKM": 6.81817981111937
         }
       },
       {
