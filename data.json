@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-23T15:07:01Z",
+  "fetchedAt": "2025-09-23T15:28:55Z",
   "events": [
     {
       "identifier": "uu80004853",
@@ -926,6 +926,19 @@
       "version": null
     },
     {
+      "identifier": "mb90112983",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758457113.75,
+      "latitudeDeg": 44.8086666666667,
+      "longitudeDeg": -111.534,
+      "depthKm": 9.66,
+      "magnitude": 0.24,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "mb90112648",
       "authority": "MB",
       "eventType": "eq",
@@ -1194,6 +1207,19 @@
       "longitudeDeg": -111.527666666667,
       "depthKm": 11.92,
       "magnitude": 0.89,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90112978",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758460700.71,
+      "latitudeDeg": 44.7045,
+      "longitudeDeg": -111.803166666667,
+      "depthKm": 10.95,
+      "magnitude": 0.49,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1846,6 +1872,19 @@
       "magnitude": 1.43,
       "isLocal": true,
       "nearestTown": "{'town': 'Echo, UT', 'bearing': 'WSW', 'distanceKM': 11.254948468108594}",
+      "version": null
+    },
+    {
+      "identifier": "mb90112988",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758456187.8500001,
+      "latitudeDeg": 44.8103333333333,
+      "longitudeDeg": -111.533666666667,
+      "depthKm": 11.08,
+      "magnitude": 0.67,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
