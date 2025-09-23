@@ -53,6 +53,19 @@
       "version": null
     },
     {
+      "identifier": "mb90112938",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758625793.3,
+      "latitudeDeg": 45.3176666666667,
+      "longitudeDeg": -112.5995,
+      "depthKm": 7.07,
+      "magnitude": 1.04,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80117671",
       "authority": "UU",
       "eventType": "eq",
@@ -612,19 +625,6 @@
       "version": null
     },
     {
-      "identifier": "uu80117051",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1757426404.21,
-      "latitudeDeg": 38.50266666666667,
-      "longitudeDeg": -112.90783333333333,
-      "depthKm": 2.22,
-      "magnitude": 1.71,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.789001261581348}",
-      "version": null
-    },
-    {
       "identifier": "uu80117746",
       "authority": "UU",
       "eventType": "eq",
@@ -1010,6 +1010,19 @@
       "longitudeDeg": -112.225,
       "depthKm": 6.94,
       "magnitude": 1.17,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90112943",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758625067.46,
+      "latitudeDeg": 44.7788333333333,
+      "longitudeDeg": -112.354833333333,
+      "depthKm": 11.89,
+      "magnitude": 0.64,
       "isLocal": false,
       "nearestTown": null,
       "version": null
