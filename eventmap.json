@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0faba714d73f1239a2cd17b4e7e6cbf563f66fa1",
+    "hashString": "2c6b8fdbae4d5c2a20bb319c97f3ff33d611fdca",
     "events": [
       {
         "identifier": "uu80117951",
@@ -1076,22 +1076,6 @@
         }
       },
       {
-        "identifier": "uu80117121",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1757510683.7700005,
-        "latitudeDeg": 37.39066666666667,
-        "longitudeDeg": -113.80683333333333,
-        "depthKM": 1.57,
-        "magnitude": 1.16,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Veyo, UT",
-          "bearing": "WNW",
-          "distanceKM": 11.539520595566323
-        }
-      },
-      {
         "identifier": "mb90112948",
         "authority": "MB",
         "eventType": "eq",
@@ -1246,6 +1230,22 @@
         "magnitude": 0.18,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80117981",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1758699688.959999,
+        "latitudeDeg": 39.611333333333334,
+        "longitudeDeg": -111.315,
+        "depthKM": 9.8,
+        "magnitude": 0.79,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fairview, UT",
+          "bearing": "E",
+          "distanceKM": 10.803159837977567
+        }
       },
       {
         "identifier": "mb90112583",
