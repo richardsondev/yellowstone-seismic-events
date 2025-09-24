@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f15f2c82a728c248c946ac56302848e8a7a8a002",
+    "hashString": "0faba714d73f1239a2cd17b4e7e6cbf563f66fa1",
     "events": [
       {
         "identifier": "uu80117951",
@@ -622,6 +622,22 @@
         "magnitude": 0.15,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80117986",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1758699703.959999,
+        "latitudeDeg": 39.613166666666665,
+        "longitudeDeg": -111.31483333333334,
+        "depthKM": 9.64,
+        "magnitude": 1.57,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fairview, UT",
+          "bearing": "E",
+          "distanceKM": 10.78743028925925
+        }
       },
       {
         "identifier": "uu80117746",
