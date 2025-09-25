@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9c640a61c31dc05be3e6e892670b708e8c35e75b",
+    "hashString": "389b88c1012a70123bf582ec17e675e550117b7d",
     "events": [
       {
         "identifier": "uu80117951",
@@ -442,6 +442,22 @@
         "magnitude": 0.92,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80118081",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1758800375.040001,
+        "latitudeDeg": 37.18483333333333,
+        "longitudeDeg": -112.887,
+        "depthKM": 19.02,
+        "magnitude": 1.6400000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Springdale, UT",
+          "bearing": "E",
+          "distanceKM": 9.896476762333394
+        }
       },
       {
         "identifier": "uu80117751",
