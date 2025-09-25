@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-25T20:43:36Z",
+  "fetchedAt": "2025-09-25T22:05:46Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -923,6 +923,19 @@
       "magnitude": 0.67,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanarraville, UT', 'bearing': 'SSE', 'distanceKM': 13.045457546076571}",
+      "version": null
+    },
+    {
+      "identifier": "mb90113258",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758834652.41,
+      "latitudeDeg": 44.2501666666667,
+      "longitudeDeg": -114.365833333333,
+      "depthKm": 5.12,
+      "magnitude": 0.99,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
