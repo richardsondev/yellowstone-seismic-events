@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-25T11:26:15Z",
+  "fetchedAt": "2025-09-25T13:16:24Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -390,6 +390,19 @@
       "magnitude": 0.92,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80118081",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758800375.040001,
+      "latitudeDeg": 37.18483333333333,
+      "longitudeDeg": -112.887,
+      "depthKm": 19.02,
+      "magnitude": 1.6400000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Springdale, UT', 'bearing': 'E', 'distanceKM': 9.896476762333394}",
       "version": null
     },
     {
