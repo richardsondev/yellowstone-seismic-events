@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "30e882182c8ecc38c54f6c36849ccffd22fc9925",
+    "hashString": "fecf80dbb62473c21a1f43b3212df54e06ffb3c5",
     "events": [
       {
         "identifier": "uu80117951",
@@ -18,6 +18,18 @@
           "bearing": "ENE",
           "distanceKM": 9.521727534703532
         }
+      },
+      {
+        "identifier": "mb90113128",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1758712485.2,
+        "latitudeDeg": 44.7778333333333,
+        "longitudeDeg": -112.348166666667,
+        "depthKM": 10.53,
+        "magnitude": 0.77,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80004853",
@@ -218,18 +230,6 @@
           "bearing": "W",
           "distanceKM": 10.047399354544083
         }
-      },
-      {
-        "identifier": "mb90112523",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1758209432.74,
-        "latitudeDeg": 44.7725,
-        "longitudeDeg": -114.411,
-        "depthKM": 6.48,
-        "magnitude": 1.59,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "mb90112568",
@@ -620,18 +620,6 @@
         }
       },
       {
-        "identifier": "mb90112518",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1758209273.81,
-        "latitudeDeg": 44.8055,
-        "longitudeDeg": -111.524833333333,
-        "depthKM": 13.04,
-        "magnitude": 0.77,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "mb90112578",
         "authority": "MB",
         "eventType": "eq",
@@ -748,6 +736,18 @@
         "longitudeDeg": -111.517166666667,
         "depthKM": 11.39,
         "magnitude": 0.09,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
+        "identifier": "mb90113133",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1758705329.79,
+        "latitudeDeg": 44.8016666666667,
+        "longitudeDeg": -111.522833333333,
+        "depthKM": 10.96,
+        "magnitude": 0.21,
         "isLocal": false,
         "nearestTown": null
       },
