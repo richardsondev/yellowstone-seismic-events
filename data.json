@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-26T16:31:51Z",
+  "fetchedAt": "2025-09-26T16:46:43Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -598,6 +598,19 @@
       "magnitude": 1.9100000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 6.569745072643641}",
+      "version": null
+    },
+    {
+      "identifier": "uu80118141",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758902628.8899994,
+      "latitudeDeg": 44.7355,
+      "longitudeDeg": -110.86516666666667,
+      "depthKm": 4.6,
+      "magnitude": 0.55,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 20.57322536227239}",
       "version": null
     },
     {
