@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "17851f84851e417f9fae0378d3f31966d2457487",
+    "hashString": "ab27ed1c42fba4aa7254c434c59005e5824776b0",
     "events": [
       {
         "identifier": "uu80117951",
@@ -392,6 +392,22 @@
         }
       },
       {
+        "identifier": "uu80118131",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1758885455.3899994,
+        "latitudeDeg": 38.5415,
+        "longitudeDeg": -112.1725,
+        "depthKM": 3.06,
+        "magnitude": 1.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Sevier, UT",
+          "bearing": "ESE",
+          "distanceKM": 9.064455537276233
+        }
+      },
+      {
         "identifier": "mb90112688",
         "authority": "MB",
         "eventType": "eq",
@@ -652,18 +668,6 @@
         }
       },
       {
-        "identifier": "mb90112653",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1758294134.46,
-        "latitudeDeg": 44.8085,
-        "longitudeDeg": -111.519333333333,
-        "depthKM": 13.09,
-        "magnitude": 0.3,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80004893",
         "authority": "UU",
         "eventType": "eq",
@@ -844,18 +848,6 @@
         "longitudeDeg": -111.534,
         "depthKM": 9.66,
         "magnitude": 0.24,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90112648",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1758294139.5,
-        "latitudeDeg": 44.803,
-        "longitudeDeg": -111.537333333333,
-        "depthKM": 11.71,
-        "magnitude": 0.72,
         "isLocal": false,
         "nearestTown": null
       },
@@ -1424,18 +1416,6 @@
         "longitudeDeg": -111.495166666667,
         "depthKM": 10.83,
         "magnitude": 0.41,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90112028",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1757689961.1200001,
-        "latitudeDeg": 44.5686666666667,
-        "longitudeDeg": -112.2095,
-        "depthKM": 3.17,
-        "magnitude": 1.07,
         "isLocal": false,
         "nearestTown": null
       },
