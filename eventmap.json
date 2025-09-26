@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4f9d86fc864893ec4ecb2bbe8b43da2c77cf053a",
+    "hashString": "17851f84851e417f9fae0378d3f31966d2457487",
     "events": [
       {
         "identifier": "uu80117951",
@@ -121,6 +121,22 @@
           "town": "Lake, WY",
           "bearing": "NNE",
           "distanceKM": 5.884801773887618
+        }
+      },
+      {
+        "identifier": "uu80118136",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1758885528.1499977,
+        "latitudeDeg": 38.559,
+        "longitudeDeg": -112.17816666666667,
+        "depthKM": 0.87,
+        "magnitude": 1.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Sevier, UT",
+          "bearing": "ESE",
+          "distanceKM": 7.702732595177398
         }
       },
       {

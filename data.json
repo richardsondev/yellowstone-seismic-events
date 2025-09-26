@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-26T13:31:46Z",
+  "fetchedAt": "2025-09-26T14:05:58Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -104,6 +104,19 @@
       "magnitude": 0.62,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 5.884801773887618}",
+      "version": null
+    },
+    {
+      "identifier": "uu80118136",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1758885528.1499977,
+      "latitudeDeg": 38.559,
+      "longitudeDeg": -112.17816666666667,
+      "depthKm": 0.87,
+      "magnitude": 1.75,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Sevier, UT', 'bearing': 'ESE', 'distanceKM': 7.702732595177398}",
       "version": null
     },
     {
