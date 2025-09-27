@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-27T12:52:45Z",
+  "fetchedAt": "2025-09-27T13:27:56Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -52,6 +52,19 @@
       "magnitude": 1.74,
       "isLocal": true,
       "nearestTown": "{'town': 'Fairview, UT', 'bearing': 'E', 'distanceKM': 10.018889537302766}",
+      "version": null
+    },
+    {
+      "identifier": "mb90113318",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758916584.51,
+      "latitudeDeg": 44.8083333333333,
+      "longitudeDeg": -111.544333333333,
+      "depthKm": 11.43,
+      "magnitude": 0.88,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -856,6 +869,19 @@
       "longitudeDeg": -111.520833333333,
       "depthKm": 11.26,
       "magnitude": 0.48,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90113373",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1758905631.39,
+      "latitudeDeg": 45.7263333333333,
+      "longitudeDeg": -112.127666666667,
+      "depthKm": 4.5,
+      "magnitude": 0.22,
       "isLocal": false,
       "nearestTown": null,
       "version": null
