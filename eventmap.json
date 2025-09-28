@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ddae8b8ba908d51f6071a723e87166c7dd8e93e4",
+    "hashString": "ef58e8ee14169caf4bcd7277d442d553f6545655",
     "events": [
       {
         "identifier": "uu80117951",
@@ -348,6 +348,18 @@
         }
       },
       {
+        "identifier": "mb90113448",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1759036405.27,
+        "latitudeDeg": 44.688,
+        "longitudeDeg": -111.385333333333,
+        "depthKM": 12.63,
+        "magnitude": 1.04,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "mb90113033",
         "authority": "MB",
         "eventType": "eq",
@@ -513,22 +525,6 @@
           "town": "Manderfield, UT",
           "bearing": "NW",
           "distanceKM": 17.2237326840348
-        }
-      },
-      {
-        "identifier": "uu80117376",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1757858123.9300003,
-        "latitudeDeg": 44.6115,
-        "longitudeDeg": -110.44633333333333,
-        "depthKM": 4.77,
-        "magnitude": 1.07,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "NNW",
-          "distanceKM": 7.608166087418713
         }
       },
       {
