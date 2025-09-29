@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3fe0f4adbd2479b0119cd1e52aea9fa0af9093d5",
+    "hashString": "f59267f5e7b15a3654eda89b6c5afb2a5f0429b8",
     "events": [
       {
         "identifier": "uu80117951",
@@ -349,6 +349,22 @@
           "town": "Springdale, UT",
           "bearing": "E",
           "distanceKM": 9.896476762333394
+        }
+      },
+      {
+        "identifier": "uu80118156",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1758999869.4499989,
+        "latitudeDeg": 44.799166666666665,
+        "longitudeDeg": -110.85066666666667,
+        "depthKM": 4.62,
+        "magnitude": 1.3800000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.893580553085187
         }
       },
       {
