@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "eb2d2149eb3bf83625a0a95bf7c8ee09b92f4023",
+    "hashString": "8f159b7740115d8e93557176f996380775fc8518",
     "events": [
       {
         "identifier": "uu80117951",
@@ -809,6 +809,22 @@
           "town": "West Thumb, WY",
           "bearing": "S",
           "distanceKM": 11.893622299172947
+        }
+      },
+      {
+        "identifier": "uu80118331",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759162731.2999992,
+        "latitudeDeg": 41.53633333333333,
+        "longitudeDeg": -111.70783333333333,
+        "depthKM": 10.61,
+        "magnitude": 1.53,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Paradise, UT",
+          "bearing": "ESE",
+          "distanceKM": 11.417271635465239
         }
       },
       {
