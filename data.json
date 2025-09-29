@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-29T17:07:10Z",
+  "fetchedAt": "2025-09-29T17:44:00Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -65,6 +65,19 @@
       "magnitude": 1.74,
       "isLocal": true,
       "nearestTown": "{'town': 'Fairview, UT', 'bearing': 'E', 'distanceKM': 10.018889537302766}",
+      "version": null
+    },
+    {
+      "identifier": "uu80004923",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759108238.6800003,
+      "latitudeDeg": 39.12683333333333,
+      "longitudeDeg": -110.84683333333334,
+      "depthKm": 3.74,
+      "magnitude": 0.59,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Castle Dale, UT', 'bearing': 'ESE', 'distanceKM': 17.661481384922684}",
       "version": null
     },
     {
@@ -757,6 +770,19 @@
       "version": null
     },
     {
+      "identifier": "uu80118271",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759090723.4300003,
+      "latitudeDeg": 44.79483333333334,
+      "longitudeDeg": -110.852,
+      "depthKm": 4.07,
+      "magnitude": 0.9400000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.362987109000027}",
+      "version": null
+    },
+    {
       "identifier": "uu80118296",
       "authority": "UU",
       "eventType": "eq",
@@ -1248,6 +1274,19 @@
       "magnitude": 1.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'W', 'distanceKM': 11.099144276823155}",
+      "version": null
+    },
+    {
+      "identifier": "uu80118276",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759092615.7299995,
+      "latitudeDeg": 44.792,
+      "longitudeDeg": -110.82683333333334,
+      "depthKm": 4.47,
+      "magnitude": 0.7000000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.72034291270522}",
       "version": null
     },
     {
