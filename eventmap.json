@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f97562bcd0e43d0d78472d78fd2d43daae371400",
+    "hashString": "cdad6cdafe27d0229e3bd2f9e6cd89c0189eaf62",
     "events": [
       {
         "identifier": "uu80117951",
@@ -642,6 +642,22 @@
         "magnitude": 0.21,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80004928",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759092880.369999,
+        "latitudeDeg": 41.41166666666667,
+        "longitudeDeg": -110.15983333333334,
+        "depthKM": 46.77,
+        "magnitude": 2.41,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lyman, WY",
+          "bearing": "NE",
+          "distanceKM": 14.52922201449653
+        }
       },
       {
         "identifier": "mb90113343",
