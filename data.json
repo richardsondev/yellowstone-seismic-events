@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-29T23:06:21Z",
+  "fetchedAt": "2025-09-29T23:26:02Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -286,6 +286,19 @@
       "magnitude": 0.99,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 15.499536635026894}",
+      "version": null
+    },
+    {
+      "identifier": "uu80118356",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759182627.6800003,
+      "latitudeDeg": 37.3365,
+      "longitudeDeg": -112.71383333333333,
+      "depthKm": 13.71,
+      "magnitude": 1.6500000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Orderville, UT', 'bearing': 'NW', 'distanceKM': 9.534049512768515}",
       "version": null
     },
     {
