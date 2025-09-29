@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-29T16:06:53Z",
+  "fetchedAt": "2025-09-29T16:28:47Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -549,6 +549,19 @@
       "version": null
     },
     {
+      "identifier": "uu80118211",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759049179.6800003,
+      "latitudeDeg": 44.797,
+      "longitudeDeg": -110.851,
+      "depthKm": 4.65,
+      "magnitude": 0.59,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.11494646982388}",
+      "version": null
+    },
+    {
       "identifier": "uu80117586",
       "authority": "UU",
       "eventType": "eq",
@@ -923,6 +936,19 @@
       "magnitude": 1.05,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80004938",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759057249.0599976,
+      "latitudeDeg": 39.04783333333334,
+      "longitudeDeg": -110.59116666666667,
+      "depthKm": 5.63,
+      "magnitude": 0.45,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Woodside, UT', 'bearing': 'SW', 'distanceKM': 31.912370459130617}",
       "version": null
     },
     {
