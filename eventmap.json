@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2ba78e08090a19557c1a0133aa3409764ba4ada6",
+    "hashString": "456c3baef3345b4cff4daad7bc67aa66d8d59d59",
     "events": [
       {
         "identifier": "uu80117951",
@@ -317,6 +317,22 @@
           "town": "Lake, WY",
           "bearing": "NNW",
           "distanceKM": 15.499536635026894
+        }
+      },
+      {
+        "identifier": "uu80118356",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759182627.6800003,
+        "latitudeDeg": 37.3365,
+        "longitudeDeg": -112.71383333333333,
+        "depthKM": 13.71,
+        "magnitude": 1.6500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Orderville, UT",
+          "bearing": "NW",
+          "distanceKM": 9.534049512768515
         }
       },
       {
