@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-09-30T22:28:22Z",
+  "fetchedAt": "2025-09-30T23:06:16Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -234,6 +234,19 @@
       "magnitude": 1.82,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SSW', 'distanceKM': 11.59264826662424}",
+      "version": null
+    },
+    {
+      "identifier": "uu80118441",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759270990.9799995,
+      "latitudeDeg": 44.75833333333333,
+      "longitudeDeg": -111.08716666666666,
+      "depthKm": 9.49,
+      "magnitude": 0.9,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'ESE', 'distanceKM': 9.583268670421909}",
       "version": null
     },
     {
@@ -1056,19 +1069,6 @@
       "version": null
     },
     {
-      "identifier": "mb90113138",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1758666934.46,
-      "latitudeDeg": 44.5878333333333,
-      "longitudeDeg": -112.353333333333,
-      "depthKm": 3.1,
-      "magnitude": 1.05,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "mb90113958",
       "authority": "MB",
       "eventType": "eq",
@@ -1095,16 +1095,16 @@
       "version": null
     },
     {
-      "identifier": "uu80117541",
+      "identifier": "uu80118436",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1758062779.5,
-      "latitudeDeg": 44.758833333333335,
-      "longitudeDeg": -110.51266666666666,
-      "depthKm": 6.13,
-      "magnitude": 1.24,
+      "originTimeUtc": 1759270512.04,
+      "latitudeDeg": 44.75533333333333,
+      "longitudeDeg": -111.089,
+      "depthKm": 9.61,
+      "magnitude": 1.37,
       "isLocal": true,
-      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 24.724396018118885}",
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'ESE', 'distanceKM': 9.630616917453136}",
       "version": null
     },
     {
