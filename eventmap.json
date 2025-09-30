@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "abd772b6d54b167196dda4e4f307a6c33eae48f4",
+    "hashString": "a25c2c9bb9d73ed438356049432f505a7407f444",
     "events": [
       {
         "identifier": "uu80117951",
@@ -1562,6 +1562,22 @@
         "magnitude": 0.87,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80004968",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759251035.7399979,
+        "latitudeDeg": 41.826166666666666,
+        "longitudeDeg": -111.64466666666667,
+        "depthKM": 8.51,
+        "magnitude": 1.06,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "North Logan, UT",
+          "bearing": "ENE",
+          "distanceKM": 14.691270398318917
+        }
       },
       {
         "identifier": "mb90113598",
