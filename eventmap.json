@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d4580f7bc48877e219698e7faff80b0d55392fa2",
+    "hashString": "5e88311d111629fbeb53110150136b69d2c8e2f2",
     "events": [
       {
         "identifier": "uu80117951",
@@ -741,6 +741,22 @@
           "town": "Manderfield, UT",
           "bearing": "NW",
           "distanceKM": 17.2237326840348
+        }
+      },
+      {
+        "identifier": "uu80118431",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759269731.79,
+        "latitudeDeg": 38.74,
+        "longitudeDeg": -112.51233333333333,
+        "depthKM": 0.48,
+        "magnitude": 1.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kanosh, UT",
+          "bearing": "SW",
+          "distanceKM": 9.424145654968124
         }
       },
       {
