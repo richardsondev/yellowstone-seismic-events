@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "afa83fa2dcdfcaad31e86e638fa78c3510a29522",
+    "hashString": "ead29674b79593c20b86580df95e48d5429752e2",
     "events": [
       {
         "identifier": "uu80117951",
@@ -549,22 +549,6 @@
           "town": "Lake, WY",
           "bearing": "NNE",
           "distanceKM": 6.470145939516821
-        }
-      },
-      {
-        "identifier": "uu80004868",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1758104023.0599976,
-        "latitudeDeg": 37.20033333333333,
-        "longitudeDeg": -112.8895,
-        "depthKM": 15.95,
-        "magnitude": 0.85,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Springdale, UT",
-          "bearing": "E",
-          "distanceKM": 9.746952446855582
         }
       },
       {
@@ -1130,6 +1114,18 @@
           "bearing": "S",
           "distanceKM": 11.893622299172947
         }
+      },
+      {
+        "identifier": "nn00905257",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1759313384.572,
+        "latitudeDeg": 37.344,
+        "longitudeDeg": -114.64,
+        "depthKM": 7.5,
+        "magnitude": 1.3,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80118331",
