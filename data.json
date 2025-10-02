@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-02T11:25:13Z",
+  "fetchedAt": "2025-10-02T13:31:47Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -1573,6 +1573,19 @@
       "magnitude": 2.34,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80118521",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759391953.2599993,
+      "latitudeDeg": 40.70783333333333,
+      "longitudeDeg": -112.03683333333333,
+      "depthKm": 8.54,
+      "magnitude": 0.5,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Magna, UT', 'bearing': 'E', 'distanceKM': 5.993456980633728}",
       "version": null
     },
     {
