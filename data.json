@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-02T00:26:14Z",
+  "fetchedAt": "2025-10-02T03:32:00Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -1079,6 +1079,19 @@
       "magnitude": 1.11,
       "isLocal": true,
       "nearestTown": "{'town': 'Saint Charles, ID', 'bearing': 'WSW', 'distanceKM': 12.794242316730353}",
+      "version": null
+    },
+    {
+      "identifier": "us6000re4e",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1759371609.852,
+      "latitudeDeg": 45.6416,
+      "longitudeDeg": -113.644,
+      "depthKm": 22.083,
+      "magnitude": 3.4,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
