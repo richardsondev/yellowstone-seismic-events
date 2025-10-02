@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ed18398f073a6e3d202bda9fed046638e05cb25c",
+    "hashString": "5f2b68025d8cd55d06d08c3ecb7b50a4a037b266",
     "events": [
       {
         "identifier": "uu80117951",
@@ -1710,6 +1710,22 @@
         "magnitude": 2.34,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80118521",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759391953.2599993,
+        "latitudeDeg": 40.70783333333333,
+        "longitudeDeg": -112.03683333333333,
+        "depthKM": 8.54,
+        "magnitude": 0.5,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Magna, UT",
+          "bearing": "E",
+          "distanceKM": 5.993456980633728
+        }
       },
       {
         "identifier": "uu80118186",
