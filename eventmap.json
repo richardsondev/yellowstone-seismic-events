@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ae4de47bbc3634674abbab4873715c1b124ecf73",
+    "hashString": "6cf5b3861f0b8ca5fa3068f3ff082c4ca9ae30f8",
     "events": [
       {
         "identifier": "uu80117951",
@@ -861,6 +861,22 @@
           "town": "Hiawatha, UT",
           "bearing": "SW",
           "distanceKM": 8.472403297902456
+        }
+      },
+      {
+        "identifier": "uu80004988",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759392824.2999992,
+        "latitudeDeg": 40.981,
+        "longitudeDeg": -111.62916666666666,
+        "depthKM": 9.26,
+        "magnitude": 0.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Porterville, UT",
+          "bearing": "E",
+          "distanceKM": 4.482173251491801
         }
       },
       {
