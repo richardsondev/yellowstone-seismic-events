@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-02T18:08:41Z",
+  "fetchedAt": "2025-10-02T20:06:57Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -832,6 +832,19 @@
       "magnitude": 1.46,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80118541",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759424221.85,
+      "latitudeDeg": 39.0015,
+      "longitudeDeg": -111.411,
+      "depthKm": -0.59,
+      "magnitude": 1.4000000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WNW', 'distanceKM': 16.518555153825506}",
       "version": null
     },
     {
@@ -2182,19 +2195,6 @@
       "longitudeDeg": -112.219833333333,
       "depthKm": 3.01,
       "magnitude": 1.35,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "mb90112588",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1758225142.0900002,
-      "latitudeDeg": 44.8105,
-      "longitudeDeg": -111.521833333333,
-      "depthKm": 11.25,
-      "magnitude": 1.15,
       "isLocal": false,
       "nearestTown": null,
       "version": null
