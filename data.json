@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-03T01:57:33Z",
+  "fetchedAt": "2025-10-03T03:46:28Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -2078,6 +2078,19 @@
       "longitudeDeg": -112.2325,
       "depthKm": 6.36,
       "magnitude": 1.76,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "us6000reed",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1759461541.8040001,
+      "latitudeDeg": 44.5642,
+      "longitudeDeg": -112.2483,
+      "depthKm": 5.0,
+      "magnitude": 3.9,
       "isLocal": false,
       "nearestTown": null,
       "version": null

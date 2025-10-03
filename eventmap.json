@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c919f8ae0f11569a68cbe01e07174a69a0a8e5a8",
+    "hashString": "2c41adbc9ca8e70c8a37529b5bb1b4003422e2d4",
     "events": [
       {
         "identifier": "uu80117951",
@@ -2240,6 +2240,18 @@
         "longitudeDeg": -112.2325,
         "depthKM": 6.36,
         "magnitude": 1.76,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
+        "identifier": "us6000reed",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1759461541.8040001,
+        "latitudeDeg": 44.5642,
+        "longitudeDeg": -112.2483,
+        "depthKM": 5,
+        "magnitude": 3.9,
         "isLocal": false,
         "nearestTown": null
       },
