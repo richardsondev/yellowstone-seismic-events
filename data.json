@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-03T14:28:44Z",
+  "fetchedAt": "2025-10-03T14:44:45Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -1131,6 +1131,19 @@
       "magnitude": 0.96,
       "isLocal": true,
       "nearestTown": "{'town': 'Porterville, UT', 'bearing': 'SSE', 'distanceKM': 14.446085244328486}",
+      "version": null
+    },
+    {
+      "identifier": "mb90115268",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1759479017.03,
+      "latitudeDeg": 45.6463333333333,
+      "longitudeDeg": -113.552666666667,
+      "depthKm": 15.97,
+      "magnitude": 1.87,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
