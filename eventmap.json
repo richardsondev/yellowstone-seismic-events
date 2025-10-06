@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c0eba8475f734f49a15cf04917f29a64242837a2",
+    "hashString": "c96ec7212a6bad973569e205a28fd805d07f7fac",
     "events": [
       {
         "identifier": "uu80117951",
@@ -52,18 +52,6 @@
         "longitudeDeg": -112.217333333333,
         "depthKM": 6.97,
         "magnitude": 1.99,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90114083",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1759151530.04,
-        "latitudeDeg": 45.8413333333333,
-        "longitudeDeg": -113.069333333333,
-        "depthKM": 5.07,
-        "magnitude": 1.22,
         "isLocal": false,
         "nearestTown": null
       },
@@ -1129,6 +1117,22 @@
           "town": "Magna, UT",
           "bearing": "ENE",
           "distanceKM": 5.987312851719912
+        }
+      },
+      {
+        "identifier": "uu80118661",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759522423.1399994,
+        "latitudeDeg": 39.650333333333336,
+        "longitudeDeg": -111.28733333333334,
+        "depthKM": 12.53,
+        "magnitude": 1.9000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "W",
+          "distanceKM": 11.435869804420992
         }
       },
       {
