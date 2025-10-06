@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-06T13:33:28Z",
+  "fetchedAt": "2025-10-06T13:46:53Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -588,6 +588,19 @@
       "version": null
     },
     {
+      "identifier": "uu80118666",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759535129.2799988,
+      "latitudeDeg": 41.67,
+      "longitudeDeg": -111.65266666666666,
+      "depthKm": 9.54,
+      "magnitude": 1.08,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Millville, UT', 'bearing': 'E', 'distanceKM': 14.205477482792864}",
+      "version": null
+    },
+    {
       "identifier": "us6000refr",
       "authority": "US",
       "eventType": "eq",
@@ -962,6 +975,19 @@
       "magnitude": 1.12,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.478435506092254}",
+      "version": null
+    },
+    {
+      "identifier": "uu80118671",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759553558.3099976,
+      "latitudeDeg": 44.797,
+      "longitudeDeg": -110.86016666666667,
+      "depthKm": 4.44,
+      "magnitude": 0.35000000000000003,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.48628998041799}",
       "version": null
     },
     {
