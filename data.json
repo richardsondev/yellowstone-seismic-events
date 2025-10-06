@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-06T17:28:02Z",
+  "fetchedAt": "2025-10-06T17:43:42Z",
   "events": [
     {
       "identifier": "uu80117951",
@@ -858,6 +858,19 @@
       "magnitude": 1.55,
       "isLocal": true,
       "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'NNW', 'distanceKM': 6.6085687858329525}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005043",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759762827.959999,
+      "latitudeDeg": 44.68666666666667,
+      "longitudeDeg": -110.68933333333334,
+      "depthKm": 6.28,
+      "magnitude": 0.5,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 27.336956899272202}",
       "version": null
     },
     {
@@ -2080,6 +2093,19 @@
       "magnitude": 1.35,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80118856",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759762815.6399994,
+      "latitudeDeg": 44.66916666666667,
+      "longitudeDeg": -110.67883333333333,
+      "depthKm": 4.36,
+      "magnitude": 0.45,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.600021595646982}",
       "version": null
     },
     {
