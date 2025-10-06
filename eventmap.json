@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ba04cd3d2352c2085a370aebde6b273bf1deefa6",
+    "hashString": "7d427af8989500ad6922d157c5c4590b5781e5f3",
     "events": [
       {
         "identifier": "uu80117951",
@@ -1352,6 +1352,18 @@
         }
       },
       {
+        "identifier": "mb90115388",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1759551398.41,
+        "latitudeDeg": 44.5673333333333,
+        "longitudeDeg": -112.218166666667,
+        "depthKM": 7.12,
+        "magnitude": 1.34,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80118191",
         "authority": "UU",
         "eventType": "eq",
@@ -2098,22 +2110,6 @@
         "magnitude": 1.51,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80117896",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1758570211.539999,
-        "latitudeDeg": 39.371833333333335,
-        "longitudeDeg": -111.776,
-        "depthKM": 3.08,
-        "magnitude": 1.37,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Ephraim, UT",
-          "bearing": "W",
-          "distanceKM": 16.36350041050582
-        }
       },
       {
         "identifier": "uu80118201",
