@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "45fe4b3fc262f585abec0c1b39d10ddce67c7c3d",
+    "hashString": "71444270335b2932388290a2aa4157b2dcf433ec",
     "events": [
       {
         "identifier": "mb90114618",
@@ -41,22 +41,6 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 23.38799913913436
-        }
-      },
-      {
-        "identifier": "uu80117966",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1758660737.1000004,
-        "latitudeDeg": 39.60966666666667,
-        "longitudeDeg": -111.32466666666667,
-        "depthKM": 10.57,
-        "magnitude": 1.74,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fairview, UT",
-          "bearing": "E",
-          "distanceKM": 10.018889537302766
         }
       },
       {
@@ -786,6 +770,22 @@
         "magnitude": 1.03,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80118946",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759869675.5999994,
+        "latitudeDeg": 42.43816666666667,
+        "longitudeDeg": -111.60233333333333,
+        "depthKM": 7.18,
+        "magnitude": 1.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Thatcher, ID",
+          "bearing": "ENE",
+          "distanceKM": 10.876528196867705
+        }
       },
       {
         "identifier": "uu80118431",
