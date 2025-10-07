@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b67426144b39f86d72fae8d5d1ef9c07e7fd293e",
+    "hashString": "532222d7796ebec5ff7974d57598aaebf683a5aa",
     "events": [
       {
         "identifier": "uu80117951",
@@ -349,6 +349,22 @@
           "town": "Leeds, UT",
           "bearing": "SSW",
           "distanceKM": 7.7463491766388906
+        }
+      },
+      {
+        "identifier": "uu80118916",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759853531.38,
+        "latitudeDeg": 44.79666666666667,
+        "longitudeDeg": -110.854,
+        "depthKM": 4.96,
+        "magnitude": 0.5700000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.26656048827728
         }
       },
       {
