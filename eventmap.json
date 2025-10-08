@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5e953c5a358ddfe2e39c3d3567f55ce67c72d027",
+    "hashString": "073aa55ec2536eef4539630f93604c25d6333f95",
     "events": [
       {
         "identifier": "mb90115143",
@@ -1130,6 +1130,22 @@
         "magnitude": 0.98,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80118976",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759909714.889999,
+        "latitudeDeg": 40.33333206176758,
+        "longitudeDeg": -111.34149932861328,
+        "depthKM": -2.4600000381469727,
+        "magnitude": 2.76,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Wallsburg, UT",
+          "bearing": "SE",
+          "distanceKM": 9.139646205442196
+        }
       },
       {
         "identifier": "us6000res9",
