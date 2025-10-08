@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-08T15:45:09Z",
+  "fetchedAt": "2025-10-08T16:08:05Z",
   "events": [
     {
       "identifier": "mb90115143",
@@ -468,6 +468,19 @@
       "magnitude": 1.0,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80119001",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1759935904.5299997,
+      "latitudeDeg": 44.82966666666667,
+      "longitudeDeg": -110.65183333333333,
+      "depthKm": 7.43,
+      "magnitude": 1.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSE', 'distanceKM': 16.8481528009976}",
       "version": null
     },
     {
@@ -1053,6 +1066,19 @@
       "magnitude": 2.75,
       "isLocal": true,
       "nearestTown": "{'town': 'Wallsburg, UT', 'bearing': 'SE', 'distanceKM': 10.936425580277913}",
+      "version": null
+    },
+    {
+      "identifier": "mb90115628",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1759640109.19,
+      "latitudeDeg": 44.4085,
+      "longitudeDeg": -115.181166666667,
+      "depthKm": 5.97,
+      "magnitude": 2.69,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
