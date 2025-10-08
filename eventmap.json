@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "26f339a325526603d8979b0a975501793bd57c37",
+    "hashString": "e167629ec9432ecf586ceea9577034ce454f4981",
     "events": [
       {
         "identifier": "mb90115143",
@@ -289,6 +289,22 @@
           "town": "Orderville, UT",
           "bearing": "NW",
           "distanceKM": 9.534049512768515
+        }
+      },
+      {
+        "identifier": "uu80118961",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759892153.3600006,
+        "latitudeDeg": 44.79983333333333,
+        "longitudeDeg": -110.8475,
+        "depthKM": 4.68,
+        "magnitude": 0.9,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.703983595891255
         }
       },
       {
