@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-08T15:07:02Z",
+  "fetchedAt": "2025-10-08T15:29:30Z",
   "events": [
     {
       "identifier": "mb90115143",
@@ -440,6 +440,19 @@
       "longitudeDeg": -111.866166666667,
       "depthKm": 10.06,
       "magnitude": 1.18,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90115358",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1759534145.07,
+      "latitudeDeg": 44.5651666666667,
+      "longitudeDeg": -112.2205,
+      "depthKm": 4.99,
+      "magnitude": 1.0,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1833,6 +1846,19 @@
       "magnitude": 0.75,
       "isLocal": true,
       "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 10.200610605929558}",
+      "version": null
+    },
+    {
+      "identifier": "mb90115353",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1759530912.21,
+      "latitudeDeg": 44.955,
+      "longitudeDeg": -112.5755,
+      "depthKm": 7.33,
+      "magnitude": 0.97,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
