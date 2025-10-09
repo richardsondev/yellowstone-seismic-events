@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "bbbc0a941e021f502e3bc1ae762e28e2f3fcfce2",
+    "hashString": "282d0977861546e8b1a9e2ef25055e2df3a76a53",
     "events": [
       {
         "identifier": "mb90115143",
@@ -2165,6 +2165,22 @@
           "town": "Snowville, UT",
           "bearing": "S",
           "distanceKM": 10.242898119510944
+        }
+      },
+      {
+        "identifier": "uu80005058",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1759996087.2599998,
+        "latitudeDeg": 37.740833333333335,
+        "longitudeDeg": -113.15066666666667,
+        "depthKM": 3.75,
+        "magnitude": 1.1300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Iron Springs, UT",
+          "bearing": "E",
+          "distanceKM": 7.756561489075154
         }
       },
       {
