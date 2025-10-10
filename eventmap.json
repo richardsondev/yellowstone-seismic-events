@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6f03e55ef496336eb4bc0bd6b2705f2d3323de8a",
+    "hashString": "7143a0cb83e499a4f2a8feaea20c16a0f2c24509",
     "events": [
       {
         "identifier": "uu80118511",
@@ -726,6 +726,22 @@
         "magnitude": 0.67,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80119131",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1760072538.8799992,
+        "latitudeDeg": 39.997,
+        "longitudeDeg": -111.28333333333333,
+        "depthKM": 7.36,
+        "magnitude": 0.85,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Gilluly, UT",
+          "bearing": "NW",
+          "distanceKM": 11.121221994036034
+        }
       },
       {
         "identifier": "nn00905524",
