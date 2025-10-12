@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-12T13:09:04Z",
+  "fetchedAt": "2025-10-12T15:43:31Z",
   "events": [
     {
       "identifier": "us6000rgjk",
@@ -481,6 +481,19 @@
       "magnitude": 1.75,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SW', 'distanceKM': 9.424145654968124}",
+      "version": null
+    },
+    {
+      "identifier": "nn00905855",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1760282378.007,
+      "latitudeDeg": 37.3553,
+      "longitudeDeg": -114.8985,
+      "depthKm": 4.3,
+      "magnitude": 1.5,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
