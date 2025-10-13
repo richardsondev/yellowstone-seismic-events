@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-13T19:24:48Z",
+  "fetchedAt": "2025-10-13T21:06:03Z",
   "events": [
     {
       "identifier": "us6000rgjk",
@@ -273,6 +273,19 @@
       "magnitude": 1.81,
       "isLocal": true,
       "nearestTown": "{'town': 'Orderville, UT', 'bearing': 'NW', 'distanceKM': 9.442658847155425}",
+      "version": null
+    },
+    {
+      "identifier": "mb90116528",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1760199053.77,
+      "latitudeDeg": 44.4383333333333,
+      "longitudeDeg": -115.198,
+      "depthKm": 5.0,
+      "magnitude": 1.59,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
