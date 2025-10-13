@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-13T12:33:46Z",
+  "fetchedAt": "2025-10-13T13:17:02Z",
   "events": [
     {
       "identifier": "us6000rgjk",
@@ -1261,6 +1261,19 @@
       "magnitude": 1.18,
       "isLocal": true,
       "nearestTown": "{'town': 'Snowville, UT', 'bearing': 'S', 'distanceKM': 10.242898119510944}",
+      "version": null
+    },
+    {
+      "identifier": "uu80119446",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1760349368.9099998,
+      "latitudeDeg": 39.196666666666665,
+      "longitudeDeg": -111.2285,
+      "depthKm": 5.21,
+      "magnitude": 1.36,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clawson, UT', 'bearing': 'WNW', 'distanceKM': 13.358533260917541}",
       "version": null
     },
     {
