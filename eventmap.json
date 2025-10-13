@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "01cbb95afa6e41b1244373dc4099cbc27925c5ca",
+    "hashString": "b939213b54cabd36613c71d0942dbd8c18da958a",
     "events": [
       {
         "identifier": "us6000rgjk",
@@ -1457,6 +1457,22 @@
           "town": "Snowville, UT",
           "bearing": "S",
           "distanceKM": 10.242898119510944
+        }
+      },
+      {
+        "identifier": "uu80119446",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1760349368.9099998,
+        "latitudeDeg": 39.196666666666665,
+        "longitudeDeg": -111.2285,
+        "depthKM": 5.21,
+        "magnitude": 1.36,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clawson, UT",
+          "bearing": "WNW",
+          "distanceKM": 13.358533260917541
         }
       },
       {
