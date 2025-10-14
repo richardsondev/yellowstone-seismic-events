@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-14T14:46:43Z",
+  "fetchedAt": "2025-10-14T15:44:17Z",
   "events": [
     {
       "identifier": "uu80118511",
@@ -221,6 +221,19 @@
       "magnitude": 0.6,
       "isLocal": true,
       "nearestTown": "{'town': 'Devils Slide, UT', 'bearing': 'NW', 'distanceKM': 7.148255581554447}",
+      "version": null
+    },
+    {
+      "identifier": "mb90117518",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1760154359.42,
+      "latitudeDeg": 44.7966666666667,
+      "longitudeDeg": -111.546,
+      "depthKm": 12.84,
+      "magnitude": 0.44,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
