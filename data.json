@@ -1,19 +1,6 @@
 {
   "events": [
     {
-      "identifier": "us6000rgjk",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1760181696.3270001,
-      "latitudeDeg": 40.6175,
-      "longitudeDeg": -114.9786,
-      "depthKm": 8.797,
-      "magnitude": 2.5,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80118511",
       "authority": "UU",
       "eventType": "eq",
@@ -581,6 +568,19 @@
       "longitudeDeg": -114.974833333333,
       "depthKm": 4.27,
       "magnitude": 1.26,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90117173",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1760122185.41,
+      "latitudeDeg": 44.813,
+      "longitudeDeg": -111.523166666667,
+      "depthKm": 10.54,
+      "magnitude": 0.89,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1415,6 +1415,19 @@
       "magnitude": 0.56,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.102751159428703}",
+      "version": null
+    },
+    {
+      "identifier": "nn00905821",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1760181696.6660001,
+      "latitudeDeg": 40.685,
+      "longitudeDeg": -114.9237,
+      "depthKm": 0.2,
+      "magnitude": 2.6,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
