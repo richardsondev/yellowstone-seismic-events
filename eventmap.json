@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b7277ac8d9072cff220d2abcdc86f65abcf34394",
+    "hashString": "2efec260924370a9eb1c2d81de6deeb915c8878b",
     "events": [
       {
         "identifier": "uu80118511",
@@ -457,6 +457,22 @@
           "town": "Snowville, UT",
           "bearing": "S",
           "distanceKM": 11.427835936845543
+        }
+      },
+      {
+        "identifier": "uu80005078",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1760402375.2999992,
+        "latitudeDeg": 39.48233333333334,
+        "longitudeDeg": -111.39033333333333,
+        "depthKM": 1.73,
+        "magnitude": 1.05,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Spring City, UT",
+          "bearing": "E",
+          "distanceKM": 9.068589642684913
         }
       },
       {
