@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2efec260924370a9eb1c2d81de6deeb915c8878b",
+    "hashString": "84f542971c656f3c2d8c41b0608e8682ff8dd75c",
     "events": [
       {
         "identifier": "uu80118511",
@@ -577,6 +577,22 @@
           "town": "Kanosh, UT",
           "bearing": "SW",
           "distanceKM": 9.424145654968124
+        }
+      },
+      {
+        "identifier": "uu80119461",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1760406141.1599998,
+        "latitudeDeg": 39.19566666666667,
+        "longitudeDeg": -111.22533333333334,
+        "depthKM": 5.52,
+        "magnitude": 1.31,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clawson, UT",
+          "bearing": "WNW",
+          "distanceKM": 13.06825094229373
         }
       },
       {
@@ -1345,22 +1361,6 @@
           "town": "Clear Creek, UT",
           "bearing": "WNW",
           "distanceKM": 10.744363201923354
-        }
-      },
-      {
-        "identifier": "uu80004968",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1759251035.7399979,
-        "latitudeDeg": 41.826166666666666,
-        "longitudeDeg": -111.64466666666667,
-        "depthKM": 8.51,
-        "magnitude": 1.06,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "North Logan, UT",
-          "bearing": "ENE",
-          "distanceKM": 14.691270398318917
         }
       },
       {
