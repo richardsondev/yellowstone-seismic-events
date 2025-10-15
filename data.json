@@ -1,7 +1,20 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-15T15:45:07Z",
+  "fetchedAt": "2025-10-15T16:07:17Z",
   "events": [
+    {
+      "identifier": "uu80119531",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1760521691.0599995,
+      "latitudeDeg": 44.383,
+      "longitudeDeg": -110.647,
+      "depthKm": 4.04,
+      "magnitude": 1.44,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'WSW', 'distanceKM': 6.605130416459392}",
+      "version": null
+    },
     {
       "identifier": "uu80118511",
       "authority": "UU",
@@ -78,6 +91,19 @@
       "magnitude": 0.53,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 22.364018537239783}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005093",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1760521704.869999,
+      "latitudeDeg": 44.385,
+      "longitudeDeg": -110.64833333333333,
+      "depthKm": 4.06,
+      "magnitude": 1.62,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'WSW', 'distanceKM': 6.576079370931729}",
       "version": null
     },
     {
@@ -510,6 +536,19 @@
       "version": null
     },
     {
+      "identifier": "mb90117538",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1760472079.1100001,
+      "latitudeDeg": 44.0921666666667,
+      "longitudeDeg": -114.368333333333,
+      "depthKm": 1.48,
+      "magnitude": 0.63,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80119251",
       "authority": "UU",
       "eventType": "eq",
@@ -676,6 +715,19 @@
       "magnitude": 0.71,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80119536",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1760521929.0199995,
+      "latitudeDeg": 44.382666666666665,
+      "longitudeDeg": -110.648,
+      "depthKm": 4.09,
+      "magnitude": 1.26,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'WSW', 'distanceKM': 6.691910523630811}",
       "version": null
     },
     {
