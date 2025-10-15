@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ffcf35c78f5c712c627d69a7a9aefdb1ff5a0c6f",
+    "hashString": "30bcfc39f7e9418c1551f915117fcd6949cde1f8",
     "events": [
       {
         "identifier": "uu80118511",
@@ -126,6 +126,22 @@
         "magnitude": 2.36,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80119591",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1760523309.75,
+        "latitudeDeg": 44.3715,
+        "longitudeDeg": -110.63783333333333,
+        "depthKM": 5.65,
+        "magnitude": 1.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Thumb, WY",
+          "bearing": "SW",
+          "distanceKM": 6.8575734798469865
+        }
       },
       {
         "identifier": "mb90117143",
@@ -454,22 +470,6 @@
         "magnitude": 2.02,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80118466",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1759326260.9300003,
-        "latitudeDeg": 39.45016666666667,
-        "longitudeDeg": -111.072,
-        "depthKM": 2.72,
-        "magnitude": 1.43,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hiawatha, UT",
-          "bearing": "SW",
-          "distanceKM": 6.294844119227727
-        }
       },
       {
         "identifier": "uu80004988",
