@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "572f249ebd08e934f522913bf6227cfc104100d5",
+    "hashString": "90d8c47dadebc9a107dc2f25e462bf9b1667097c",
     "events": [
       {
         "identifier": "uu80118511",
@@ -1581,6 +1581,22 @@
           "town": "Orderville, UT",
           "bearing": "NW",
           "distanceKM": 10.061479136411812
+        }
+      },
+      {
+        "identifier": "uu80119526",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1760521047.539999,
+        "latitudeDeg": 44.3875,
+        "longitudeDeg": -110.64666666666666,
+        "depthKM": 2.01,
+        "magnitude": 1.76,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Thumb, WY",
+          "bearing": "WSW",
+          "distanceKM": 6.321105146592162
         }
       },
       {
