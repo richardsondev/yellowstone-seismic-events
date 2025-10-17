@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-17T20:29:40Z",
+  "fetchedAt": "2025-10-17T22:06:07Z",
   "events": [
     {
       "identifier": "uu80119531",
@@ -1378,6 +1378,19 @@
       "magnitude": 1.25,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 6.8608333330709765}",
+      "version": null
+    },
+    {
+      "identifier": "mb90117758",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1760717984.38,
+      "latitudeDeg": 44.9611666666667,
+      "longitudeDeg": -114.321833333333,
+      "depthKm": 7.41,
+      "magnitude": 1.35,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
