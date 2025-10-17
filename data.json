@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-17T13:31:57Z",
+  "fetchedAt": "2025-10-17T13:45:26Z",
   "events": [
     {
       "identifier": "uu80119531",
@@ -416,6 +416,19 @@
       "magnitude": 1.1500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Snowville, UT', 'bearing': 'S', 'distanceKM': 11.427835936845543}",
+      "version": null
+    },
+    {
+      "identifier": "mb90117728",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1760661456.8600001,
+      "latitudeDeg": 44.3053333333333,
+      "longitudeDeg": -115.174166666667,
+      "depthKm": 9.2,
+      "magnitude": 2.24,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
