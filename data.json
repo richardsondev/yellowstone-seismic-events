@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-20T14:46:16Z",
+  "fetchedAt": "2025-10-20T18:49:09Z",
   "events": [
     {
       "identifier": "uu80119531",
@@ -263,6 +263,19 @@
       "version": null
     },
     {
+      "identifier": "uu80005108",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1760937253.88,
+      "latitudeDeg": 37.00566666666667,
+      "longitudeDeg": -112.84383333333334,
+      "depthKm": 20.96,
+      "magnitude": 1.17,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cane Beds, AZ', 'bearing': 'NE', 'distanceKM': 8.100129564681104}",
+      "version": null
+    },
+    {
       "identifier": "mb90117638",
       "authority": "MB",
       "eventType": "eq",
@@ -432,19 +445,6 @@
       "version": null
     },
     {
-      "identifier": "uu80005048",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1759762787.9199982,
-      "latitudeDeg": 44.68983333333333,
-      "longitudeDeg": -110.67766666666667,
-      "depthKm": 7.65,
-      "magnitude": -0.32,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NW', 'distanceKM': 26.772364024001007}",
-      "version": null
-    },
-    {
       "identifier": "uu80119631",
       "authority": "UU",
       "eventType": "eq",
@@ -562,6 +562,19 @@
       "version": null
     },
     {
+      "identifier": "uu80119846",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1760789103.1599998,
+      "latitudeDeg": 39.574666666666666,
+      "longitudeDeg": -112.0125,
+      "depthKm": 6.7,
+      "magnitude": 1.51,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mills, UT', 'bearing': 'N', 'distanceKM': 10.335869277762669}",
+      "version": null
+    },
+    {
       "identifier": "uu80119536",
       "authority": "UU",
       "eventType": "eq",
@@ -585,19 +598,6 @@
       "magnitude": 0.6,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.28628074051286}",
-      "version": null
-    },
-    {
-      "identifier": "uu80005043",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1759762827.959999,
-      "latitudeDeg": 44.68666666666667,
-      "longitudeDeg": -110.68933333333334,
-      "depthKm": 6.28,
-      "magnitude": 0.5,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 27.336956899272202}",
       "version": null
     },
     {
@@ -689,19 +689,6 @@
       "magnitude": 1.84,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'W', 'distanceKM': 12.968200721826557}",
-      "version": null
-    },
-    {
-      "identifier": "uu80118851",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1759762767.1499996,
-      "latitudeDeg": 44.671,
-      "longitudeDeg": -110.69,
-      "depthKm": 6.39,
-      "magnitude": 0.36,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 26.149283419226037}",
       "version": null
     },
     {
@@ -1173,6 +1160,19 @@
       "version": null
     },
     {
+      "identifier": "uu80119961",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1760977258.9399986,
+      "latitudeDeg": 44.653166666666664,
+      "longitudeDeg": -110.76916666666666,
+      "depthKm": 7.81,
+      "magnitude": 0.56,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 22.13922975540579}",
+      "version": null
+    },
+    {
       "identifier": "us6000rgpn",
       "authority": "US",
       "eventType": "eq",
@@ -1277,16 +1277,16 @@
       "version": null
     },
     {
-      "identifier": "uu80118856",
+      "identifier": "uu80119836",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1759762815.6399994,
-      "latitudeDeg": 44.66916666666667,
-      "longitudeDeg": -110.67883333333333,
-      "depthKm": 4.36,
-      "magnitude": 0.45,
+      "originTimeUtc": 1760778717.949997,
+      "latitudeDeg": 44.6605,
+      "longitudeDeg": -110.67433333333334,
+      "depthKm": 4.91,
+      "magnitude": 0.49,
       "isLocal": true,
-      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.600021595646982}",
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 24.80978836704512}",
       "version": null
     },
     {
