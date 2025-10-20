@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1c0a75ef3ff2c46b4c037b51b8cd82db3fa6bb52",
+    "hashString": "cd94890c28a2aac4348d9c0ae3dfd8b5e464ab5f",
     "events": [
       {
         "identifier": "uu80119531",
@@ -956,22 +956,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80118846",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1759756999.4300003,
-        "latitudeDeg": 44.67216666666667,
-        "longitudeDeg": -110.683,
-        "depthKM": 5.39,
-        "magnitude": 0.86,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "WNW",
-          "distanceKM": 26.054021063506095
-        }
-      },
-      {
         "identifier": "uu80119106",
         "authority": "UU",
         "eventType": "eq",
@@ -1369,6 +1353,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.717082723797706
+        }
+      },
+      {
+        "identifier": "uu80119916",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1760894881.1799998,
+        "latitudeDeg": 36.869166666666665,
+        "longitudeDeg": -112.90783333333333,
+        "depthKM": 19.17,
+        "magnitude": 2.16,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cane Beds, AZ",
+          "bearing": "S",
+          "distanceKM": 8.624783088900168
         }
       },
       {
