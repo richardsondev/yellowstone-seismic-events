@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d0b4d06fd6fb5576e37a32b8b35520740d9330e5",
+    "hashString": "0d4b0dd3fdeb1445fac701a0e604cdc9ab45f76a",
     "events": [
       {
         "identifier": "uu80119531",
@@ -985,6 +985,22 @@
           "town": "Penrose, UT",
           "bearing": "SW",
           "distanceKM": 11.957851271840525
+        }
+      },
+      {
+        "identifier": "uu80119816",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1760771187.8400002,
+        "latitudeDeg": 44.751666666666665,
+        "longitudeDeg": -111.0685,
+        "depthKM": 10.79,
+        "magnitude": 0.81,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "NNE",
+          "distanceKM": 10.349106484147406
         }
       },
       {
