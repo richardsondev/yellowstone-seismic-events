@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-21T21:43:31Z",
+  "fetchedAt": "2025-10-21T22:06:53Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -1222,6 +1222,19 @@
       "magnitude": 2.52,
       "isLocal": true,
       "nearestTown": "{'town': 'Enoch, UT', 'bearing': 'SW', 'distanceKM': 9.001088937158697}",
+      "version": null
+    },
+    {
+      "identifier": "mb90118068",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1761060071.07,
+      "latitudeDeg": 44.603,
+      "longitudeDeg": -112.0665,
+      "depthKm": 9.67,
+      "magnitude": 1.37,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
