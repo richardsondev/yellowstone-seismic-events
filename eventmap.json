@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6b1bf6668174b5e37a1f86f806cc3b879898f5e8",
+    "hashString": "59525c0609abc74e6762d2874d52efb75439788d",
     "events": [
       {
         "identifier": "uu80119891",
@@ -921,6 +921,22 @@
           "town": "Mammoth, WY",
           "bearing": "S",
           "distanceKM": 26.2899892596595
+        }
+      },
+      {
+        "identifier": "uu80119981",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761006470.5299988,
+        "latitudeDeg": 44.659,
+        "longitudeDeg": -110.469,
+        "depthKM": 2.38,
+        "magnitude": -0.1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NNW",
+          "distanceKM": 13.14383909370555
         }
       },
       {
