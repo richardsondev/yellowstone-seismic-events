@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0f92715420016057e71e4cd7ef9e3d9d69c49303",
+    "hashString": "2b969d4051e4bc925d796286676f3e3328e5891c",
     "events": [
       {
         "identifier": "uu80119891",
@@ -65,22 +65,6 @@
           "town": "Mammoth, WY",
           "bearing": "SSE",
           "distanceKM": 21.415034712050012
-        }
-      },
-      {
-        "identifier": "uu80118906",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1759844327.709999,
-        "latitudeDeg": 44.80016666666667,
-        "longitudeDeg": -110.84816666666667,
-        "depthKM": 5,
-        "magnitude": 1.44,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 22.698192909407606
         }
       },
       {
@@ -406,6 +390,18 @@
           "bearing": "SW",
           "distanceKM": 6.904089946170501
         }
+      },
+      {
+        "identifier": "mb90118038",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1760880535.88,
+        "latitudeDeg": 44.769,
+        "longitudeDeg": -114.408833333333,
+        "depthKM": 3.94,
+        "magnitude": 1.3,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "nn00906171",
@@ -1057,6 +1053,22 @@
           "town": "Lake, WY",
           "bearing": "WNW",
           "distanceKM": 25.111937201624876
+        }
+      },
+      {
+        "identifier": "uu80005133",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1760673572.9899979,
+        "latitudeDeg": 44.65833333333333,
+        "longitudeDeg": -110.67933333333333,
+        "depthKM": 0.87,
+        "magnitude": 0.5700000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "WNW",
+          "distanceKM": 25.040262301333335
         }
       },
       {
