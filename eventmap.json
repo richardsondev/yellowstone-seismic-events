@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4c488584b4cc7ba78239bc9713039f9932bb42af",
+    "hashString": "52b7b1f62eda8dfe9ec6423f1eea57efcc0c8eda",
     "events": [
       {
         "identifier": "uu80119891",
@@ -516,18 +516,6 @@
         "longitudeDeg": -115.169666666667,
         "depthKM": 8.07,
         "magnitude": 1.63,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90117538",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1760472079.1100001,
-        "latitudeDeg": 44.0921666666667,
-        "longitudeDeg": -114.368333333333,
-        "depthKM": 1.48,
-        "magnitude": 0.63,
         "isLocal": false,
         "nearestTown": null
       },
@@ -1606,6 +1594,22 @@
         "magnitude": 1.2,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80120001",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761067416.9799995,
+        "latitudeDeg": 40.8935,
+        "longitudeDeg": -111.70966666666666,
+        "depthKM": 8.83,
+        "magnitude": 1.83,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Porterville, UT",
+          "bearing": "SSW",
+          "distanceKM": 10.57549090261623
+        }
       },
       {
         "identifier": "uu80119551",
