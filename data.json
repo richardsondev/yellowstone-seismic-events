@@ -443,19 +443,6 @@
       "version": null
     },
     {
-      "identifier": "mb90117538",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1760472079.1100001,
-      "latitudeDeg": 44.0921666666667,
-      "longitudeDeg": -114.368333333333,
-      "depthKm": 1.48,
-      "magnitude": 0.63,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80119251",
       "authority": "UU",
       "eventType": "eq",
@@ -1402,6 +1389,19 @@
       "magnitude": 1.2,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80120001",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761067416.9799995,
+      "latitudeDeg": 40.8935,
+      "longitudeDeg": -111.70966666666666,
+      "depthKm": 8.83,
+      "magnitude": 1.83,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Porterville, UT', 'bearing': 'SSW', 'distanceKM': 10.57549090261623}",
       "version": null
     },
     {
