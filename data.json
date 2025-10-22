@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-22T12:34:06Z",
+  "fetchedAt": "2025-10-22T13:38:25Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -26,19 +26,6 @@
       "magnitude": 1.44,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'WSW', 'distanceKM': 6.605130416459392}",
-      "version": null
-    },
-    {
-      "identifier": "uu80118991",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1759930257.9899979,
-      "latitudeDeg": 44.7965,
-      "longitudeDeg": -110.926,
-      "depthKm": 5.63,
-      "magnitude": 0.34,
-      "isLocal": true,
-      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 20.52532753866048}",
       "version": null
     },
     {
@@ -351,6 +338,19 @@
       "magnitude": 0.74,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NW', 'distanceKM': 27.050857976041303}",
+      "version": null
+    },
+    {
+      "identifier": "mb90118118",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1761092760.8500001,
+      "latitudeDeg": 45.8856666666667,
+      "longitudeDeg": -112.881166666667,
+      "depthKm": 7.1,
+      "magnitude": 1.21,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
