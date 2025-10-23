@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-23T13:36:49Z",
+  "fetchedAt": "2025-10-23T15:29:36Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -390,6 +390,19 @@
       "magnitude": 1.31,
       "isLocal": true,
       "nearestTown": "{'town': 'Clawson, UT', 'bearing': 'WNW', 'distanceKM': 13.06825094229373}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005143",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761204364.3600001,
+      "latitudeDeg": 39.0065,
+      "longitudeDeg": -111.39516666666667,
+      "depthKm": -1.67,
+      "magnitude": 0.85,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 15.695351354555681}",
       "version": null
     },
     {
