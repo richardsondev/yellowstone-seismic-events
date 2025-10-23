@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7fa997ca06357f13681bced735944be7ff22a421",
+    "hashString": "2330194b3e034de44f22058a4d15231fd3f436bc",
     "events": [
       {
         "identifier": "uu80119891",
@@ -453,6 +453,22 @@
           "town": "Clawson, UT",
           "bearing": "WNW",
           "distanceKM": 13.06825094229373
+        }
+      },
+      {
+        "identifier": "uu80005143",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761204364.3600001,
+        "latitudeDeg": 39.0065,
+        "longitudeDeg": -111.39516666666667,
+        "depthKM": -1.67,
+        "magnitude": 0.85,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "NW",
+          "distanceKM": 15.695351354555681
         }
       },
       {
