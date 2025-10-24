@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-24T14:07:00Z",
+  "fetchedAt": "2025-10-24T14:30:18Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -884,6 +884,19 @@
       "magnitude": 1.3900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 6.697147731562652}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120111",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761283577.1299992,
+      "latitudeDeg": 40.793,
+      "longitudeDeg": -111.94466666666666,
+      "depthKm": 6.42,
+      "magnitude": 0.81,
+      "isLocal": true,
+      "nearestTown": "{'town': 'North Salt Lake, UT', 'bearing': 'SSW', 'distanceKM': 6.951407309227714}",
       "version": null
     },
     {

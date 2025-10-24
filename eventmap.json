@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f6ea77bcb957b52d296d89818ff2e05c1cff3987",
+    "hashString": "3497507a458083508152341c06302ecc80648fb9",
     "events": [
       {
         "identifier": "uu80119891",
@@ -1009,6 +1009,22 @@
           "town": "West Thumb, WY",
           "bearing": "SW",
           "distanceKM": 6.697147731562652
+        }
+      },
+      {
+        "identifier": "uu80120111",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761283577.1299992,
+        "latitudeDeg": 40.793,
+        "longitudeDeg": -111.94466666666666,
+        "depthKM": 6.42,
+        "magnitude": 0.81,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "North Salt Lake, UT",
+          "bearing": "SSW",
+          "distanceKM": 6.951407309227714
         }
       },
       {
