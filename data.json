@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-24T14:30:18Z",
+  "fetchedAt": "2025-10-24T14:46:32Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -260,6 +260,19 @@
       "magnitude": 1.3,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80005158",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761299241.1999989,
+      "latitudeDeg": 36.782,
+      "longitudeDeg": -112.90183333333333,
+      "depthKm": 16.92,
+      "magnitude": 1.27,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cane Beds, AZ', 'bearing': 'S', 'distanceKM': 18.2643707907815}",
       "version": null
     },
     {
@@ -1144,6 +1157,19 @@
       "magnitude": 1.37,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80005163",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761293568.4199982,
+      "latitudeDeg": 39.71783333333333,
+      "longitudeDeg": -110.91,
+      "depthKm": 11.41,
+      "magnitude": 1.57,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Castle Gate, UT', 'bearing': 'WSW', 'distanceKM': 3.6823195258465398}",
       "version": null
     },
     {
