@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-26T05:06:52Z",
+  "fetchedAt": "2025-10-26T07:06:18Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -1121,19 +1121,6 @@
       "version": null
     },
     {
-      "identifier": "mb90116688",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1760252757.73,
-      "latitudeDeg": 44.57,
-      "longitudeDeg": -112.223166666667,
-      "depthKm": 6.93,
-      "magnitude": 1.63,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80119811",
       "authority": "UU",
       "eventType": "eq",
@@ -1186,19 +1173,6 @@
       "version": null
     },
     {
-      "identifier": "us6000rgpn",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1760252057.624,
-      "latitudeDeg": 44.5644,
-      "longitudeDeg": -112.2244,
-      "depthKm": 7.614,
-      "magnitude": 2.4,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80005113",
       "authority": "UU",
       "eventType": "eq",
@@ -1209,6 +1183,19 @@
       "magnitude": 1.08,
       "isLocal": true,
       "nearestTown": "{'town': 'Castle Gate, UT', 'bearing': 'NW', 'distanceKM': 6.012970505087247}",
+      "version": null
+    },
+    {
+      "identifier": "nn00906353",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1761461157.0440001,
+      "latitudeDeg": 37.3484,
+      "longitudeDeg": -114.6387,
+      "depthKm": 2.1779,
+      "magnitude": 1.66,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
