@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2217ca23864cba1a1d2ce424e0256ba7765a1b33",
+    "hashString": "ff9ef33fb1a54d31e49a40745d82f2d26f09fd74",
     "events": [
       {
         "identifier": "uu80119891",
@@ -814,6 +814,22 @@
         "magnitude": 1.67,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80005188",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761378698.4300003,
+        "latitudeDeg": 38.99666666666667,
+        "longitudeDeg": -111.39333333333333,
+        "depthKM": -0.81,
+        "magnitude": 1.03,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "WNW",
+          "distanceKM": 14.942240148079343
+        }
       },
       {
         "identifier": "uu80005088",
