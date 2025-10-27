@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-27T18:48:25Z",
+  "fetchedAt": "2025-10-27T19:25:47Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -260,6 +260,19 @@
       "magnitude": 0.9500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'NNE', 'distanceKM': 13.215266991816602}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120246",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761388139.959999,
+      "latitudeDeg": 44.449666666666666,
+      "longitudeDeg": -110.541,
+      "depthKm": 2.39,
+      "magnitude": 1.61,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'NE', 'distanceKM': 4.769542150297507}",
       "version": null
     },
     {
@@ -611,6 +624,19 @@
       "magnitude": 1.06,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'S', 'distanceKM': 24.10548422387581}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005203",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761388143.32,
+      "latitudeDeg": 44.42366666666667,
+      "longitudeDeg": -110.5685,
+      "depthKm": 1.7,
+      "magnitude": 1.52,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'NE', 'distanceKM': 1.1469341867592047}",
       "version": null
     },
     {
