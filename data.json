@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-27T15:29:22Z",
+  "fetchedAt": "2025-10-27T15:45:08Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -260,6 +260,19 @@
       "magnitude": 1.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Cane Beds, AZ', 'bearing': 'NE', 'distanceKM': 8.100129564681104}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120381",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761552577.619999,
+      "latitudeDeg": 41.518,
+      "longitudeDeg": -112.15733333333333,
+      "depthKm": 2.81,
+      "magnitude": 0.99,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SW', 'distanceKM': 5.3717820097260764}",
       "version": null
     },
     {
