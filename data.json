@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-28T15:07:24Z",
+  "fetchedAt": "2025-10-28T15:30:59Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -484,6 +484,19 @@
       "version": null
     },
     {
+      "identifier": "uu80005218",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761649947.869999,
+      "latitudeDeg": 39.394,
+      "longitudeDeg": -111.12366666666667,
+      "depthKm": 1.59,
+      "magnitude": 1.12,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'SW', 'distanceKM': 13.793588455336574}",
+      "version": null
+    },
+    {
       "identifier": "uu80005143",
       "authority": "UU",
       "eventType": "eq",
@@ -520,6 +533,19 @@
       "magnitude": 0.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.968902769966068}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120451",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761646561.12,
+      "latitudeDeg": 44.74966666666667,
+      "longitudeDeg": -111.31333333333333,
+      "depthKm": 10.82,
+      "magnitude": 0.99,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'WSW', 'distanceKM': 11.126859186153096}",
       "version": null
     },
     {
@@ -624,6 +650,19 @@
       "magnitude": 1.37,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.81089291439163}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005213",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761645515.3199997,
+      "latitudeDeg": 39.6415,
+      "longitudeDeg": -111.284,
+      "depthKm": -3.39,
+      "magnitude": 0.96,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'W', 'distanceKM': 11.149363126129536}",
       "version": null
     },
     {
@@ -754,6 +793,19 @@
       "magnitude": 2.6,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80120456",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761646677.6299973,
+      "latitudeDeg": 44.75066666666667,
+      "longitudeDeg": -111.3165,
+      "depthKm": 9.27,
+      "magnitude": 0.37,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'WSW', 'distanceKM': 11.286008224168215}",
       "version": null
     },
     {
