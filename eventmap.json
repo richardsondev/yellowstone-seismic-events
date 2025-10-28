@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6c58d58b0e3b9ea9a1fd73772db37214ef6f6527",
+    "hashString": "6fbeb8b4b2ee802e9c4df61706a6c0225414a434",
     "events": [
       {
         "identifier": "uu80119891",
@@ -44,18 +44,6 @@
         "longitudeDeg": -112.214333333333,
         "depthKM": 8.18,
         "magnitude": 0.89,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90118183",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1761053164.33,
-        "latitudeDeg": 44.7555,
-        "longitudeDeg": -111.453333333333,
-        "depthKM": 2.96,
-        "magnitude": 0.04,
         "isLocal": false,
         "nearestTown": null
       },
@@ -185,6 +173,22 @@
           "town": "West Thumb, WY",
           "bearing": "SW",
           "distanceKM": 6.8575734798469865
+        }
+      },
+      {
+        "identifier": "uu80120466",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761656393.3799973,
+        "latitudeDeg": 44.797666666666665,
+        "longitudeDeg": -110.8465,
+        "depthKM": 4.92,
+        "magnitude": 1.81,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.874194551608856
         }
       },
       {
@@ -1657,6 +1661,22 @@
           "town": "Acoma, NV",
           "bearing": "SSE",
           "distanceKM": 16.40906063243915
+        }
+      },
+      {
+        "identifier": "uu80120471",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761656443.709999,
+        "latitudeDeg": 44.799,
+        "longitudeDeg": -110.852,
+        "depthKM": 5.64,
+        "magnitude": 2.74,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.96290770063095
         }
       },
       {
