@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-28T14:30:42Z",
+  "fetchedAt": "2025-10-28T15:07:24Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -182,6 +182,19 @@
       "magnitude": 1.41,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'NE', 'distanceKM': 4.787287550901362}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120496",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761661649.5,
+      "latitudeDeg": 44.79683333333333,
+      "longitudeDeg": -110.84733333333334,
+      "depthKm": 4.96,
+      "magnitude": 2.18,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.98721629294943}",
       "version": null
     },
     {
@@ -1417,6 +1430,19 @@
       "magnitude": 1.85,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 6.503085488770412}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005208",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761625184.119999,
+      "latitudeDeg": 40.7485,
+      "longitudeDeg": -112.0605,
+      "depthKm": 6.37,
+      "magnitude": 0.22,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'SE', 'distanceKM': 4.403126714530558}",
       "version": null
     },
     {
