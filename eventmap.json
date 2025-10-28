@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8275db8237dd2a7ceef60db24ec0ab9d66562f88",
+    "hashString": "9f23c5a7f20d65745a04fba923990267d857be71",
     "events": [
       {
         "identifier": "uu80119891",
@@ -765,6 +765,22 @@
           "town": "West Thumb, WY",
           "bearing": "NE",
           "distanceKM": 1.1469341867592047
+        }
+      },
+      {
+        "identifier": "uu80120561",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761687672.4099998,
+        "latitudeDeg": 44.74216666666667,
+        "longitudeDeg": -111.09716666666667,
+        "depthKM": 11.63,
+        "magnitude": 0.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "N",
+          "distanceKM": 8.919854747452213
         }
       },
       {
