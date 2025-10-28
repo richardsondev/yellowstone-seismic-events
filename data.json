@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-28T21:43:58Z",
+  "fetchedAt": "2025-10-28T22:29:29Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -624,6 +624,19 @@
       "magnitude": 1.52,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'NE', 'distanceKM': 1.1469341867592047}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120561",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761687672.4099998,
+      "latitudeDeg": 44.74216666666667,
+      "longitudeDeg": -111.09716666666667,
+      "depthKm": 11.63,
+      "magnitude": 0.93,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'N', 'distanceKM': 8.919854747452213}",
       "version": null
     },
     {
