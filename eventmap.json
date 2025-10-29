@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e4ce4914913fdd93bb69034179c6f9323ef857f1",
+    "hashString": "115e3c16dd0db6f66f9e740fc2b2bfca26950b16",
     "events": [
       {
         "identifier": "uu80119891",
@@ -372,6 +372,22 @@
         }
       },
       {
+        "identifier": "uu80120701",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761774142.9799995,
+        "latitudeDeg": 44.793,
+        "longitudeDeg": -110.84616666666666,
+        "depthKM": 4.99,
+        "magnitude": 1.79,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.314754258628223
+        }
+      },
+      {
         "identifier": "uu80120196",
         "authority": "UU",
         "eventType": "eq",
@@ -497,22 +513,6 @@
           "town": "West Yellowstone, MT",
           "bearing": "N",
           "distanceKM": 8.403566914179773
-        }
-      },
-      {
-        "identifier": "uu80119686",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1760566401.2700005,
-        "latitudeDeg": 39.202,
-        "longitudeDeg": -111.8895,
-        "depthKM": 18.71,
-        "magnitude": 1.06,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fayette, UT",
-          "bearing": "SW",
-          "distanceKM": 3.8326258057999762
         }
       },
       {
