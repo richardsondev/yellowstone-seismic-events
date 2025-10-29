@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "15eb115f8a9cc086c903c5e595f0697db41085dc",
+    "hashString": "a30a9b03475172145fc9f9bd7a114f8fb7ead3e3",
     "events": [
       {
         "identifier": "uu80119891",
@@ -449,6 +449,22 @@
           "town": "Mills, UT",
           "bearing": "NNW",
           "distanceKM": 7.894227796657697
+        }
+      },
+      {
+        "identifier": "uu80120681",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761763241.2000008,
+        "latitudeDeg": 44.7345,
+        "longitudeDeg": -110.8755,
+        "depthKM": 9.75,
+        "magnitude": 1.48,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "ENE",
+          "distanceKM": 19.78078560470151
         }
       },
       {
