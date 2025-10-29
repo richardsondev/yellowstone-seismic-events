@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-29T16:49:09Z",
+  "fetchedAt": "2025-10-29T17:06:51Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -754,6 +754,19 @@
       "magnitude": -0.1,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 13.14383909370555}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120671",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761754102.67,
+      "latitudeDeg": 44.792,
+      "longitudeDeg": -110.84233333333333,
+      "depthKm": 4.79,
+      "magnitude": 1.37,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.268798947069786}",
       "version": null
     },
     {
