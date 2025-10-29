@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-29T17:45:22Z",
+  "fetchedAt": "2025-10-29T18:09:56Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -52,6 +52,19 @@
       "magnitude": 0.89,
       "isLocal": true,
       "nearestTown": "{'town': 'Levan, UT', 'bearing': 'WNW', 'distanceKM': 14.090721796635245}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005238",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761729819.0499992,
+      "latitudeDeg": 37.55133333333333,
+      "longitudeDeg": -113.11733333333333,
+      "depthKm": 17.72,
+      "magnitude": 0.3,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanarraville, UT', 'bearing': 'ENE', 'distanceKM': 6.046561300245158}",
       "version": null
     },
     {
@@ -1092,6 +1105,19 @@
       "magnitude": 0.46,
       "isLocal": true,
       "nearestTown": "{'town': 'Magna, UT', 'bearing': 'NE', 'distanceKM': 4.992074974025972}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005248",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761720454.9799995,
+      "latitudeDeg": 38.257333333333335,
+      "longitudeDeg": -112.615,
+      "depthKm": 1.66,
+      "magnitude": 0.96,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'SE', 'distanceKM': 3.150515882607884}",
       "version": null
     },
     {
