@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1a21d4956fbb537f077c61d99dd6cac893831a7f",
+    "hashString": "0efd4982823a0cc9f2d408572696eb912db047c9",
     "events": [
       {
         "identifier": "uu80119891",
@@ -801,6 +801,22 @@
           "town": "Beaver, UT",
           "bearing": "E",
           "distanceKM": 0.9210105691770915
+        }
+      },
+      {
+        "identifier": "uu80120601",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761713468.5999994,
+        "latitudeDeg": 44.792,
+        "longitudeDeg": -110.83916666666667,
+        "depthKM": 4.12,
+        "magnitude": 0.65,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.152569895481463
         }
       },
       {
