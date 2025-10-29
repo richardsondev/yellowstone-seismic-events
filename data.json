@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-29T17:29:26Z",
+  "fetchedAt": "2025-10-29T17:45:22Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -728,6 +728,19 @@
       "magnitude": 0.37,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'WSW', 'distanceKM': 11.286008224168215}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120636",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761734725.9300003,
+      "latitudeDeg": 44.79216666666667,
+      "longitudeDeg": -110.845,
+      "depthKm": 4.56,
+      "magnitude": 0.86,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.351999968585943}",
       "version": null
     },
     {
