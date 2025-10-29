@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-29T18:09:56Z",
+  "fetchedAt": "2025-10-29T19:05:42Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -650,6 +650,19 @@
       "magnitude": 2.35,
       "isLocal": true,
       "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'E', 'distanceKM': 0.9210105691770915}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120601",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761713468.5999994,
+      "latitudeDeg": 44.792,
+      "longitudeDeg": -110.83916666666667,
+      "depthKm": 4.12,
+      "magnitude": 0.65,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.152569895481463}",
       "version": null
     },
     {
