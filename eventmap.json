@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a30a9b03475172145fc9f9bd7a114f8fb7ead3e3",
+    "hashString": "e4ce4914913fdd93bb69034179c6f9323ef857f1",
     "events": [
       {
         "identifier": "uu80119891",
@@ -289,6 +289,22 @@
           "town": "Clifton, ID",
           "bearing": "WSW",
           "distanceKM": 6.731337619144723
+        }
+      },
+      {
+        "identifier": "uu80120686",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761765239.3199997,
+        "latitudeDeg": 44.743833333333335,
+        "longitudeDeg": -111.09633333333333,
+        "depthKM": 10.72,
+        "magnitude": 0.89,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "N",
+          "distanceKM": 9.109037234827166
         }
       },
       {
