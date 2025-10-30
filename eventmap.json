@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5860ff8832ff3b1468d02a1184671fe3e38fce23",
+    "hashString": "406114b2f23d0f88f4812177804853405cd81384",
     "events": [
       {
         "identifier": "uu80119891",
@@ -145,6 +145,22 @@
           "town": "Sunnyside, UT",
           "bearing": "NNE",
           "distanceKM": 2.858895377747689
+        }
+      },
+      {
+        "identifier": "uu80120761",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761854302.9300003,
+        "latitudeDeg": 44.805166666666665,
+        "longitudeDeg": -110.84516666666667,
+        "depthKM": 4.87,
+        "magnitude": 0.9,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.098597210309425
         }
       },
       {
