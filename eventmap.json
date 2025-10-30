@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "be46afbafd53017e3808f90c6164e45a21190d4c",
+    "hashString": "bbcf151764e6daf26dc7774838cc442843d3e190",
     "events": [
       {
         "identifier": "uu80119891",
@@ -385,6 +385,22 @@
           "town": "Corinne, UT",
           "bearing": "SW",
           "distanceKM": 5.3717820097260764
+        }
+      },
+      {
+        "identifier": "uu80120726",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761803065.8599987,
+        "latitudeDeg": 44.7995,
+        "longitudeDeg": -110.834,
+        "depthKM": 4.91,
+        "magnitude": 1.43,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.22457993520251
         }
       },
       {

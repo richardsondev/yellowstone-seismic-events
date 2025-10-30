@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-30T15:07:12Z",
+  "fetchedAt": "2025-10-30T15:30:57Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -312,6 +312,19 @@
       "magnitude": 0.99,
       "isLocal": true,
       "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SW', 'distanceKM': 5.3717820097260764}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120726",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761803065.8599987,
+      "latitudeDeg": 44.7995,
+      "longitudeDeg": -110.834,
+      "depthKm": 4.91,
+      "magnitude": 1.43,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.22457993520251}",
       "version": null
     },
     {
