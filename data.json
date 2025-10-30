@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-30T06:32:30Z",
+  "fetchedAt": "2025-10-30T13:17:56Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -13,6 +13,19 @@
       "magnitude": 0.3,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.829075116701453}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120716",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761783553.96,
+      "latitudeDeg": 44.79633333333334,
+      "longitudeDeg": -110.85,
+      "depthKm": 4.86,
+      "magnitude": 2.11,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.13969640309163}",
       "version": null
     },
     {
