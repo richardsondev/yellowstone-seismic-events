@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b794caa8b289f71eaf0deed7fd8d1428d125f17e",
+    "hashString": "be46afbafd53017e3808f90c6164e45a21190d4c",
     "events": [
       {
         "identifier": "uu80119891",
@@ -657,6 +657,22 @@
           "town": "Grayling, MT",
           "bearing": "WSW",
           "distanceKM": 11.126859186153096
+        }
+      },
+      {
+        "identifier": "uu80005268",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761802599.0999985,
+        "latitudeDeg": 37.53616666666667,
+        "longitudeDeg": -112.314,
+        "depthKM": 6.34,
+        "magnitude": 1.09,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Bryce Canyon, UT",
+          "bearing": "SW",
+          "distanceKM": 16.421377023567892
         }
       },
       {
