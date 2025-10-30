@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-30T15:30:57Z",
+  "fetchedAt": "2025-10-30T16:08:38Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -104,6 +104,19 @@
       "magnitude": 1.92,
       "isLocal": true,
       "nearestTown": "{'town': 'Sunnyside, UT', 'bearing': 'NNE', 'distanceKM': 2.858895377747689}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120731",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761809583.6899998,
+      "latitudeDeg": 44.404333333333334,
+      "longitudeDeg": -110.40733333333333,
+      "depthKm": 4.73,
+      "magnitude": 0.92,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'E', 'distanceKM': 13.574644200234221}",
       "version": null
     },
     {
@@ -546,6 +559,19 @@
       "magnitude": 0.99,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'WSW', 'distanceKM': 11.126859186153096}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005263",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761813871.3099995,
+      "latitudeDeg": 38.64,
+      "longitudeDeg": -112.603,
+      "depthKm": 3.15,
+      "magnitude": 1.01,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'NNW', 'distanceKM': 4.604010573515609}",
       "version": null
     },
     {
