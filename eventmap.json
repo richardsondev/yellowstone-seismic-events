@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d17e42f440e54986e2e83ef88791095af92fb43f",
+    "hashString": "89dab2989a73e3d31c7641e6edba387746d0afdf",
     "events": [
       {
         "identifier": "uu80119891",
@@ -2101,6 +2101,22 @@
           "town": "Porterville, UT",
           "bearing": "SSW",
           "distanceKM": 10.57549090261623
+        }
+      },
+      {
+        "identifier": "uu80120801",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761870106.7399979,
+        "latitudeDeg": 39.39383333333333,
+        "longitudeDeg": -111.13033333333334,
+        "depthKM": 1.73,
+        "magnitude": 1.44,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hiawatha, UT",
+          "bearing": "SW",
+          "distanceKM": 14.205828717980301
         }
       },
       {
