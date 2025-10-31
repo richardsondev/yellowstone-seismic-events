@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-31T22:29:06Z",
+  "fetchedAt": "2025-10-31T22:44:25Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -65,6 +65,19 @@
       "magnitude": 0.58,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 19.8587296975279}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120926",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761948783.23,
+      "latitudeDeg": 44.63283333333333,
+      "longitudeDeg": -110.72166666666666,
+      "depthKm": 7.31,
+      "magnitude": 0.25,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 21.240193834910677}",
       "version": null
     },
     {
@@ -809,6 +822,19 @@
       "version": null
     },
     {
+      "identifier": "uu80120931",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761949175.119999,
+      "latitudeDeg": 44.62533333333333,
+      "longitudeDeg": -110.723,
+      "depthKm": 6.46,
+      "magnitude": 0.55,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 20.441199830868168}",
+      "version": null
+    },
+    {
       "identifier": "uu80005313",
       "authority": "UU",
       "eventType": "eq",
@@ -1001,6 +1027,19 @@
       "magnitude": 1.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WNW', 'distanceKM': 14.942240148079343}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120936",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761949639.1499996,
+      "latitudeDeg": 40.876666666666665,
+      "longitudeDeg": -111.5335,
+      "depthKm": 11.32,
+      "magnitude": 1.42,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Coalville, UT', 'bearing': 'WSW', 'distanceKM': 12.159685350731163}",
       "version": null
     },
     {
