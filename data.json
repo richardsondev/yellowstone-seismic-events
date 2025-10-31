@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-31T14:46:09Z",
+  "fetchedAt": "2025-10-31T15:45:11Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -221,6 +221,19 @@
       "magnitude": 2.18,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.98721629294943}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120841",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761894229.3600006,
+      "latitudeDeg": 44.79366666666667,
+      "longitudeDeg": -110.84416666666667,
+      "depthKm": 4.89,
+      "magnitude": 1.32,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.174039785530358}",
       "version": null
     },
     {
@@ -1053,6 +1066,19 @@
       "magnitude": 0.81,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'N', 'distanceKM': 9.279316159948454}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005293",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761895614.2599983,
+      "latitudeDeg": 39.39366666666667,
+      "longitudeDeg": -111.12783333333333,
+      "depthKm": 1.93,
+      "magnitude": 1.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'SW', 'distanceKM': 14.068153717992356}",
       "version": null
     },
     {
