@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c6590c6f107fcd0cc248d872997447547ba20804",
+    "hashString": "792cf1faacf8bdcd5c7e3f522a3efc9abdd5e25a",
     "events": [
       {
         "identifier": "uu80119891",
@@ -1181,6 +1181,22 @@
           "town": "Emery, UT",
           "bearing": "WNW",
           "distanceKM": 14.942240148079343
+        }
+      },
+      {
+        "identifier": "uu80120816",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761888177.2399979,
+        "latitudeDeg": 44.7935,
+        "longitudeDeg": -110.84383333333334,
+        "depthKM": 4.82,
+        "magnitude": 1.08,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.177786709659628
         }
       },
       {
