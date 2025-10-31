@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-31T17:43:56Z",
+  "fetchedAt": "2025-10-31T18:10:00Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -962,6 +962,19 @@
       "magnitude": 1.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WNW', 'distanceKM': 14.942240148079343}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120816",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761888177.2399979,
+      "latitudeDeg": 44.7935,
+      "longitudeDeg": -110.84383333333334,
+      "depthKm": 4.82,
+      "magnitude": 1.08,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.177786709659628}",
       "version": null
     },
     {
