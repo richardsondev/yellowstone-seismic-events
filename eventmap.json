@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "89dab2989a73e3d31c7641e6edba387746d0afdf",
+    "hashString": "9f8620f2c02ced29ae1370fc2ae70eb0e0ad7550",
     "events": [
       {
         "identifier": "uu80119891",
@@ -273,6 +273,22 @@
           "town": "West Thumb, WY",
           "bearing": "NE",
           "distanceKM": 4.787287550901362
+        }
+      },
+      {
+        "identifier": "uu80005308",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761874119.8400002,
+        "latitudeDeg": 41.515166666666666,
+        "longitudeDeg": -112.15583333333333,
+        "depthKM": 2.2,
+        "magnitude": 0.53,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Corinne, UT",
+          "bearing": "SW",
+          "distanceKM": 5.504907053105623
         }
       },
       {
@@ -2149,22 +2165,6 @@
           "town": "Saltair, UT",
           "bearing": "SE",
           "distanceKM": 4.403126714530558
-        }
-      },
-      {
-        "identifier": "uu80119771",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1760721514.7199974,
-        "latitudeDeg": 37.4155,
-        "longitudeDeg": -114.09366666666666,
-        "depthKM": 7.68,
-        "magnitude": 1.76,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Acoma, NV",
-          "bearing": "SSE",
-          "distanceKM": 16.40906063243915
         }
       },
       {

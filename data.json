@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-31T16:48:04Z",
+  "fetchedAt": "2025-10-31T17:28:51Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -221,6 +221,19 @@
       "magnitude": 1.41,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'NE', 'distanceKM': 4.787287550901362}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005308",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761874119.8400002,
+      "latitudeDeg": 41.515166666666666,
+      "longitudeDeg": -112.15583333333333,
+      "depthKm": 2.2,
+      "magnitude": 0.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SW', 'distanceKM': 5.504907053105623}",
       "version": null
     },
     {
@@ -1768,19 +1781,6 @@
       "magnitude": 0.22,
       "isLocal": true,
       "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'SE', 'distanceKM': 4.403126714530558}",
-      "version": null
-    },
-    {
-      "identifier": "uu80119771",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1760721514.7199974,
-      "latitudeDeg": 37.4155,
-      "longitudeDeg": -114.09366666666666,
-      "depthKm": 7.68,
-      "magnitude": 1.76,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Acoma, NV', 'bearing': 'SSE', 'distanceKM': 16.40906063243915}",
       "version": null
     },
     {
