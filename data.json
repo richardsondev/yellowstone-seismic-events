@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-31T16:08:04Z",
+  "fetchedAt": "2025-10-31T16:32:04Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -130,6 +130,19 @@
       "magnitude": 0.3,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanarraville, UT', 'bearing': 'ENE', 'distanceKM': 6.046561300245158}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120776",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761860822.83,
+      "latitudeDeg": 44.737,
+      "longitudeDeg": -110.8745,
+      "depthKm": 6.54,
+      "magnitude": 0.08,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 19.966995147055684}",
       "version": null
     },
     {
@@ -549,6 +562,19 @@
       "version": null
     },
     {
+      "identifier": "uu80120826",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761889651.0999985,
+      "latitudeDeg": 44.7945,
+      "longitudeDeg": -110.84833333333333,
+      "depthKm": 5.36,
+      "magnitude": 1.09,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.25198179674507}",
+      "version": null
+    },
+    {
       "identifier": "uu80119971",
       "authority": "UU",
       "eventType": "eq",
@@ -666,6 +692,19 @@
       "version": null
     },
     {
+      "identifier": "uu80120791",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761867339.8799973,
+      "latitudeDeg": 44.797666666666665,
+      "longitudeDeg": -110.851,
+      "depthKm": 5.0,
+      "magnitude": 1.55,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.050861041529824}",
+      "version": null
+    },
+    {
       "identifier": "uu80119821",
       "authority": "UU",
       "eventType": "eq",
@@ -702,6 +741,19 @@
       "magnitude": 3.2,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80005313",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761868443.6799998,
+      "latitudeDeg": 39.39816666666667,
+      "longitudeDeg": -111.13433333333333,
+      "depthKm": 1.6,
+      "magnitude": 1.19,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'SW', 'distanceKM': 14.119643919722806}",
       "version": null
     },
     {
@@ -1420,19 +1472,6 @@
       "version": null
     },
     {
-      "identifier": "mb90117758",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1760717984.38,
-      "latitudeDeg": 44.9611666666667,
-      "longitudeDeg": -114.321833333333,
-      "depthKm": 7.41,
-      "magnitude": 1.35,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80120476",
       "authority": "UU",
       "eventType": "eq",
@@ -1742,6 +1781,19 @@
       "magnitude": 2.67,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.706299105476212}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120786",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761865718.4500008,
+      "latitudeDeg": 44.782,
+      "longitudeDeg": -110.8405,
+      "depthKm": 4.79,
+      "magnitude": 0.26,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 24.191496847711875}",
       "version": null
     },
     {
