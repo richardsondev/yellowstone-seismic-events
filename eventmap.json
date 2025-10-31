@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e068d6b24be50cdadcf889d3024834ddd9135085",
+    "hashString": "d5b11de47d6d299286d4cd85ad2fd47d08dbc2e2",
     "events": [
       {
         "identifier": "uu80119891",
@@ -1200,22 +1200,6 @@
         }
       },
       {
-        "identifier": "uu80119786",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1760731678.8999977,
-        "latitudeDeg": 39.0075,
-        "longitudeDeg": -111.398,
-        "depthKM": -1.12,
-        "magnitude": 0.9400000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Emery, UT",
-          "bearing": "NW",
-          "distanceKM": 15.95865612659376
-        }
-      },
-      {
         "identifier": "uu80005188",
         "authority": "UU",
         "eventType": "eq",
@@ -2261,6 +2245,22 @@
           "town": "Hiawatha, UT",
           "bearing": "SW",
           "distanceKM": 14.205828717980301
+        }
+      },
+      {
+        "identifier": "uu80120906",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1761941378.869999,
+        "latitudeDeg": 44.6235,
+        "longitudeDeg": -110.72483333333334,
+        "depthKM": 5.5,
+        "magnitude": 0.48,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "NNE",
+          "distanceKM": 20.19465079951158
         }
       },
       {
