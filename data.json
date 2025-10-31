@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-10-31T16:32:04Z",
+  "fetchedAt": "2025-10-31T16:48:04Z",
   "events": [
     {
       "identifier": "uu80119891",
@@ -1729,6 +1729,19 @@
       "magnitude": 1.83,
       "isLocal": true,
       "nearestTown": "{'town': 'Porterville, UT', 'bearing': 'SSW', 'distanceKM': 10.57549090261623}",
+      "version": null
+    },
+    {
+      "identifier": "uu80120801",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1761870106.7399979,
+      "latitudeDeg": 39.39383333333333,
+      "longitudeDeg": -111.13033333333334,
+      "depthKm": 1.73,
+      "magnitude": 1.44,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'SW', 'distanceKM': 14.205828717980301}",
       "version": null
     },
     {
