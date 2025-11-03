@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "21ea159f3d2d7305e229fb44f72b704cdd340f2c",
+    "hashString": "0ea80b4cc9e10093239b6794d7a0bd69aebd33e0",
     "events": [
       {
         "identifier": "uu80120716",
@@ -509,6 +509,22 @@
           "town": "Clifton, ID",
           "bearing": "WSW",
           "distanceKM": 6.731337619144723
+        }
+      },
+      {
+        "identifier": "uu80121151",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762205577.1100006,
+        "latitudeDeg": 38.0325,
+        "longitudeDeg": -112.40466666666667,
+        "depthKM": 1.39,
+        "magnitude": 2.05,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Spry, UT",
+          "bearing": "WNW",
+          "distanceKM": 3.6642019626113425
         }
       },
       {

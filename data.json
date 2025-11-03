@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-03T21:06:40Z",
+  "fetchedAt": "2025-11-03T22:29:23Z",
   "events": [
     {
       "identifier": "uu80120716",
@@ -416,6 +416,19 @@
       "magnitude": 1.1500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Clifton, ID', 'bearing': 'WSW', 'distanceKM': 6.731337619144723}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121151",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762205577.1100006,
+      "latitudeDeg": 38.0325,
+      "longitudeDeg": -112.40466666666667,
+      "depthKm": 1.39,
+      "magnitude": 2.05,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Spry, UT', 'bearing': 'WNW', 'distanceKM': 3.6642019626113425}",
       "version": null
     },
     {
