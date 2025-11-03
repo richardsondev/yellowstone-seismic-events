@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fbedc898cf72fce7f245c8706a25b6f33902e1e7",
+    "hashString": "ac0e6306ab6f2b18e101f2a1993d79854f1e9937",
     "events": [
       {
         "identifier": "uu80120716",
@@ -477,22 +477,6 @@
           "town": "West Yellowstone, MT",
           "bearing": "N",
           "distanceKM": 9.109037234827166
-        }
-      },
-      {
-        "identifier": "uu80005108",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1760937253.88,
-        "latitudeDeg": 37.00566666666667,
-        "longitudeDeg": -112.84383333333334,
-        "depthKM": 20.96,
-        "magnitude": 1.17,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Cane Beds, AZ",
-          "bearing": "NE",
-          "distanceKM": 8.100129564681104
         }
       },
       {
@@ -2294,18 +2278,6 @@
           "bearing": "N",
           "distanceKM": 8.90311977309254
         }
-      },
-      {
-        "identifier": "mb90118008",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1760937127.13,
-        "latitudeDeg": 44.5673333333333,
-        "longitudeDeg": -112.228333333333,
-        "depthKM": 6.03,
-        "magnitude": 1.27,
-        "isLocal": false,
-        "nearestTown": null
       }
     ]
   },
