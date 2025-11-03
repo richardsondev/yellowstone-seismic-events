@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "65c3401d9ece1c470bfa4748648473148d8afcaf",
+    "hashString": "21ea159f3d2d7305e229fb44f72b704cdd340f2c",
     "events": [
       {
         "identifier": "uu80120716",
@@ -925,6 +925,22 @@
           "town": "Bryce Canyon, UT",
           "bearing": "SW",
           "distanceKM": 16.421377023567892
+        }
+      },
+      {
+        "identifier": "uu80005323",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762100370.4299984,
+        "latitudeDeg": 38.86666666666667,
+        "longitudeDeg": -112.25416666666666,
+        "depthKM": 1.7,
+        "magnitude": 0.62,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fillmore, UT",
+          "bearing": "SSE",
+          "distanceKM": 12.853325525215523
         }
       },
       {
@@ -1925,6 +1941,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.949978295200147
+        }
+      },
+      {
+        "identifier": "uu80121041",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762097040.32,
+        "latitudeDeg": 38.705333333333336,
+        "longitudeDeg": -112.17766666666667,
+        "depthKM": 7.87,
+        "magnitude": 1.32,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Elsinore, UT",
+          "bearing": "NW",
+          "distanceKM": 3.5740171606626303
         }
       },
       {
