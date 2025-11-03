@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-03T20:07:30Z",
+  "fetchedAt": "2025-11-03T20:30:46Z",
   "events": [
     {
       "identifier": "uu80120716",
@@ -1186,6 +1186,19 @@
       "version": null
     },
     {
+      "identifier": "uu80121026",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762074405.8799973,
+      "latitudeDeg": 44.796166666666664,
+      "longitudeDeg": -110.84416666666667,
+      "depthKm": 3.94,
+      "magnitude": 0.5700000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.930169314201954}",
+      "version": null
+    },
+    {
       "identifier": "uu80120361",
       "authority": "UU",
       "eventType": "eq",
@@ -1222,6 +1235,19 @@
       "magnitude": 1.37,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.268798947069786}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121031",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762077028.1299992,
+      "latitudeDeg": 44.80316666666667,
+      "longitudeDeg": -110.82833333333333,
+      "depthKm": 4.1,
+      "magnitude": 0.75,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 21.657451869904023}",
       "version": null
     },
     {
