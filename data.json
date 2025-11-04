@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-04T08:48:46Z",
+  "fetchedAt": "2025-11-04T14:30:36Z",
   "events": [
     {
       "identifier": "uu80120716",
@@ -1446,6 +1446,19 @@
       "version": null
     },
     {
+      "identifier": "uu80005343",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762242389.9399986,
+      "latitudeDeg": 39.00333333333333,
+      "longitudeDeg": -111.39383333333333,
+      "depthKm": -1.24,
+      "magnitude": 0.88,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 15.395848630215637}",
+      "version": null
+    },
+    {
       "identifier": "uu80120321",
       "authority": "UU",
       "eventType": "eq",
@@ -2028,6 +2041,19 @@
       "magnitude": 0.26,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 24.191496847711875}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121161",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762240112.9199982,
+      "latitudeDeg": 44.796,
+      "longitudeDeg": -110.83866666666667,
+      "depthKm": 4.65,
+      "magnitude": 1.47,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.740303494707714}",
       "version": null
     },
     {
