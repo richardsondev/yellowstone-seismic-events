@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "246e97fb574b5bd6898370bcd9dae05cad7a128c",
+    "hashString": "a6722d07f03b9b72994ff0eccf471405c9f7ac43",
     "events": [
       {
         "identifier": "uu80120716",
@@ -65,6 +65,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "ENE",
           "distanceKM": 19.8587296975279
+        }
+      },
+      {
+        "identifier": "uu80121191",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762279422.869999,
+        "latitudeDeg": 39.665166666666664,
+        "longitudeDeg": -109.11,
+        "depthKM": 6.01,
+        "magnitude": 1.67,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Bonanza, UT",
+          "bearing": "S",
+          "distanceKM": 39.97848168948012
         }
       },
       {
