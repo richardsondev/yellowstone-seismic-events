@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "be45b56d01ecf1083750c7a3d08bc3b438f6fead",
+    "hashString": "c492e9529737fc4eeaece22af0201f0f6923e642",
     "events": [
       {
         "identifier": "uu80120716",
@@ -669,6 +669,22 @@
           "town": "Lake, WY",
           "bearing": "WNW",
           "distanceKM": 25.108146849081365
+        }
+      },
+      {
+        "identifier": "uu80121326",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762353055.25,
+        "latitudeDeg": 36.8925,
+        "longitudeDeg": -112.484,
+        "depthKM": 15.5,
+        "magnitude": 2.16,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fredonia, AZ",
+          "bearing": "SSE",
+          "distanceKM": 7.00523868032471
         }
       },
       {
@@ -2132,6 +2148,22 @@
         }
       },
       {
+        "identifier": "uu80121331",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762354027.5,
+        "latitudeDeg": 36.87016666666667,
+        "longitudeDeg": -112.51416666666667,
+        "depthKM": 18.62,
+        "magnitude": 1.82,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fredonia, AZ",
+          "bearing": "S",
+          "distanceKM": 8.449313871487732
+        }
+      },
+      {
         "identifier": "uu80120291",
         "authority": "UU",
         "eventType": "eq",
@@ -2370,18 +2402,6 @@
           "bearing": "N",
           "distanceKM": 9.221674063336891
         }
-      },
-      {
-        "identifier": "nn00906243",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1761146869.885,
-        "latitudeDeg": 37.8029,
-        "longitudeDeg": -114.3069,
-        "depthKM": 0,
-        "magnitude": 1.9,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80005273",
