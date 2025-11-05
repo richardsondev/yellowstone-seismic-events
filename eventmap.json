@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9d5b68b4c5f641405ada6fab0fd66196ddaac268",
+    "hashString": "2f6687211731df6eb10adcc257161cd14d81f3f6",
     "events": [
       {
         "identifier": "uu80120716",
@@ -2397,6 +2397,22 @@
           "town": "Scipio, UT",
           "bearing": "ENE",
           "distanceKM": 6.546041031909361
+        }
+      },
+      {
+        "identifier": "uu80121261",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762315377.4199982,
+        "latitudeDeg": 44.636,
+        "longitudeDeg": -110.696,
+        "depthKM": 2.71,
+        "magnitude": 0.3,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "NNE",
+          "distanceKM": 22.48049959666562
         }
       },
       {
