@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-05T14:30:34Z",
+  "fetchedAt": "2025-11-05T14:47:04Z",
   "events": [
     {
       "identifier": "uu80120716",
@@ -1963,6 +1963,19 @@
       "magnitude": 0.93,
       "isLocal": true,
       "nearestTown": "{'town': 'Scipio, UT', 'bearing': 'ENE', 'distanceKM': 6.546041031909361}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121261",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762315377.4199982,
+      "latitudeDeg": 44.636,
+      "longitudeDeg": -110.696,
+      "depthKm": 2.71,
+      "magnitude": 0.3,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 22.48049959666562}",
       "version": null
     },
     {
