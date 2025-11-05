@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c492e9529737fc4eeaece22af0201f0f6923e642",
+    "hashString": "50ae349c8f30459a9dacd2e47f513492d8b256a2",
     "events": [
       {
         "identifier": "uu80120716",
@@ -2097,6 +2097,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.823664760207347
+        }
+      },
+      {
+        "identifier": "uu80121351",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762362889.8600006,
+        "latitudeDeg": 36.89683333333333,
+        "longitudeDeg": -112.48416666666667,
+        "depthKM": 16.95,
+        "magnitude": 1.8,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fredonia, AZ",
+          "bearing": "SE",
+          "distanceKM": 6.596468125829709
         }
       },
       {
