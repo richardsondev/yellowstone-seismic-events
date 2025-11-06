@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fcc2ec0247fb23ddc9a77faa2e5a1230b72aa20f",
+    "hashString": "0c02f5be515d9ab05ad2c19d631b1b7b9cdfa062",
     "events": [
       {
         "identifier": "uu80120716",
@@ -2277,6 +2277,22 @@
           "town": "Castle Gate, UT",
           "bearing": "WSW",
           "distanceKM": 3.6823195258465398
+        }
+      },
+      {
+        "identifier": "uu80121461",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762444960.9799995,
+        "latitudeDeg": 38.4755,
+        "longitudeDeg": -112.80733333333333,
+        "depthKM": 4.51,
+        "magnitude": 0.61,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Manderfield, UT",
+          "bearing": "NW",
+          "distanceKM": 19.17571250999387
         }
       },
       {
