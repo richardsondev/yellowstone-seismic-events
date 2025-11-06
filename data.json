@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-06T14:46:23Z",
+  "fetchedAt": "2025-11-06T15:07:24Z",
   "events": [
     {
       "identifier": "uu80120716",
@@ -676,6 +676,19 @@
       "magnitude": 1.09,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.25198179674507}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005363",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762410269.5699997,
+      "latitudeDeg": 36.902,
+      "longitudeDeg": -112.477,
+      "depthKm": 12.3,
+      "magnitude": 1.55,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fredonia, AZ', 'bearing': 'SE', 'distanceKM': 6.544963740719441}",
       "version": null
     },
     {
