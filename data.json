@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-06T20:07:08Z",
+  "fetchedAt": "2025-11-06T22:06:26Z",
   "events": [
     {
       "identifier": "uu80120716",
@@ -1326,6 +1326,19 @@
       "magnitude": 0.68,
       "isLocal": true,
       "nearestTown": "{'town': 'Aurora, UT', 'bearing': 'NW', 'distanceKM': 17.355758985057605}",
+      "version": null
+    },
+    {
+      "identifier": "nn00907007",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1762465837.625,
+      "latitudeDeg": 35.9829,
+      "longitudeDeg": -115.1231,
+      "depthKm": 6.9843,
+      "magnitude": 2.39,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
