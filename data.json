@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-07T16:07:07Z",
+  "fetchedAt": "2025-11-07T16:31:11Z",
   "events": [
     {
       "identifier": "uu80120716",
@@ -624,6 +624,19 @@
       "magnitude": 2.0300000000000002,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'N', 'distanceKM': 8.403566914179773}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121541",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762503980.369999,
+      "latitudeDeg": 44.43933333333333,
+      "longitudeDeg": -111.02166666666666,
+      "depthKm": 3.36,
+      "magnitude": 0.72,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'W', 'distanceKM': 15.019105330173682}",
       "version": null
     },
     {
@@ -1316,6 +1329,19 @@
       "version": null
     },
     {
+      "identifier": "uu80121521",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762474684.1599998,
+      "latitudeDeg": 36.899,
+      "longitudeDeg": -112.4575,
+      "depthKm": 15.73,
+      "magnitude": 2.3000000000000003,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fredonia, AZ', 'bearing': 'SE', 'distanceKM': 8.029119457808468}",
+      "version": null
+    },
+    {
       "identifier": "nn00907007",
       "authority": "NN",
       "eventType": "eq",
@@ -1482,6 +1508,19 @@
       "magnitude": 1.27,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'N', 'distanceKM': 6.192988086564256}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121531",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762483927.3999996,
+      "latitudeDeg": 44.67516666666667,
+      "longitudeDeg": -110.681,
+      "depthKm": 5.65,
+      "magnitude": 0.65,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 26.09293867768293}",
       "version": null
     },
     {
