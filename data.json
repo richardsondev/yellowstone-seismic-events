@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-07T20:44:15Z",
+  "fetchedAt": "2025-11-07T21:05:39Z",
   "events": [
     {
       "identifier": "uu80005383",
@@ -1209,6 +1209,19 @@
       "magnitude": 1.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WNW', 'distanceKM': 14.942240148079343}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121616",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762547559.6699982,
+      "latitudeDeg": 40.7455,
+      "longitudeDeg": -112.04133333333333,
+      "depthKm": 8.25,
+      "magnitude": 0.4,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'ESE', 'distanceKM': 5.9588477901801005}",
       "version": null
     },
     {
