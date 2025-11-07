@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-07T17:06:25Z",
+  "fetchedAt": "2025-11-07T18:47:13Z",
   "events": [
     {
       "identifier": "uu80005383",
@@ -546,6 +546,19 @@
       "magnitude": 1.43,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.22457993520251}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121586",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762537763.7999992,
+      "latitudeDeg": 44.69016666666667,
+      "longitudeDeg": -110.68483333333333,
+      "depthKm": 6.48,
+      "magnitude": 0.28,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NW', 'distanceKM': 27.258863681260728}",
       "version": null
     },
     {
@@ -2080,6 +2093,19 @@
       "magnitude": 0.5,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.396823735795625}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005393",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762537772.130001,
+      "latitudeDeg": 44.692166666666665,
+      "longitudeDeg": -110.686,
+      "depthKm": 6.62,
+      "magnitude": 0.04,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NW', 'distanceKM': 27.46105493508804}",
       "version": null
     },
     {
