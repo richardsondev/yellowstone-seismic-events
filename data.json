@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-07T10:08:03Z",
+  "fetchedAt": "2025-11-07T16:07:07Z",
   "events": [
     {
       "identifier": "uu80120716",
@@ -676,6 +676,19 @@
       "magnitude": 1.12,
       "isLocal": true,
       "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'SW', 'distanceKM': 13.793588455336574}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121511",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762472745.619999,
+      "latitudeDeg": 44.73733333333333,
+      "longitudeDeg": -110.88133333333333,
+      "depthKm": 4.08,
+      "magnitude": 0.29,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 19.49326509659925}",
       "version": null
     },
     {
