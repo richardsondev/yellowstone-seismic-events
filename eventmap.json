@@ -1,8 +1,24 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ae4807aa5a425b362781466736e21f39ab79a037",
+    "hashString": "60df3c07a60516e732fd3e2e6e30f1d0ceb2544e",
     "events": [
+      {
+        "identifier": "uu80005383",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762495920.03,
+        "latitudeDeg": 41.200833333333335,
+        "longitudeDeg": -111.53883333333333,
+        "depthKM": 20.37,
+        "magnitude": 0.81,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Devils Slide, UT",
+          "bearing": "N",
+          "distanceKM": 15.500182838911437
+        }
+      },
       {
         "identifier": "uu80120716",
         "authority": "UU",
@@ -1117,6 +1133,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "N",
           "distanceKM": 8.919854747452213
+        }
+      },
+      {
+        "identifier": "uu80005388",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762493657.2299995,
+        "latitudeDeg": 41.482,
+        "longitudeDeg": -112.31433333333334,
+        "depthKM": -0.28,
+        "magnitude": 0.48,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Corinne, UT",
+          "bearing": "WSW",
+          "distanceKM": 18.64744244354403
         }
       },
       {
