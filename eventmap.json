@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5cf3e36722ed8cc3299c074d775629cf15c585e2",
+    "hashString": "6cca972e20a6bb9b92e0a35e76a3c7c67d855988",
     "events": [
       {
         "identifier": "uu80005383",
@@ -1513,6 +1513,22 @@
           "town": "Coalville, UT",
           "bearing": "WSW",
           "distanceKM": 12.159685350731163
+        }
+      },
+      {
+        "identifier": "uu80121626",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762554080.2399998,
+        "latitudeDeg": 41.57216666666667,
+        "longitudeDeg": -112.416,
+        "depthKM": 5.11,
+        "magnitude": 1.6300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Penrose, UT",
+          "bearing": "SW",
+          "distanceKM": 13.08961231942686
         }
       },
       {
