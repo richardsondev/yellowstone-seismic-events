@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1759613ce30586485cf96f35cfbe62fd8907a925",
+    "hashString": "ae4807aa5a425b362781466736e21f39ab79a037",
     "events": [
       {
         "identifier": "uu80120716",
@@ -273,6 +273,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 23.050861041529824
+        }
+      },
+      {
+        "identifier": "uu80121561",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762519683.59,
+        "latitudeDeg": 41.88166666666667,
+        "longitudeDeg": -112.33716666666666,
+        "depthKM": 9.04,
+        "magnitude": 0.91,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Blue Creek, UT",
+          "bearing": "ENE",
+          "distanceKM": 10.286440080446082
         }
       },
       {
