@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-10T21:06:28Z",
+  "fetchedAt": "2025-11-10T22:46:07Z",
   "events": [
     {
       "identifier": "uu80121691",
@@ -390,6 +390,19 @@
       "magnitude": 0.44,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.586950720051572}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121901",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762813140.23,
+      "latitudeDeg": 37.12683333333333,
+      "longitudeDeg": -112.81333333333333,
+      "depthKm": 17.3,
+      "magnitude": 1.62,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Springdale, UT', 'bearing': 'ESE', 'distanceKM': 17.809803556782523}",
       "version": null
     },
     {
