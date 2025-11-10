@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d9d6d0331b994e9f8009c213702d1e79f1868c61",
+    "hashString": "4d28fd2a0b3bcb88f4687f008f0515dd61b2f047",
     "events": [
       {
         "identifier": "uu80121691",
@@ -1428,22 +1428,6 @@
         }
       },
       {
-        "identifier": "uu80120436",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1761606459.1699982,
-        "latitudeDeg": 38.275666666666666,
-        "longitudeDeg": -112.63066666666667,
-        "depthKM": 3.96,
-        "magnitude": 2.35,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Beaver, UT",
-          "bearing": "E",
-          "distanceKM": 0.9210105691770915
-        }
-      },
-      {
         "identifier": "us6000rll9",
         "authority": "US",
         "eventType": "eq",
@@ -2697,6 +2681,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "ENE",
           "distanceKM": 19.772830674287878
+        }
+      },
+      {
+        "identifier": "uu80121906",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762815238.2799988,
+        "latitudeDeg": 44.8095,
+        "longitudeDeg": -110.8325,
+        "depthKM": 4.71,
+        "magnitude": 0.5700000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 21.187627269819487
         }
       },
       {
