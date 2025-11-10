@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f0d86415bf11a1d6d244fc61c4cb01519e421382",
+    "hashString": "4224fab723b02b160e452348f349dd2c7dedb44a",
     "events": [
       {
         "identifier": "uu80121691",
@@ -503,16 +503,16 @@
         "identifier": "uu80121791",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1762732858.0099983,
-        "latitudeDeg": 44.796166666666664,
-        "longitudeDeg": -110.84616666666666,
-        "depthKM": 4.96,
-        "magnitude": 3.34,
+        "originTimeUTC": 1762732857.8899994,
+        "latitudeDeg": 44.80283333333333,
+        "longitudeDeg": -110.84333333333333,
+        "depthKM": 7.63,
+        "magnitude": 3.21,
         "isLocal": true,
         "nearestTown": {
           "town": "Mammoth, WY",
           "bearing": "SSW",
-          "distanceKM": 23.006732940534377
+          "distanceKM": 22.25118152773018
         }
       },
       {
@@ -2341,6 +2341,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.79984172377058
+        }
+      },
+      {
+        "identifier": "uu80121841",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762771997.4899998,
+        "latitudeDeg": 36.8935,
+        "longitudeDeg": -112.48283333333333,
+        "depthKM": 12.75,
+        "magnitude": 1.6,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fredonia, AZ",
+          "bearing": "SE",
+          "distanceKM": 6.96930636183203
         }
       },
       {
