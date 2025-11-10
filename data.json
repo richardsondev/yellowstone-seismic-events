@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-10T18:09:42Z",
+  "fetchedAt": "2025-11-10T18:32:35Z",
   "events": [
     {
       "identifier": "uu80121691",
@@ -364,6 +364,19 @@
       "magnitude": 0.48,
       "isLocal": true,
       "nearestTown": "{'town': 'Penrose, UT', 'bearing': 'SW', 'distanceKM': 12.364309617707205}",
+      "version": null
+    },
+    {
+      "identifier": "uu80121871",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762795483.5,
+      "latitudeDeg": 44.79533333333333,
+      "longitudeDeg": -110.84983333333334,
+      "depthKm": 4.8,
+      "magnitude": 1.36,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.22966898879395}",
       "version": null
     },
     {
