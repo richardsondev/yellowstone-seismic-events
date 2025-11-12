@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e966c4b6f7e4a6a8643dcea08f0189c0c1629002",
+    "hashString": "36ad15eed26da5e86bb1fc60b29c927b99d0ad2e",
     "events": [
       {
         "identifier": "uu80121691",
@@ -401,22 +401,6 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.875489844071218
-        }
-      },
-      {
-        "identifier": "uu80005253",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1761704761.88,
-        "latitudeDeg": 41.573,
-        "longitudeDeg": -112.405,
-        "depthKM": 7.23,
-        "magnitude": 0.48,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Penrose, UT",
-          "bearing": "SW",
-          "distanceKM": 12.364309617707205
         }
       },
       {
@@ -1754,6 +1738,18 @@
           "bearing": "SSW",
           "distanceKM": 22.747488871055353
         }
+      },
+      {
+        "identifier": "nn00907210",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1762914529.093,
+        "latitudeDeg": 35.8435,
+        "longitudeDeg": -114.2337,
+        "depthKM": 0.0212,
+        "magnitude": 1.8,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80120736",
