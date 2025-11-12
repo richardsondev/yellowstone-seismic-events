@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-12T16:32:22Z",
+  "fetchedAt": "2025-11-12T16:49:03Z",
   "events": [
     {
       "identifier": "uu80121691",
@@ -1911,6 +1911,19 @@
       "magnitude": 1.71,
       "isLocal": true,
       "nearestTown": "{'town': 'Fredonia, AZ', 'bearing': 'SE', 'distanceKM': 7.239602076457163}",
+      "version": null
+    },
+    {
+      "identifier": "uu80122056",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762961453.7700005,
+      "latitudeDeg": 44.28,
+      "longitudeDeg": -110.64,
+      "depthKm": 4.7,
+      "magnitude": 1.09,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SSW', 'distanceKM': 15.875949818444823}",
       "version": null
     },
     {
