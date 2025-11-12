@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-12T15:07:26Z",
+  "fetchedAt": "2025-11-12T15:47:02Z",
   "events": [
     {
       "identifier": "uu80121691",
@@ -1833,6 +1833,19 @@
       "magnitude": 1.49,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 19.95263539802344}",
+      "version": null
+    },
+    {
+      "identifier": "uu80122051",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762958334.8600006,
+      "latitudeDeg": 39.638666666666666,
+      "longitudeDeg": -111.201,
+      "depthKm": -1.85,
+      "magnitude": 1.46,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'W', 'distanceKM': 4.10806561914188}",
       "version": null
     },
     {
