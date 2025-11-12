@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b6541a4facd90823443b35043816faa3b8283439",
+    "hashString": "e61c3ff9ee7577ac4aacb53a1dcd851eb4c2fa3f",
     "events": [
       {
         "identifier": "uu80121691",
@@ -2341,6 +2341,22 @@
           "town": "Fredonia, AZ",
           "bearing": "SE",
           "distanceKM": 7.239602076457163
+        }
+      },
+      {
+        "identifier": "uu80122056",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762961453.7700005,
+        "latitudeDeg": 44.28,
+        "longitudeDeg": -110.64,
+        "depthKM": 4.7,
+        "magnitude": 1.09,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Thumb, WY",
+          "bearing": "SSW",
+          "distanceKM": 15.875949818444823
         }
       },
       {
