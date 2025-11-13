@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fca65c89ce3dcfbf069a6c1e2883cf6df5674310",
+    "hashString": "cfb8c2decc0c1ffdd9c5f344e9b1d68e14eeace1",
     "events": [
       {
         "identifier": "uu80121691",
@@ -145,22 +145,6 @@
           "town": "West Yellowstone, MT",
           "bearing": "ENE",
           "distanceKM": 19.966995147055684
-        }
-      },
-      {
-        "identifier": "uu80120761",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1761854302.9300003,
-        "latitudeDeg": 44.805166666666665,
-        "longitudeDeg": -110.84516666666667,
-        "depthKM": 4.87,
-        "magnitude": 0.9,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 22.098597210309425
         }
       },
       {
@@ -1944,6 +1928,22 @@
         }
       },
       {
+        "identifier": "uu80122126",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763013876.8600006,
+        "latitudeDeg": 44.60366666666667,
+        "longitudeDeg": -110.70733333333334,
+        "depthKM": 7.92,
+        "magnitude": 1.67,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "NNE",
+          "distanceKM": 18.93123705954939
+        }
+      },
+      {
         "identifier": "uu80005283",
         "authority": "UU",
         "eventType": "eq",
@@ -2493,6 +2493,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "ENE",
           "distanceKM": 20.62073563870971
+        }
+      },
+      {
+        "identifier": "uu80005463",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763043609.33,
+        "latitudeDeg": 41.816833333333335,
+        "longitudeDeg": -111.63116666666667,
+        "depthKM": 9.28,
+        "magnitude": 1.07,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "North Logan, UT",
+          "bearing": "ENE",
+          "distanceKM": 15.322642255188224
         }
       },
       {
