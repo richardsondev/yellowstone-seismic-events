@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-13T16:32:19Z",
+  "fetchedAt": "2025-11-13T16:48:24Z",
   "events": [
     {
       "identifier": "uu80121691",
@@ -1300,6 +1300,19 @@
       "magnitude": 1.8,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80005458",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1762997596.6599998,
+      "latitudeDeg": 39.564166666666665,
+      "longitudeDeg": -111.53433333333334,
+      "depthKm": 1.84,
+      "magnitude": 1.04,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Moroni, UT', 'bearing': 'NE', 'distanceKM': 6.49319034134852}",
       "version": null
     },
     {

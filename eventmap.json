@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7ec73f2948db51c313412a3f9f4964286a7e2b13",
+    "hashString": "1a8aeda974bfbb00c327d35c971370d1c0bcaca4",
     "events": [
       {
         "identifier": "uu80121691",
@@ -1590,6 +1590,22 @@
         "magnitude": 1.8,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80005458",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762997596.6599998,
+        "latitudeDeg": 39.564166666666665,
+        "longitudeDeg": -111.53433333333334,
+        "depthKM": 1.84,
+        "magnitude": 1.04,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Moroni, UT",
+          "bearing": "NE",
+          "distanceKM": 6.49319034134852
+        }
       },
       {
         "identifier": "uu80005293",
