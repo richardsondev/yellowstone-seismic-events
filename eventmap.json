@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "82cfdb5d8f1e20c3c207564a5162625055e1839d",
+    "hashString": "7ec73f2948db51c313412a3f9f4964286a7e2b13",
     "events": [
       {
         "identifier": "uu80121691",
@@ -1069,6 +1069,22 @@
           "town": "Corinne, UT",
           "bearing": "WSW",
           "distanceKM": 18.64744244354403
+        }
+      },
+      {
+        "identifier": "uu80122116",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1762996504.42,
+        "latitudeDeg": 38.50666666666667,
+        "longitudeDeg": -112.89466666666667,
+        "depthKM": 1.69,
+        "magnitude": 1.24,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.85071762091336
         }
       },
       {
