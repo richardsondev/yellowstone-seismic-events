@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fded17f4f8a6d47a6353000dcb57b22a5412b3ed",
+    "hashString": "0cea49cb1c2345dee7f4767ee8f4ceae323dbbd7",
     "events": [
       {
         "identifier": "uu80005468",
@@ -308,6 +308,22 @@
         }
       },
       {
+        "identifier": "uu80122326",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763152322.01,
+        "latitudeDeg": 44.657,
+        "longitudeDeg": -110.6765,
+        "depthKM": 4.89,
+        "magnitude": 0.52,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "WNW",
+          "distanceKM": 24.772651612035443
+        }
+      },
+      {
         "identifier": "uu80121871",
         "authority": "UU",
         "eventType": "eq",
@@ -497,22 +513,6 @@
           "town": "Cove Fort, UT",
           "bearing": "NNE",
           "distanceKM": 12.478806001748739
-        }
-      },
-      {
-        "identifier": "uu80120916",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1761944873.619999,
-        "latitudeDeg": 44.794666666666664,
-        "longitudeDeg": -110.8475,
-        "depthKM": 4.31,
-        "magnitude": 0.86,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 23.203658248222492
         }
       },
       {
@@ -2577,6 +2577,22 @@
           "town": "Aurora, UT",
           "bearing": "NNW",
           "distanceKM": 10.107510981054043
+        }
+      },
+      {
+        "identifier": "uu80122306",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763145988.5199986,
+        "latitudeDeg": 38.50366666666667,
+        "longitudeDeg": -112.89583333333333,
+        "depthKM": 1.83,
+        "magnitude": 1.52,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.529747907167755
         }
       },
       {
