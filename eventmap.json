@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "af12192ff1a968ecc1f300adae7f06c683055e8b",
+    "hashString": "a59a42ee1e7fb50b65952caee8503d4907c75108",
     "events": [
       {
         "identifier": "uu80005468",
@@ -33,6 +33,22 @@
           "town": "Old Faithful, WY",
           "bearing": "NE",
           "distanceKM": 19.212041230256684
+        }
+      },
+      {
+        "identifier": "uu80122296",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763140171.7699986,
+        "latitudeDeg": 38.50333333333333,
+        "longitudeDeg": -112.895,
+        "depthKM": 1.68,
+        "magnitude": 1.31,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.548413331017974
         }
       },
       {
@@ -750,22 +766,6 @@
         "magnitude": 2.12,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80120896",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1761936706.079998,
-        "latitudeDeg": 44.796,
-        "longitudeDeg": -110.8525,
-        "depthKM": 4.8,
-        "magnitude": 1.54,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 23.27057372811304
-        }
       },
       {
         "identifier": "uu80005473",
@@ -1561,6 +1561,22 @@
           "town": "West Thumb, WY",
           "bearing": "SW",
           "distanceKM": 13.32735489017147
+        }
+      },
+      {
+        "identifier": "uu80122301",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763144644.96,
+        "latitudeDeg": 39.22816666666667,
+        "longitudeDeg": -112.05966666666667,
+        "depthKM": 19.62,
+        "magnitude": 1.4000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Scipio, UT",
+          "bearing": "ESE",
+          "distanceKM": 4.260061498974122
         }
       },
       {
