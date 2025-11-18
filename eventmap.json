@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1771d8d45dec9769fb100867b9afae4eb1e59149",
+    "hashString": "3c7539a9455a480c2c9bd3b1e429c072f82e2962",
     "events": [
       {
         "identifier": "uu80005468",
@@ -765,6 +765,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 23.407355789047084
+        }
+      },
+      {
+        "identifier": "uu80005508",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763427734.5099993,
+        "latitudeDeg": 40.844166666666666,
+        "longitudeDeg": -111.80483333333333,
+        "depthKM": 7.79,
+        "magnitude": 0.59,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Val Verda, UT",
+          "bearing": "E",
+          "distanceKM": 7.19994068630915
         }
       },
       {
