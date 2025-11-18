@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "93935530f0325f7e4e96e042883e35a5b6e731c8",
+    "hashString": "a05a41aa93aae362679502a585ccb6a57c6ffe94",
     "events": [
       {
         "identifier": "uu80005468",
@@ -1621,6 +1621,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 23.123055699410504
+        }
+      },
+      {
+        "identifier": "uu80122716",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763422779.5900002,
+        "latitudeDeg": 41.577333333333335,
+        "longitudeDeg": -109.89516666666667,
+        "depthKM": -2.39,
+        "magnitude": 3.67,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Little America, WY",
+          "bearing": "NW",
+          "distanceKM": 4.762324867057095
         }
       },
       {
