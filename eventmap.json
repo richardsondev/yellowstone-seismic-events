@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3c7539a9455a480c2c9bd3b1e429c072f82e2962",
+    "hashString": "d808efbaeae6961004070d228d82417ed0592f55",
     "events": [
       {
         "identifier": "uu80005468",
@@ -845,6 +845,22 @@
           "town": "Howell, UT",
           "bearing": "ESE",
           "distanceKM": 5.624086620652133
+        }
+      },
+      {
+        "identifier": "uu80122726",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763430844.1799998,
+        "latitudeDeg": 38.50216666666667,
+        "longitudeDeg": -112.894,
+        "depthKM": 1.47,
+        "magnitude": 0.6,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.506931745750283
         }
       },
       {
