@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-18T21:43:54Z",
+  "fetchedAt": "2025-11-18T22:06:30Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -884,6 +884,19 @@
       "magnitude": 1.18,
       "isLocal": true,
       "nearestTown": "{'town': 'Woodside, UT', 'bearing': 'WSW', 'distanceKM': 11.858868526331339}",
+      "version": null
+    },
+    {
+      "identifier": "nn00907435",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1763488749.082,
+      "latitudeDeg": 37.2927,
+      "longitudeDeg": -115.2316,
+      "depthKm": 6.4637,
+      "magnitude": 1.82,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
