@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "307b31ce93c9902ea2a8f21f4d7d6628d1edb699",
+    "hashString": "b018693938cebfb1dfabb22bf7b6be1cde8398a4",
     "events": [
       {
         "identifier": "uu80005468",
@@ -2148,6 +2148,22 @@
         }
       },
       {
+        "identifier": "uu80005528",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763539339.0200005,
+        "latitudeDeg": 37.778333333333336,
+        "longitudeDeg": -113.16233333333334,
+        "depthKM": 5.44,
+        "magnitude": 1.01,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Iron Springs, UT",
+          "bearing": "ENE",
+          "distanceKM": 7.586562428325191
+        }
+      },
+      {
         "identifier": "uu80122436",
         "authority": "UU",
         "eventType": "eq",
@@ -2618,22 +2634,6 @@
         "magnitude": 1.61,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80121351",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1762362889.8600006,
-        "latitudeDeg": 36.89683333333333,
-        "longitudeDeg": -112.48416666666667,
-        "depthKM": 16.95,
-        "magnitude": 1.8,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fredonia, AZ",
-          "bearing": "SE",
-          "distanceKM": 6.596468125829709
-        }
       },
       {
         "identifier": "uu80121851",
