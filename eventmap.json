@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "abbca1f1a1053023510ac4005934792706f69a0b",
+    "hashString": "9e80f161a573af787460d0c696b156953335da4b",
     "events": [
       {
         "identifier": "uu80005468",
@@ -2809,6 +2809,22 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 26.88674386532295
+        }
+      },
+      {
+        "identifier": "uu80005553",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763584555.9399986,
+        "latitudeDeg": 44.693666666666665,
+        "longitudeDeg": -110.68166666666667,
+        "depthKM": 7.36,
+        "magnitude": 0.79,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NW",
+          "distanceKM": 27.27662233059747
         }
       },
       {
