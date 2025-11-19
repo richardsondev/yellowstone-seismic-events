@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-19T15:07:12Z",
+  "fetchedAt": "2025-11-19T15:29:47Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -1290,6 +1290,19 @@
       "version": null
     },
     {
+      "identifier": "uu80122836",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763526965.71,
+      "latitudeDeg": 41.517,
+      "longitudeDeg": -112.15583333333333,
+      "depthKm": 4.45,
+      "magnitude": 0.88,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SW', 'distanceKM': 5.359162019215761}",
+      "version": null
+    },
+    {
       "identifier": "uu80122361",
       "authority": "UU",
       "eventType": "eq",
@@ -1339,6 +1352,19 @@
       "magnitude": 0.27,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SE', 'distanceKM': 22.975341630818406}",
+      "version": null
+    },
+    {
+      "identifier": "uu80122831",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763526774.2399979,
+      "latitudeDeg": 41.51916666666666,
+      "longitudeDeg": -112.1545,
+      "depthKm": 1.66,
+      "magnitude": 1.05,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SW', 'distanceKM': 5.111335634957496}",
       "version": null
     },
     {
