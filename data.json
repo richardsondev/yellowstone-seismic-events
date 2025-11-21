@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-21T18:09:38Z",
+  "fetchedAt": "2025-11-21T19:25:51Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -1732,6 +1732,19 @@
       "version": null
     },
     {
+      "identifier": "uu80123131",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763747770.79,
+      "latitudeDeg": 40.727666666666664,
+      "longitudeDeg": -112.05483333333333,
+      "depthKm": 8.19,
+      "magnitude": 0.99,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Magna, UT', 'bearing': 'ENE', 'distanceKM': 5.153987184312477}",
+      "version": null
+    },
+    {
       "identifier": "uu80122391",
       "authority": "UU",
       "eventType": "eq",
@@ -2002,6 +2015,19 @@
       "magnitude": 1.07,
       "isLocal": true,
       "nearestTown": "{'town': 'Howell, UT', 'bearing': 'ESE', 'distanceKM': 7.0585762217040005}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123136",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763748715.5299988,
+      "latitudeDeg": 41.86816666666667,
+      "longitudeDeg": -112.71566666666666,
+      "depthKm": 5.73,
+      "magnitude": 1.24,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Snowville, UT', 'bearing': 'S', 'distanceKM': 10.8342269741371}",
       "version": null
     },
     {
