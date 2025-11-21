@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-21T17:06:22Z",
+  "fetchedAt": "2025-11-21T17:44:29Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -2642,6 +2642,19 @@
       "version": null
     },
     {
+      "identifier": "uu80123111",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763725213.5099993,
+      "latitudeDeg": 44.670833333333334,
+      "longitudeDeg": -110.68066666666667,
+      "depthKm": 6.03,
+      "magnitude": 1.0,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.81951744302695}",
+      "version": null
+    },
+    {
       "identifier": "uu80122421",
       "authority": "UU",
       "eventType": "eq",
@@ -2860,6 +2873,19 @@
       "magnitude": 0.6900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.268384035268188}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005568",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763710615.7199974,
+      "latitudeDeg": 36.88616666666667,
+      "longitudeDeg": -112.338,
+      "depthKm": 19.51,
+      "magnitude": 1.21,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fredonia, AZ', 'bearing': 'ESE', 'distanceKM': 18.018321398843938}",
       "version": null
     },
     {
