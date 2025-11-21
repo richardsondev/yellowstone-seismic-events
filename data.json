@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-21T15:27:29Z",
+  "fetchedAt": "2025-11-21T15:43:43Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -156,6 +156,19 @@
       "magnitude": 1.77,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.038746991880274}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123051",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763687216.3400002,
+      "latitudeDeg": 38.50716666666667,
+      "longitudeDeg": -112.902,
+      "depthKm": 1.89,
+      "magnitude": 0.04,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.495054688597243}",
       "version": null
     },
     {
