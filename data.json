@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-24T22:29:46Z",
+  "fetchedAt": "2025-11-24T22:45:14Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -1901,6 +1901,19 @@
       "version": null
     },
     {
+      "identifier": "uu80123446",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763997242.55,
+      "latitudeDeg": 44.524166666666666,
+      "longitudeDeg": -110.98033333333333,
+      "depthKm": 14.56,
+      "magnitude": 0.65,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'WNW', 'distanceKM': 13.607772547739312}",
+      "version": null
+    },
+    {
       "identifier": "uu80122156",
       "authority": "UU",
       "eventType": "eq",
@@ -1950,6 +1963,19 @@
       "magnitude": 1.01,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'W', 'distanceKM': 11.129708742248052}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123396",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763971271.7799997,
+      "latitudeDeg": 44.79233333333333,
+      "longitudeDeg": -110.83766666666666,
+      "depthKm": 4.89,
+      "magnitude": 0.44,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.065286526157276}",
       "version": null
     },
     {
@@ -2093,6 +2119,19 @@
       "magnitude": 1.4000000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.998746856946518}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123436",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763993293.12,
+      "latitudeDeg": 40.7635,
+      "longitudeDeg": -111.638,
+      "depthKm": 10.77,
+      "magnitude": 0.68,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mount Olympus, UT', 'bearing': 'NE', 'distanceKM': 15.377887605555669}",
       "version": null
     },
     {
