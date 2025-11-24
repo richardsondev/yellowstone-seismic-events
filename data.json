@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-24T19:43:44Z",
+  "fetchedAt": "2025-11-24T22:29:46Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -341,19 +341,6 @@
       "version": null
     },
     {
-      "identifier": "uu80121901",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1762813140.23,
-      "latitudeDeg": 37.12683333333333,
-      "longitudeDeg": -112.81333333333333,
-      "depthKm": 17.3,
-      "magnitude": 1.62,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Springdale, UT', 'bearing': 'ESE', 'distanceKM': 17.809803556782523}",
-      "version": null
-    },
-    {
       "identifier": "uu80123081",
       "authority": "UU",
       "eventType": "eq",
@@ -588,6 +575,19 @@
       "version": null
     },
     {
+      "identifier": "uu80123456",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764002223.81,
+      "latitudeDeg": 44.792833333333334,
+      "longitudeDeg": -110.83783333333334,
+      "depthKm": 4.39,
+      "magnitude": 0.7000000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.02189742027411}",
+      "version": null
+    },
+    {
       "identifier": "uu80122381",
       "authority": "UU",
       "eventType": "eq",
@@ -676,6 +676,19 @@
       "magnitude": 0.6900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SSW', 'distanceKM': 18.31053626872684}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123451",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764001701.1000004,
+      "latitudeDeg": 44.829166666666666,
+      "longitudeDeg": -110.8745,
+      "depthKm": 8.07,
+      "magnitude": 0.5700000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SW', 'distanceKM': 21.225152769603376}",
       "version": null
     },
     {
@@ -1898,6 +1911,19 @@
       "magnitude": 0.41000000000000003,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 21.6453374179415}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123441",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763993469.2600002,
+      "latitudeDeg": 38.50566666666667,
+      "longitudeDeg": -112.908,
+      "depthKm": 2.55,
+      "magnitude": 1.1500000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.04688757583661}",
       "version": null
     },
     {
