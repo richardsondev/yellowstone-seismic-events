@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-25T20:31:28Z",
+  "fetchedAt": "2025-11-25T20:45:51Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -1209,6 +1209,19 @@
       "magnitude": 0.26,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 26.32930536074353}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005598",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763886400.2000008,
+      "latitudeDeg": 41.838166666666666,
+      "longitudeDeg": -112.425,
+      "depthKm": 0.55,
+      "magnitude": 0.46,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'SE', 'distanceKM': 3.8216685202627163}",
       "version": null
     },
     {
