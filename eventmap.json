@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2f014f8134e746003190c301c6ea6b86d3f073dc",
+    "hashString": "c016c043da8c6df731bd1e77565b1256b4e3114b",
     "events": [
       {
         "identifier": "uu80005468",
@@ -964,6 +964,22 @@
         }
       },
       {
+        "identifier": "uu80123181",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763811688.6800003,
+        "latitudeDeg": 44.27583333333333,
+        "longitudeDeg": -110.62516666666667,
+        "depthKM": 9.56,
+        "magnitude": 0.72,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Thumb, WY",
+          "bearing": "SSW",
+          "distanceKM": 15.996895835624452
+        }
+      },
+      {
         "identifier": "uu80122236",
         "authority": "UU",
         "eventType": "eq",
@@ -1186,18 +1202,6 @@
           "bearing": "SSW",
           "distanceKM": 16.691891184321637
         }
-      },
-      {
-        "identifier": "nn00907435",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1763488749.082,
-        "latitudeDeg": 37.2927,
-        "longitudeDeg": -115.2316,
-        "depthKM": 6.4637,
-        "magnitude": 1.82,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80122451",
