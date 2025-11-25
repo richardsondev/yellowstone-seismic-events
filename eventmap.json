@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "61256b61799129d4eeccc4973835c0cc84e5ec6a",
+    "hashString": "2a091dc3537141fa85f010943f53280aa5da3ad3",
     "events": [
       {
         "identifier": "uu80005468",
@@ -1217,6 +1217,22 @@
           "town": "Mills, UT",
           "bearing": "S",
           "distanceKM": 14.427025435691244
+        }
+      },
+      {
+        "identifier": "uu80123286",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763887394.7599993,
+        "latitudeDeg": 38.50566666666667,
+        "longitudeDeg": -112.89883333333333,
+        "depthKM": 2.43,
+        "magnitude": 0.84,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.535043498567711
         }
       },
       {
@@ -2953,6 +2969,22 @@
           "town": "Lake, WY",
           "bearing": "NW",
           "distanceKM": 27.27662233059747
+        }
+      },
+      {
+        "identifier": "uu80005593",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763900144.3899994,
+        "latitudeDeg": 40.698,
+        "longitudeDeg": -112.14633333333333,
+        "depthKM": 8.66,
+        "magnitude": 0.42,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Magna, UT",
+          "bearing": "WSW",
+          "distanceKM": 3.327763789350514
         }
       },
       {
