@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "203177c6d3fc6e7c69aab0146ae2bcd3fa541d11",
+    "hashString": "2f014f8134e746003190c301c6ea6b86d3f073dc",
     "events": [
       {
         "identifier": "uu80005468",
@@ -1741,6 +1741,22 @@
           "town": "West Thumb, WY",
           "bearing": "SE",
           "distanceKM": 22.975341630818406
+        }
+      },
+      {
+        "identifier": "uu80005613",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763804507.5200005,
+        "latitudeDeg": 42.37083333333333,
+        "longitudeDeg": -111.44783333333334,
+        "depthKM": 3.44,
+        "magnitude": 0.89,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Sharon, ID",
+          "bearing": "NE",
+          "distanceKM": 3.506077199495218
         }
       },
       {
