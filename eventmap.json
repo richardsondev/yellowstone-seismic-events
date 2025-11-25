@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c26fa9528a4e2be017329a9205b3003fe5120d16",
+    "hashString": "31a850131a8309d786f75d1352ff6aa82b1feb32",
     "events": [
       {
         "identifier": "uu80005468",
@@ -1993,6 +1993,22 @@
           "town": "Little America, WY",
           "bearing": "NW",
           "distanceKM": 4.762324867057095
+        }
+      },
+      {
+        "identifier": "uu80123161",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763781003.3799999,
+        "latitudeDeg": 44.79633333333334,
+        "longitudeDeg": -110.85133333333333,
+        "depthKM": 4.86,
+        "magnitude": 0.38,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.19226818889244
         }
       },
       {

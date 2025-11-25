@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-25T15:31:16Z",
+  "fetchedAt": "2025-11-25T16:32:38Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -1625,6 +1625,19 @@
       "magnitude": 3.67,
       "isLocal": true,
       "nearestTown": "{'town': 'Little America, WY', 'bearing': 'NW', 'distanceKM': 4.762324867057095}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123161",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763781003.3799999,
+      "latitudeDeg": 44.79633333333334,
+      "longitudeDeg": -110.85133333333333,
+      "depthKm": 4.86,
+      "magnitude": 0.38,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.19226818889244}",
       "version": null
     },
     {
