@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "450933eb47bb962bdbc2f6f160a55bace24ba51e",
+    "hashString": "5cd28539b5d05eb4209b74463cdd8d79173763c5",
     "events": [
       {
         "identifier": "uu80005468",
@@ -1012,6 +1012,22 @@
         }
       },
       {
+        "identifier": "uu80005618",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764067113.6399994,
+        "latitudeDeg": 39.699333333333335,
+        "longitudeDeg": -110.82183333333333,
+        "depthKM": -3.39,
+        "magnitude": 1.4000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Helper, UT",
+          "bearing": "ENE",
+          "distanceKM": 3.275600048063858
+        }
+      },
+      {
         "identifier": "uu80122461",
         "authority": "UU",
         "eventType": "eq",
@@ -1581,6 +1597,22 @@
           "town": "Lake, WY",
           "bearing": "WNW",
           "distanceKM": 26.216083595115503
+        }
+      },
+      {
+        "identifier": "uu80123466",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764031179.7199974,
+        "latitudeDeg": 41.95766666666667,
+        "longitudeDeg": -112.29683333333334,
+        "depthKM": 7.24,
+        "magnitude": 0.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Portage, UT",
+          "bearing": "WSW",
+          "distanceKM": 7.6713638057263545
         }
       },
       {
