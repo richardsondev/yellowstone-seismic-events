@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-25T17:07:49Z",
+  "fetchedAt": "2025-11-25T17:29:52Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -1417,6 +1417,19 @@
       "magnitude": 0.27,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SE', 'distanceKM': 22.975341630818406}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005613",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763804507.5200005,
+      "latitudeDeg": 42.37083333333333,
+      "longitudeDeg": -111.44783333333334,
+      "depthKm": 3.44,
+      "magnitude": 0.89,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Sharon, ID', 'bearing': 'NE', 'distanceKM': 3.506077199495218}",
       "version": null
     },
     {
