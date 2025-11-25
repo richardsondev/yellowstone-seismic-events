@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-25T21:06:38Z",
+  "fetchedAt": "2025-11-25T21:27:52Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -13,6 +13,19 @@
       "magnitude": 0.18,
       "isLocal": true,
       "nearestTown": "{'town': 'Cleveland, UT', 'bearing': 'SE', 'distanceKM': 27.849099986275675}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123306",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763920216.0499992,
+      "latitudeDeg": 44.662166666666664,
+      "longitudeDeg": -110.664,
+      "depthKm": 6.26,
+      "magnitude": 0.06,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 24.193981412660925}",
       "version": null
     },
     {
@@ -1173,6 +1186,19 @@
       "version": null
     },
     {
+      "identifier": "uu80005588",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763904531.2299995,
+      "latitudeDeg": 39.6935,
+      "longitudeDeg": -111.077,
+      "depthKm": 4.85,
+      "magnitude": 0.5700000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Scofield, UT', 'bearing': 'ESE', 'distanceKM': 7.927270135242389}",
+      "version": null
+    },
+    {
       "identifier": "uu80122936",
       "authority": "UU",
       "eventType": "eq",
@@ -2314,6 +2340,19 @@
       "magnitude": 0.85,
       "isLocal": true,
       "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SW', 'distanceKM': 5.728674690722708}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123526",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764103497.8099976,
+      "latitudeDeg": 44.675,
+      "longitudeDeg": -110.66583333333334,
+      "depthKm": 5.85,
+      "magnitude": 0.58,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.07179736361088}",
       "version": null
     },
     {
