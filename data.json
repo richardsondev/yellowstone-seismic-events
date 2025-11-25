@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-25T22:30:07Z",
+  "fetchedAt": "2025-11-25T22:45:17Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -1368,6 +1368,19 @@
       "version": null
     },
     {
+      "identifier": "uu80123471",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764034650.8099995,
+      "latitudeDeg": 44.67783333333333,
+      "longitudeDeg": -110.69166666666666,
+      "depthKm": 5.53,
+      "magnitude": 0.33,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 26.778010564977638}",
+      "version": null
+    },
+    {
       "identifier": "uu80122491",
       "authority": "UU",
       "eventType": "eq",
@@ -2395,6 +2408,19 @@
       "version": null
     },
     {
+      "identifier": "uu80123481",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764061514.7399998,
+      "latitudeDeg": 44.807833333333335,
+      "longitudeDeg": -110.8345,
+      "depthKm": 5.76,
+      "magnitude": 0.41000000000000003,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 21.42593578008355}",
+      "version": null
+    },
+    {
       "identifier": "uu80005518",
       "authority": "UU",
       "eventType": "eq",
@@ -2808,6 +2834,19 @@
       "magnitude": 1.3,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.795160423690557}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123476",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764047821.3,
+      "latitudeDeg": 44.73616666666667,
+      "longitudeDeg": -110.86633333333333,
+      "depthKm": 7.24,
+      "magnitude": 0.3,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 20.51815620126288}",
       "version": null
     },
     {
