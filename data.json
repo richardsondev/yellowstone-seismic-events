@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-25T20:07:45Z",
+  "fetchedAt": "2025-11-25T20:31:28Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -1768,6 +1768,19 @@
       "magnitude": 0.66,
       "isLocal": true,
       "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SW', 'distanceKM': 5.6800859834902635}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123271",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763885989.5299988,
+      "latitudeDeg": 38.50683333333333,
+      "longitudeDeg": -112.90433333333333,
+      "depthKm": 2.55,
+      "magnitude": 0.97,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.342123828741958}",
       "version": null
     },
     {
