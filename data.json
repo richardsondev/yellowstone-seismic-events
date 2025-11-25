@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-25T18:09:45Z",
+  "fetchedAt": "2025-11-25T18:32:49Z",
   "events": [
     {
       "identifier": "uu80005468",
@@ -1654,19 +1654,6 @@
       "version": null
     },
     {
-      "identifier": "uu80121946",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1762885596.959999,
-      "latitudeDeg": 44.79516666666667,
-      "longitudeDeg": -110.84666666666666,
-      "depthKm": 4.96,
-      "magnitude": 2.14,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.123055699410504}",
-      "version": null
-    },
-    {
       "identifier": "uu80122716",
       "authority": "UU",
       "eventType": "eq",
@@ -2769,6 +2756,19 @@
       "magnitude": 0.89,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.600142381856276}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123186",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1763811771.869999,
+      "latitudeDeg": 44.26833333333333,
+      "longitudeDeg": -110.62433333333334,
+      "depthKm": 9.57,
+      "magnitude": 1.12,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SSW', 'distanceKM': 16.793503452454914}",
       "version": null
     },
     {
