@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7a4adda50f29f9eaa87f995aa6e076de94dfb9fe",
+    "hashString": "61256b61799129d4eeccc4973835c0cc84e5ec6a",
     "events": [
       {
         "identifier": "uu80005468",
@@ -1489,6 +1489,22 @@
           "town": "Lake, WY",
           "bearing": "WNW",
           "distanceKM": 26.32930536074353
+        }
+      },
+      {
+        "identifier": "uu80005598",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1763886400.2000008,
+        "latitudeDeg": 41.838166666666666,
+        "longitudeDeg": -112.425,
+        "depthKM": 0.55,
+        "magnitude": 0.46,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Blue Creek, UT",
+          "bearing": "SE",
+          "distanceKM": 3.8216685202627163
         }
       },
       {
