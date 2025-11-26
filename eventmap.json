@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3ffd7e86881235c6b2f98221779b2cb459998a54",
+    "hashString": "2dada8d43f979a42dd552f1ab9cd22605d2d6f29",
     "events": [
       {
         "identifier": "uu80005468",
@@ -1313,6 +1313,22 @@
           "town": "Fountain Green, UT",
           "bearing": "NE",
           "distanceKM": 10.530466043527255
+        }
+      },
+      {
+        "identifier": "uu80123586",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764159161.0599976,
+        "latitudeDeg": 38.50966666666667,
+        "longitudeDeg": -112.88916666666667,
+        "depthKM": 2.09,
+        "magnitude": 1.1400000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.413755346013865
         }
       },
       {
@@ -3637,6 +3653,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.750751686560916
+        }
+      },
+      {
+        "identifier": "uu80123581",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764156568.3899994,
+        "latitudeDeg": 38.50866666666667,
+        "longitudeDeg": -112.894,
+        "depthKM": 2.13,
+        "magnitude": 0.62,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.059207423208683
         }
       },
       {
