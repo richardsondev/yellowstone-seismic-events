@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-11-28T19:05:40Z",
+  "fetchedAt": "2025-11-28T19:25:40Z",
   "events": [
     {
       "identifier": "uu80123306",
@@ -91,6 +91,32 @@
       "magnitude": 0.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NW', 'distanceKM': 25.526309407189366}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123651",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764207737.5699997,
+      "latitudeDeg": 44.770833333333336,
+      "longitudeDeg": -110.8885,
+      "depthKm": 7.38,
+      "magnitude": 0.77,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 20.89003187606291}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123646",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764207655.079998,
+      "latitudeDeg": 44.7765,
+      "longitudeDeg": -110.8935,
+      "depthKm": 8.32,
+      "magnitude": 1.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 20.945058177008068}",
       "version": null
     },
     {
@@ -1495,6 +1521,19 @@
       "magnitude": 0.71,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.866153949648954}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123656",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764209364.92,
+      "latitudeDeg": 44.772333333333336,
+      "longitudeDeg": -110.89083333333333,
+      "depthKm": 8.52,
+      "magnitude": 1.1,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 20.837454080561788}",
       "version": null
     },
     {
