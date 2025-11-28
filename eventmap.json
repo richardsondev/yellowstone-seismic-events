@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "da4ee5b22673ce147c873670cabd5478c94998d8",
+    "hashString": "93d261fad473d9a6bf37fec6b1525ca483f21d93",
     "events": [
       {
         "identifier": "uu80123306",
@@ -1860,6 +1860,22 @@
         }
       },
       {
+        "identifier": "uu80005673",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764199214.79,
+        "latitudeDeg": 44.704,
+        "longitudeDeg": -110.69166666666666,
+        "depthKM": 5.78,
+        "magnitude": 0.08,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NW",
+          "distanceKM": 28.590752826429366
+        }
+      },
+      {
         "identifier": "uu80123201",
         "authority": "UU",
         "eventType": "eq",
@@ -2880,6 +2896,22 @@
         }
       },
       {
+        "identifier": "uu80123621",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764199207.31,
+        "latitudeDeg": 44.6955,
+        "longitudeDeg": -110.68483333333333,
+        "depthKM": 6.47,
+        "magnitude": 0.13,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NW",
+          "distanceKM": 27.59876670998351
+        }
+      },
+      {
         "identifier": "uu80122496",
         "authority": "UU",
         "eventType": "eq",
@@ -3357,22 +3389,6 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 21.576892044755553
-        }
-      },
-      {
-        "identifier": "uu80122306",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1763145988.5199986,
-        "latitudeDeg": 38.50366666666667,
-        "longitudeDeg": -112.89583333333333,
-        "depthKM": 1.83,
-        "magnitude": 1.52,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.529747907167755
         }
       },
       {
