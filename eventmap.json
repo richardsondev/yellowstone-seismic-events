@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "615fee850773c6df4411e9bf7c33d411ca27a176",
+    "hashString": "6cf2b47cb64d63095b48da438d0ecc66457c12a1",
     "events": [
       {
         "identifier": "uu80123306",
@@ -1492,6 +1492,22 @@
         }
       },
       {
+        "identifier": "uu80123746",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764252037.5999985,
+        "latitudeDeg": 39.0115,
+        "longitudeDeg": -111.4115,
+        "depthKM": -1,
+        "magnitude": 0.97,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "NW",
+          "distanceKM": 17.16675558944438
+        }
+      },
+      {
         "identifier": "uu80122946",
         "authority": "UU",
         "eventType": "eq",
@@ -2465,6 +2481,22 @@
           "town": "Lake, WY",
           "bearing": "WNW",
           "distanceKM": 25.489434958779025
+        }
+      },
+      {
+        "identifier": "uu80123771",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764263541.709999,
+        "latitudeDeg": 38.5015,
+        "longitudeDeg": -112.89516666666667,
+        "depthKM": 1.98,
+        "magnitude": 0.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.384392976843023
         }
       },
       {
