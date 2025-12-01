@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-01T19:29:35Z",
+  "fetchedAt": "2025-12-01T19:44:56Z",
   "events": [
     {
       "identifier": "uu80123306",
@@ -390,6 +390,19 @@
       "magnitude": 0.5,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.124404714065118}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123831",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764322415.75,
+      "latitudeDeg": 38.50716666666667,
+      "longitudeDeg": -112.904,
+      "depthKm": 2.61,
+      "magnitude": 1.22,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.389183455246956}",
       "version": null
     },
     {
@@ -2184,6 +2197,19 @@
       "magnitude": 1.49,
       "isLocal": true,
       "nearestTown": "{'town': 'Iron Springs, UT', 'bearing': 'ENE', 'distanceKM': 7.539818048268959}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123881",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764359939.789997,
+      "latitudeDeg": 38.51233333333333,
+      "longitudeDeg": -112.89466666666667,
+      "depthKm": 2.42,
+      "magnitude": 1.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.340615592107678}",
       "version": null
     },
     {
