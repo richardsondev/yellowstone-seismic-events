@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-01T15:31:03Z",
+  "fetchedAt": "2025-12-01T16:32:40Z",
   "events": [
     {
       "identifier": "uu80123306",
@@ -221,6 +221,19 @@
       "magnitude": 0.52,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.158473968703305}",
+      "version": null
+    },
+    {
+      "identifier": "uu80124076",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764584174.0900002,
+      "latitudeDeg": 44.6575,
+      "longitudeDeg": -110.94783333333334,
+      "depthKm": 6.31,
+      "magnitude": 0.43,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'E', 'distanceKM': 12.37004475129332}",
       "version": null
     },
     {
@@ -897,6 +910,19 @@
       "magnitude": 0.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 25.695493272852946}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005683",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764590718.4099998,
+      "latitudeDeg": 36.828833333333336,
+      "longitudeDeg": -111.542,
+      "depthKm": 6.03,
+      "magnitude": 1.7,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Marble Canyon, AZ', 'bearing': 'E', 'distanceKM': 8.747957212485225}",
       "version": null
     },
     {
