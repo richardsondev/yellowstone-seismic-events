@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-01T17:48:09Z",
+  "fetchedAt": "2025-12-01T18:33:14Z",
   "events": [
     {
       "identifier": "uu80123306",
@@ -2317,6 +2317,19 @@
       "version": null
     },
     {
+      "identifier": "uu80005658",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764222344.789997,
+      "latitudeDeg": 36.89366666666667,
+      "longitudeDeg": -112.48533333333333,
+      "depthKm": 14.68,
+      "magnitude": 1.46,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fredonia, AZ', 'bearing': 'SSE', 'distanceKM': 6.8320721650069896}",
+      "version": null
+    },
+    {
       "identifier": "uu80005558",
       "authority": "UU",
       "eventType": "eq",
@@ -2496,6 +2509,19 @@
       "magnitude": 0.68,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.13525313509214}",
+      "version": null
+    },
+    {
+      "identifier": "uu80123701",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764225753.2599983,
+      "latitudeDeg": 38.506,
+      "longitudeDeg": -112.9015,
+      "depthKm": 2.37,
+      "magnitude": 0.74,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.419491955223357}",
       "version": null
     },
     {
