@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-02T21:06:54Z",
+  "fetchedAt": "2025-12-02T21:28:25Z",
   "events": [
     {
       "identifier": "uu80123306",
@@ -1170,6 +1170,19 @@
       "magnitude": 1.1300000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Levan, UT', 'bearing': 'WSW', 'distanceKM': 7.143576497285597}",
+      "version": null
+    },
+    {
+      "identifier": "uu80124156",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764703263.3999999,
+      "latitudeDeg": 37.568,
+      "longitudeDeg": -113.03183333333334,
+      "depthKm": 5.05,
+      "magnitude": 1.98,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 11.28999711510624}",
       "version": null
     },
     {

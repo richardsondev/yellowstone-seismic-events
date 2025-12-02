@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "54a3f01958811452e88366955f041e4b969adc88",
+    "hashString": "33bb20a19377d658d6d9e0d35610b49d9fad045b",
     "events": [
       {
         "identifier": "uu80123306",
@@ -1441,6 +1441,22 @@
           "town": "Levan, UT",
           "bearing": "WSW",
           "distanceKM": 7.143576497285597
+        }
+      },
+      {
+        "identifier": "uu80124156",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764703263.3999999,
+        "latitudeDeg": 37.568,
+        "longitudeDeg": -113.03183333333334,
+        "depthKM": 5.05,
+        "magnitude": 1.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 11.28999711510624
         }
       },
       {
