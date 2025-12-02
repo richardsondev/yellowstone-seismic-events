@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "92b8ac974e796118adb57840d05e535756b34048",
+    "hashString": "152bcbd604401a3bb44a117b5677ce9e9ddc86e9",
     "events": [
       {
         "identifier": "uu80123306",
@@ -1201,6 +1201,22 @@
           "town": "West Thumb, WY",
           "bearing": "SSW",
           "distanceKM": 16.691891184321637
+        }
+      },
+      {
+        "identifier": "uu80124121",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764658016.8799973,
+        "latitudeDeg": 38.511,
+        "longitudeDeg": -112.90116666666667,
+        "depthKM": 2.16,
+        "magnitude": 0.26,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.877857975055214
         }
       },
       {
