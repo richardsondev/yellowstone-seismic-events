@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c1b53f2afec87b0c34fc67ca8b114ee2690d916a",
+    "hashString": "975e765a6dc9246517c1eae24eebed79d91b4e92",
     "events": [
       {
         "identifier": "uu80123306",
@@ -820,6 +820,22 @@
         }
       },
       {
+        "identifier": "uu80124291",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764868722.2799988,
+        "latitudeDeg": 41.599333333333334,
+        "longitudeDeg": -112.41683333333333,
+        "depthKM": 1.52,
+        "magnitude": 0.97,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Penrose, UT",
+          "bearing": "WSW",
+          "distanceKM": 11.331540178956784
+        }
+      },
+      {
         "identifier": "uu80005763",
         "authority": "UU",
         "eventType": "eq",
@@ -1441,6 +1457,22 @@
           "town": "Lakeside, UT",
           "bearing": "N",
           "distanceKM": 30.496127500452
+        }
+      },
+      {
+        "identifier": "uu80005768",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764878175.1499996,
+        "latitudeDeg": 39.7305,
+        "longitudeDeg": -110.915,
+        "depthKM": 1.83,
+        "magnitude": 1.5,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Castle Gate, UT",
+          "bearing": "W",
+          "distanceKM": 3.9546199198110292
         }
       },
       {
