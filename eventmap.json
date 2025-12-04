@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a92c31aba636d4d0f8facb3cd78d611003c46969",
+    "hashString": "891f708a84ec7571b98f87ff00f93d4547f6319d",
     "events": [
       {
         "identifier": "uu80123306",
@@ -1777,6 +1777,22 @@
           "town": "Leamington, UT",
           "bearing": "ENE",
           "distanceKM": 9.642178894268213
+        }
+      },
+      {
+        "identifier": "uu80005748",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764836381.1399994,
+        "latitudeDeg": 41.49766666666667,
+        "longitudeDeg": -112.941,
+        "depthKM": 3.39,
+        "magnitude": 0.73,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lakeside, UT",
+          "bearing": "NNW",
+          "distanceKM": 31.22182799208347
         }
       },
       {
