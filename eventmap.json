@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d5aae48d594c62db0e88d77286f03f7a2493126e",
+    "hashString": "2921997fcd5a9ea0a4402c0276f397595646201f",
     "events": [
       {
         "identifier": "uu80123306",
@@ -2900,6 +2900,22 @@
         }
       },
       {
+        "identifier": "uu80005753",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764829397.119999,
+        "latitudeDeg": 41.579166666666666,
+        "longitudeDeg": -112.41733333333333,
+        "depthKM": 0.05,
+        "magnitude": 0.49,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Penrose, UT",
+          "bearing": "SW",
+          "distanceKM": 12.662443332244447
+        }
+      },
+      {
         "identifier": "uu80123916",
         "authority": "UU",
         "eventType": "eq",
@@ -3057,22 +3073,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.177248515549389
-        }
-      },
-      {
-        "identifier": "uu80123001",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1763651835.7299995,
-        "latitudeDeg": 44.79716666666667,
-        "longitudeDeg": -110.85066666666667,
-        "depthKM": 4.78,
-        "magnitude": 0.72,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 23.085719865775534
         }
       },
       {
