@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-04T15:47:13Z",
+  "fetchedAt": "2025-12-04T16:08:53Z",
   "events": [
     {
       "identifier": "uu80123306",
@@ -1443,6 +1443,19 @@
       "magnitude": 0.52,
       "isLocal": true,
       "nearestTown": "{'town': 'Leamington, UT', 'bearing': 'ENE', 'distanceKM': 9.642178894268213}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005748",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1764836381.1399994,
+      "latitudeDeg": 41.49766666666667,
+      "longitudeDeg": -112.941,
+      "depthKm": 3.39,
+      "magnitude": 0.73,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lakeside, UT', 'bearing': 'NNW', 'distanceKM': 31.22182799208347}",
       "version": null
     },
     {
