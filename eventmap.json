@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d9eb61bb24c5e93a902869bda74e4fccce0dcbf7",
+    "hashString": "5f4035da881a4facc4d2afb22b213b31b8c56d15",
     "events": [
       {
         "identifier": "uu80123306",
@@ -1773,6 +1773,22 @@
           "town": "Junction, UT",
           "bearing": "NNE",
           "distanceKM": 3.130111507647754
+        }
+      },
+      {
+        "identifier": "uu80005783",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764910954.9699974,
+        "latitudeDeg": 41.512,
+        "longitudeDeg": -111.69116666666666,
+        "depthKM": 10.01,
+        "magnitude": 0.72,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Paradise, UT",
+          "bearing": "ESE",
+          "distanceKM": 13.75625987721462
         }
       },
       {
