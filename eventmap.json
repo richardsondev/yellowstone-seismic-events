@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "78bf31a89def33e91f843570a00bf622eeee94d4",
+    "hashString": "f609c9e5fc34c3be18497eda614723d59f007bf7",
     "events": [
       {
         "identifier": "uu80123306",
@@ -49,6 +49,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.863514554813882
+        }
+      },
+      {
+        "identifier": "uu80005773",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1764925961.8899994,
+        "latitudeDeg": 37.55566666666667,
+        "longitudeDeg": -113.045,
+        "depthKM": 5.77,
+        "magnitude": 0.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 11.340910486543182
         }
       },
       {
