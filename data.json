@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-09T19:06:02Z",
+  "fetchedAt": "2025-12-09T19:25:04Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -468,6 +468,19 @@
       "magnitude": 0.87,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.910011830092053}",
+      "version": null
+    },
+    {
+      "identifier": "uu80124666",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765288082.47,
+      "latitudeDeg": 38.510666666666665,
+      "longitudeDeg": -112.9115,
+      "depthKm": 2.77,
+      "magnitude": 0.55,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.32309074474345}",
       "version": null
     },
     {
