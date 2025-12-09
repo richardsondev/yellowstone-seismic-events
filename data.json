@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-09T14:48:10Z",
+  "fetchedAt": "2025-12-09T15:31:55Z",
   "events": [
     {
       "identifier": "uu80005773",
@@ -1040,6 +1040,19 @@
       "magnitude": 1.1,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 20.837454080561788}",
+      "version": null
+    },
+    {
+      "identifier": "uu80124621",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765256453.2299995,
+      "latitudeDeg": 41.575833333333335,
+      "longitudeDeg": -109.88583333333334,
+      "depthKm": -3.26,
+      "magnitude": 3.04,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Little America, WY', 'bearing': 'NNW', 'distanceKM': 4.18356290582021}",
       "version": null
     },
     {
