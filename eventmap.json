@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "dcc89bb8116a0017e74f4771bf41260b93a2bba5",
+    "hashString": "d9b13f0a6bd5fc273c067afb2c9aa9c17f262d85",
     "events": [
       {
         "identifier": "uu80005773",
@@ -1437,6 +1437,22 @@
           "town": "Lakeside, UT",
           "bearing": "NNW",
           "distanceKM": 31.22182799208347
+        }
+      },
+      {
+        "identifier": "uu80124686",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765294867.5499997,
+        "latitudeDeg": 38.44983333333333,
+        "longitudeDeg": -112.80766666666666,
+        "depthKM": 4.83,
+        "magnitude": 0.9400000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Manderfield, UT",
+          "bearing": "NW",
+          "distanceKM": 17.430733821595286
         }
       },
       {
