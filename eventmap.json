@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6a038502393a10d01e40a2304f684ce64adea253",
+    "hashString": "93430146f875feae792ee126cbc13cf0aba0aeb0",
     "events": [
       {
         "identifier": "uu80124676",
@@ -628,6 +628,22 @@
         }
       },
       {
+        "identifier": "uu80124716",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765358950.13,
+        "latitudeDeg": 40.678666666666665,
+        "longitudeDeg": -112.15466666666667,
+        "depthKM": 9.35,
+        "magnitude": 0.56,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Magna, UT",
+          "bearing": "SW",
+          "distanceKM": 4.885177077952369
+        }
+      },
+      {
         "identifier": "uu80005698",
         "authority": "UU",
         "eventType": "eq",
@@ -785,6 +801,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.230194514774837
+        }
+      },
+      {
+        "identifier": "uu80124706",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765350767.8799973,
+        "latitudeDeg": 40.45316666666667,
+        "longitudeDeg": -112.0335,
+        "depthKM": 12.29,
+        "magnitude": 0.53,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Herriman, UT",
+          "bearing": "S",
+          "distanceKM": 6.775609489399598
         }
       },
       {
