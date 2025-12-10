@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-10T14:31:49Z",
+  "fetchedAt": "2025-12-10T15:31:54Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -510,6 +510,19 @@
       "version": null
     },
     {
+      "identifier": "uu80124716",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765358950.13,
+      "latitudeDeg": 40.678666666666665,
+      "longitudeDeg": -112.15466666666667,
+      "depthKm": 9.35,
+      "magnitude": 0.56,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Magna, UT', 'bearing': 'SW', 'distanceKM': 4.885177077952369}",
+      "version": null
+    },
+    {
       "identifier": "uu80005698",
       "authority": "UU",
       "eventType": "eq",
@@ -637,6 +650,19 @@
       "magnitude": 1.09,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.230194514774837}",
+      "version": null
+    },
+    {
+      "identifier": "uu80124706",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765350767.8799973,
+      "latitudeDeg": 40.45316666666667,
+      "longitudeDeg": -112.0335,
+      "depthKm": 12.29,
+      "magnitude": 0.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Herriman, UT', 'bearing': 'S', 'distanceKM': 6.775609489399598}",
       "version": null
     },
     {
