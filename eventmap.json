@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "08eed20e9c0e65142dcf2411c7b4aa78e24c221b",
+    "hashString": "cea3e7b8e8ae25fbb6267fd94c7d1cbac6096101",
     "events": [
       {
         "identifier": "uu80124676",
@@ -1753,6 +1753,22 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 23.342753951321075
+        }
+      },
+      {
+        "identifier": "uu80124781",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765472934.5599976,
+        "latitudeDeg": 40.4155,
+        "longitudeDeg": -111.923,
+        "depthKM": 3.69,
+        "magnitude": 0.9500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saratoga Springs, UT",
+          "bearing": "NNW",
+          "distanceKM": 7.546038582131936
         }
       },
       {
