@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fef4ac913488193ed04381898bfc047db3a49095",
+    "hashString": "f51afec9f84ea32866527f0a0b0ef1f76a8e94fe",
     "events": [
       {
         "identifier": "uu80124676",
@@ -337,6 +337,22 @@
           "town": "Castle Gate, UT",
           "bearing": "WSW",
           "distanceKM": 5.4177628633480905
+        }
+      },
+      {
+        "identifier": "uu80124791",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765488805.789999,
+        "latitudeDeg": 38.508833333333335,
+        "longitudeDeg": -112.91016666666667,
+        "depthKM": 2.88,
+        "magnitude": 0.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.221834829463306
         }
       },
       {
