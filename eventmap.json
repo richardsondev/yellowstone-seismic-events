@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e7d74ea16b35e5124732abe14f0bb8a141918c9a",
+    "hashString": "d705752a247f710cc909253bb5f14f0814ec4de1",
     "events": [
       {
         "identifier": "uu80124676",
@@ -1709,6 +1709,22 @@
           "town": "Grayling, MT",
           "bearing": "SSW",
           "distanceKM": 5.8123318638260715
+        }
+      },
+      {
+        "identifier": "uu80005833",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765525832.8899994,
+        "latitudeDeg": 40.0225,
+        "longitudeDeg": -111.85766666666666,
+        "depthKM": 8.58,
+        "magnitude": 0.64,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Genola, UT",
+          "bearing": "NNW",
+          "distanceKM": 3.159829946832793
         }
       },
       {
