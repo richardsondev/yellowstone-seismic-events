@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d705752a247f710cc909253bb5f14f0814ec4de1",
+    "hashString": "87d0c9f04a21798493a675afc4ca977737541a2b",
     "events": [
       {
         "identifier": "uu80124676",
@@ -1185,6 +1185,22 @@
           "town": "Milford, UT",
           "bearing": "NNE",
           "distanceKM": 15.25320590250175
+        }
+      },
+      {
+        "identifier": "uu80005838",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765530336.5900002,
+        "latitudeDeg": 40.015166666666666,
+        "longitudeDeg": -111.87266666666666,
+        "depthKM": 6.4,
+        "magnitude": 0.49,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Genola, UT",
+          "bearing": "NW",
+          "distanceKM": 3.264558539769119
         }
       },
       {
