@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "bc0675e77cb89b2652b4d21ebdf5c1c7cac65749",
+    "hashString": "be3f7843b87603551d684a7eeadc1f1357e1b16a",
     "events": [
       {
         "identifier": "uu80124676",
@@ -724,6 +724,22 @@
         }
       },
       {
+        "identifier": "uu80124856",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765571772.21,
+        "latitudeDeg": 39.27283333333333,
+        "longitudeDeg": -111.946,
+        "depthKM": 2.26,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fayette, UT",
+          "bearing": "NW",
+          "distanceKM": 9.344316317399148
+        }
+      },
+      {
         "identifier": "uu80124121",
         "authority": "UU",
         "eventType": "eq",
@@ -1310,22 +1326,6 @@
         "magnitude": 2.5,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80123896",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1764366149.0100002,
-        "latitudeDeg": 44.67216666666667,
-        "longitudeDeg": -110.68066666666667,
-        "depthKM": 5.51,
-        "magnitude": 0.71,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "WNW",
-          "distanceKM": 25.896061449980902
-        }
       },
       {
         "identifier": "uu80124021",
