@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "faf76fb09f70e7c20f8b4a9674e6e4226c688159",
+    "hashString": "e7d74ea16b35e5124732abe14f0bb8a141918c9a",
     "events": [
       {
         "identifier": "uu80124676",
@@ -2205,6 +2205,22 @@
           "town": "Lake, WY",
           "bearing": "WNW",
           "distanceKM": 26.59698853606055
+        }
+      },
+      {
+        "identifier": "uu80124821",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765537305.4799995,
+        "latitudeDeg": 40.024166666666666,
+        "longitudeDeg": -111.86566666666667,
+        "depthKM": 8.82,
+        "magnitude": 1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Genola, UT",
+          "bearing": "NNW",
+          "distanceKM": 3.6373359259013247
         }
       },
       {
