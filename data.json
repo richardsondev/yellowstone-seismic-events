@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-12T15:46:16Z",
+  "fetchedAt": "2025-12-12T16:32:03Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -1391,6 +1391,19 @@
       "magnitude": 0.5700000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SSW', 'distanceKM': 5.8123318638260715}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005833",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765525832.8899994,
+      "latitudeDeg": 40.0225,
+      "longitudeDeg": -111.85766666666666,
+      "depthKm": 8.58,
+      "magnitude": 0.64,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Genola, UT', 'bearing': 'NNW', 'distanceKM': 3.159829946832793}",
       "version": null
     },
     {
