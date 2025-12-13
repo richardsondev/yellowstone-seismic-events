@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "53390689945b738027a5e0afc394b7fc0c6ad4d4",
+    "hashString": "7f058224340f3bdf4daa1a529c23fc19b5b46acd",
     "events": [
       {
         "identifier": "uu80124676",
@@ -898,6 +898,18 @@
           "bearing": "SSW",
           "distanceKM": 21.742867385136577
         }
+      },
+      {
+        "identifier": "us6000rukk",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1765586316.161,
+        "latitudeDeg": 42.5199,
+        "longitudeDeg": -108.3808,
+        "depthKM": 11.51,
+        "magnitude": 3.8,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80124561",
