@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-13T11:43:33Z",
+  "fetchedAt": "2025-12-13T12:33:33Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -1612,6 +1612,19 @@
       "magnitude": 1.0,
       "isLocal": true,
       "nearestTown": "{'town': 'Genola, UT', 'bearing': 'NNW', 'distanceKM': 3.6373359259013247}",
+      "version": null
+    },
+    {
+      "identifier": "us6000run3",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1765626160.122,
+      "latitudeDeg": 40.4071,
+      "longitudeDeg": -111.907,
+      "depthKm": 2.258,
+      "magnitude": 1.6,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
