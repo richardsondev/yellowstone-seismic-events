@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-14T20:07:10Z",
+  "fetchedAt": "2025-12-14T21:27:41Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -286,6 +286,19 @@
       "magnitude": 1.6,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.199467380616536}",
+      "version": null
+    },
+    {
+      "identifier": "uu80124956",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765719149.0599995,
+      "latitudeDeg": 40.410833333333336,
+      "longitudeDeg": -111.93133333333333,
+      "depthKm": 2.96,
+      "magnitude": 2.1,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'NNW', 'distanceKM': 7.2282841366044925}",
       "version": null
     },
     {
@@ -611,6 +624,19 @@
       "magnitude": 1.98,
       "isLocal": true,
       "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 11.28999711510624}",
+      "version": null
+    },
+    {
+      "identifier": "uu80124906",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765626160.7999992,
+      "latitudeDeg": 40.419333333333334,
+      "longitudeDeg": -111.93016666666666,
+      "depthKm": 1.53,
+      "magnitude": 1.6,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Bluffdale, UT', 'bearing': 'S', 'distanceKM': 7.858440002508382}",
       "version": null
     },
     {
