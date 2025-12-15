@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ad441bd12e9c64221d6da5e6505b0dd2b7c6d675",
+    "hashString": "433c144c1253f2903ec17d2bd1622c469edcb0b4",
     "events": [
       {
         "identifier": "uu80124676",
@@ -49,6 +49,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.126312190371198
+        }
+      },
+      {
+        "identifier": "uu80124961",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765726689.7399998,
+        "latitudeDeg": 39.739333333333335,
+        "longitudeDeg": -110.928,
+        "depthKM": 4.39,
+        "magnitude": 1.42,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Castle Gate, UT",
+          "bearing": "WNW",
+          "distanceKM": 5.216671015952752
         }
       },
       {
@@ -711,16 +727,16 @@
         "identifier": "uu80124906",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1765626160.7999992,
-        "latitudeDeg": 40.419333333333334,
-        "longitudeDeg": -111.93016666666666,
-        "depthKM": 1.53,
-        "magnitude": 1.6,
+        "originTimeUTC": 1765626160.7599983,
+        "latitudeDeg": 40.4125,
+        "longitudeDeg": -111.9275,
+        "depthKM": 1.59,
+        "magnitude": 1.59,
         "isLocal": true,
         "nearestTown": {
-          "town": "Bluffdale, UT",
-          "bearing": "S",
-          "distanceKM": 7.858440002508382
+          "town": "Saratoga Springs, UT",
+          "bearing": "NNW",
+          "distanceKM": 7.311740759632838
         }
       },
       {
@@ -813,6 +829,22 @@
           "town": "Saratoga Springs, UT",
           "bearing": "NNW",
           "distanceKM": 7.369743489647474
+        }
+      },
+      {
+        "identifier": "uu80124966",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765728350.8099976,
+        "latitudeDeg": 37.509,
+        "longitudeDeg": -113.84983333333334,
+        "depthKM": 2.54,
+        "magnitude": 1.23,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Enterprise, UT",
+          "bearing": "WSW",
+          "distanceKM": 13.581548685345263
         }
       },
       {
