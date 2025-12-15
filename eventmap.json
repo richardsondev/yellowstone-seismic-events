@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5349af2607d5da3f4f3d9b6607965eec6fd93bc9",
+    "hashString": "f3773d6c446f69e806b908e9704c95c72ea8a109",
     "events": [
       {
         "identifier": "uu80124676",
@@ -1833,6 +1833,22 @@
           "town": "Grayling, MT",
           "bearing": "SE",
           "distanceKM": 7.037017023732794
+        }
+      },
+      {
+        "identifier": "uu80005853",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765610012.2799988,
+        "latitudeDeg": 37.900166666666664,
+        "longitudeDeg": -112.45766666666667,
+        "depthKM": -1.26,
+        "magnitude": 1.41,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Panguitch, UT",
+          "bearing": "NNW",
+          "distanceKM": 8.814353238939523
         }
       },
       {
