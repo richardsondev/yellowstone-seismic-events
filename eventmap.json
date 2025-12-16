@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "26730147de614b61b537a47c6904815001a9db6e",
+    "hashString": "1ecb6439344ccca6077e5ee51053e5221ccfbba8",
     "events": [
       {
         "identifier": "uu80124676",
@@ -1797,6 +1797,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.887398224521515
+        }
+      },
+      {
+        "identifier": "uu80125141",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765921965.3499985,
+        "latitudeDeg": 41.52733333333333,
+        "longitudeDeg": -111.70166666666667,
+        "depthKM": 10.98,
+        "magnitude": 1.07,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Paradise, UT",
+          "bearing": "ESE",
+          "distanceKM": 12.246580667402384
         }
       },
       {
