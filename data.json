@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-16T14:31:56Z",
+  "fetchedAt": "2025-12-16T14:49:15Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -325,19 +325,6 @@
       "magnitude": 2.0300000000000002,
       "isLocal": true,
       "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'NNW', 'distanceKM': 7.286591504318561}",
-      "version": null
-    },
-    {
-      "identifier": "uu80005703",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1764686038.0900002,
-      "latitudeDeg": 36.94433333333333,
-      "longitudeDeg": -112.42033333333333,
-      "depthKm": 21.13,
-      "magnitude": 1.3900000000000001,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Fredonia, AZ', 'bearing': 'E', 'distanceKM': 9.444650889216748}",
       "version": null
     },
     {
@@ -1248,6 +1235,19 @@
       "magnitude": 0.64,
       "isLocal": true,
       "nearestTown": "{'town': 'Genola, UT', 'bearing': 'NNW', 'distanceKM': 3.159829946832793}",
+      "version": null
+    },
+    {
+      "identifier": "uu80125051",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765857939.079998,
+      "latitudeDeg": 44.649166666666666,
+      "longitudeDeg": -111.01383333333334,
+      "depthKm": 9.37,
+      "magnitude": 0.91,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ESE', 'distanceKM': 7.283291132114656}",
       "version": null
     },
     {
