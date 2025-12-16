@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3083264cdbc3857a9451a4193cc9b187d89c6ede",
+    "hashString": "6bc91ec2bf264a0940adc4a4b6da2462ddea0f62",
     "events": [
       {
         "identifier": "uu80124676",
@@ -1333,6 +1333,22 @@
           "town": "Manti, UT",
           "bearing": "SE",
           "distanceKM": 18.73311541623912
+        }
+      },
+      {
+        "identifier": "uu80125046",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1765856490.6499996,
+        "latitudeDeg": 41.571333333333335,
+        "longitudeDeg": -112.41666666666667,
+        "depthKM": 0.09,
+        "magnitude": 1.21,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Penrose, UT",
+          "bearing": "SW",
+          "distanceKM": 13.193125529209361
         }
       },
       {
