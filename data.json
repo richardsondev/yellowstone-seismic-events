@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-16T11:07:22Z",
+  "fetchedAt": "2025-12-16T14:31:56Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -1092,6 +1092,19 @@
       "magnitude": 2.33,
       "isLocal": true,
       "nearestTown": "{'town': 'Manti, UT', 'bearing': 'SE', 'distanceKM': 18.73311541623912}",
+      "version": null
+    },
+    {
+      "identifier": "uu80125046",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765856490.6499996,
+      "latitudeDeg": 41.571333333333335,
+      "longitudeDeg": -112.41666666666667,
+      "depthKm": 0.09,
+      "magnitude": 1.21,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Penrose, UT', 'bearing': 'SW', 'distanceKM': 13.193125529209361}",
       "version": null
     },
     {
