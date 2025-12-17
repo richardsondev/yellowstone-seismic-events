@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-17T21:30:11Z",
+  "fetchedAt": "2025-12-17T21:45:17Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -819,6 +819,19 @@
       "magnitude": 1.46,
       "isLocal": true,
       "nearestTown": "{'town': 'Enterprise, UT', 'bearing': 'SW', 'distanceKM': 13.560982486824322}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005873",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766003924.9799995,
+      "latitudeDeg": 36.785666666666664,
+      "longitudeDeg": -114.09533333333333,
+      "depthKm": 6.92,
+      "magnitude": 2.19,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mesquite, NV', 'bearing': 'SW', 'distanceKM': 3.337508415847545}",
       "version": null
     },
     {
