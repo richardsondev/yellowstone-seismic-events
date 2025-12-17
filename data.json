@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-17T14:31:52Z",
+  "fetchedAt": "2025-12-17T14:48:40Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -770,6 +770,19 @@
       "version": null
     },
     {
+      "identifier": "uu80125161",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765931179.7700005,
+      "latitudeDeg": 36.955,
+      "longitudeDeg": -112.8925,
+      "depthKm": 18.25,
+      "magnitude": 1.79,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cane Beds, AZ', 'bearing': 'NNE', 'distanceKM': 1.0410740793837063}",
+      "version": null
+    },
+    {
       "identifier": "uu80124326",
       "authority": "UU",
       "eventType": "eq",
@@ -793,6 +806,19 @@
       "magnitude": 3.04,
       "isLocal": true,
       "nearestTown": "{'town': 'Little America, WY', 'bearing': 'NNW', 'distanceKM': 4.18356290582021}",
+      "version": null
+    },
+    {
+      "identifier": "uu80125156",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1765930209.5,
+      "latitudeDeg": 39.0065,
+      "longitudeDeg": -111.36783333333334,
+      "depthKm": -1.81,
+      "magnitude": 1.3900000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 13.860696531238442}",
       "version": null
     },
     {
