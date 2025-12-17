@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "88de086916e905f2557be9628d6ba58e449737d8",
+    "hashString": "5e167ab086ac089ddbb4dba60df33aaa9a2f81a5",
     "events": [
       {
         "identifier": "uu80124676",
@@ -1001,6 +1001,22 @@
           "town": "Enterprise, UT",
           "bearing": "SW",
           "distanceKM": 13.560982486824322
+        }
+      },
+      {
+        "identifier": "uu80005873",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766003924.9799995,
+        "latitudeDeg": 36.785666666666664,
+        "longitudeDeg": -114.09533333333333,
+        "depthKM": 6.92,
+        "magnitude": 2.19,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mesquite, NV",
+          "bearing": "SW",
+          "distanceKM": 3.337508415847545
         }
       },
       {
