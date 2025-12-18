@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-17T22:06:43Z",
+  "fetchedAt": "2025-12-18T00:27:33Z",
   "events": [
     {
       "identifier": "uu80124676",
@@ -52,6 +52,19 @@
       "magnitude": 1.12,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.126312190371198}",
+      "version": null
+    },
+    {
+      "identifier": "nn00908672",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1766015791.994,
+      "latitudeDeg": 37.3326,
+      "longitudeDeg": -114.7948,
+      "depthKm": 15.994,
+      "magnitude": 2.48,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -825,13 +838,13 @@
       "identifier": "uu80005873",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1766003924.9799995,
-      "latitudeDeg": 36.785666666666664,
-      "longitudeDeg": -114.09533333333333,
-      "depthKm": 6.92,
+      "originTimeUtc": 1766003925.0499992,
+      "latitudeDeg": 36.792833333333334,
+      "longitudeDeg": -114.09866666666667,
+      "depthKm": 8.58,
       "magnitude": 2.19,
       "isLocal": true,
-      "nearestTown": "{'town': 'Mesquite, NV', 'bearing': 'SW', 'distanceKM': 3.337508415847545}",
+      "nearestTown": "{'town': 'Mesquite, NV', 'bearing': 'WSW', 'distanceKM': 3.1358431301529417}",
       "version": null
     },
     {
