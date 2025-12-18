@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2d336753ab81a62649c8fa2709fa1dcbcab9fe92",
+    "hashString": "76f0a393a206e57bfdef59f0bc2f233ebad9f891",
     "events": [
       {
         "identifier": "uu80124676",
@@ -1753,6 +1753,22 @@
           "town": "Genola, UT",
           "bearing": "NNW",
           "distanceKM": 3.6373359259013247
+        }
+      },
+      {
+        "identifier": "uu80125356",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766064533.4799995,
+        "latitudeDeg": 44.604,
+        "longitudeDeg": -110.74566666666666,
+        "depthKM": 5.25,
+        "magnitude": 1.37,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "NNE",
+          "distanceKM": 17.53588339109401
         }
       },
       {
