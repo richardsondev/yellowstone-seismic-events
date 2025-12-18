@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c1d36957738b5e3720f41a34e5f5eff17c47e24c",
+    "hashString": "dbacfa54878ba352a13b24083372202110de8799",
     "events": [
       {
         "identifier": "uu80124676",
@@ -66,6 +66,18 @@
           "bearing": "NE",
           "distanceKM": 15.126312190371198
         }
+      },
+      {
+        "identifier": "nn00908672",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1766015791.994,
+        "latitudeDeg": 37.3326,
+        "longitudeDeg": -114.7948,
+        "depthKM": 15.994,
+        "magnitude": 2.48,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80124961",
@@ -1007,16 +1019,16 @@
         "identifier": "uu80005873",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1766003924.9799995,
-        "latitudeDeg": 36.785666666666664,
-        "longitudeDeg": -114.09533333333333,
-        "depthKM": 6.92,
+        "originTimeUTC": 1766003925.0499992,
+        "latitudeDeg": 36.792833333333334,
+        "longitudeDeg": -114.09866666666667,
+        "depthKM": 8.58,
         "magnitude": 2.19,
         "isLocal": true,
         "nearestTown": {
           "town": "Mesquite, NV",
-          "bearing": "SW",
-          "distanceKM": 3.337508415847545
+          "bearing": "WSW",
+          "distanceKM": 3.1358431301529417
         }
       },
       {
