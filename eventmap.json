@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b27f7a3ed2be4c399c9a1517ed4c2414a906c051",
+    "hashString": "f737dab7862a7abe49521096c3bed1f27dc9ccf4",
     "events": [
       {
         "identifier": "uu80124676",
@@ -285,6 +285,22 @@
           "town": "Snowville, UT",
           "bearing": "SSW",
           "distanceKM": 29.835464587752387
+        }
+      },
+      {
+        "identifier": "uu80125316",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766046405.2999992,
+        "latitudeDeg": 37.05916666666667,
+        "longitudeDeg": -112.9005,
+        "depthKM": 11.89,
+        "magnitude": 1.41,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 8.539197711604517
         }
       },
       {
@@ -1389,6 +1405,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.98389948439556
+        }
+      },
+      {
+        "identifier": "uu80005878",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766026357.9300003,
+        "latitudeDeg": 38.494,
+        "longitudeDeg": -112.84,
+        "depthKM": -0.26,
+        "magnitude": 1.07,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 18.380147134050368
         }
       },
       {
