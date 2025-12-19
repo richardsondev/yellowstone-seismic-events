@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-19T18:09:57Z",
+  "fetchedAt": "2025-12-19T18:32:37Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -884,6 +884,19 @@
       "magnitude": 2.19,
       "isLocal": true,
       "nearestTown": "{'town': 'Mesquite, NV', 'bearing': 'WSW', 'distanceKM': 3.1358431301529417}",
+      "version": null
+    },
+    {
+      "identifier": "uu80125466",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766166379.5,
+      "latitudeDeg": 44.78066666666667,
+      "longitudeDeg": -110.83666666666667,
+      "depthKm": 2.98,
+      "magnitude": 0.8,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 24.191799839653424}",
       "version": null
     },
     {
