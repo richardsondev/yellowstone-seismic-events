@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-19T18:32:37Z",
+  "fetchedAt": "2025-12-19T23:06:53Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -130,19 +130,6 @@
       "magnitude": 1.79,
       "isLocal": true,
       "nearestTown": "{'town': 'Ephraim, UT', 'bearing': 'E', 'distanceKM': 8.166126913346494}",
-      "version": null
-    },
-    {
-      "identifier": "uu80124361",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1764975777.539997,
-      "latitudeDeg": 44.67216666666667,
-      "longitudeDeg": -110.68316666666666,
-      "depthKm": 5.52,
-      "magnitude": 0.59,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 26.065317345039265}",
       "version": null
     },
     {
@@ -1443,6 +1430,19 @@
       "magnitude": 1.28,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.169392323020286}",
+      "version": null
+    },
+    {
+      "identifier": "uu80125486",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766182848.209999,
+      "latitudeDeg": 44.791,
+      "longitudeDeg": -110.841,
+      "depthKm": 4.87,
+      "magnitude": 1.75,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.31805767659853}",
       "version": null
     },
     {
