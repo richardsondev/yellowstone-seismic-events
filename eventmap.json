@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d35d9fabc68d4bf09f9ef3a70903b61751989550",
+    "hashString": "d7ca1d0d5e05b6f98ef2683fe87b17ec2be02dc7",
     "events": [
       {
         "identifier": "uu80125341",
@@ -1077,6 +1077,22 @@
           "town": "Mesquite, NV",
           "bearing": "WSW",
           "distanceKM": 3.1358431301529417
+        }
+      },
+      {
+        "identifier": "uu80125466",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766166379.5,
+        "latitudeDeg": 44.78066666666667,
+        "longitudeDeg": -110.83666666666667,
+        "depthKM": 2.98,
+        "magnitude": 0.8,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 24.191799839653424
         }
       },
       {
