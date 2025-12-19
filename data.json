@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-19T17:43:49Z",
+  "fetchedAt": "2025-12-19T18:09:57Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -195,6 +195,19 @@
       "magnitude": 1.27,
       "isLocal": true,
       "nearestTown": "{'town': 'Cane Beds, AZ', 'bearing': 'N', 'distanceKM': 1.3261503188492338}",
+      "version": null
+    },
+    {
+      "identifier": "uu80125451",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766161495.1899986,
+      "latitudeDeg": 44.77033333333333,
+      "longitudeDeg": -110.78266666666667,
+      "depthKm": 4.96,
+      "magnitude": 1.76,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.779784029276698}",
       "version": null
     },
     {
@@ -741,19 +754,6 @@
       "magnitude": 0.84,
       "isLocal": true,
       "nearestTown": "{'town': 'Sigurd, UT', 'bearing': 'ESE', 'distanceKM': 25.703460014116327}",
-      "version": null
-    },
-    {
-      "identifier": "uu80124346",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1764957312.92,
-      "latitudeDeg": 44.74033333333333,
-      "longitudeDeg": -111.15916666666666,
-      "depthKm": 10.48,
-      "magnitude": 0.32,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SSE', 'distanceKM': 7.261592173515092}",
       "version": null
     },
     {
@@ -1446,19 +1446,6 @@
       "version": null
     },
     {
-      "identifier": "uu80124351",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1764957446.8999996,
-      "latitudeDeg": 38.591,
-      "longitudeDeg": -112.6225,
-      "depthKm": 8.08,
-      "magnitude": 2.3000000000000003,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'WSW', 'distanceKM': 3.5847814461384724}",
-      "version": null
-    },
-    {
       "identifier": "uu80005863",
       "authority": "UU",
       "eventType": "eq",
@@ -1638,19 +1625,6 @@
       "magnitude": -0.06,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 20.87440335760362}",
-      "version": null
-    },
-    {
-      "identifier": "uu80124341",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1764957262.6499996,
-      "latitudeDeg": 44.742,
-      "longitudeDeg": -111.15933333333334,
-      "depthKm": 11.15,
-      "magnitude": 0.96,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SSE', 'distanceKM': 7.0842938911229885}",
       "version": null
     },
     {
