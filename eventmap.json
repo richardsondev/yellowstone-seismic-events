@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "055f7f362008e40b5ac525f4ac561c373cfa236a",
+    "hashString": "d35d9fabc68d4bf09f9ef3a70903b61751989550",
     "events": [
       {
         "identifier": "uu80125341",
@@ -237,6 +237,22 @@
           "town": "Cane Beds, AZ",
           "bearing": "N",
           "distanceKM": 1.3261503188492338
+        }
+      },
+      {
+        "identifier": "uu80125451",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766161495.1899986,
+        "latitudeDeg": 44.77033333333333,
+        "longitudeDeg": -110.78266666666667,
+        "depthKM": 4.96,
+        "magnitude": 1.76,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.779784029276698
         }
       },
       {
@@ -901,22 +917,6 @@
           "town": "Sigurd, UT",
           "bearing": "ESE",
           "distanceKM": 25.703460014116327
-        }
-      },
-      {
-        "identifier": "uu80124346",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1764957312.92,
-        "latitudeDeg": 44.74033333333333,
-        "longitudeDeg": -111.15916666666666,
-        "depthKM": 10.48,
-        "magnitude": 0.32,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Grayling, MT",
-          "bearing": "SSE",
-          "distanceKM": 7.261592173515092
         }
       },
       {
@@ -1760,22 +1760,6 @@
         }
       },
       {
-        "identifier": "uu80124351",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1764957446.8999996,
-        "latitudeDeg": 38.591,
-        "longitudeDeg": -112.6225,
-        "depthKM": 8.08,
-        "magnitude": 2.3000000000000003,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Cove Fort, UT",
-          "bearing": "WSW",
-          "distanceKM": 3.5847814461384724
-        }
-      },
-      {
         "identifier": "uu80005863",
         "authority": "UU",
         "eventType": "eq",
@@ -1993,22 +1977,6 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 20.87440335760362
-        }
-      },
-      {
-        "identifier": "uu80124341",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1764957262.6499996,
-        "latitudeDeg": 44.742,
-        "longitudeDeg": -111.15933333333334,
-        "depthKM": 11.15,
-        "magnitude": 0.96,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Grayling, MT",
-          "bearing": "SSE",
-          "distanceKM": 7.0842938911229885
         }
       },
       {
