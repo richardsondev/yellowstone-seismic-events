@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d7ca1d0d5e05b6f98ef2683fe87b17ec2be02dc7",
+    "hashString": "7312f28742bb8f85f06f8199cd71fecb7a3ef84a",
     "events": [
       {
         "identifier": "uu80125341",
@@ -157,22 +157,6 @@
           "town": "Ephraim, UT",
           "bearing": "E",
           "distanceKM": 8.166126913346494
-        }
-      },
-      {
-        "identifier": "uu80124361",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1764975777.539997,
-        "latitudeDeg": 44.67216666666667,
-        "longitudeDeg": -110.68316666666666,
-        "depthKM": 5.52,
-        "magnitude": 0.59,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "WNW",
-          "distanceKM": 26.065317345039265
         }
       },
       {
@@ -1757,6 +1741,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 23.169392323020286
+        }
+      },
+      {
+        "identifier": "uu80125486",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766182848.209999,
+        "latitudeDeg": 44.791,
+        "longitudeDeg": -110.841,
+        "depthKM": 4.87,
+        "magnitude": 1.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.31805767659853
         }
       },
       {
