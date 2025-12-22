@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1d21f5fd922449ff50fb6d6608df5e3e835aa3bf",
+    "hashString": "3a89da3215e09bac452f2a7da8c08cc84739517e",
     "events": [
       {
         "identifier": "uu80125341",
@@ -633,6 +633,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.469031005845695
+        }
+      },
+      {
+        "identifier": "uu80125631",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766331587.5099983,
+        "latitudeDeg": 44.12316666666667,
+        "longitudeDeg": -110.22766666666666,
+        "depthKM": 11.14,
+        "magnitude": 2.32,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Moran, WY",
+          "bearing": "NE",
+          "distanceKM": 38.583980824208865
         }
       },
       {
