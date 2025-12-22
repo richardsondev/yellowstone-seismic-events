@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "516b9ce62608a5acf968bd51a06ad843a0dcdc2d",
+    "hashString": "26565c94012da17a562a8ab1e26ce34c160bceb2",
     "events": [
       {
         "identifier": "uu80125341",
@@ -189,6 +189,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.763413396560578
+        }
+      },
+      {
+        "identifier": "uu80125696",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766441812.8499985,
+        "latitudeDeg": 44.687333333333335,
+        "longitudeDeg": -110.02316666666667,
+        "depthKM": 13.27,
+        "magnitude": 0.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Pahaska Tepee, WY",
+          "bearing": "NNW",
+          "distanceKM": 21.15773106840497
         }
       },
       {
