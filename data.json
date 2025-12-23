@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-23T16:32:19Z",
+  "fetchedAt": "2025-12-23T16:49:16Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -312,6 +312,19 @@
       "magnitude": 0.13,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 26.219148337026628}",
+      "version": null
+    },
+    {
+      "identifier": "uu80125761",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766468434.5699997,
+      "latitudeDeg": 38.50216666666667,
+      "longitudeDeg": -112.9075,
+      "depthKm": 2.11,
+      "magnitude": 1.05,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.762516001574864}",
       "version": null
     },
     {
@@ -1638,6 +1651,19 @@
       "magnitude": 1.07,
       "isLocal": true,
       "nearestTown": "{'town': 'Paradise, UT', 'bearing': 'ESE', 'distanceKM': 12.246580667402384}",
+      "version": null
+    },
+    {
+      "identifier": "uu80125771",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766481942.4799995,
+      "latitudeDeg": 38.50266666666667,
+      "longitudeDeg": -112.91183333333333,
+      "depthKm": 2.57,
+      "magnitude": 0.79,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.580439073118557}",
       "version": null
     },
     {
