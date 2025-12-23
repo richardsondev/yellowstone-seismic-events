@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9ffba92fcee587d112f9c85612aba6deb38cd1af",
+    "hashString": "7c4bf3fc73a3b8bbe9c54ff648eb9f05845ec713",
     "events": [
       {
         "identifier": "uu80125341",
@@ -816,6 +816,22 @@
         }
       },
       {
+        "identifier": "uu80125791",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766496083.5599995,
+        "latitudeDeg": 39.6035,
+        "longitudeDeg": -111.22133333333333,
+        "depthKM": 7.06,
+        "magnitude": 1.42,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "SW",
+          "distanceKM": 7.441411765209629
+        }
+      },
+      {
         "identifier": "uu80125466",
         "authority": "UU",
         "eventType": "eq",
@@ -973,22 +989,6 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 19.124681592272367
-        }
-      },
-      {
-        "identifier": "uu80124671",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1765291598.0099983,
-        "latitudeDeg": 38.510666666666665,
-        "longitudeDeg": -112.90983333333334,
-        "depthKM": 2.64,
-        "magnitude": 1,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.405453424507295
         }
       },
       {
