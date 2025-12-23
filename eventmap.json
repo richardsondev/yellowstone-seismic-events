@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8ffd02e083dd8fd49a6e1307b39ad764c288bf2a",
+    "hashString": "e6dc5115ee626cfb5f790803ddcf400090d239dd",
     "events": [
       {
         "identifier": "uu80125341",
@@ -1713,6 +1713,22 @@
           "town": "Lake, WY",
           "bearing": "WNW",
           "distanceKM": 26.386790196391686
+        }
+      },
+      {
+        "identifier": "uu80125741",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766459650.3499994,
+        "latitudeDeg": 38.507333333333335,
+        "longitudeDeg": -112.91133333333333,
+        "depthKM": 3.19,
+        "magnitude": 0.55,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.027026004720172
         }
       },
       {
