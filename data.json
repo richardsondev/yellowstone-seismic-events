@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-23T14:31:00Z",
+  "fetchedAt": "2025-12-23T14:47:36Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -666,6 +666,19 @@
       "version": null
     },
     {
+      "identifier": "uu80125791",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766496083.5599995,
+      "latitudeDeg": 39.6035,
+      "longitudeDeg": -111.22133333333333,
+      "depthKm": 7.06,
+      "magnitude": 1.42,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'SW', 'distanceKM': 7.441411765209629}",
+      "version": null
+    },
+    {
       "identifier": "uu80125466",
       "authority": "UU",
       "eventType": "eq",
@@ -793,19 +806,6 @@
       "magnitude": 1.16,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 19.124681592272367}",
-      "version": null
-    },
-    {
-      "identifier": "uu80124671",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1765291598.0099983,
-      "latitudeDeg": 38.510666666666665,
-      "longitudeDeg": -112.90983333333334,
-      "depthKm": 2.64,
-      "magnitude": 1.0,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.405453424507295}",
       "version": null
     },
     {
