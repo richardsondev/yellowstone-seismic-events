@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-27T05:30:58Z",
+  "fetchedAt": "2025-12-27T06:09:33Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -78,6 +78,19 @@
       "magnitude": 1.6,
       "isLocal": true,
       "nearestTown": "{'town': 'Mills, UT', 'bearing': 'SSE', 'distanceKM': 12.388236119542889}",
+      "version": null
+    },
+    {
+      "identifier": "nn00908928",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1766813694.458,
+      "latitudeDeg": 36.9761,
+      "longitudeDeg": -114.1211,
+      "depthKm": 16.0,
+      "magnitude": 2.22,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -676,19 +689,6 @@
       "magnitude": 0.93,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.700241360041451}",
-      "version": null
-    },
-    {
-      "identifier": "uu80124886",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1765604830.8400002,
-      "latitudeDeg": 37.34866666666667,
-      "longitudeDeg": -114.03783333333334,
-      "depthKm": 9.67,
-      "magnitude": 0.5700000000000001,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Gunlock, UT', 'bearing': 'WNW', 'distanceKM': 24.938829232439506}",
       "version": null
     },
     {

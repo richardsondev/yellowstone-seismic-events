@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f33e56c33fa7050f33926240fe6d87ec931b8026",
+    "hashString": "61ca75144c01c822de4e4c8001c5373e1fd35952",
     "events": [
       {
         "identifier": "uu80125341",
@@ -98,6 +98,18 @@
           "bearing": "SSE",
           "distanceKM": 12.388236119542889
         }
+      },
+      {
+        "identifier": "nn00908928",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1766813694.458,
+        "latitudeDeg": 36.9761,
+        "longitudeDeg": -114.1211,
+        "depthKM": 16,
+        "magnitude": 2.22,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80125251",
@@ -829,22 +841,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.700241360041451
-        }
-      },
-      {
-        "identifier": "uu80124886",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1765604830.8400002,
-        "latitudeDeg": 37.34866666666667,
-        "longitudeDeg": -114.03783333333334,
-        "depthKM": 9.67,
-        "magnitude": 0.5700000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Gunlock, UT",
-          "bearing": "WNW",
-          "distanceKM": 24.938829232439506
         }
       },
       {
