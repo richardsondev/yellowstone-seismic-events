@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "678cb35e46ecb368a6b7b7356bbcd8415de16df0",
+    "hashString": "bb0b48a181e19f45d45ccd812fe20777aec46e26",
     "events": [
       {
         "identifier": "uu80125341",
@@ -82,18 +82,6 @@
           "bearing": "SSE",
           "distanceKM": 12.388236119542889
         }
-      },
-      {
-        "identifier": "nn00908928",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1766813694.458,
-        "latitudeDeg": 36.9761,
-        "longitudeDeg": -114.1211,
-        "depthKM": 16,
-        "magnitude": 2.22,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80125251",
@@ -269,6 +257,22 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 8.539197711604517
+        }
+      },
+      {
+        "identifier": "uu80005968",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766743755.13,
+        "latitudeDeg": 39.19133333333333,
+        "longitudeDeg": -111.85516666666666,
+        "depthKM": 16.85,
+        "magnitude": 0.3,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fayette, UT",
+          "bearing": "S",
+          "distanceKM": 3.7678259289024765
         }
       },
       {
@@ -549,6 +553,22 @@
           "town": "Greenville, UT",
           "bearing": "S",
           "distanceKM": 11.263882560897539
+        }
+      },
+      {
+        "identifier": "uu80005963",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766754798.3400002,
+        "latitudeDeg": 39.212666666666664,
+        "longitudeDeg": -111.86433333333333,
+        "depthKM": 17.69,
+        "magnitude": 1.34,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fayette, UT",
+          "bearing": "SSW",
+          "distanceKM": 1.5446891788543264
         }
       },
       {
