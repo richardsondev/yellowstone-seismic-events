@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-29T17:06:43Z",
+  "fetchedAt": "2025-12-29T17:29:30Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -234,6 +234,19 @@
       "magnitude": 2.5,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80005948",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766965320.09,
+      "latitudeDeg": 38.606,
+      "longitudeDeg": -112.56066666666666,
+      "depthKm": 0.09,
+      "magnitude": 1.84,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'ENE', 'distanceKM': 2.046260581446066}",
       "version": null
     },
     {
@@ -884,6 +897,19 @@
       "magnitude": 1.22,
       "isLocal": true,
       "nearestTown": "{'town': 'Moran, WY', 'bearing': 'NE', 'distanceKM': 39.682658824571796}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005953",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766819532.7999992,
+      "latitudeDeg": 41.492333333333335,
+      "longitudeDeg": -112.15933333333334,
+      "depthKm": 7.19,
+      "magnitude": 0.96,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'SSW', 'distanceKM': 7.699808996633329}",
       "version": null
     },
     {
