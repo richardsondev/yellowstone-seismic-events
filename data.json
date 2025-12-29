@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-29T17:45:33Z",
+  "fetchedAt": "2025-12-29T18:10:20Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -65,19 +65,6 @@
       "magnitude": 1.6,
       "isLocal": true,
       "nearestTown": "{'town': 'Mills, UT', 'bearing': 'SSE', 'distanceKM': 12.388236119542889}",
-      "version": null
-    },
-    {
-      "identifier": "nn00908928",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1766813694.458,
-      "latitudeDeg": 36.9761,
-      "longitudeDeg": -114.1211,
-      "depthKm": 16.0,
-      "magnitude": 2.22,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -221,6 +208,19 @@
       "magnitude": 1.41,
       "isLocal": true,
       "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 8.539197711604517}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005968",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766743755.13,
+      "latitudeDeg": 39.19133333333333,
+      "longitudeDeg": -111.85516666666666,
+      "depthKm": 16.85,
+      "magnitude": 0.3,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'S', 'distanceKM': 3.7678259289024765}",
       "version": null
     },
     {
@@ -455,6 +455,19 @@
       "magnitude": 1.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Greenville, UT', 'bearing': 'S', 'distanceKM': 11.263882560897539}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005963",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766754798.3400002,
+      "latitudeDeg": 39.212666666666664,
+      "longitudeDeg": -111.86433333333333,
+      "depthKm": 17.69,
+      "magnitude": 1.34,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'SSW', 'distanceKM': 1.5446891788543264}",
       "version": null
     },
     {
