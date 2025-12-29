@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "80948bfdbead566aed449708ffadb01ca42b8039",
+    "hashString": "ecd50e239ec99f213c3319304b87c8d7238fe675",
     "events": [
       {
         "identifier": "uu80125341",
@@ -396,6 +396,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80126086",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766708168.5299997,
+        "latitudeDeg": 39.01283333333333,
+        "longitudeDeg": -111.40666666666667,
+        "depthKM": -1.09,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "NW",
+          "distanceKM": 16.913103389000202
+        }
+      },
+      {
         "identifier": "uu80125761",
         "authority": "UU",
         "eventType": "eq",
@@ -537,6 +553,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.384392976843023
+        }
+      },
+      {
+        "identifier": "uu80126111",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766721172.1800003,
+        "latitudeDeg": 37.4205,
+        "longitudeDeg": -113.79283333333333,
+        "depthKM": 2.25,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Veyo, UT",
+          "bearing": "NW",
+          "distanceKM": 12.649322198387793
         }
       },
       {
