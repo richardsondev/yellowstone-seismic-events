@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-29T17:29:30Z",
+  "fetchedAt": "2025-12-29T17:45:33Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -182,6 +182,19 @@
       "magnitude": 0.36,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 24.701087768359734}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005958",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766813687.5099983,
+      "latitudeDeg": 37.3465,
+      "longitudeDeg": -113.793,
+      "depthKm": 0.02,
+      "magnitude": 1.94,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Gunlock, UT', 'bearing': 'NNW', 'distanceKM': 6.723196116561351}",
       "version": null
     },
     {
