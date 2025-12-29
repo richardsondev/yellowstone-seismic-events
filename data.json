@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-29T20:31:40Z",
+  "fetchedAt": "2025-12-29T21:06:17Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -533,6 +533,19 @@
       "magnitude": 1.34,
       "isLocal": true,
       "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'SSW', 'distanceKM': 1.5446891788543264}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126211",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766816799.4199982,
+      "latitudeDeg": 37.35216666666667,
+      "longitudeDeg": -113.80266666666667,
+      "depthKm": 5.72,
+      "magnitude": 1.6400000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Gunlock, UT', 'bearing': 'NNW', 'distanceKM': 7.640297126839061}",
       "version": null
     },
     {
