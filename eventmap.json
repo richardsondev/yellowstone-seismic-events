@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2652cfc2d6c6ee0f7c57bdc5aa1706df912a8df3",
+    "hashString": "eaf0c2c39ed55abc4666d8376b9c5a876b2f57e4",
     "events": [
       {
         "identifier": "uu80125341",
@@ -266,6 +266,22 @@
         "magnitude": 2.5,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80126381",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766962562.03,
+        "latitudeDeg": 38.59916666666667,
+        "longitudeDeg": -112.55866666666667,
+        "depthKM": -0.24,
+        "magnitude": 2.31,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cove Fort, UT",
+          "bearing": "E",
+          "distanceKM": 2.1735750735778203
+        }
       },
       {
         "identifier": "nn00908873",
@@ -1309,6 +1325,22 @@
           "town": "Beaver, UT",
           "bearing": "SE",
           "distanceKM": 6.7812443475641135
+        }
+      },
+      {
+        "identifier": "uu80126406",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766997047.0999985,
+        "latitudeDeg": 44.803,
+        "longitudeDeg": -110.8315,
+        "depthKM": 4.64,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 21.788293643054637
         }
       },
       {
