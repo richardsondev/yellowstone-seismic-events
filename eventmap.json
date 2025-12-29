@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d050ae5965d90391ecb0e44df78c7e53c1ddae3b",
+    "hashString": "d5b69f79d004e267b872406b5a984f80f8e433c5",
     "events": [
       {
         "identifier": "uu80125341",
@@ -649,6 +649,22 @@
           "town": "Fayette, UT",
           "bearing": "SSW",
           "distanceKM": 1.5446891788543264
+        }
+      },
+      {
+        "identifier": "uu80126211",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1766816799.4199982,
+        "latitudeDeg": 37.35216666666667,
+        "longitudeDeg": -113.80266666666667,
+        "depthKM": 5.72,
+        "magnitude": 1.6400000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Gunlock, UT",
+          "bearing": "NNW",
+          "distanceKM": 7.640297126839061
         }
       },
       {
