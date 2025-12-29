@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-29T16:07:57Z",
+  "fetchedAt": "2025-12-29T17:06:43Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -910,6 +910,19 @@
       "magnitude": 0.9500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 19.252149141194963}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005943",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766998233.2799988,
+      "latitudeDeg": 41.5245,
+      "longitudeDeg": -112.203,
+      "depthKm": 6.77,
+      "magnitude": 0.19,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'WSW', 'distanceKM': 8.266874835097394}",
       "version": null
     },
     {
