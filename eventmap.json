@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0fce0ef6cb8a85257abb2d902a0e5117cd85f69e",
+    "hashString": "a3675902ce775f2266d2073ce786def042c30703",
     "events": [
       {
         "identifier": "uu80125341",
@@ -1301,6 +1301,22 @@
           "town": "Corinne, UT",
           "bearing": "SSW",
           "distanceKM": 7.699808996633329
+        }
+      },
+      {
+        "identifier": "uu80126416",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767022803.58,
+        "latitudeDeg": 44.102666666666664,
+        "longitudeDeg": -110.61016666666667,
+        "depthKM": 7.92,
+        "magnitude": 0.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Moran, WY",
+          "bearing": "NNW",
+          "distanceKM": 30.126318681457246
         }
       },
       {
