@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-29T19:26:37Z",
+  "fetchedAt": "2025-12-29T19:43:59Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -208,6 +208,19 @@
       "magnitude": 0.9400000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.100244269162058}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126041",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766681419.1399994,
+      "latitudeDeg": 39.32783333333333,
+      "longitudeDeg": -111.09783333333333,
+      "depthKm": -2.15,
+      "magnitude": 1.18,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Huntington, UT', 'bearing': 'W', 'distanceKM': 11.460703556114767}",
       "version": null
     },
     {
@@ -858,6 +871,19 @@
       "magnitude": 1.16,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.3247258445896}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126001",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766659038.0599995,
+      "latitudeDeg": 39.402,
+      "longitudeDeg": -111.94766666666666,
+      "depthKm": 2.05,
+      "magnitude": 0.8,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mills, UT', 'bearing': 'SE', 'distanceKM': 11.367618954352807}",
       "version": null
     },
     {
