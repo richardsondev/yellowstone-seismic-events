@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2025-12-29T18:10:20Z",
+  "fetchedAt": "2025-12-29T18:32:53Z",
   "events": [
     {
       "identifier": "uu80125341",
@@ -91,6 +91,19 @@
       "magnitude": 0.89,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.353999258445912}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005973",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766741856.5200005,
+      "latitudeDeg": 36.94266666666667,
+      "longitudeDeg": -111.79316666666666,
+      "depthKm": 6.03,
+      "magnitude": 1.94,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Big Water, UT', 'bearing': 'SW', 'distanceKM': 19.3050053404337}",
       "version": null
     },
     {
@@ -1235,6 +1248,19 @@
       "magnitude": 1.45,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ENE', 'distanceKM': 24.862328959025604}",
+      "version": null
+    },
+    {
+      "identifier": "uu80005978",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1766719839.4199982,
+      "latitudeDeg": 37.8345,
+      "longitudeDeg": -112.4895,
+      "depthKm": 2.3,
+      "magnitude": 1.46,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Panguitch, UT', 'bearing': 'WNW', 'distanceKM': 4.892463522215836}",
       "version": null
     },
     {
