@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-02T20:07:41Z",
+  "fetchedAt": "2026-01-02T20:31:04Z",
   "events": [
     {
       "identifier": "uu80125501",
@@ -744,6 +744,19 @@
       "version": null
     },
     {
+      "identifier": "uu80126631",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767310705.539999,
+      "latitudeDeg": 44.595166666666664,
+      "longitudeDeg": -110.73216666666667,
+      "depthKm": 8.04,
+      "magnitude": 0.99,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 17.122268034802428}",
+      "version": null
+    },
+    {
       "identifier": "uu80005933",
       "authority": "UU",
       "eventType": "eq",
@@ -1082,6 +1095,19 @@
       "version": null
     },
     {
+      "identifier": "uu80126641",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767324359.0099983,
+      "latitudeDeg": 39.02,
+      "longitudeDeg": -111.40316666666666,
+      "depthKm": -1.37,
+      "magnitude": 1.11,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 17.15874415332549}",
+      "version": null
+    },
+    {
       "identifier": "uu80125741",
       "authority": "UU",
       "eventType": "eq",
@@ -1131,6 +1157,19 @@
       "magnitude": 1.23,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.525535745015496}",
+      "version": null
+    },
+    {
+      "identifier": "uu80006028",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767312252.21,
+      "latitudeDeg": 39.65866666666667,
+      "longitudeDeg": -111.30016666666667,
+      "depthKm": 1.52,
+      "magnitude": 1.51,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milburn, UT', 'bearing': 'ESE', 'distanceKM': 11.923898820151456}",
       "version": null
     },
     {
