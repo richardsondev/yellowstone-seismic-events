@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-02T21:05:57Z",
+  "fetchedAt": "2026-01-02T21:44:31Z",
   "events": [
     {
       "identifier": "uu80125501",
@@ -156,6 +156,19 @@
       "magnitude": 1.18,
       "isLocal": true,
       "nearestTown": "{'town': 'Huntington, UT', 'bearing': 'W', 'distanceKM': 11.460703556114767}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126686",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767376710.5999985,
+      "latitudeDeg": 44.79333333333334,
+      "longitudeDeg": -110.8415,
+      "depthKm": 4.95,
+      "magnitude": 1.12,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.10702220230592}",
       "version": null
     },
     {

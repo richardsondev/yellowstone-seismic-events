@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f64b38fa9a703964554d3bdf884a8a9931e4b5b2",
+    "hashString": "c6c236121611d8102544fd1c803f93c9dd1bd55b",
     "events": [
       {
         "identifier": "uu80125501",
@@ -193,6 +193,22 @@
           "town": "Huntington, UT",
           "bearing": "W",
           "distanceKM": 11.460703556114767
+        }
+      },
+      {
+        "identifier": "uu80126686",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767376710.5999985,
+        "latitudeDeg": 44.79333333333334,
+        "longitudeDeg": -110.8415,
+        "depthKM": 4.95,
+        "magnitude": 1.12,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.10702220230592
         }
       },
       {
