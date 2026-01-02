@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-02T19:05:27Z",
+  "fetchedAt": "2026-01-02T19:24:55Z",
   "events": [
     {
       "identifier": "uu80125501",
@@ -536,6 +536,19 @@
       "version": null
     },
     {
+      "identifier": "uu80005988",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767269606.42,
+      "latitudeDeg": 36.8925,
+      "longitudeDeg": -112.478,
+      "depthKm": 15.82,
+      "magnitude": 1.68,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fredonia, AZ', 'bearing': 'SE', 'distanceKM': 7.307385384047805}",
+      "version": null
+    },
+    {
       "identifier": "uu80125781",
       "authority": "UU",
       "eventType": "eq",
@@ -832,6 +845,19 @@
       "magnitude": 0.19,
       "isLocal": true,
       "nearestTown": "{'town': 'Corinne, UT', 'bearing': 'WSW', 'distanceKM': 8.266874835097394}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126581",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767244925.2999997,
+      "latitudeDeg": 37.455666666666666,
+      "longitudeDeg": -110.58316666666667,
+      "depthKm": 19.08,
+      "magnitude": 2.23,
+      "isLocal": true,
+      "nearestTown": "{'town': 'White Canyon, UT', 'bearing': 'SSW', 'distanceKM': 40.01341440811263}",
       "version": null
     },
     {
