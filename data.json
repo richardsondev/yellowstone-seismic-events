@@ -1,6 +1,19 @@
 {
   "events": [
     {
+      "identifier": "us7000rmfx",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1767540912.41,
+      "latitudeDeg": 36.9651,
+      "longitudeDeg": -111.8974,
+      "depthKm": 5.0,
+      "magnitude": 2.6,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80126606",
       "authority": "UU",
       "eventType": "eq",
@@ -544,6 +557,19 @@
       "magnitude": 1.0,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.047497094546792}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126801",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767540914.0999994,
+      "latitudeDeg": 36.959833333333336,
+      "longitudeDeg": -111.89133333333334,
+      "depthKm": 6.03,
+      "magnitude": 2.82,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Big Water, UT', 'bearing': 'SW', 'distanceKM': 24.337358117990604}",
       "version": null
     },
     {
