@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-05T20:08:08Z",
+  "fetchedAt": "2026-01-05T20:31:58Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -897,6 +897,19 @@
       "magnitude": 1.24,
       "isLocal": true,
       "nearestTown": "{'town': 'Enoch, UT', 'bearing': 'NNW', 'distanceKM': 5.5282392203994934}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126861",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767635096.4899979,
+      "latitudeDeg": 39.63166666666667,
+      "longitudeDeg": -111.20733333333334,
+      "depthKm": -0.98,
+      "magnitude": 1.9100000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'WSW', 'distanceKM': 4.8342297879353975}",
       "version": null
     },
     {
