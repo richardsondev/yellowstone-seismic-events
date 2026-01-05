@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "dc891caf9f585b99f86b8d5d627475622d7076f0",
+    "hashString": "fcd2afa94b6a5071d1e788fa2babd247a3554275",
     "events": [
       {
         "identifier": "uu80126606",
@@ -209,6 +209,22 @@
           "town": "Parowan, UT",
           "bearing": "NW",
           "distanceKM": 16.53361741711814
+        }
+      },
+      {
+        "identifier": "uu80126786",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767533819.579998,
+        "latitudeDeg": 44.74883333333333,
+        "longitudeDeg": -110.95,
+        "depthKM": 3.98,
+        "magnitude": -0.25,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "NE",
+          "distanceKM": 15.534744558057756
         }
       },
       {
