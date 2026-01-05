@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "721eafdd9db6ec6ccd789c182cda9b4ed7db7372",
+    "hashString": "813f9a67a28a5b5cd725c37afa9e739320ef8061",
     "events": [
       {
         "identifier": "uu80126606",
@@ -864,6 +864,22 @@
         }
       },
       {
+        "identifier": "uu80126886",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767651329.5699997,
+        "latitudeDeg": 44.654333333333334,
+        "longitudeDeg": -110.67216666666667,
+        "depthKM": 3.81,
+        "magnitude": 0.38,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "WNW",
+          "distanceKM": 24.330508466023073
+        }
+      },
+      {
         "identifier": "uu80126736",
         "authority": "UU",
         "eventType": "eq",
@@ -1709,22 +1725,6 @@
           "town": "Hiawatha, UT",
           "bearing": "SSW",
           "distanceKM": 8.433937399590166
-        }
-      },
-      {
-        "identifier": "uu80125706",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1766443422.040001,
-        "latitudeDeg": 38.50116666666667,
-        "longitudeDeg": -112.90983333333334,
-        "depthKM": 2.94,
-        "magnitude": 0.9,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.550868694735382
         }
       },
       {
