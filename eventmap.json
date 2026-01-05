@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fcd2afa94b6a5071d1e788fa2babd247a3554275",
+    "hashString": "a6edfe0e7ebed7eb96aaf2fc168fc2fc44f418b8",
     "events": [
       {
         "identifier": "uu80126606",
@@ -1056,6 +1056,22 @@
         }
       },
       {
+        "identifier": "uu80126711",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767418056.7700005,
+        "latitudeDeg": 41.573166666666665,
+        "longitudeDeg": -112.4215,
+        "depthKM": 0.64,
+        "magnitude": 0.71,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Penrose, UT",
+          "bearing": "SW",
+          "distanceKM": 13.35769176677975
+        }
+      },
+      {
         "identifier": "uu80125701",
         "authority": "UU",
         "eventType": "eq",
@@ -1197,6 +1213,22 @@
           "town": "White Canyon, UT",
           "bearing": "SSW",
           "distanceKM": 40.01341440811263
+        }
+      },
+      {
+        "identifier": "uu80006068",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767418594.4799995,
+        "latitudeDeg": 37.084,
+        "longitudeDeg": -112.89333333333333,
+        "depthKM": 17.62,
+        "magnitude": 1.3900000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 11.070508952869803
         }
       },
       {
