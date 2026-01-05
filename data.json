@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-05T16:09:06Z",
+  "fetchedAt": "2026-01-05T16:49:43Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -169,6 +169,19 @@
       "magnitude": 1.5,
       "isLocal": true,
       "nearestTown": "{'town': 'Parowan, UT', 'bearing': 'NW', 'distanceKM': 16.53361741711814}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126786",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767533819.579998,
+      "latitudeDeg": 44.74883333333333,
+      "longitudeDeg": -110.95,
+      "depthKm": 3.98,
+      "magnitude": -0.25,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 15.534744558057756}",
       "version": null
     },
     {
