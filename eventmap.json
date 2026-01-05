@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a9dded8756d27d92c3a97db3e83ffd9bc2d5411d",
+    "hashString": "b3924ee456de7ef00d990a76a33e0c0b893f38ad",
     "events": [
       {
         "identifier": "uu80126606",
@@ -1101,6 +1101,22 @@
           "town": "Enoch, UT",
           "bearing": "NNW",
           "distanceKM": 5.5282392203994934
+        }
+      },
+      {
+        "identifier": "uu80126861",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767635096.4899979,
+        "latitudeDeg": 39.63166666666667,
+        "longitudeDeg": -111.20733333333334,
+        "depthKM": -0.98,
+        "magnitude": 1.9100000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "WSW",
+          "distanceKM": 4.8342297879353975
         }
       },
       {
