@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "856b2cabfd760329e90a6e09ea7ff5acc2fc993a",
+    "hashString": "65ceba66746d3c8389eeb351c3d9d93d67b189bf",
     "events": [
       {
         "identifier": "uu80126606",
@@ -49,6 +49,22 @@
           "town": "West Thumb, WY",
           "bearing": "SW",
           "distanceKM": 10.57118534353345
+        }
+      },
+      {
+        "identifier": "uu80126896",
+        "authority": "UU",
+        "eventType": "qb",
+        "originTimeUTC": 1767655976.8999977,
+        "latitudeDeg": 40.4455,
+        "longitudeDeg": -111.35,
+        "depthKM": -2,
+        "magnitude": 1.77,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Wallsburg, UT",
+          "bearing": "NE",
+          "distanceKM": 8.881161287057175
         }
       },
       {
@@ -690,18 +706,6 @@
           "bearing": "NE",
           "distanceKM": 14.381251425959976
         }
-      },
-      {
-        "identifier": "nn00909032",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1767104326.7020001,
-        "latitudeDeg": 36.0225,
-        "longitudeDeg": -115.1166,
-        "depthKM": 0.0006,
-        "magnitude": 1.6,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80006063",
@@ -1533,22 +1537,6 @@
           "town": "Lake, WY",
           "bearing": "NNE",
           "distanceKM": 4.820434838803148
-        }
-      },
-      {
-        "identifier": "uu80125796",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1766500823.5,
-        "latitudeDeg": 39.4175,
-        "longitudeDeg": -111.06016666666666,
-        "depthKM": 2.07,
-        "magnitude": 1.3800000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hiawatha, UT",
-          "bearing": "SSW",
-          "distanceKM": 8.433937399590166
         }
       },
       {

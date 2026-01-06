@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-06T14:31:37Z",
+  "fetchedAt": "2026-01-06T14:48:20Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -39,6 +39,19 @@
       "magnitude": 1.34,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 10.57118534353345}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126896",
+      "authority": "UU",
+      "eventType": "qb",
+      "originTimeUtc": 1767655976.8999977,
+      "latitudeDeg": 40.4455,
+      "longitudeDeg": -111.35,
+      "depthKm": -2.0,
+      "magnitude": 1.77,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Wallsburg, UT', 'bearing': 'NE', 'distanceKM': 8.881161287057175}",
       "version": null
     },
     {
@@ -559,19 +572,6 @@
       "magnitude": 1.7,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 14.381251425959976}",
-      "version": null
-    },
-    {
-      "identifier": "nn00909032",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1767104326.7020001,
-      "latitudeDeg": 36.0225,
-      "longitudeDeg": -115.1166,
-      "depthKm": 0.0006,
-      "magnitude": 1.6,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -1248,19 +1248,6 @@
       "magnitude": 0.99,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 4.820434838803148}",
-      "version": null
-    },
-    {
-      "identifier": "uu80125796",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1766500823.5,
-      "latitudeDeg": 39.4175,
-      "longitudeDeg": -111.06016666666666,
-      "depthKm": 2.07,
-      "magnitude": 1.3800000000000001,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Hiawatha, UT', 'bearing': 'SSW', 'distanceKM': 8.433937399590166}",
       "version": null
     },
     {
