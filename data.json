@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-06T18:10:31Z",
+  "fetchedAt": "2026-01-06T18:50:14Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -182,6 +182,19 @@
       "magnitude": 1.6500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Panguitch, UT', 'bearing': 'N', 'distanceKM': 10.600191410659466}",
+      "version": null
+    },
+    {
+      "identifier": "uu80126941",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767721900.5200005,
+      "latitudeDeg": 37.042833333333334,
+      "longitudeDeg": -112.91383333333333,
+      "depthKm": 11.31,
+      "magnitude": 1.44,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 6.420772840169172}",
       "version": null
     },
     {
