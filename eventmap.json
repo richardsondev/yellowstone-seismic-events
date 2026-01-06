@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "dd22e71797de4c7ce4358d2a452b839bddda93a4",
+    "hashString": "856b2cabfd760329e90a6e09ea7ff5acc2fc993a",
     "events": [
       {
         "identifier": "uu80126606",
@@ -1101,6 +1101,22 @@
           "town": "Lake, WY",
           "bearing": "NW",
           "distanceKM": 22.7447342279156
+        }
+      },
+      {
+        "identifier": "uu80126911",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767668874.789997,
+        "latitudeDeg": 38.876,
+        "longitudeDeg": -111.55733333333333,
+        "depthKM": 4.64,
+        "magnitude": 2.54,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "W",
+          "distanceKM": 27.206301041496
         }
       },
       {
