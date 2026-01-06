@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0757f4041710ee4c4b64a341be06d0eaf75b1a73",
+    "hashString": "67540ca8303246b31832c8519a00519f9856b662",
     "events": [
       {
         "identifier": "uu80126606",
@@ -225,6 +225,22 @@
           "town": "Panguitch, UT",
           "bearing": "N",
           "distanceKM": 10.600191410659466
+        }
+      },
+      {
+        "identifier": "uu80126941",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767721900.5200005,
+        "latitudeDeg": 37.042833333333334,
+        "longitudeDeg": -112.91383333333333,
+        "depthKM": 11.31,
+        "magnitude": 1.44,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 6.420772840169172
         }
       },
       {
