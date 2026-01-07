@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-07T15:32:01Z",
+  "fetchedAt": "2026-01-07T15:48:29Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -13,6 +13,19 @@
       "magnitude": 1.6500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 14.455048934930794}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127001",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767799262.1299999,
+      "latitudeDeg": 37.07983333333333,
+      "longitudeDeg": -112.89133333333334,
+      "depthKm": 17.23,
+      "magnitude": 1.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 10.809194424611503}",
       "version": null
     },
     {
