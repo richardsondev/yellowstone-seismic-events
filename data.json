@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-07T19:45:05Z",
+  "fetchedAt": "2026-01-07T21:07:00Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -117,6 +117,19 @@
       "magnitude": 1.94,
       "isLocal": true,
       "nearestTown": "{'town': 'Gunlock, UT', 'bearing': 'NNW', 'distanceKM': 6.723196116561351}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127016",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767818315.380001,
+      "latitudeDeg": 41.845333333333336,
+      "longitudeDeg": -111.62416666666667,
+      "depthKm": 12.26,
+      "magnitude": 2.49,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hyde Park, UT', 'bearing': 'ENE', 'distanceKM': 16.96156431297941}",
       "version": null
     },
     {
