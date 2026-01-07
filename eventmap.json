@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f74554a4024630eecded4c5649f74f46eb0fcc79",
+    "hashString": "c1bda125df78bb6a79e9b921bb9a07b00388a4a8",
     "events": [
       {
         "identifier": "uu80126606",
@@ -145,6 +145,22 @@
           "town": "Gunlock, UT",
           "bearing": "NNW",
           "distanceKM": 6.723196116561351
+        }
+      },
+      {
+        "identifier": "uu80127016",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767818315.380001,
+        "latitudeDeg": 41.845333333333336,
+        "longitudeDeg": -111.62416666666667,
+        "depthKM": 12.26,
+        "magnitude": 2.49,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hyde Park, UT",
+          "bearing": "ENE",
+          "distanceKM": 16.96156431297941
         }
       },
       {
