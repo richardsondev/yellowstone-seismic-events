@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c1bda125df78bb6a79e9b921bb9a07b00388a4a8",
+    "hashString": "a0f9324f6aaf158ef0f3674bbf50059ac3151ea5",
     "events": [
       {
         "identifier": "uu80126606",
@@ -1169,6 +1169,22 @@
           "town": "Emery, UT",
           "bearing": "W",
           "distanceKM": 27.206301041496
+        }
+      },
+      {
+        "identifier": "uu80127026",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767819459.0099983,
+        "latitudeDeg": 38.599333333333334,
+        "longitudeDeg": -112.636,
+        "depthKM": 6.52,
+        "magnitude": 1.1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cove Fort, UT",
+          "bearing": "W",
+          "distanceKM": 4.56863862532598
         }
       },
       {

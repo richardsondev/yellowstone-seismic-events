@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-07T21:07:00Z",
+  "fetchedAt": "2026-01-07T21:29:56Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -949,6 +949,19 @@
       "magnitude": 2.54,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'W', 'distanceKM': 27.206301041496}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127026",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767819459.0099983,
+      "latitudeDeg": 38.599333333333334,
+      "longitudeDeg": -112.636,
+      "depthKm": 6.52,
+      "magnitude": 1.1,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'W', 'distanceKM': 4.56863862532598}",
       "version": null
     },
     {
