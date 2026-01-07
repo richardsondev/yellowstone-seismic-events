@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a0f9324f6aaf158ef0f3674bbf50059ac3151ea5",
+    "hashString": "35e47ab72dd2266117e111e6b870a2db591c099a",
     "events": [
       {
         "identifier": "uu80126606",
@@ -388,6 +388,22 @@
         }
       },
       {
+        "identifier": "uu80127041",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767824746.2599983,
+        "latitudeDeg": 41.830666666666666,
+        "longitudeDeg": -111.58316666666667,
+        "depthKM": 6.82,
+        "magnitude": 2.96,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "North Logan, UT",
+          "bearing": "ENE",
+          "distanceKM": 19.58651917069162
+        }
+      },
+      {
         "identifier": "uu80126086",
         "authority": "UU",
         "eventType": "eq",
@@ -401,6 +417,22 @@
           "town": "Emery, UT",
           "bearing": "NW",
           "distanceKM": 16.913103389000202
+        }
+      },
+      {
+        "identifier": "uu80127031",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767823546.8499985,
+        "latitudeDeg": 44.7945,
+        "longitudeDeg": -110.848,
+        "depthKM": 5.49,
+        "magnitude": 0.96,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.23910592655662
         }
       },
       {
