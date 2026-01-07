@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-07T22:46:55Z",
+  "fetchedAt": "2026-01-07T23:07:53Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -468,6 +468,19 @@
       "magnitude": 1.01,
       "isLocal": true,
       "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NNE', 'distanceKM': 11.76772555364328}",
+      "version": null
+    },
+    {
+      "identifier": "nn00909295",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1767825148.203,
+      "latitudeDeg": 37.1692,
+      "longitudeDeg": -114.7331,
+      "depthKm": 11.5262,
+      "magnitude": 1.69,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
