@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-08T10:49:11Z",
+  "fetchedAt": "2026-01-08T14:32:02Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -1014,6 +1014,19 @@
       "magnitude": 2.49,
       "isLocal": true,
       "nearestTown": "{'town': 'Nephi, UT', 'bearing': 'SW', 'distanceKM': 10.273219357895698}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127076",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767871552.0099983,
+      "latitudeDeg": 41.80683333333333,
+      "longitudeDeg": -112.38733333333333,
+      "depthKm": 0.68,
+      "magnitude": 0.55,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Howell, UT', 'bearing': 'ENE', 'distanceKM': 4.88130319918398}",
       "version": null
     },
     {

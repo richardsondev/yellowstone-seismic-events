@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fdb4e4ff716141d8a394412fcf2f6112725f98f3",
+    "hashString": "91a82ce770fbf808df48d50832bf30b28f8262e9",
     "events": [
       {
         "identifier": "uu80126606",
@@ -1233,6 +1233,22 @@
           "town": "Nephi, UT",
           "bearing": "SW",
           "distanceKM": 10.273219357895698
+        }
+      },
+      {
+        "identifier": "uu80127076",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767871552.0099983,
+        "latitudeDeg": 41.80683333333333,
+        "longitudeDeg": -112.38733333333333,
+        "depthKM": 0.68,
+        "magnitude": 0.55,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Howell, UT",
+          "bearing": "ENE",
+          "distanceKM": 4.88130319918398
         }
       },
       {
