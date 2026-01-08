@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0fa05fbc737982e542db40cc0b93cdf06ad38f3a",
+    "hashString": "6ddfc8c60634bfee1222f6e5e879e5bbc89fb9c1",
     "events": [
       {
         "identifier": "uu80126606",
@@ -33,6 +33,22 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 10.809194424611503
+        }
+      },
+      {
+        "identifier": "uu80127086",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767893759.709999,
+        "latitudeDeg": 37.047666666666665,
+        "longitudeDeg": -112.90816666666667,
+        "depthKM": 11.35,
+        "magnitude": 1.52,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 7.155122824250352
         }
       },
       {
@@ -1537,22 +1553,6 @@
           "town": "Milburn, UT",
           "bearing": "ESE",
           "distanceKM": 11.923898820151456
-        }
-      },
-      {
-        "identifier": "uu80126056",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1766687317.829998,
-        "latitudeDeg": 44.7405,
-        "longitudeDeg": -110.8095,
-        "depthKM": 4.88,
-        "magnitude": 1.45,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "West Yellowstone, MT",
-          "bearing": "ENE",
-          "distanceKM": 24.862328959025604
         }
       },
       {
