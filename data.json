@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-08T14:32:02Z",
+  "fetchedAt": "2026-01-08T15:09:21Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -390,6 +390,19 @@
       "magnitude": 1.45,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'SW', 'distanceKM': 10.485668917550944}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127066",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767853348.75,
+      "latitudeDeg": 37.51833333333333,
+      "longitudeDeg": -113.87266666666666,
+      "depthKm": 4.91,
+      "magnitude": 1.69,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Enterprise, UT', 'bearing': 'WSW', 'distanceKM': 14.868266219103091}",
       "version": null
     },
     {
