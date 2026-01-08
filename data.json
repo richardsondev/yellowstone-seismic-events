@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-08T07:31:30Z",
+  "fetchedAt": "2026-01-08T09:32:20Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -416,19 +416,6 @@
       "magnitude": 0.34,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NE', 'distanceKM': 23.337624108984546}",
-      "version": null
-    },
-    {
-      "identifier": "uu80125991",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1766654510.9699974,
-      "latitudeDeg": 38.500166666666665,
-      "longitudeDeg": -112.90916666666666,
-      "depthKm": 2.4,
-      "magnitude": 0.9,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.497832383356519}",
       "version": null
     },
     {
@@ -923,6 +910,19 @@
       "magnitude": 1.9100000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'WSW', 'distanceKM': 4.8342297879353975}",
+      "version": null
+    },
+    {
+      "identifier": "nn00909334",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1767863646.105,
+      "latitudeDeg": 37.3203,
+      "longitudeDeg": -114.5302,
+      "depthKm": 15.9447,
+      "magnitude": 1.79,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
