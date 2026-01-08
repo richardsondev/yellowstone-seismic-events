@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "42a0756b2055521eb484ef435594914a813558fd",
+    "hashString": "0fa05fbc737982e542db40cc0b93cdf06ad38f3a",
     "events": [
       {
         "identifier": "uu80126606",
@@ -513,6 +513,22 @@
           "town": "Lake, WY",
           "bearing": "NE",
           "distanceKM": 23.337624108984546
+        }
+      },
+      {
+        "identifier": "uu80127081",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767893641.82,
+        "latitudeDeg": 37.0525,
+        "longitudeDeg": -112.90633333333334,
+        "depthKM": 11.74,
+        "magnitude": 1.46,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 7.646789250101392
         }
       },
       {
