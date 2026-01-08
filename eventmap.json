@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "91a82ce770fbf808df48d50832bf30b28f8262e9",
+    "hashString": "fe1ad83f66ea82b5793f7f45a5fe78ff1f9b7f9f",
     "events": [
       {
         "identifier": "uu80126606",
@@ -481,6 +481,22 @@
           "town": "West Thumb, WY",
           "bearing": "SW",
           "distanceKM": 10.485668917550944
+        }
+      },
+      {
+        "identifier": "uu80127066",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1767853348.75,
+        "latitudeDeg": 37.51833333333333,
+        "longitudeDeg": -113.87266666666666,
+        "depthKM": 4.91,
+        "magnitude": 1.69,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Enterprise, UT",
+          "bearing": "WSW",
+          "distanceKM": 14.868266219103091
         }
       },
       {
