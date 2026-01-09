@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-09T19:28:33Z",
+  "fetchedAt": "2026-01-09T19:44:56Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -1248,6 +1248,19 @@
       "magnitude": 1.11,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'NW', 'distanceKM': 17.15874415332549}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127151",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767978662.9099998,
+      "latitudeDeg": 44.7995,
+      "longitudeDeg": -111.0055,
+      "depthKm": 6.93,
+      "magnitude": 0.71,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'E', 'distanceKM': 14.755542663172706}",
       "version": null
     },
     {
