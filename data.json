@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-09T16:08:30Z",
+  "fetchedAt": "2026-01-09T17:09:25Z",
   "events": [
     {
       "identifier": "uu80126606",
@@ -1300,6 +1300,19 @@
       "magnitude": 1.1500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 21.788293643054637}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127116",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1767939839.25,
+      "latitudeDeg": 39.181,
+      "longitudeDeg": -110.57433333333333,
+      "depthKm": 8.3,
+      "magnitude": 1.45,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Woodside, UT', 'bearing': 'WSW', 'distanceKM': 21.430958354597188}",
       "version": null
     },
     {
