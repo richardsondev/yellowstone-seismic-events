@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-12T16:32:25Z",
+  "fetchedAt": "2026-01-12T16:50:11Z",
   "events": [
     {
       "identifier": "uu80127196",
@@ -1066,6 +1066,19 @@
       "magnitude": 2.54,
       "isLocal": true,
       "nearestTown": "{'town': 'Emery, UT', 'bearing': 'W', 'distanceKM': 27.206301041496}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127261",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1768162684.65,
+      "latitudeDeg": 44.663,
+      "longitudeDeg": -110.67566666666667,
+      "depthKm": 4.72,
+      "magnitude": 0.59,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.038404547988108}",
       "version": null
     },
     {
