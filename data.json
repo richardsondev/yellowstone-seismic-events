@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-12T15:48:55Z",
+  "fetchedAt": "2026-01-12T16:09:43Z",
   "events": [
     {
       "identifier": "uu80127196",
@@ -26,6 +26,19 @@
       "magnitude": 1.6500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 14.455048934930794}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127236",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1768088476.75,
+      "latitudeDeg": 40.739,
+      "longitudeDeg": -112.05116666666666,
+      "depthKm": 8.42,
+      "magnitude": 1.04,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'SE', 'distanceKM': 5.664222568491955}",
       "version": null
     },
     {
