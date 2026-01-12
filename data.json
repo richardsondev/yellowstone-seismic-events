@@ -1,7 +1,20 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-12T15:09:50Z",
+  "fetchedAt": "2026-01-12T15:32:07Z",
   "events": [
+    {
+      "identifier": "uu80127196",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1768040296.619999,
+      "latitudeDeg": 44.798833333333334,
+      "longitudeDeg": -110.84883333333333,
+      "depthKm": 4.75,
+      "magnitude": 1.84,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.85286437712132}",
+      "version": null
+    },
     {
       "identifier": "uu80126606",
       "authority": "UU",
@@ -1157,6 +1170,19 @@
       "magnitude": 1.3800000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 16.490442659071608}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127226",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1768084961.0699997,
+      "latitudeDeg": 44.1015,
+      "longitudeDeg": -110.60366666666667,
+      "depthKm": 6.97,
+      "magnitude": 1.69,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Moran, WY', 'bearing': 'NNW', 'distanceKM': 29.865887907804556}",
       "version": null
     },
     {
