@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-13T14:49:59Z",
+  "fetchedAt": "2026-01-13T20:08:18Z",
   "events": [
     {
       "identifier": "nn00909458",
@@ -1378,6 +1378,19 @@
       "magnitude": 0.74,
       "isLocal": true,
       "nearestTown": "{'town': 'Penrose, UT', 'bearing': 'SW', 'distanceKM': 13.53553079385826}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127351",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1768331091.5200005,
+      "latitudeDeg": 44.477333333333334,
+      "longitudeDeg": -110.729,
+      "depthKm": 1.98,
+      "magnitude": 1.31,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'ENE', 'distanceKM': 8.608523825040367}",
       "version": null
     },
     {
