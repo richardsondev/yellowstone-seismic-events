@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "95a6c9ceb537cf15bd447df618a81309598e0602",
+    "hashString": "50f1f0aa1eb46fcf9e3c3fd5ebb67af93512a1c4",
     "events": [
       {
         "identifier": "nn00909458",
@@ -953,6 +953,22 @@
           "town": "Blue Creek, UT",
           "bearing": "E",
           "distanceKM": 8.515957471923098
+        }
+      },
+      {
+        "identifier": "uu80127401",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768396186.9899979,
+        "latitudeDeg": 39.625166666666665,
+        "longitudeDeg": -111.20216666666667,
+        "depthKM": -3.29,
+        "magnitude": 1.3900000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "WSW",
+          "distanceKM": 4.721931923340337
         }
       },
       {
