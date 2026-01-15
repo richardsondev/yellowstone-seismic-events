@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "62f45b40258fda68ed5d37097fa95706073383a9",
+    "hashString": "0a763cc00ef1d7bcf28419bd82cb85934b1b3271",
     "events": [
       {
         "identifier": "nn00909458",
@@ -1032,6 +1032,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80127471",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768494155.2199974,
+        "latitudeDeg": 44.72366666666667,
+        "longitudeDeg": -111.168,
+        "depthKM": 8.09,
+        "magnitude": 1.19,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "NW",
+          "distanceKM": 8.507643626800824
+        }
+      },
+      {
         "identifier": "uu80127106",
         "authority": "UU",
         "eventType": "eq",
@@ -1297,22 +1313,6 @@
           "town": "Nephi, UT",
           "bearing": "SW",
           "distanceKM": 10.852360740415437
-        }
-      },
-      {
-        "identifier": "uu80126611",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1767285473.789997,
-        "latitudeDeg": 44.589666666666666,
-        "longitudeDeg": -110.73466666666667,
-        "depthKM": 7.13,
-        "magnitude": 1.3800000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Old Faithful, WY",
-          "bearing": "NNE",
-          "distanceKM": 16.490442659071608
         }
       },
       {
