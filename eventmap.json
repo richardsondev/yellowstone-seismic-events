@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f84a6c9ee2763d3a67576ea732887eba0c294d98",
+    "hashString": "62f45b40258fda68ed5d37097fa95706073383a9",
     "events": [
       {
         "identifier": "nn00909458",
@@ -29,22 +29,6 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.85286437712132
-        }
-      },
-      {
-        "identifier": "uu80126606",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1767283845.5999985,
-        "latitudeDeg": 44.76883333333333,
-        "longitudeDeg": -110.99966666666667,
-        "depthKM": 10.32,
-        "magnitude": 1.6500000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "West Yellowstone, MT",
-          "bearing": "NE",
-          "distanceKM": 14.455048934930794
         }
       },
       {
@@ -250,22 +234,6 @@
         "magnitude": 2.6,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80006038",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1767283680.6100001,
-        "latitudeDeg": 44.764833333333335,
-        "longitudeDeg": -110.996,
-        "depthKM": 9.36,
-        "magnitude": 1.6600000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "West Yellowstone, MT",
-          "bearing": "NE",
-          "distanceKM": 14.263918526239253
-        }
       },
       {
         "identifier": "uu80127156",
@@ -660,22 +628,6 @@
         }
       },
       {
-        "identifier": "uu80126601",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1767283670.829998,
-        "latitudeDeg": 44.76916666666666,
-        "longitudeDeg": -111.002,
-        "depthKM": 10.34,
-        "magnitude": 1.7,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "West Yellowstone, MT",
-          "bearing": "NE",
-          "distanceKM": 14.381251425959976
-        }
-      },
-      {
         "identifier": "uu80127246",
         "authority": "UU",
         "eventType": "eq",
@@ -1005,6 +957,22 @@
           "town": "Lake, WY",
           "bearing": "WNW",
           "distanceKM": 24.649321339619586
+        }
+      },
+      {
+        "identifier": "uu80127466",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768491733.08,
+        "latitudeDeg": 44.795,
+        "longitudeDeg": -110.84433333333334,
+        "depthKM": 5.1,
+        "magnitude": 1.74,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.050196917376855
         }
       },
       {
