@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3069d8f61c86a2ddb3bd236a8d685856586485c3",
+    "hashString": "f84a6c9ee2763d3a67576ea732887eba0c294d98",
     "events": [
       {
         "identifier": "nn00909458",
@@ -1249,6 +1249,22 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 11.053430468969047
+        }
+      },
+      {
+        "identifier": "uu80127451",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768466081.5,
+        "latitudeDeg": 42.0015,
+        "longitudeDeg": -112.55816666666666,
+        "depthKM": 5.99,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Stone, ID",
+          "bearing": "E",
+          "distanceKM": 11.537548304968695
         }
       },
       {
