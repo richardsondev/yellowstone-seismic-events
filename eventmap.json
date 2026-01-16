@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "748c03e6294ec4bf938afbb370a4235214c3d26d",
+    "hashString": "a1ffdc98eddb0185ff73bb196b643b794abdd44c",
     "events": [
       {
         "identifier": "nn00909458",
@@ -961,6 +961,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "NW",
           "distanceKM": 8.507643626800824
+        }
+      },
+      {
+        "identifier": "uu80127491",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768568255.869999,
+        "latitudeDeg": 44.79983333333333,
+        "longitudeDeg": -110.8375,
+        "depthKM": 5.37,
+        "magnitude": 1.42,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.320786501969977
         }
       },
       {
