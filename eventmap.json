@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a1ffdc98eddb0185ff73bb196b643b794abdd44c",
+    "hashString": "d8745729854513917ccd3d5e9fdbd32108c560d2",
     "events": [
       {
         "identifier": "nn00909458",
@@ -481,6 +481,22 @@
           "town": "Enterprise, UT",
           "bearing": "WSW",
           "distanceKM": 14.868266219103091
+        }
+      },
+      {
+        "identifier": "uu80127496",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768574929.8999977,
+        "latitudeDeg": 44.79533333333333,
+        "longitudeDeg": -110.85,
+        "depthKM": 4.81,
+        "magnitude": 0.55,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 23.236188245850165
         }
       },
       {
