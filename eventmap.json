@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2717534d410554312a183ece8e64c0af9ad08f35",
+    "hashString": "1ddf5a75bd9d7a5d28a58140874caee81855bcb3",
     "events": [
       {
         "identifier": "uu80127586",
@@ -601,6 +601,22 @@
           "town": "Saltair, UT",
           "bearing": "SE",
           "distanceKM": 5.5172108372154955
+        }
+      },
+      {
+        "identifier": "uu80127656",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768850526.3899999,
+        "latitudeDeg": 44.80316666666667,
+        "longitudeDeg": -110.8385,
+        "depthKM": 4.83,
+        "magnitude": 0.8300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.032678739765164
         }
       },
       {
