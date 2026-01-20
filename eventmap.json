@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c7e9e94251c9c0150d5c0c0796de3a5fc8657c43",
+    "hashString": "b95a71d8f0491256d703fba39ed87fff5bcde576",
     "events": [
       {
         "identifier": "uu80127586",
@@ -829,6 +829,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.15100881617556
+        }
+      },
+      {
+        "identifier": "uu80127726",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768936153.9699993,
+        "latitudeDeg": 40.74516666666667,
+        "longitudeDeg": -112.03866666666667,
+        "depthKM": 5.88,
+        "magnitude": 0.9400000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saltair, UT",
+          "bearing": "ESE",
+          "distanceKM": 6.174793183567683
         }
       },
       {
