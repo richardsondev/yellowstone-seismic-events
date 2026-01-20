@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "37df761540490d54e0a2addedbd319219e7c7ef4",
+    "hashString": "69ac81b98ef9621c780b34b40006aef7e65ccb52",
     "events": [
       {
         "identifier": "uu80127586",
@@ -397,6 +397,22 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 7.646789250101392
+        }
+      },
+      {
+        "identifier": "uu80127641",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768829391.4799995,
+        "latitudeDeg": 44.799166666666665,
+        "longitudeDeg": -110.83633333333333,
+        "depthKM": 4.97,
+        "magnitude": 1.4000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.342963383672046
         }
       },
       {
