@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-20T17:11:56Z",
+  "fetchedAt": "2026-01-20T17:32:44Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -494,6 +494,19 @@
       "magnitude": 0.86,
       "isLocal": true,
       "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'SE', 'distanceKM': 5.5172108372154955}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127656",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1768850526.3899999,
+      "latitudeDeg": 44.80316666666667,
+      "longitudeDeg": -110.8385,
+      "depthKm": 4.83,
+      "magnitude": 0.8300000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.032678739765164}",
       "version": null
     },
     {
