@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-21T14:33:02Z",
+  "fetchedAt": "2026-01-21T15:11:51Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -624,6 +624,19 @@
       "magnitude": -0.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Alta, UT', 'bearing': 'NNE', 'distanceKM': 9.802488289906732}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127761",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1768983462.3999977,
+      "latitudeDeg": 40.80466666666667,
+      "longitudeDeg": -111.63066666666667,
+      "depthKm": 8.42,
+      "magnitude": 1.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Wanship, UT', 'bearing': 'W', 'distanceKM': 18.663794109218706}",
       "version": null
     },
     {
