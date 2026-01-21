@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4019d31cd9d90629b8cce4edd5f04c56511a29f7",
+    "hashString": "93c710cb383e4f9949cebe8bddee0e05c85e088f",
     "events": [
       {
         "identifier": "uu80127586",
@@ -409,6 +409,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 23.236188245850165
+        }
+      },
+      {
+        "identifier": "uu80127756",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1768977019.619999,
+        "latitudeDeg": 37.346333333333334,
+        "longitudeDeg": -114.21883333333334,
+        "depthKM": 14.46,
+        "magnitude": 1.57,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Islen, NV",
+          "bearing": "SSE",
+          "distanceKM": 22.382194131895094
         }
       },
       {
