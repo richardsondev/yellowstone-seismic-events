@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-21T15:33:13Z",
+  "fetchedAt": "2026-01-21T16:13:00Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -585,6 +585,19 @@
       "magnitude": 1.8,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 25.461061936839574}",
+      "version": null
+    },
+    {
+      "identifier": "uu80006098",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1768993026.35,
+      "latitudeDeg": 39.506166666666665,
+      "longitudeDeg": -111.7335,
+      "depthKm": 11.88,
+      "magnitude": 0.18,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Wales, UT', 'bearing': 'WNW', 'distanceKM': 8.702454659787131}",
       "version": null
     },
     {
