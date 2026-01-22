@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "19c3cd2bbec16b8b72028fe15b352ffb065024fd",
+    "hashString": "d31b3f8593adb01afd4e6878f554ca6654bf8526",
     "events": [
       {
         "identifier": "uu80127586",
@@ -1117,6 +1117,22 @@
           "town": "Soldier Summit, UT",
           "bearing": "N",
           "distanceKM": 20.618135621579047
+        }
+      },
+      {
+        "identifier": "uu80127921",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769094775.8499985,
+        "latitudeDeg": 40.871833333333335,
+        "longitudeDeg": -110.843,
+        "depthKM": 13.16,
+        "magnitude": 1.59,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Altamont, WY",
+          "bearing": "S",
+          "distanceKM": 35.87712198186636
         }
       },
       {
