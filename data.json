@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-22T14:51:57Z",
+  "fetchedAt": "2026-01-22T15:11:46Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -637,6 +637,19 @@
       "magnitude": 0.18,
       "isLocal": true,
       "nearestTown": "{'town': 'Wales, UT', 'bearing': 'WNW', 'distanceKM': 8.702454659787131}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127891",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769093360.8099995,
+      "latitudeDeg": 40.9115,
+      "longitudeDeg": -110.87033333333333,
+      "depthKm": 13.64,
+      "magnitude": 4.66,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'SSW', 'distanceKM': 31.900840891415545}",
       "version": null
     },
     {
