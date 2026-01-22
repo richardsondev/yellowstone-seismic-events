@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-22T19:10:11Z",
+  "fetchedAt": "2026-01-22T19:31:31Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -494,6 +494,19 @@
       "magnitude": 0.16,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NE', 'distanceKM': 23.686326269251406}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127956",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769106834.3999977,
+      "latitudeDeg": 40.87133333333333,
+      "longitudeDeg": -110.84983333333334,
+      "depthKm": 12.67,
+      "magnitude": 1.1400000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'S', 'distanceKM': 36.00624873981357}",
       "version": null
     },
     {
@@ -1196,6 +1209,19 @@
       "magnitude": 1.67,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 18.406469995704896}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127961",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769107018.1699982,
+      "latitudeDeg": 40.89183333333333,
+      "longitudeDeg": -110.842,
+      "depthKm": 13.52,
+      "magnitude": 1.47,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'S', 'distanceKM': 33.659913050482544}",
       "version": null
     },
     {
