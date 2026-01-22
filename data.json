@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-22T14:16:14Z",
+  "fetchedAt": "2026-01-22T14:51:57Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -845,6 +845,19 @@
       "magnitude": 1.6300000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'SE', 'distanceKM': 5.252505892220765}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127856",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769049205.9899998,
+      "latitudeDeg": 40.113,
+      "longitudeDeg": -111.10333333333334,
+      "depthKm": 11.83,
+      "magnitude": 1.52,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Soldier Summit, UT', 'bearing': 'N', 'distanceKM': 20.618135621579047}",
       "version": null
     },
     {

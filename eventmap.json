@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "84f8e98211afbf8cb5a9016f853d0335c7444c3a",
+    "hashString": "4ed19e7d03e7c4ddc8650da1530efe8d2a5850dc",
     "events": [
       {
         "identifier": "uu80127586",
@@ -1021,6 +1021,22 @@
           "town": "Saltair, UT",
           "bearing": "SE",
           "distanceKM": 5.252505892220765
+        }
+      },
+      {
+        "identifier": "uu80127856",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769049205.9899998,
+        "latitudeDeg": 40.113,
+        "longitudeDeg": -111.10333333333334,
+        "depthKM": 11.83,
+        "magnitude": 1.52,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Soldier Summit, UT",
+          "bearing": "N",
+          "distanceKM": 20.618135621579047
         }
       },
       {
