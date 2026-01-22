@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d71a695c9409d3b417aa849786d7d99f8b2284b2",
+    "hashString": "eeac044896906bfc796662f99b84fb7668c5012c",
     "events": [
       {
         "identifier": "uu80127586",
@@ -1401,6 +1401,22 @@
           "town": "Magna, UT",
           "bearing": "ENE",
           "distanceKM": 3.7742815028118337
+        }
+      },
+      {
+        "identifier": "uu80127971",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769111067.5199986,
+        "latitudeDeg": 40.90133333333333,
+        "longitudeDeg": -110.84733333333334,
+        "depthKM": 12.33,
+        "magnitude": 1.95,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Altamont, WY",
+          "bearing": "S",
+          "distanceKM": 32.67387338401963
         }
       },
       {
