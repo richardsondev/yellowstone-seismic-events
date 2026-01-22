@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4ed19e7d03e7c4ddc8650da1530efe8d2a5850dc",
+    "hashString": "a09ea253fbf66208d63fbc9daae2e16de55cb7a5",
     "events": [
       {
         "identifier": "uu80127586",
@@ -777,6 +777,22 @@
           "town": "Wales, UT",
           "bearing": "WNW",
           "distanceKM": 8.702454659787131
+        }
+      },
+      {
+        "identifier": "uu80127891",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769093360.8099995,
+        "latitudeDeg": 40.9115,
+        "longitudeDeg": -110.87033333333333,
+        "depthKM": 13.64,
+        "magnitude": 4.66,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Altamont, WY",
+          "bearing": "SSW",
+          "distanceKM": 31.900840891415545
         }
       },
       {
