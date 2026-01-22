@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-22T19:31:31Z",
+  "fetchedAt": "2026-01-22T20:32:45Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -1157,6 +1157,19 @@
       "magnitude": 0.45,
       "isLocal": true,
       "nearestTown": "{'town': 'Magna, UT', 'bearing': 'ENE', 'distanceKM': 3.7742815028118337}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127971",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769111067.5199986,
+      "latitudeDeg": 40.90133333333333,
+      "longitudeDeg": -110.84733333333334,
+      "depthKm": 12.33,
+      "magnitude": 1.95,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'S', 'distanceKM': 32.67387338401963}",
       "version": null
     },
     {
