@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-22T17:32:28Z",
+  "fetchedAt": "2026-01-22T17:50:13Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -78,19 +78,6 @@
       "magnitude": 1.04,
       "isLocal": true,
       "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'SE', 'distanceKM': 5.664222568491955}",
-      "version": null
-    },
-    {
-      "identifier": "uu80127086",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1767893759.709999,
-      "latitudeDeg": 37.047666666666665,
-      "longitudeDeg": -112.90816666666667,
-      "depthKm": 11.35,
-      "magnitude": 1.52,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 7.155122824250352}",
       "version": null
     },
     {
@@ -367,16 +354,16 @@
       "version": null
     },
     {
-      "identifier": "uu80127081",
+      "identifier": "uu80127946",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1767893641.82,
-      "latitudeDeg": 37.0525,
-      "longitudeDeg": -112.90633333333334,
-      "depthKm": 11.74,
-      "magnitude": 1.46,
+      "originTimeUtc": 1769100822.9500008,
+      "latitudeDeg": 40.87833333333333,
+      "longitudeDeg": -110.83583333333333,
+      "depthKm": 13.12,
+      "magnitude": 1.34,
       "isLocal": true,
-      "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 7.646789250101392}",
+      "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'S', 'distanceKM': 35.09042640477936}",
       "version": null
     },
     {
@@ -572,6 +559,19 @@
       "magnitude": 1.32,
       "isLocal": true,
       "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'S', 'distanceKM': 35.06021220034093}",
+      "version": null
+    },
+    {
+      "identifier": "uu80127941",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769099669.5499992,
+      "latitudeDeg": 40.89383333333333,
+      "longitudeDeg": -110.81866666666667,
+      "depthKm": 15.49,
+      "magnitude": 1.26,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'S', 'distanceKM': 33.2462190190247}",
       "version": null
     },
     {
