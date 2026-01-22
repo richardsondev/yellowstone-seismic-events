@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d31b3f8593adb01afd4e6878f554ca6654bf8526",
+    "hashString": "8188cbe4755ba3d7e5c8f5f85c5a63e4ac803a4a",
     "events": [
       {
         "identifier": "uu80127586",
@@ -841,6 +841,22 @@
           "town": "Altamont, WY",
           "bearing": "SSW",
           "distanceKM": 32.08395822757274
+        }
+      },
+      {
+        "identifier": "uu80127936",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769099336.3400002,
+        "latitudeDeg": 40.89533333333333,
+        "longitudeDeg": -110.80633333333333,
+        "depthKM": 13.64,
+        "magnitude": 1.06,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Altamont, WY",
+          "bearing": "S",
+          "distanceKM": 33.023667653153936
         }
       },
       {
