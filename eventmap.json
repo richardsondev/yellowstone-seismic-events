@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c2133aef068947b5f16f275925a2dfbb62dea71e",
+    "hashString": "358351c72df1ed6b90560a618e432fec58103f5c",
     "events": [
       {
         "identifier": "uu80127586",
@@ -113,22 +113,6 @@
           "town": "Lake, WY",
           "bearing": "NE",
           "distanceKM": 11.776499390882883
-        }
-      },
-      {
-        "identifier": "uu80127141",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1767972447.2399998,
-        "latitudeDeg": 44.799166666666665,
-        "longitudeDeg": -111.0055,
-        "depthKM": 8.09,
-        "magnitude": 0.53,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Grayling, MT",
-          "bearing": "E",
-          "distanceKM": 14.756106655907406
         }
       },
       {
@@ -860,6 +844,22 @@
         }
       },
       {
+        "identifier": "uu80128006",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769176833.8400002,
+        "latitudeDeg": 41.894333333333336,
+        "longitudeDeg": -112.49183333333333,
+        "depthKM": 0.6,
+        "magnitude": 0.88,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Blue Creek, UT",
+          "bearing": "NW",
+          "distanceKM": 4.55002757837588
+        }
+      },
+      {
         "identifier": "uu80127851",
         "authority": "UU",
         "eventType": "eq",
@@ -1077,6 +1077,22 @@
           "town": "Soldier Summit, UT",
           "bearing": "N",
           "distanceKM": 19.58380109945118
+        }
+      },
+      {
+        "identifier": "uu80127991",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769134791.6599998,
+        "latitudeDeg": 40.11366666666667,
+        "longitudeDeg": -111.09916666666666,
+        "depthKM": 10.02,
+        "magnitude": 2.24,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Soldier Summit, UT",
+          "bearing": "N",
+          "distanceKM": 20.65967540004985
         }
       },
       {
