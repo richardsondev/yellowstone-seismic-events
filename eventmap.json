@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "bdf89a151efe0e308187461071fe75881d26dea0",
+    "hashString": "32636c6008a98283cbb387006972b4265599745d",
     "events": [
       {
         "identifier": "uu80127586",
@@ -889,6 +889,22 @@
           "town": "Soldier Summit, UT",
           "bearing": "N",
           "distanceKM": 20.10188370240024
+        }
+      },
+      {
+        "identifier": "uu80128016",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769189783.7600002,
+        "latitudeDeg": 41.708666666666666,
+        "longitudeDeg": -112.81166666666667,
+        "depthKM": 4.14,
+        "magnitude": 1.8800000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Snowville, UT",
+          "bearing": "SSW",
+          "distanceKM": 29.781713708628065
         }
       },
       {
