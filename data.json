@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-23T17:10:52Z",
+  "fetchedAt": "2026-01-23T17:31:44Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -718,6 +718,19 @@
       "version": null
     },
     {
+      "identifier": "uu80127986",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769133506.9699993,
+      "latitudeDeg": 40.112,
+      "longitudeDeg": -111.10033333333334,
+      "depthKm": 2.96,
+      "magnitude": 1.78,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Soldier Summit, UT', 'bearing': 'N', 'distanceKM': 20.48347573302472}",
+      "version": null
+    },
+    {
       "identifier": "uu80127851",
       "authority": "UU",
       "eventType": "eq",
@@ -1027,19 +1040,6 @@
       "magnitude": 1.56,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80127151",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1767978662.9099998,
-      "latitudeDeg": 44.7995,
-      "longitudeDeg": -111.0055,
-      "depthKm": 6.93,
-      "magnitude": 0.71,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'E', 'distanceKM': 14.755542663172706}",
       "version": null
     },
     {
