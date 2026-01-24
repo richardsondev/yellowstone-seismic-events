@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-24T13:36:06Z",
+  "fetchedAt": "2026-01-24T14:06:31Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -728,6 +728,19 @@
       "magnitude": 1.43,
       "isLocal": true,
       "nearestTown": "{'town': 'Soldier Summit, UT', 'bearing': 'N', 'distanceKM': 20.10188370240024}",
+      "version": null
+    },
+    {
+      "identifier": "nn00909913",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1769263070.047,
+      "latitudeDeg": 36.9704,
+      "longitudeDeg": -115.0691,
+      "depthKm": 10.1332,
+      "magnitude": 1.89,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
