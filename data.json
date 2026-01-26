@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-26T21:31:37Z",
+  "fetchedAt": "2026-01-26T21:47:47Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -406,6 +406,19 @@
       "version": null
     },
     {
+      "identifier": "uu80128196",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769360681.4199982,
+      "latitudeDeg": 44.81166666666667,
+      "longitudeDeg": -110.5305,
+      "depthKm": 2.25,
+      "magnitude": 0.26,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SE', 'distanceKM': 22.857449482278152}",
+      "version": null
+    },
+    {
       "identifier": "uu80128051",
       "authority": "UU",
       "eventType": "eq",
@@ -559,6 +572,19 @@
       "magnitude": 2.2800000000000002,
       "isLocal": true,
       "nearestTown": "{'town': 'Brian Head, UT', 'bearing': 'S', 'distanceKM': 25.52797697157906}",
+      "version": null
+    },
+    {
+      "identifier": "uu80128191",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769330669.709999,
+      "latitudeDeg": 37.532666666666664,
+      "longitudeDeg": -113.84333333333333,
+      "depthKm": 3.2,
+      "magnitude": 1.48,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Enterprise, UT', 'bearing': 'WSW', 'distanceKM': 11.85984661006071}",
       "version": null
     },
     {
@@ -1352,19 +1378,6 @@
       "magnitude": 1.42,
       "isLocal": true,
       "nearestTown": "{'town': 'Enoch, UT', 'bearing': 'E', 'distanceKM': 1.5249345946265411}",
-      "version": null
-    },
-    {
-      "identifier": "nn00909460",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1768253743.389,
-      "latitudeDeg": 35.9464,
-      "longitudeDeg": -115.188,
-      "depthKm": 15.9468,
-      "magnitude": 1.56,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
