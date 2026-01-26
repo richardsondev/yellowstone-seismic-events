@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d8a7186992ad828b5ad6742a748ff47c95859b22",
+    "hashString": "9bb9db436bb9988055a92d7b5431a1b82c51fdff",
     "events": [
       {
         "identifier": "uu80127586",
@@ -113,6 +113,22 @@
           "town": "Hamiltons Fort, UT",
           "bearing": "SE",
           "distanceKM": 10.228739783539218
+        }
+      },
+      {
+        "identifier": "uu80006133",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769339907,
+        "latitudeDeg": 40.395833333333336,
+        "longitudeDeg": -111.957,
+        "depthKM": -1.08,
+        "magnitude": 0.59,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saratoga Springs, UT",
+          "bearing": "NW",
+          "distanceKM": 6.83435914644606
         }
       },
       {
@@ -1490,6 +1506,22 @@
         "magnitude": 2.6,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80128166",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769309896.6399994,
+        "latitudeDeg": 37.557,
+        "longitudeDeg": -113.055,
+        "depthKM": 10.85,
+        "magnitude": 1.7,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 10.639189107463755
+        }
       },
       {
         "identifier": "uu80127491",
