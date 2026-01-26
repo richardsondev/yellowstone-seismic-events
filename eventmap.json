@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2aad787d36d5d53961dfeb7e8496420b25c2e8a3",
+    "hashString": "e6fb93ff32cf55c32b125e2e759cfc87bcc44b2c",
     "events": [
       {
         "identifier": "uu80127586",
@@ -161,6 +161,22 @@
           "town": "Enterprise, UT",
           "bearing": "SW",
           "distanceKM": 7.211092018704817
+        }
+      },
+      {
+        "identifier": "uu80006203",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769244208.1499996,
+        "latitudeDeg": 37.08533333333333,
+        "longitudeDeg": -112.8945,
+        "depthKM": 15.96,
+        "magnitude": 0.6,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 11.130449507629406
         }
       },
       {
@@ -1183,16 +1199,16 @@
         "identifier": "uu80128061",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1769260994.33,
-        "latitudeDeg": 37.5685,
-        "longitudeDeg": -113.0615,
-        "depthKM": 11.05,
-        "magnitude": 2.58,
+        "originTimeUTC": 1769260994.3400002,
+        "latitudeDeg": 37.5665,
+        "longitudeDeg": -113.0575,
+        "depthKM": 11.99,
+        "magnitude": 2.62,
         "isLocal": true,
         "nearestTown": {
           "town": "Hamiltons Fort, UT",
           "bearing": "SE",
-          "distanceKM": 9.304814257676327
+          "distanceKM": 9.708790192769941
         }
       },
       {
