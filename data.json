@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-26T14:50:59Z",
+  "fetchedAt": "2026-01-26T15:10:48Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -195,6 +195,19 @@
       "magnitude": 0.62,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.225270325849092}",
+      "version": null
+    },
+    {
+      "identifier": "uu80128031",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769256999.0299988,
+      "latitudeDeg": 37.56366666666667,
+      "longitudeDeg": -113.05033333333333,
+      "depthKm": 11.3,
+      "magnitude": 1.51,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 10.376086534326593}",
       "version": null
     },
     {
