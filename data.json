@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-26T19:10:30Z",
+  "fetchedAt": "2026-01-26T19:46:01Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -1173,6 +1173,19 @@
       "version": null
     },
     {
+      "identifier": "us6000s4kc",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1769454061.622,
+      "latitudeDeg": 44.4223,
+      "longitudeDeg": -115.1998,
+      "depthKm": 10.895,
+      "magnitude": 2.6,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80127491",
       "authority": "UU",
       "eventType": "eq",
@@ -1625,6 +1638,19 @@
       "magnitude": 1.67,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 18.406469995704896}",
+      "version": null
+    },
+    {
+      "identifier": "uu80006158",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769260551.8999977,
+      "latitudeDeg": 37.55733333333333,
+      "longitudeDeg": -113.0545,
+      "depthKm": 10.25,
+      "magnitude": 1.27,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 10.639997106436843}",
       "version": null
     },
     {
