@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "95126131279ed02810b8d547441ae96146e85d0e",
+    "hashString": "2b55f5aa1ec24205dc04244942ba6ca33ec8832c",
     "events": [
       {
         "identifier": "uu80127586",
@@ -873,6 +873,22 @@
           "town": "Panguitch, UT",
           "bearing": "WNW",
           "distanceKM": 8.577799064213828
+        }
+      },
+      {
+        "identifier": "uu80128171",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769312245.789999,
+        "latitudeDeg": 37.03666666666667,
+        "longitudeDeg": -113.759,
+        "depthKM": 1.72,
+        "magnitude": 1.47,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Santa Clara, UT",
+          "bearing": "SW",
+          "distanceKM": 14.189013263426032
         }
       },
       {
