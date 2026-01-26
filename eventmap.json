@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9bb9db436bb9988055a92d7b5431a1b82c51fdff",
+    "hashString": "95126131279ed02810b8d547441ae96146e85d0e",
     "events": [
       {
         "identifier": "uu80127586",
@@ -492,6 +492,22 @@
         }
       },
       {
+        "identifier": "uu80128196",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769360681.4199982,
+        "latitudeDeg": 44.81166666666667,
+        "longitudeDeg": -110.5305,
+        "depthKM": 2.25,
+        "magnitude": 0.26,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SE",
+          "distanceKM": 22.857449482278152
+        }
+      },
+      {
         "identifier": "uu80128051",
         "authority": "UU",
         "eventType": "eq",
@@ -681,6 +697,22 @@
           "town": "Brian Head, UT",
           "bearing": "S",
           "distanceKM": 25.52797697157906
+        }
+      },
+      {
+        "identifier": "uu80128191",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769330669.709999,
+        "latitudeDeg": 37.532666666666664,
+        "longitudeDeg": -113.84333333333333,
+        "depthKM": 3.2,
+        "magnitude": 1.48,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Enterprise, UT",
+          "bearing": "WSW",
+          "distanceKM": 11.85984661006071
         }
       },
       {
@@ -1630,18 +1662,6 @@
           "bearing": "E",
           "distanceKM": 1.5249345946265411
         }
-      },
-      {
-        "identifier": "nn00909460",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1768253743.389,
-        "latitudeDeg": 35.9464,
-        "longitudeDeg": -115.188,
-        "depthKM": 15.9468,
-        "magnitude": 1.56,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80006223",
