@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "163e24cbae92d4d7a6355e88327cd4434be9b49a",
+    "hashString": "d8a7186992ad828b5ad6742a748ff47c95859b22",
     "events": [
       {
         "identifier": "uu80127586",
@@ -617,6 +617,22 @@
           "town": "Altamont, WY",
           "bearing": "S",
           "distanceKM": 35.171770209070395
+        }
+      },
+      {
+        "identifier": "uu80128151",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769303786.9300003,
+        "latitudeDeg": 37.558166666666665,
+        "longitudeDeg": -113.06066666666666,
+        "depthKM": 9.92,
+        "magnitude": 1.6400000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 10.219270905776353
         }
       },
       {
@@ -1249,6 +1265,22 @@
           "town": "Wanship, UT",
           "bearing": "W",
           "distanceKM": 18.663794109218706
+        }
+      },
+      {
+        "identifier": "uu80128186",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769329218.58,
+        "latitudeDeg": 40.373333333333335,
+        "longitudeDeg": -111.39566666666667,
+        "depthKM": 2.64,
+        "magnitude": 0.74,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Wallsburg, UT",
+          "bearing": "SE",
+          "distanceKM": 2.771203729882549
         }
       },
       {
