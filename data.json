@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-26T23:07:53Z",
+  "fetchedAt": "2026-01-27T03:54:53Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -910,6 +910,19 @@
       "magnitude": 1.26,
       "isLocal": true,
       "nearestTown": "{'town': 'Brian Head, UT', 'bearing': 'SSW', 'distanceKM': 13.7501164251933}",
+      "version": null
+    },
+    {
+      "identifier": "nn00910038",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1769483283.815,
+      "latitudeDeg": 37.3847,
+      "longitudeDeg": -114.3917,
+      "depthKm": 7.7919,
+      "magnitude": 2.06,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
