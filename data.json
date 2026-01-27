@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-27T19:13:59Z",
+  "fetchedAt": "2026-01-27T20:08:38Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -845,6 +845,19 @@
       "magnitude": 1.25,
       "isLocal": true,
       "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 10.428790506482029}",
+      "version": null
+    },
+    {
+      "identifier": "uu80128386",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769539844.7999992,
+      "latitudeDeg": 44.6375,
+      "longitudeDeg": -110.55783333333333,
+      "depthKm": 6.06,
+      "magnitude": 1.32,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NW', 'distanceKM': 15.688206101338151}",
       "version": null
     },
     {
