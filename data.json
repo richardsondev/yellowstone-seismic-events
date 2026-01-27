@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-27T12:34:16Z",
+  "fetchedAt": "2026-01-27T14:33:57Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -679,19 +679,6 @@
       "version": null
     },
     {
-      "identifier": "nn00910049",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1769510415.93,
-      "latitudeDeg": 37.318,
-      "longitudeDeg": -114.1311,
-      "depthKm": 15.9843,
-      "magnitude": 2.4,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80127581",
       "authority": "UU",
       "eventType": "eq",
@@ -780,6 +767,19 @@
       "magnitude": 1.03,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NE', 'distanceKM': 19.889716231621914}",
+      "version": null
+    },
+    {
+      "identifier": "uu80128361",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769504392.7999992,
+      "latitudeDeg": 44.64033333333333,
+      "longitudeDeg": -110.55983333333333,
+      "depthKm": 6.21,
+      "magnitude": 1.68,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NW', 'distanceKM': 16.00681686832522}",
       "version": null
     },
     {
@@ -1495,6 +1495,19 @@
       "magnitude": 2.24,
       "isLocal": true,
       "nearestTown": "{'town': 'Soldier Summit, UT', 'bearing': 'N', 'distanceKM': 20.642379889548092}",
+      "version": null
+    },
+    {
+      "identifier": "uu80128371",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769510416.5699997,
+      "latitudeDeg": 37.35366666666667,
+      "longitudeDeg": -114.06816666666667,
+      "depthKm": 13.91,
+      "magnitude": 1.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Acoma, NV', 'bearing': 'SSE', 'distanceKM': 23.600314868844414}",
       "version": null
     },
     {
