@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-27T20:08:38Z",
+  "fetchedAt": "2026-01-27T20:31:37Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -1508,6 +1508,19 @@
       "magnitude": 1.53,
       "isLocal": true,
       "nearestTown": "{'town': 'Acoma, NV', 'bearing': 'SSE', 'distanceKM': 23.600314868844414}",
+      "version": null
+    },
+    {
+      "identifier": "uu80128396",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769543361.289999,
+      "latitudeDeg": 44.69383333333333,
+      "longitudeDeg": -110.00566666666667,
+      "depthKm": 13.28,
+      "magnitude": 0.93,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Pahaska Tepee, WY', 'bearing': 'N', 'distanceKM': 21.61145950710482}",
       "version": null
     },
     {
