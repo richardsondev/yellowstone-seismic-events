@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3e986e8aa71aff809c519df433778c8a8be065ab",
+    "hashString": "060000c1e835b6e2208eee8cbde31db6095e37ca",
     "events": [
       {
         "identifier": "uu80127586",
@@ -842,6 +842,18 @@
           "bearing": "NE",
           "distanceKM": 11.900477342279242
         }
+      },
+      {
+        "identifier": "nn00910049",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1769510415.93,
+        "latitudeDeg": 37.318,
+        "longitudeDeg": -114.1311,
+        "depthKM": 15.9843,
+        "magnitude": 2.4,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80127581",
