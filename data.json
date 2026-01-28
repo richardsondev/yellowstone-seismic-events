@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-28T13:37:32Z",
+  "fetchedAt": "2026-01-28T14:16:11Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -1079,6 +1079,19 @@
       "magnitude": 1.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Wanship, UT', 'bearing': 'W', 'distanceKM': 18.663794109218706}",
+      "version": null
+    },
+    {
+      "identifier": "uu80128446",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1769593598.4500008,
+      "latitudeDeg": 40.88883333333333,
+      "longitudeDeg": -110.84233333333333,
+      "depthKm": 14.0,
+      "magnitude": 1.22,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'S', 'distanceKM': 33.99436512906808}",
       "version": null
     },
     {
