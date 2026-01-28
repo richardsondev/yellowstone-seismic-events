@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-01-27T22:47:23Z",
+  "fetchedAt": "2026-01-28T02:02:35Z",
   "events": [
     {
       "identifier": "uu80127586",
@@ -234,19 +234,6 @@
       "magnitude": 0.75,
       "isLocal": true,
       "nearestTown": "{'town': 'Midway, UT', 'bearing': 'N', 'distanceKM': 2.7369118157698424}",
-      "version": null
-    },
-    {
-      "identifier": "uu80127386",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1768353500.08,
-      "latitudeDeg": 37.51983333333333,
-      "longitudeDeg": -113.76483333333333,
-      "depthKm": 1.62,
-      "magnitude": 1.59,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Enterprise, UT', 'bearing': 'SW', 'distanceKM': 7.211092018704817}",
       "version": null
     },
     {
@@ -1027,6 +1014,19 @@
       "magnitude": 1.3900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'WSW', 'distanceKM': 4.721931923340337}",
+      "version": null
+    },
+    {
+      "identifier": "nn00910079",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1769563151.617,
+      "latitudeDeg": 37.5701,
+      "longitudeDeg": -115.1511,
+      "depthKm": 14.0827,
+      "magnitude": 1.69,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
