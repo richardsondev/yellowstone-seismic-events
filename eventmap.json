@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "622650c78c4ad489c6a6a041d8c371db4aaaca38",
+    "hashString": "329e5048fd2b38b4f34b14a4de021323375709c3",
     "events": [
       {
         "identifier": "uu80127586",
@@ -1499,11 +1499,11 @@
         "identifier": "nn00910139",
         "authority": "NN",
         "eventType": "eq",
-        "originTimeUTC": 1769709892.641,
-        "latitudeDeg": 36.1274,
-        "longitudeDeg": -114.516,
-        "depthKM": 5.7473,
-        "magnitude": 1.86,
+        "originTimeUTC": 1769709893.703,
+        "latitudeDeg": 36.1082,
+        "longitudeDeg": -114.5975,
+        "depthKM": 0,
+        "magnitude": 1.67,
         "isLocal": false,
         "nearestTown": null
       },
@@ -1549,6 +1549,22 @@
           "town": "Snowville, UT",
           "bearing": "SSW",
           "distanceKM": 29.781713708628065
+        }
+      },
+      {
+        "identifier": "uu80128501",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769710724.5099983,
+        "latitudeDeg": 44.675666666666665,
+        "longitudeDeg": -110.47983333333333,
+        "depthKM": 5.04,
+        "magnitude": 0.72,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NNW",
+          "distanceKM": 15.185405189856983
         }
       },
       {
