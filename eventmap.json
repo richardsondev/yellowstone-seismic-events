@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c605c77fe3c0aa47221b2582dc3cb9f4f4037c2a",
+    "hashString": "5126516ad1d932ca60aa3b2d16992329f16e2d59",
     "events": [
       {
         "identifier": "uu80127586",
@@ -1569,6 +1569,22 @@
           "town": "Soldier Summit, UT",
           "bearing": "N",
           "distanceKM": 20.202833464183627
+        }
+      },
+      {
+        "identifier": "uu80128466",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769653796.0599976,
+        "latitudeDeg": 42.44533333333333,
+        "longitudeDeg": -111.58233333333334,
+        "depthKM": 3.58,
+        "magnitude": 1.82,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Nounan, ID",
+          "bearing": "WSW",
+          "distanceKM": 11.273223841816483
         }
       },
       {
