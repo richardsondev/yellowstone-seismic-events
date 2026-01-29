@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0d8a9ff14af88565588974cbb70d3f0194f2cf2b",
+    "hashString": "c605c77fe3c0aa47221b2582dc3cb9f4f4037c2a",
     "events": [
       {
         "identifier": "uu80127586",
@@ -857,6 +857,22 @@
           "town": "Panguitch, UT",
           "bearing": "WNW",
           "distanceKM": 8.577799064213828
+        }
+      },
+      {
+        "identifier": "uu80128461",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769653109.1299992,
+        "latitudeDeg": 42.44283333333333,
+        "longitudeDeg": -111.61616666666667,
+        "depthKM": 2.8,
+        "magnitude": 2.33,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Thatcher, ID",
+          "bearing": "ENE",
+          "distanceKM": 9.986900531053644
         }
       },
       {
