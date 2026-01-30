@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "61662b7ec68f55b12fcc113872397c4b92d38862",
+    "hashString": "802d3b0a5cde55388b1c5a40b4e7a3afdd3a2b04",
     "events": [
       {
         "identifier": "uu80127586",
@@ -2205,6 +2205,22 @@
           "town": "Paragonah, UT",
           "bearing": "NNE",
           "distanceKM": 19.468171533519758
+        }
+      },
+      {
+        "identifier": "uu80006238",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769704708.8599987,
+        "latitudeDeg": 39.42516666666667,
+        "longitudeDeg": -111.907,
+        "depthKM": 9.02,
+        "magnitude": 0.16,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mills, UT",
+          "bearing": "ESE",
+          "distanceKM": 12.275283239500347
         }
       },
       {
