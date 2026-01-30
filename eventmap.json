@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6059941882d7442b6c205f2d604b04b6bac4aa26",
+    "hashString": "3250499a3e57b4bee8484c3ca7fb8af750cfc588",
     "events": [
       {
         "identifier": "uu80127586",
@@ -1549,6 +1549,22 @@
           "town": "Lake, WY",
           "bearing": "NNW",
           "distanceKM": 15.185405189856983
+        }
+      },
+      {
+        "identifier": "uu80128561",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769761883.4899998,
+        "latitudeDeg": 40.113,
+        "longitudeDeg": -111.10166666666667,
+        "depthKM": 9.52,
+        "magnitude": 1.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Soldier Summit, UT",
+          "bearing": "N",
+          "distanceKM": 20.60447369817025
         }
       },
       {
