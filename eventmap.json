@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3250499a3e57b4bee8484c3ca7fb8af750cfc588",
+    "hashString": "08cebcf60ace69f6da5f5a1c73a6031bd687ee5a",
     "events": [
       {
         "identifier": "uu80127586",
@@ -1465,6 +1465,22 @@
           "town": "Soldier Summit, UT",
           "bearing": "N",
           "distanceKM": 20.10188370240024
+        }
+      },
+      {
+        "identifier": "uu80128536",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769735406.46,
+        "latitudeDeg": 39.63316666666667,
+        "longitudeDeg": -111.22916666666667,
+        "depthKM": -1.19,
+        "magnitude": 1.58,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "WSW",
+          "distanceKM": 6.593918797649409
         }
       },
       {
