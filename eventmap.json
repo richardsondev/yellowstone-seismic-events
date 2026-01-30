@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "52a0ccca5633410f5014c440849d77a7ee356e15",
+    "hashString": "61662b7ec68f55b12fcc113872397c4b92d38862",
     "events": [
       {
         "identifier": "uu80127586",
@@ -2125,6 +2125,22 @@
           "town": "Snowville, UT",
           "bearing": "SSW",
           "distanceKM": 27.49540932107655
+        }
+      },
+      {
+        "identifier": "uu80128581",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769811116.4199982,
+        "latitudeDeg": 36.914,
+        "longitudeDeg": -112.94483333333334,
+        "depthKM": 21.78,
+        "magnitude": 1.94,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cane Beds, AZ",
+          "bearing": "SW",
+          "distanceKM": 5.592556344017363
         }
       },
       {
