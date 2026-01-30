@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8f1773e79d50844c92c6e16ff6ec5595e065ac30",
+    "hashString": "52a0ccca5633410f5014c440849d77a7ee356e15",
     "events": [
       {
         "identifier": "uu80127586",
@@ -921,6 +921,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "NE",
           "distanceKM": 23.686326269251406
+        }
+      },
+      {
+        "identifier": "uu80128566",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769794005.209999,
+        "latitudeDeg": 39.58416666666667,
+        "longitudeDeg": -111.16616666666667,
+        "depthKM": -0.12,
+        "magnitude": 1.5,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "S",
+          "distanceKM": 6.922405174317223
         }
       },
       {
