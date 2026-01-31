@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "802d3b0a5cde55388b1c5a40b4e7a3afdd3a2b04",
+    "hashString": "dc02ba47e33b764f578616b5e0869ad5ae263d19",
     "events": [
       {
         "identifier": "uu80127586",
@@ -33,6 +33,22 @@
           "town": "Lake, WY",
           "bearing": "NNW",
           "distanceKM": 14.189638172289415
+        }
+      },
+      {
+        "identifier": "uu80006243",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769794363.3600006,
+        "latitudeDeg": 39.593666666666664,
+        "longitudeDeg": -111.17433333333334,
+        "depthKM": 1.66,
+        "magnitude": 1.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "SSW",
+          "distanceKM": 6.044756266279403
         }
       },
       {
@@ -1217,6 +1233,22 @@
           "town": "Altamont, WY",
           "bearing": "S",
           "distanceKM": 33.2462190190247
+        }
+      },
+      {
+        "identifier": "uu80006248",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769794256.079998,
+        "latitudeDeg": 39.586333333333336,
+        "longitudeDeg": -111.16883333333334,
+        "depthKM": -0.04,
+        "magnitude": 1.21,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "S",
+          "distanceKM": 6.724062571191222
         }
       },
       {
