@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8123bacc8afaaadb16344a5493d0f57b58489681",
+    "hashString": "ba6b7a717892c028146d717634e701ac6c1bb7f9",
     "events": [
       {
         "identifier": "uu80127796",
@@ -964,6 +964,22 @@
         }
       },
       {
+        "identifier": "uu80128741",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770056373.9399986,
+        "latitudeDeg": 44.80083333333333,
+        "longitudeDeg": -110.841,
+        "depthKM": 4.45,
+        "magnitude": 0.58,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.355125896219793
+        }
+      },
+      {
         "identifier": "uu80128246",
         "authority": "UU",
         "eventType": "eq",
@@ -1053,22 +1069,6 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 18.842146057543793
-        }
-      },
-      {
-        "identifier": "uu80127656",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1768850526.3899999,
-        "latitudeDeg": 44.80316666666667,
-        "longitudeDeg": -110.8385,
-        "depthKM": 4.83,
-        "magnitude": 0.8300000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 22.032678739765164
         }
       },
       {
@@ -1779,16 +1779,16 @@
         "identifier": "uu80128111",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1769274825.3899994,
-        "latitudeDeg": 37.770833333333336,
-        "longitudeDeg": -113.00733333333334,
-        "depthKM": 7.84,
+        "originTimeUTC": 1769274824.8799973,
+        "latitudeDeg": 37.78766666666667,
+        "longitudeDeg": -112.97416666666666,
+        "depthKM": 7.55,
         "magnitude": 1.42,
         "isLocal": true,
         "nearestTown": {
-          "town": "Enoch, UT",
-          "bearing": "E",
-          "distanceKM": 1.5249345946265411
+          "town": "Summit, UT",
+          "bearing": "WSW",
+          "distanceKM": 3.49237151769057
         }
       },
       {
