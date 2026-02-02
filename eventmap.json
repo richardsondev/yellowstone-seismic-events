@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2cd68575f02379eea728e0ad7b526514c2207302",
+    "hashString": "290878c7607a2e95bfa7a8bfc17be129d6d8af8a",
     "events": [
       {
         "identifier": "uu80127796",
@@ -308,6 +308,22 @@
         }
       },
       {
+        "identifier": "uu80128616",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769882977.9199982,
+        "latitudeDeg": 37.7335,
+        "longitudeDeg": -113.06,
+        "depthKM": 1.04,
+        "magnitude": 1.55,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Enoch, UT",
+          "bearing": "SW",
+          "distanceKM": 5.42046229299368
+        }
+      },
+      {
         "identifier": "uu80128271",
         "authority": "UU",
         "eventType": "eq",
@@ -548,6 +564,22 @@
         }
       },
       {
+        "identifier": "uu80128631",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1769895108.0299988,
+        "latitudeDeg": 39.7725,
+        "longitudeDeg": -109.24983333333333,
+        "depthKM": 6,
+        "magnitude": 2.09,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Bonanza, UT",
+          "bearing": "SSW",
+          "distanceKM": 28.26687765766262
+        }
+      },
+      {
         "identifier": "uu80128116",
         "authority": "UU",
         "eventType": "eq",
@@ -721,22 +753,6 @@
           "town": "Soldier Summit, UT",
           "bearing": "N",
           "distanceKM": 20.5305901218942
-        }
-      },
-      {
-        "identifier": "uu80127646",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1768834493.0299988,
-        "latitudeDeg": 44.80166666666667,
-        "longitudeDeg": -110.83966666666667,
-        "depthKM": 5.02,
-        "magnitude": 1.33,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 22.223184035581166
         }
       },
       {
