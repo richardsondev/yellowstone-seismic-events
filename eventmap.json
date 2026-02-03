@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1ed31f77815803161b99eb6ca8cfa52c7f8bf3a2",
+    "hashString": "6688093f0745897c92296d2ee41da04cdc169454",
     "events": [
       {
         "identifier": "uu80127796",
@@ -290,6 +290,18 @@
           "bearing": "S",
           "distanceKM": 35.30276384264955
         }
+      },
+      {
+        "identifier": "nn00910353",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1770156636.854,
+        "latitudeDeg": 36.0101,
+        "longitudeDeg": -115.0511,
+        "depthKM": 15.3157,
+        "magnitude": 1.84,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80128086",
@@ -673,22 +685,6 @@
           "town": "Hamiltons Fort, UT",
           "bearing": "SE",
           "distanceKM": 10.219270905776353
-        }
-      },
-      {
-        "identifier": "uu80127736",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1768947766.869999,
-        "latitudeDeg": 37.46216666666667,
-        "longitudeDeg": -112.87166666666667,
-        "depthKM": 23.08,
-        "magnitude": 0.9,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Brian Head, UT",
-          "bearing": "S",
-          "distanceKM": 25.711099791349664
         }
       },
       {
