@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6e8424f195cddef62fec4ecbf1620935c55b583f",
+    "hashString": "51fb7897a9236b041c65311749e1320b2dc5c712",
     "events": [
       {
         "identifier": "uu80127796",
@@ -617,6 +617,22 @@
           "town": "Bonanza, UT",
           "bearing": "SSW",
           "distanceKM": 28.26687765766262
+        }
+      },
+      {
+        "identifier": "uu80128886",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770217281.1299992,
+        "latitudeDeg": 38.50566666666667,
+        "longitudeDeg": -112.9085,
+        "depthKM": 2.83,
+        "magnitude": 1.1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.021024656233399
         }
       },
       {
