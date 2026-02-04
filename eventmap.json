@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "15abcedecc2ec6df38f92bd4d99c1391ae852f30",
+    "hashString": "9f873e29c637b8fe4d36fdd92865d8546e487939",
     "events": [
       {
         "identifier": "uu80006243",
@@ -873,6 +873,22 @@
           "town": "Lake, WY",
           "bearing": "NW",
           "distanceKM": 16.00681686832522
+        }
+      },
+      {
+        "identifier": "uu80128921",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770244616.8400002,
+        "latitudeDeg": 37.78033333333333,
+        "longitudeDeg": -113.0885,
+        "depthKM": 11.2,
+        "magnitude": 1.6300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Enoch, UT",
+          "bearing": "W",
+          "distanceKM": 5.6876966346899005
         }
       },
       {
@@ -2266,18 +2282,6 @@
           "bearing": "S",
           "distanceKM": 33.659913050482544
         }
-      },
-      {
-        "identifier": "nn00909820",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1769037960.263,
-        "latitudeDeg": 36.4873,
-        "longitudeDeg": -115.0975,
-        "depthKM": 0.0006,
-        "magnitude": 1.85,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80128816",
