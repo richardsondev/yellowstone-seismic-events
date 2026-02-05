@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a5b223eb87a04691ed72b8d91137068d8321d37e",
+    "hashString": "777ac8764e56277ce61d88aacdece5cdd5159aab",
     "events": [
       {
         "identifier": "uu80006243",
@@ -1689,6 +1689,22 @@
           "town": "Saratoga Springs, UT",
           "bearing": "NNW",
           "distanceKM": 6.14168906468788
+        }
+      },
+      {
+        "identifier": "uu80128931",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770267006.33,
+        "latitudeDeg": 44.345666666666666,
+        "longitudeDeg": -110.838,
+        "depthKM": 7.91,
+        "magnitude": 1.6500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "S",
+          "distanceKM": 12.671687659539709
         }
       },
       {

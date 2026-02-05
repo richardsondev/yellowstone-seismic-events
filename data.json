@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-05T08:22:14Z",
+  "fetchedAt": "2026-02-05T14:22:29Z",
   "events": [
     {
       "identifier": "uu80006243",
@@ -1404,6 +1404,19 @@
       "magnitude": 0.51,
       "isLocal": true,
       "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'NNW', 'distanceKM': 6.14168906468788}",
+      "version": null
+    },
+    {
+      "identifier": "uu80128931",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1770267006.33,
+      "latitudeDeg": 44.345666666666666,
+      "longitudeDeg": -110.838,
+      "depthKm": 7.91,
+      "magnitude": 1.6500000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 12.671687659539709}",
       "version": null
     },
     {
