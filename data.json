@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-05T19:52:25Z",
+  "fetchedAt": "2026-02-05T20:12:02Z",
   "events": [
     {
       "identifier": "uu80006243",
@@ -13,6 +13,19 @@
       "magnitude": 1.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'SSW', 'distanceKM': 6.044756266279403}",
+      "version": null
+    },
+    {
+      "identifier": "uu80128996",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1770321190.3199997,
+      "latitudeDeg": 40.405166666666666,
+      "longitudeDeg": -111.9305,
+      "depthKm": 7.72,
+      "magnitude": 3.5,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'NNW', 'distanceKM': 6.609100571460655}",
       "version": null
     },
     {
