@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d6133423f94ca5e6e7df1e8644507aa51f8fba38",
+    "hashString": "db6592a0fcc0db4bb0a18a0c7d2563edb1074c4b",
     "events": [
       {
         "identifier": "uu80006243",
@@ -1825,6 +1825,22 @@
           "town": "Hamiltons Fort, UT",
           "bearing": "SE",
           "distanceKM": 10.097466940349392
+        }
+      },
+      {
+        "identifier": "uu80129026",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770355304.579998,
+        "latitudeDeg": 39.50416666666667,
+        "longitudeDeg": -111.00983333333333,
+        "depthKM": 3.31,
+        "magnitude": 0.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hiawatha, UT",
+          "bearing": "N",
+          "distanceKM": 2.2411867844256324
         }
       },
       {
