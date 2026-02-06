@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-06T14:20:15Z",
+  "fetchedAt": "2026-02-06T15:21:03Z",
   "events": [
     {
       "identifier": "uu80006243",
@@ -442,6 +442,19 @@
       "magnitude": 2.59,
       "isLocal": true,
       "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 9.567232532520041}",
+      "version": null
+    },
+    {
+      "identifier": "uu80129036",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1770372666.56,
+      "latitudeDeg": 40.41166666666667,
+      "longitudeDeg": -111.936,
+      "depthKm": 4.79,
+      "magnitude": 1.97,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'NNW', 'distanceKM': 7.448167064200025}",
       "version": null
     },
     {
