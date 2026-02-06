@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c05987376fa558dc424de57021ccb028bcb2d534",
+    "hashString": "d6133423f94ca5e6e7df1e8644507aa51f8fba38",
     "events": [
       {
         "identifier": "uu80006243",
@@ -393,6 +393,22 @@
           "town": "Hamiltons Fort, UT",
           "bearing": "SE",
           "distanceKM": 9.53776872234368
+        }
+      },
+      {
+        "identifier": "uu80129041",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770381914.4799995,
+        "latitudeDeg": 44.797,
+        "longitudeDeg": -110.84633333333333,
+        "depthKM": 4.93,
+        "magnitude": 0.5,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.9323257641652
         }
       },
       {
@@ -796,6 +812,22 @@
         }
       },
       {
+        "identifier": "uu80006268",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770369782.5,
+        "latitudeDeg": 39.564166666666665,
+        "longitudeDeg": -111.399,
+        "depthKM": 1.99,
+        "magnitude": 1.1300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mount Pleasant, UT",
+          "bearing": "ENE",
+          "distanceKM": 5.210499701431104
+        }
+      },
+      {
         "identifier": "uu80006258",
         "authority": "UU",
         "eventType": "eq",
@@ -1110,18 +1142,6 @@
           "bearing": "S",
           "distanceKM": 6.724062571191222
         }
-      },
-      {
-        "identifier": "us6000s6w9",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1770372666.698,
-        "latitudeDeg": 40.4267,
-        "longitudeDeg": -111.9475,
-        "depthKM": 9.607,
-        "magnitude": 2.1,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80128651",
@@ -1917,6 +1937,22 @@
           "town": "Saratoga Springs, UT",
           "bearing": "N",
           "distanceKM": 7.682382713063999
+        }
+      },
+      {
+        "identifier": "uu80006273",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770341247.4300003,
+        "latitudeDeg": 39.843333333333334,
+        "longitudeDeg": -112.00733333333334,
+        "depthKM": 9.51,
+        "magnitude": 0.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Elberta, UT",
+          "bearing": "SSW",
+          "distanceKM": 12.854749783913324
         }
       },
       {
