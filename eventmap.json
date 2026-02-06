@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "86953f37c575dd48c14b16c4304bee73f49ca7b5",
+    "hashString": "af692842bf7bd1eea9efa3304ffd1eb41ced9728",
     "events": [
       {
         "identifier": "uu80006243",
@@ -1329,6 +1329,22 @@
           "town": "Clear Creek, UT",
           "bearing": "WSW",
           "distanceKM": 6.593918797649409
+        }
+      },
+      {
+        "identifier": "uu80129051",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770401574.8799973,
+        "latitudeDeg": 44.476,
+        "longitudeDeg": -110.76083333333334,
+        "depthKM": 4.31,
+        "magnitude": 1.08,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "ENE",
+          "distanceKM": 6.1311290730495465
         }
       },
       {

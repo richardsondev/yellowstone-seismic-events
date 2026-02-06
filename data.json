@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-06T17:57:17Z",
+  "fetchedAt": "2026-02-06T19:01:42Z",
   "events": [
     {
       "identifier": "uu80006243",
@@ -1092,6 +1092,19 @@
       "magnitude": 1.58,
       "isLocal": true,
       "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'WSW', 'distanceKM': 6.593918797649409}",
+      "version": null
+    },
+    {
+      "identifier": "uu80129051",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1770401574.8799973,
+      "latitudeDeg": 44.476,
+      "longitudeDeg": -110.76083333333334,
+      "depthKm": 4.31,
+      "magnitude": 1.08,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'ENE', 'distanceKM': 6.1311290730495465}",
       "version": null
     },
     {
