@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "af692842bf7bd1eea9efa3304ffd1eb41ced9728",
+    "hashString": "85ee5dfa22c96e2d016782845530e0cb04cebcf8",
     "events": [
       {
         "identifier": "uu80006243",
@@ -1581,6 +1581,22 @@
           "town": "Altamont, WY",
           "bearing": "S",
           "distanceKM": 33.86391898762225
+        }
+      },
+      {
+        "identifier": "uu80129071",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770420635.2799988,
+        "latitudeDeg": 39.5775,
+        "longitudeDeg": -111.23066666666666,
+        "depthKM": -3.42,
+        "magnitude": 1.44,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "SW",
+          "distanceKM": 10.037618101861172
         }
       },
       {
