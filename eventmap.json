@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f7d690066f79572da3013a1ee3277378a0aeb343",
+    "hashString": "2ca950e158253e0b1ff8fefa90e6fcc47cf4cef9",
     "events": [
       {
         "identifier": "uu80006243",
@@ -33,22 +33,6 @@
           "town": "Saratoga Springs, UT",
           "bearing": "NNW",
           "distanceKM": 7.210071643463198
-        }
-      },
-      {
-        "identifier": "uu80128296",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1769435607.7699986,
-        "latitudeDeg": 44.605,
-        "longitudeDeg": -110.6895,
-        "depthKM": 7.6,
-        "magnitude": 1.27,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Old Faithful, WY",
-          "bearing": "NE",
-          "distanceKM": 19.841361117068555
         }
       },
       {
@@ -556,22 +540,6 @@
         }
       },
       {
-        "identifier": "uu80006118",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1769435640.07,
-        "latitudeDeg": 44.60583333333334,
-        "longitudeDeg": -110.7145,
-        "depthKM": 8.74,
-        "magnitude": 1.6300000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Old Faithful, WY",
-          "bearing": "NNE",
-          "distanceKM": 18.842146057543793
-        }
-      },
-      {
         "identifier": "uu80128946",
         "authority": "UU",
         "eventType": "eq",
@@ -846,6 +814,22 @@
         "magnitude": 2.6,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80129081",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770451429.619999,
+        "latitudeDeg": 44.75116666666667,
+        "longitudeDeg": -111.0845,
+        "depthKM": 11.55,
+        "magnitude": 1.24,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "N",
+          "distanceKM": 10.02415812993721
+        }
       },
       {
         "identifier": "uu80128601",
@@ -1204,6 +1188,22 @@
         }
       },
       {
+        "identifier": "uu80129086",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770451625.9699998,
+        "latitudeDeg": 44.74966666666667,
+        "longitudeDeg": -111.08633333333333,
+        "depthKM": 11.46,
+        "magnitude": 2.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "N",
+          "distanceKM": 9.83768389449579
+        }
+      },
+      {
         "identifier": "nn00910361",
         "authority": "NN",
         "eventType": "eq",
@@ -1229,6 +1229,22 @@
           "town": "Clear Creek, UT",
           "bearing": "WSW",
           "distanceKM": 7.3549052286914165
+        }
+      },
+      {
+        "identifier": "uu80129076",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770448338.7700005,
+        "latitudeDeg": 44.7475,
+        "longitudeDeg": -111.08233333333334,
+        "depthKM": 10.21,
+        "magnitude": 0.79,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "N",
+          "distanceKM": 9.650601678055839
         }
       },
       {
