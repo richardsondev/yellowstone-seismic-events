@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d13fd6c8d9d10171235f822b22e741a96ce85e1f",
+    "hashString": "0419a5b095dc554d2dc27dec40ea1cd4d199538f",
     "events": [
       {
         "identifier": "uu80006243",
@@ -729,6 +729,22 @@
           "town": "Clear Creek, UT",
           "bearing": "WSW",
           "distanceKM": 7.82124046425933
+        }
+      },
+      {
+        "identifier": "uu80129321",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770710874.459999,
+        "latitudeDeg": 36.923833333333334,
+        "longitudeDeg": -111.81916666666666,
+        "depthKM": 6.02,
+        "magnitude": 1.73,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Marble Canyon, AZ",
+          "bearing": "NW",
+          "distanceKM": 20.04297477269029
         }
       },
       {
