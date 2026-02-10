@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-10T20:18:30Z",
+  "fetchedAt": "2026-02-10T21:34:47Z",
   "events": [
     {
       "identifier": "uu80006243",
@@ -1121,19 +1121,6 @@
       "version": null
     },
     {
-      "identifier": "nn00910065",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1769548347.0,
-      "latitudeDeg": 35.7862,
-      "longitudeDeg": -115.1398,
-      "depthKm": 8.0968,
-      "magnitude": 2.0,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80129256",
       "authority": "UU",
       "eventType": "eq",
@@ -1157,6 +1144,19 @@
       "magnitude": 0.88,
       "isLocal": true,
       "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'S', 'distanceKM': 33.91072465855966}",
+      "version": null
+    },
+    {
+      "identifier": "uu80129346",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1770755640.81,
+      "latitudeDeg": 44.64983333333333,
+      "longitudeDeg": -110.429,
+      "depthKm": 6.19,
+      "magnitude": 2.06,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 11.19710257966724}",
       "version": null
     },
     {
