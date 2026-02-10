@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5430b199457e1093d16fc33ce36dafa254f20844",
+    "hashString": "aa62983b72f9bf5550eddf36d27f40ccc5630c59",
     "events": [
       {
         "identifier": "uu80006243",
@@ -1360,18 +1360,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "nn00910065",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1769548347,
-        "latitudeDeg": 35.7862,
-        "longitudeDeg": -115.1398,
-        "depthKM": 8.0968,
-        "magnitude": 2,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80129256",
         "authority": "UU",
         "eventType": "eq",
@@ -1401,6 +1389,22 @@
           "town": "Altamont, WY",
           "bearing": "S",
           "distanceKM": 33.91072465855966
+        }
+      },
+      {
+        "identifier": "uu80129346",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770755640.81,
+        "latitudeDeg": 44.64983333333333,
+        "longitudeDeg": -110.429,
+        "depthKM": 6.19,
+        "magnitude": 2.06,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NNW",
+          "distanceKM": 11.19710257966724
         }
       },
       {
