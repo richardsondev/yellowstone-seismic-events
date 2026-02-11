@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-11T10:04:12Z",
+  "fetchedAt": "2026-02-11T21:52:59Z",
   "events": [
     {
       "identifier": "uu80006243",
@@ -884,6 +884,19 @@
       "magnitude": 1.82,
       "isLocal": true,
       "nearestTown": "{'town': 'Nounan, ID', 'bearing': 'WSW', 'distanceKM': 11.273223841816483}",
+      "version": null
+    },
+    {
+      "identifier": "uu80129411",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1770844756.75,
+      "latitudeDeg": 44.8005,
+      "longitudeDeg": -110.83383333333333,
+      "depthKm": 5.71,
+      "magnitude": 1.48,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.119918074450396}",
       "version": null
     },
     {
