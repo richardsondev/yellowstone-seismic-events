@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-12T14:25:40Z",
+  "fetchedAt": "2026-02-12T15:00:36Z",
   "events": [
     {
       "identifier": "uu80006243",
@@ -754,6 +754,19 @@
       "magnitude": 0.39,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'ESE', 'distanceKM': 11.596131475255152}",
+      "version": null
+    },
+    {
+      "identifier": "uu80129436",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1770860478.4499989,
+      "latitudeDeg": 41.72533333333333,
+      "longitudeDeg": -109.8605,
+      "depthKm": -3.41,
+      "magnitude": 2.74,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Westvaco, WY', 'bearing': 'NNW', 'distanceKM': 12.086354004500876}",
       "version": null
     },
     {
