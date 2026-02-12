@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f673fe644b2addcc9dde95a1bf279eb55940c964",
+    "hashString": "36233ebc55b4dcd55aba234752ada54172481a21",
     "events": [
       {
         "identifier": "uu80006243",
@@ -921,6 +921,22 @@
           "town": "Grayling, MT",
           "bearing": "ESE",
           "distanceKM": 11.596131475255152
+        }
+      },
+      {
+        "identifier": "uu80129436",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1770860478.4499989,
+        "latitudeDeg": 41.72533333333333,
+        "longitudeDeg": -109.8605,
+        "depthKM": -3.41,
+        "magnitude": 2.74,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Westvaco, WY",
+          "bearing": "NNW",
+          "distanceKM": 12.086354004500876
         }
       },
       {
