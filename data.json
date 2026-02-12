@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-12T07:03:02Z",
+  "fetchedAt": "2026-02-12T14:25:40Z",
   "events": [
     {
       "identifier": "uu80006243",
@@ -26,6 +26,19 @@
       "magnitude": 3.5,
       "isLocal": true,
       "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'NNW', 'distanceKM': 7.210071643463198}",
+      "version": null
+    },
+    {
+      "identifier": "uu80129431",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1770856184.1299973,
+      "latitudeDeg": 44.797333333333334,
+      "longitudeDeg": -110.86133333333333,
+      "depthKm": 5.1,
+      "magnitude": 0.98,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.503241022759163}",
       "version": null
     },
     {
@@ -1170,6 +1183,19 @@
       "magnitude": 0.64,
       "isLocal": true,
       "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 10.8147264515294}",
+      "version": null
+    },
+    {
+      "identifier": "uu80129426",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1770854117.25,
+      "latitudeDeg": 42.373333333333335,
+      "longitudeDeg": -111.42566666666667,
+      "depthKm": 4.85,
+      "magnitude": 2.05,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Sharon, ID', 'bearing': 'ENE', 'distanceKM': 5.159355230259126}",
       "version": null
     },
     {
