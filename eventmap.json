@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "355ffebbf3481b7d4f49e270002c5176990bc6fa",
+    "hashString": "57f0a6345d522f2aeee29241dab8b45341d921b9",
     "events": [
       {
         "identifier": "uu80128996",
@@ -97,6 +97,22 @@
           "town": "Saratoga Springs, UT",
           "bearing": "N",
           "distanceKM": 7.108519300224736
+        }
+      },
+      {
+        "identifier": "uu80006363",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771055327.6399994,
+        "latitudeDeg": 40.718,
+        "longitudeDeg": -112.018,
+        "depthKM": 8.64,
+        "magnitude": 0.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kearns, UT",
+          "bearing": "NNW",
+          "distanceKM": 7.267347143608845
         }
       },
       {
@@ -1077,6 +1093,22 @@
           "town": "Altamont, WY",
           "bearing": "SSW",
           "distanceKM": 33.33299393912973
+        }
+      },
+      {
+        "identifier": "uu80006368",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771043493.9099998,
+        "latitudeDeg": 40.712,
+        "longitudeDeg": -112.01333333333334,
+        "depthKM": 8.77,
+        "magnitude": -0.03,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kearns, UT",
+          "bearing": "N",
+          "distanceKM": 6.535092386156619
         }
       },
       {
