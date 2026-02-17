@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "57df0878e8827f905913b986f6445d5e96b17cab",
+    "hashString": "d45012c22eb629030309a873c7ad81d51817814e",
     "events": [
       {
         "identifier": "uu80128996",
@@ -1064,6 +1064,22 @@
         }
       },
       {
+        "identifier": "uu80129591",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771039484.0599976,
+        "latitudeDeg": 40.71516666666667,
+        "longitudeDeg": -112.01983333333334,
+        "depthKM": 9.47,
+        "magnitude": 0.8200000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kearns, UT",
+          "bearing": "NNW",
+          "distanceKM": 6.99678388400175
+        }
+      },
+      {
         "identifier": "uu80129306",
         "authority": "UU",
         "eventType": "eq",
@@ -1121,6 +1137,22 @@
           "town": "Lake, WY",
           "bearing": "N",
           "distanceKM": 22.54556424706599
+        }
+      },
+      {
+        "identifier": "uu80006353",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771069706.0499992,
+        "latitudeDeg": 40.720333333333336,
+        "longitudeDeg": -112.024,
+        "depthKM": 9.41,
+        "magnitude": 0.08,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Magna, UT",
+          "bearing": "ENE",
+          "distanceKM": 7.279201376166956
         }
       },
       {
