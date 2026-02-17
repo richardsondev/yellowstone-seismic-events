@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-17T15:37:19Z",
+  "fetchedAt": "2026-02-17T16:03:13Z",
   "events": [
     {
       "identifier": "uu80128996",
@@ -234,6 +234,19 @@
       "magnitude": 1.37,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 21.58437363958206}",
+      "version": null
+    },
+    {
+      "identifier": "uu80129616",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771055781.7199993,
+      "latitudeDeg": 40.721,
+      "longitudeDeg": -112.02116666666667,
+      "depthKm": 8.78,
+      "magnitude": 0.71,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Magna, UT', 'bearing': 'ENE', 'distanceKM': 7.528825884862062}",
       "version": null
     },
     {
