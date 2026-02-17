@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-17T19:02:23Z",
+  "fetchedAt": "2026-02-17T19:37:27Z",
   "events": [
     {
       "identifier": "uu80128996",
@@ -1017,6 +1017,19 @@
       "version": null
     },
     {
+      "identifier": "uu80006343",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771173136.289999,
+      "latitudeDeg": 39.36533333333333,
+      "longitudeDeg": -111.8175,
+      "depthKm": 12.81,
+      "magnitude": 1.27,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'NNE', 'distanceKM': 15.941245644068934}",
+      "version": null
+    },
+    {
       "identifier": "uu80129636",
       "authority": "UU",
       "eventType": "eq",
@@ -1352,6 +1365,19 @@
       "magnitude": 1.32,
       "isLocal": true,
       "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 10.74653442205963}",
+      "version": null
+    },
+    {
+      "identifier": "uu80129551",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771027037.3999996,
+      "latitudeDeg": 44.60366666666667,
+      "longitudeDeg": -110.42766666666667,
+      "depthKm": 4.47,
+      "magnitude": 1.6600000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 6.209679845820592}",
       "version": null
     },
     {
