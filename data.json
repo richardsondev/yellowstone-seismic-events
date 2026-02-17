@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-17T20:14:59Z",
+  "fetchedAt": "2026-02-17T21:16:49Z",
   "events": [
     {
       "identifier": "uu80128996",
@@ -1053,6 +1053,19 @@
       "magnitude": 1.6500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 12.671687659539709}",
+      "version": null
+    },
+    {
+      "identifier": "nn00910896",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1771254297.945,
+      "latitudeDeg": 38.446,
+      "longitudeDeg": -115.1429,
+      "depthKm": 11.3894,
+      "magnitude": 1.7,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
