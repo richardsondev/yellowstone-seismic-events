@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-17T18:24:15Z",
+  "fetchedAt": "2026-02-17T19:02:23Z",
   "events": [
     {
       "identifier": "uu80128996",
@@ -380,6 +380,19 @@
       "version": null
     },
     {
+      "identifier": "uu80129546",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771026803.3500004,
+      "latitudeDeg": 44.604166666666664,
+      "longitudeDeg": -110.43166666666667,
+      "depthKm": 4.53,
+      "magnitude": 1.69,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 6.375089523771263}",
+      "version": null
+    },
+    {
       "identifier": "uu80129286",
       "authority": "UU",
       "eventType": "eq",
@@ -484,16 +497,16 @@
       "version": null
     },
     {
-      "identifier": "us6000s887",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1770853533.632,
-      "latitudeDeg": 40.4367,
-      "longitudeDeg": -111.9815,
-      "depthKm": 10.0,
-      "magnitude": 1.6,
-      "isLocal": false,
-      "nearestTown": null,
+      "identifier": "uu80129421",
+      "authority": "UU",
+      "eventType": "qb",
+      "originTimeUtc": 1770853532.5299988,
+      "latitudeDeg": 40.39183333333333,
+      "longitudeDeg": -111.9555,
+      "depthKm": -2.0,
+      "magnitude": 1.5,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'NW', 'distanceKM': 6.41660395767336}",
       "version": null
     },
     {
@@ -1001,19 +1014,6 @@
       "magnitude": 1.6500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 12.671687659539709}",
-      "version": null
-    },
-    {
-      "identifier": "us6000s8fu",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1770878645.065,
-      "latitudeDeg": 40.4252,
-      "longitudeDeg": -111.9314,
-      "depthKm": 6.219,
-      "magnitude": 1.8,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
