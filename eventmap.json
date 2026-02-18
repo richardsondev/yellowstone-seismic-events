@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f113a68271c45ebc603adaf7015e86c4b8248718",
+    "hashString": "69c3eeedcd0b2ab3181646c87cb8e71d1c79da46",
     "events": [
       {
         "identifier": "uu80128996",
@@ -129,6 +129,22 @@
           "town": "Wattis, UT",
           "bearing": "N",
           "distanceKM": 8.76765643684961
+        }
+      },
+      {
+        "identifier": "uu80006393",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771405007.8899994,
+        "latitudeDeg": 44.45433333333333,
+        "longitudeDeg": -110.9995,
+        "depthKM": 4.4,
+        "magnitude": 0.6,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "W",
+          "distanceKM": 13.100933624288416
         }
       },
       {
@@ -452,19 +468,19 @@
         }
       },
       {
-        "identifier": "uu80128886",
+        "identifier": "uu80006388",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1770217281.1299992,
-        "latitudeDeg": 38.50566666666667,
-        "longitudeDeg": -112.9085,
-        "depthKM": 2.83,
-        "magnitude": 1.1,
+        "originTimeUTC": 1771404989.3199997,
+        "latitudeDeg": 44.45333333333333,
+        "longitudeDeg": -110.98316666666666,
+        "depthKM": 2.37,
+        "magnitude": 1.12,
         "isLocal": true,
         "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.021024656233399
+          "town": "Old Faithful, WY",
+          "bearing": "W",
+          "distanceKM": 11.812161218937513
         }
       },
       {
