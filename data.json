@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-18T17:58:29Z",
+  "fetchedAt": "2026-02-18T18:25:13Z",
   "events": [
     {
       "identifier": "uu80128996",
@@ -585,6 +585,19 @@
       "magnitude": 0.47000000000000003,
       "isLocal": true,
       "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'ESE', 'distanceKM': 4.918335482006839}",
+      "version": null
+    },
+    {
+      "identifier": "uu80130321",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771436043.1999998,
+      "latitudeDeg": 44.771166666666666,
+      "longitudeDeg": -111.11683333333333,
+      "depthKm": 9.32,
+      "magnitude": 1.19,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'ESE', 'distanceKM': 6.8419575715712275}",
       "version": null
     },
     {

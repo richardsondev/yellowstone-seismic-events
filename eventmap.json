@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "307d6b630229437fd34b5baa43b9ade7d36b9769",
+    "hashString": "fd4f637fcde3958172e551278da69bd83ba614e6",
     "events": [
       {
         "identifier": "uu80128996",
@@ -721,6 +721,22 @@
           "town": "Saltair, UT",
           "bearing": "ESE",
           "distanceKM": 4.918335482006839
+        }
+      },
+      {
+        "identifier": "uu80130321",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771436043.1999998,
+        "latitudeDeg": 44.771166666666666,
+        "longitudeDeg": -111.11683333333333,
+        "depthKM": 9.32,
+        "magnitude": 1.19,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "ESE",
+          "distanceKM": 6.8419575715712275
         }
       },
       {
