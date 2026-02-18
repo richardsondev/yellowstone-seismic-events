@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-18T19:37:21Z",
+  "fetchedAt": "2026-02-18T20:18:36Z",
   "events": [
     {
       "identifier": "uu80128996",
@@ -351,6 +351,19 @@
       "magnitude": 1.97,
       "isLocal": true,
       "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'NNW', 'distanceKM': 7.448167064200025}",
+      "version": null
+    },
+    {
+      "identifier": "uu80130336",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771443536.4099998,
+      "latitudeDeg": 38.10633333333333,
+      "longitudeDeg": -112.26083333333334,
+      "depthKm": 8.45,
+      "magnitude": 1.34,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Circleville, UT', 'bearing': 'S', 'distanceKM': 7.30639776673702}",
       "version": null
     },
     {
