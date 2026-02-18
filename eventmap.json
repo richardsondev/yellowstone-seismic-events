@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "daaecbf50132b28fea9b78fbac18a4e622611013",
+    "hashString": "39ded7c31fda18af8820f47960402c3357822719",
     "events": [
       {
         "identifier": "uu80128996",
@@ -433,6 +433,22 @@
           "town": "Saratoga Springs, UT",
           "bearing": "NNW",
           "distanceKM": 7.448167064200025
+        }
+      },
+      {
+        "identifier": "uu80130336",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771443536.4099998,
+        "latitudeDeg": 38.10633333333333,
+        "longitudeDeg": -112.26083333333334,
+        "depthKM": 8.45,
+        "magnitude": 1.34,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "S",
+          "distanceKM": 7.30639776673702
         }
       },
       {
