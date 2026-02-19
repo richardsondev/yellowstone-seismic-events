@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e6176404fbd39c2a453521a764e0f58e1c5f1e96",
+    "hashString": "380ea164107326297396fc2652c93dbd6f44eac4",
     "events": [
       {
         "identifier": "uu80128996",
@@ -71,16 +71,16 @@
         "identifier": "uu80130356",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1771485223.1299973,
-        "latitudeDeg": 40.884,
-        "longitudeDeg": -110.848,
-        "depthKM": 13.54,
+        "originTimeUTC": 1771485222.9199982,
+        "latitudeDeg": 40.89,
+        "longitudeDeg": -110.8315,
+        "depthKM": 13.46,
         "magnitude": 1.01,
         "isLocal": true,
         "nearestTown": {
           "town": "Altamont, WY",
           "bearing": "S",
-          "distanceKM": 34.58994563658729
+          "distanceKM": 33.76243131390026
         }
       },
       {
@@ -241,6 +241,22 @@
           "town": "Kanosh, UT",
           "bearing": "WSW",
           "distanceKM": 14.920219768323433
+        }
+      },
+      {
+        "identifier": "uu80130346",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771478874.619999,
+        "latitudeDeg": 44.660333333333334,
+        "longitudeDeg": -110.67133333333334,
+        "depthKM": 5.45,
+        "magnitude": -0.13,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "WNW",
+          "distanceKM": 24.593944082476796
         }
       },
       {
@@ -417,6 +433,22 @@
           "town": "Magna, UT",
           "bearing": "ENE",
           "distanceKM": 7.9394168791440904
+        }
+      },
+      {
+        "identifier": "uu80130361",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771496601.5499992,
+        "latitudeDeg": 44.80166666666667,
+        "longitudeDeg": -110.832,
+        "depthKM": 5.6,
+        "magnitude": 1.49,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 21.938029720318568
         }
       },
       {
@@ -1458,22 +1490,6 @@
         "magnitude": 2.08,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80128956",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1770301973.7399979,
-        "latitudeDeg": 39.8475,
-        "longitudeDeg": -112.00066666666666,
-        "depthKM": 10.1,
-        "magnitude": 1.1,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Elberta, UT",
-          "bearing": "SSW",
-          "distanceKM": 12.238253603833305
-        }
       },
       {
         "identifier": "uu80006378",
