@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "000ece09def38a3f1c2277b25a6b5f53b12f2801",
+    "hashString": "5a2be6ed3d099127042f13012938cb39ddf54253",
     "events": [
       {
         "identifier": "uu80129431",
@@ -609,6 +609,22 @@
           "town": "Hanksville, UT",
           "bearing": "ESE",
           "distanceKM": 40.525463411915055
+        }
+      },
+      {
+        "identifier": "uu80130391",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771602695.7199974,
+        "latitudeDeg": 38.0855,
+        "longitudeDeg": -112.25883333333333,
+        "depthKM": 6.9,
+        "magnitude": 1.18,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "S",
+          "distanceKM": 9.628115115582705
         }
       },
       {
