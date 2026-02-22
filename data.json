@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-22T15:31:52Z",
+  "fetchedAt": "2026-02-22T16:51:51Z",
   "events": [
     {
       "identifier": "uu80129431",
@@ -234,6 +234,19 @@
       "magnitude": 1.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Millville, UT', 'bearing': 'E', 'distanceKM': 13.959107129565028}",
+      "version": null
+    },
+    {
+      "identifier": "us6000sasu",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1771777318.642,
+      "latitudeDeg": 39.5787,
+      "longitudeDeg": -111.192,
+      "depthKm": 11.767,
+      "magnitude": 2.9,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {

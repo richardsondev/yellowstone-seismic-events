@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "23031ce93a58d25d6841d190d4d4e48ab984284c",
+    "hashString": "931438bc25ae565cec7acc5a9b047aae36887121",
     "events": [
       {
         "identifier": "uu80129431",
@@ -282,6 +282,18 @@
           "bearing": "E",
           "distanceKM": 13.959107129565028
         }
+      },
+      {
+        "identifier": "us6000sasu",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1771777318.642,
+        "latitudeDeg": 39.5787,
+        "longitudeDeg": -111.192,
+        "depthKM": 11.767,
+        "magnitude": 2.9,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80129601",
