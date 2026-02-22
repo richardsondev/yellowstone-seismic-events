@@ -27,19 +27,6 @@
       "version": null
     },
     {
-      "identifier": "us6000sak6",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1771644857.161,
-      "latitudeDeg": 39.3222,
-      "longitudeDeg": -111.9329,
-      "depthKm": 5.0,
-      "magnitude": 2.5,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80129446",
       "authority": "UU",
       "eventType": "eq",
@@ -50,6 +37,19 @@
       "magnitude": 1.6600000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'N', 'distanceKM': 7.108519300224736}",
+      "version": null
+    },
+    {
+      "identifier": "uu80130486",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771757615.4300003,
+      "latitudeDeg": 38.3085,
+      "longitudeDeg": -112.55733333333333,
+      "depthKm": 7.83,
+      "magnitude": 2.68,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'ENE', 'distanceKM': 8.1110787767823}",
       "version": null
     },
     {
@@ -232,19 +232,6 @@
       "magnitude": 1.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Millville, UT', 'bearing': 'E', 'distanceKM': 13.959107129565028}",
-      "version": null
-    },
-    {
-      "identifier": "us6000sasu",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1771777318.642,
-      "latitudeDeg": 39.5787,
-      "longitudeDeg": -111.192,
-      "depthKm": 11.767,
-      "magnitude": 2.9,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -560,6 +547,19 @@
       "version": null
     },
     {
+      "identifier": "uu80130491",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771777318.2199974,
+      "latitudeDeg": 39.597166666666666,
+      "longitudeDeg": -111.20733333333334,
+      "depthKm": -2.66,
+      "magnitude": 2.7600000000000002,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'SW', 'distanceKM': 7.075959385977756}",
+      "version": null
+    },
+    {
       "identifier": "uu80006383",
       "authority": "UU",
       "eventType": "eq",
@@ -570,6 +570,19 @@
       "magnitude": 0.21,
       "isLocal": true,
       "nearestTown": "{'town': 'Kearns, UT', 'bearing': 'NNW', 'distanceKM': 7.012405410134307}",
+      "version": null
+    },
+    {
+      "identifier": "uu80130416",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771644856.2600002,
+      "latitudeDeg": 39.334,
+      "longitudeDeg": -111.96216666666666,
+      "depthKm": -2.91,
+      "magnitude": 2.5100000000000002,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'NW', 'distanceKM': 15.13021874973738}",
       "version": null
     },
     {
