@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "32668b218c375ef77f3ea7149186c675091f2dcf",
+    "hashString": "79771160606fc339134fcd7b4c61f162246d8ce2",
     "events": [
       {
         "identifier": "uu80129431",
@@ -129,6 +129,22 @@
           "town": "Magna, UT",
           "bearing": "SE",
           "distanceKM": 3.5139958384221086
+        }
+      },
+      {
+        "identifier": "uu80130501",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771779883.4500008,
+        "latitudeDeg": 44.7965,
+        "longitudeDeg": -110.83383333333333,
+        "depthKM": 5.09,
+        "magnitude": 1.34,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 22.514987332871854
         }
       },
       {
@@ -655,16 +671,16 @@
         "identifier": "uu80130491",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1771777318.2199974,
-        "latitudeDeg": 39.597166666666666,
-        "longitudeDeg": -111.20733333333334,
-        "depthKM": -2.66,
-        "magnitude": 2.7600000000000002,
+        "originTimeUTC": 1771777318.3400002,
+        "latitudeDeg": 39.60033333333333,
+        "longitudeDeg": -111.2095,
+        "depthKM": -1.74,
+        "magnitude": 2.81,
         "isLocal": true,
         "nearestTown": {
           "town": "Clear Creek, UT",
           "bearing": "SW",
-          "distanceKM": 7.075959385977756
+          "distanceKM": 6.93719624614804
         }
       },
       {
