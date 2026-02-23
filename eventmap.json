@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "cf3c10e33f6e8d94fbb0561bc3e1b9ac155a1c6a",
+    "hashString": "e08eb887b346e48c5fcf32f32cc1d4a4c764f04e",
     "events": [
       {
         "identifier": "uu80129431",
@@ -17,6 +17,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 23.503241022759163
+        }
+      },
+      {
+        "identifier": "uu80130531",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771821684.9799995,
+        "latitudeDeg": 39.61566666666667,
+        "longitudeDeg": -111.19316666666667,
+        "depthKM": -2.84,
+        "magnitude": 2.07,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "SW",
+          "distanceKM": 4.739284229129937
         }
       },
       {
