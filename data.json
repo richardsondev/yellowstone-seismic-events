@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-23T17:02:39Z",
+  "fetchedAt": "2026-02-23T18:28:00Z",
   "events": [
     {
       "identifier": "uu80129431",
@@ -13,6 +13,19 @@
       "magnitude": 0.98,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 23.503241022759163}",
+      "version": null
+    },
+    {
+      "identifier": "uu80130531",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771821684.9799995,
+      "latitudeDeg": 39.61566666666667,
+      "longitudeDeg": -111.19316666666667,
+      "depthKm": -2.84,
+      "magnitude": 2.07,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'SW', 'distanceKM': 4.739284229129937}",
       "version": null
     },
     {
