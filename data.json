@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-23T13:47:33Z",
+  "fetchedAt": "2026-02-23T14:24:05Z",
   "events": [
     {
       "identifier": "uu80129431",
@@ -299,6 +299,19 @@
       "magnitude": 0.59,
       "isLocal": true,
       "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'N', 'distanceKM': 7.522912012769612}",
+      "version": null
+    },
+    {
+      "identifier": "uu80130411",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771643231.2799997,
+      "latitudeDeg": 44.74766666666667,
+      "longitudeDeg": -110.40066666666667,
+      "depthKm": 2.94,
+      "magnitude": 1.1400000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'N', 'distanceKM': 21.85725679933104}",
       "version": null
     },
     {
