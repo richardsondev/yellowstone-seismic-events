@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-23T15:59:02Z",
+  "fetchedAt": "2026-02-23T16:26:56Z",
   "events": [
     {
       "identifier": "uu80129431",
@@ -45,13 +45,13 @@
       "identifier": "uu80130486",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1771757615.4300003,
-      "latitudeDeg": 38.3085,
-      "longitudeDeg": -112.55733333333333,
-      "depthKm": 7.83,
-      "magnitude": 2.68,
+      "originTimeUtc": 1771757615.209999,
+      "latitudeDeg": 38.297666666666665,
+      "longitudeDeg": -112.54833333333333,
+      "depthKm": 9.09,
+      "magnitude": 2.72,
       "isLocal": true,
-      "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'ENE', 'distanceKM': 8.1110787767823}",
+      "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'ENE', 'distanceKM': 8.419380083964727}",
       "version": null
     },
     {
@@ -458,6 +458,19 @@
       "version": null
     },
     {
+      "identifier": "uu80130481",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771756658.4199982,
+      "latitudeDeg": 38.30416666666667,
+      "longitudeDeg": -112.5565,
+      "depthKm": 9.01,
+      "magnitude": 1.55,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'ENE', 'distanceKM': 7.981696441363432}",
+      "version": null
+    },
+    {
       "identifier": "nn00911005",
       "authority": "NN",
       "eventType": "eq",
@@ -793,6 +806,19 @@
       "magnitude": 1.48,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.119918074450396}",
+      "version": null
+    },
+    {
+      "identifier": "uu80130446",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771706071.4299984,
+      "latitudeDeg": 40.74633333333333,
+      "longitudeDeg": -112.05183333333333,
+      "depthKm": 4.61,
+      "magnitude": 1.25,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'ESE', 'distanceKM': 5.146427746105214}",
       "version": null
     },
     {
