@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-24T20:35:21Z",
+  "fetchedAt": "2026-02-24T21:16:13Z",
   "events": [
     {
       "identifier": "uu80129431",
@@ -585,6 +585,19 @@
       "magnitude": 1.1500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Monroe, UT', 'bearing': 'SW', 'distanceKM': 2.582808298737147}",
+      "version": null
+    },
+    {
+      "identifier": "nn00911170",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1771966272.05,
+      "latitudeDeg": 36.7274,
+      "longitudeDeg": -114.3065,
+      "depthKm": 15.9763,
+      "magnitude": 1.63,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
