@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d1fe42dcc1a89e3994d4dfcdc5e6643c5a6cd820",
+    "hashString": "15a3fc6b7977e4fdc822a98362a697fac81f15ce",
     "events": [
       {
         "identifier": "uu80129431",
@@ -528,6 +528,22 @@
         }
       },
       {
+        "identifier": "uu80006443",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771933875.6999998,
+        "latitudeDeg": 39.63816666666666,
+        "longitudeDeg": -111.21133333333333,
+        "depthKM": -1.57,
+        "magnitude": 1.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "W",
+          "distanceKM": 4.988576771938869
+        }
+      },
+      {
         "identifier": "uu80129621",
         "authority": "UU",
         "eventType": "eq",
@@ -649,6 +665,22 @@
           "town": "Saltair, UT",
           "bearing": "ESE",
           "distanceKM": 4.918335482006839
+        }
+      },
+      {
+        "identifier": "uu80130621",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771937102.44,
+        "latitudeDeg": 39.57183333333333,
+        "longitudeDeg": -111.242,
+        "depthKM": -1.47,
+        "magnitude": 1.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "SW",
+          "distanceKM": 11.154525530350128
         }
       },
       {
