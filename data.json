@@ -248,19 +248,6 @@
       "version": null
     },
     {
-      "identifier": "us7000s06r",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1772022641.341,
-      "latitudeDeg": 40.7153,
-      "longitudeDeg": -112.0183,
-      "depthKm": 6.983,
-      "magnitude": 1.9,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80129471",
       "authority": "UU",
       "eventType": "eq",
@@ -638,6 +625,19 @@
       "version": null
     },
     {
+      "identifier": "uu80130636",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1771980374.9399996,
+      "latitudeDeg": 40.60583333333334,
+      "longitudeDeg": -110.795,
+      "depthKm": 3.25,
+      "magnitude": 2.45,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hanna, UT', 'bearing': 'N', 'distanceKM': 22.551526398500513}",
+      "version": null
+    },
+    {
       "identifier": "uu80130556",
       "authority": "UU",
       "eventType": "eq",
@@ -726,6 +726,19 @@
       "magnitude": 0.48,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 21.97821195579021}",
+      "version": null
+    },
+    {
+      "identifier": "uu80130646",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772022641.2299995,
+      "latitudeDeg": 40.7255,
+      "longitudeDeg": -112.02133333333333,
+      "depthKm": 10.25,
+      "magnitude": 1.98,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Magna, UT', 'bearing': 'ENE', 'distanceKM': 7.652526339599163}",
       "version": null
     },
     {
