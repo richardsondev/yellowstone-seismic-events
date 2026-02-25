@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4b6bc2f3c6534870d92c964c35d44fe198004547",
+    "hashString": "0552e4b3deff8f2e45fe79d89c832ff4203508ba",
     "events": [
       {
         "identifier": "uu80129431",
@@ -1344,6 +1344,22 @@
         }
       },
       {
+        "identifier": "uu80130641",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1771997511.8600006,
+        "latitudeDeg": 39.646166666666666,
+        "longitudeDeg": -111.2105,
+        "depthKM": 9.32,
+        "magnitude": 1.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "W",
+          "distanceKM": 4.846387485238091
+        }
+      },
+      {
         "identifier": "nn00910807",
         "authority": "NN",
         "eventType": "eq",
@@ -1413,6 +1429,22 @@
           "town": "Lakeside, UT",
           "bearing": "NNW",
           "distanceKM": 30.392307338442183
+        }
+      },
+      {
+        "identifier": "uu80130651",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772027281.06,
+        "latitudeDeg": 40.06666666666667,
+        "longitudeDeg": -111.27933333333333,
+        "depthKM": 6.45,
+        "magnitude": 1.86,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Gilluly, UT",
+          "bearing": "NNW",
+          "distanceKM": 16.938648337658382
         }
       },
       {
