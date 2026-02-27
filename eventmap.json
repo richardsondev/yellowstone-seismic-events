@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6d9be7fd94587570887e8316ab149a4f74f4b70c",
+    "hashString": "51f04c0fafb64dd1dd7c696193da67c56178f206",
     "events": [
       {
         "identifier": "uu80130531",
@@ -773,6 +773,22 @@
           "town": "Hanna, UT",
           "bearing": "N",
           "distanceKM": 22.551526398500513
+        }
+      },
+      {
+        "identifier": "uu80130736",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772163792.5099993,
+        "latitudeDeg": 39.336333333333336,
+        "longitudeDeg": -111.95616666666666,
+        "depthKM": 4.44,
+        "magnitude": 2.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fayette, UT",
+          "bearing": "NW",
+          "distanceKM": 15.038214248350231
         }
       },
       {
