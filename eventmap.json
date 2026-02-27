@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "489b423c3b7bbd9c45ee1584ff63b35c4b3cd6c3",
+    "hashString": "ee6e3b2accf790574c03cb38f01cbdaf4e0f5448",
     "events": [
       {
         "identifier": "uu80130531",
@@ -957,6 +957,22 @@
           "town": "Beaver, UT",
           "bearing": "ENE",
           "distanceKM": 8.162689507914001
+        }
+      },
+      {
+        "identifier": "uu80130751",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772202556.709999,
+        "latitudeDeg": 40.606833333333334,
+        "longitudeDeg": -111.323,
+        "depthKM": 12.12,
+        "magnitude": 0.67,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Francis, UT",
+          "bearing": "W",
+          "distanceKM": 3.594005060394626
         }
       },
       {
