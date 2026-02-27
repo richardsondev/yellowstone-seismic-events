@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-02-27T16:34:47Z",
+  "fetchedAt": "2026-02-27T17:16:36Z",
   "events": [
     {
       "identifier": "uu80130531",
@@ -793,6 +793,19 @@
       "magnitude": 2.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'ENE', 'distanceKM': 8.162689507914001}",
+      "version": null
+    },
+    {
+      "identifier": "uu80130751",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772202556.709999,
+      "latitudeDeg": 40.606833333333334,
+      "longitudeDeg": -111.323,
+      "depthKm": 12.12,
+      "magnitude": 0.67,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Francis, UT', 'bearing': 'W', 'distanceKM': 3.594005060394626}",
       "version": null
     },
     {
