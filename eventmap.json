@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "51f04c0fafb64dd1dd7c696193da67c56178f206",
+    "hashString": "489b423c3b7bbd9c45ee1584ff63b35c4b3cd6c3",
     "events": [
       {
         "identifier": "uu80130531",
@@ -129,6 +129,22 @@
           "town": "Magna, UT",
           "bearing": "SE",
           "distanceKM": 3.5139958384221086
+        }
+      },
+      {
+        "identifier": "uu80006453",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772181517.380001,
+        "latitudeDeg": 41.8125,
+        "longitudeDeg": -112.37283333333333,
+        "depthKM": 9.68,
+        "magnitude": 0.46,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Howell, UT",
+          "bearing": "ENE",
+          "distanceKM": 6.209244791678034
         }
       },
       {
@@ -697,6 +713,22 @@
           "town": "Monroe, UT",
           "bearing": "SW",
           "distanceKM": 2.582808298737147
+        }
+      },
+      {
+        "identifier": "uu80130741",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772172464.8199997,
+        "latitudeDeg": 37.9415,
+        "longitudeDeg": -113.53316666666667,
+        "depthKM": 0.67,
+        "magnitude": 1.6,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Zane, UT",
+          "bearing": "ENE",
+          "distanceKM": 4.45380805240181
         }
       },
       {
