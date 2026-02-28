@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8c679bffbc3cedfc4f0211e1d9ef8bc3836c3b40",
+    "hashString": "752e278fad4e7728bd7c0330c36a0043561acfb1",
     "events": [
       {
         "identifier": "uu80130531",
@@ -208,22 +208,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80129561",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1771033140.86,
-        "latitudeDeg": 40.723,
-        "longitudeDeg": -112.024,
-        "depthKM": 8.6,
-        "magnitude": 1.3800000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Magna, UT",
-          "bearing": "ENE",
-          "distanceKM": 7.356411879629625
-        }
-      },
-      {
         "identifier": "uu80129736",
         "authority": "UU",
         "eventType": "eq",
@@ -286,6 +270,18 @@
           "bearing": "E",
           "distanceKM": 7.587120219111488
         }
+      },
+      {
+        "identifier": "nn00911290",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1772171854.572,
+        "latitudeDeg": 35.6468,
+        "longitudeDeg": -114.2087,
+        "depthKM": 3.927,
+        "magnitude": 1.69,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80130696",
@@ -964,22 +960,6 @@
         }
       },
       {
-        "identifier": "uu80129556",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1771032768.6599998,
-        "latitudeDeg": 40.724333333333334,
-        "longitudeDeg": -112.02666666666667,
-        "depthKM": 9.29,
-        "magnitude": 3.5,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Magna, UT",
-          "bearing": "ENE",
-          "distanceKM": 7.184946782194738
-        }
-      },
-      {
         "identifier": "uu80006373",
         "authority": "UU",
         "eventType": "eq",
@@ -1009,22 +989,6 @@
           "town": "Beaver, UT",
           "bearing": "ENE",
           "distanceKM": 7.766045120714256
-        }
-      },
-      {
-        "identifier": "uu80129566",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1771033507.3999996,
-        "latitudeDeg": 40.715833333333336,
-        "longitudeDeg": -112.01766666666667,
-        "depthKM": 9.73,
-        "magnitude": 0.5700000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Kearns, UT",
-          "bearing": "NNW",
-          "distanceKM": 7.02611509832016
         }
       },
       {
@@ -1334,18 +1298,6 @@
           "bearing": "W",
           "distanceKM": 4.846387485238091
         }
-      },
-      {
-        "identifier": "nn00910807",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1771032840.21,
-        "latitudeDeg": 37.824,
-        "longitudeDeg": -115.2256,
-        "depthKM": 0.0315,
-        "magnitude": 1.91,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "nn00910955",
