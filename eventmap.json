@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "29baffe8aa96749ace45e5d3329907c3316986a9",
+    "hashString": "e19a600644e170f2decd2c57194b27ddba06bd73",
     "events": [
       {
         "identifier": "uu80130531",
@@ -477,6 +477,22 @@
           "town": "Beaver, UT",
           "bearing": "ENE",
           "distanceKM": 8.109938593629618
+        }
+      },
+      {
+        "identifier": "uu80006463",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772286798.4300003,
+        "latitudeDeg": 38.292,
+        "longitudeDeg": -112.54883333333333,
+        "depthKM": 8.95,
+        "magnitude": 0.3,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Beaver, UT",
+          "bearing": "ENE",
+          "distanceKM": 8.226378249491274
         }
       },
       {
@@ -960,18 +976,6 @@
         }
       },
       {
-        "identifier": "nn00910896",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1771254297.945,
-        "latitudeDeg": 38.446,
-        "longitudeDeg": -115.1429,
-        "depthKM": 11.3894,
-        "magnitude": 1.7,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "nn00911098",
         "authority": "NN",
         "eventType": "eq",
@@ -997,6 +1001,22 @@
           "town": "Lake, WY",
           "bearing": "N",
           "distanceKM": 22.54556424706599
+        }
+      },
+      {
+        "identifier": "uu80130876",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772374717.4699974,
+        "latitudeDeg": 38.717,
+        "longitudeDeg": -112.595,
+        "depthKM": 3.57,
+        "magnitude": 1.77,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cove Fort, UT",
+          "bearing": "N",
+          "distanceKM": 12.881773363218352
         }
       },
       {
