@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-02T17:42:17Z",
+  "fetchedAt": "2026-03-02T19:54:51Z",
   "events": [
     {
       "identifier": "uu80130956",
@@ -702,6 +702,19 @@
       "magnitude": 2.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'ENE', 'distanceKM': 8.162689507914001}",
+      "version": null
+    },
+    {
+      "identifier": "nn00911642",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1772480109.57,
+      "latitudeDeg": 35.8643,
+      "longitudeDeg": -114.8401,
+      "depthKm": 15.9874,
+      "magnitude": 1.69,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
