@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c1950666be8f80da90515abeb76f4dbcf578e567",
+    "hashString": "2ef5db3cb953f27068be5a50b13aa1b1ee51c727",
     "events": [
       {
         "identifier": "uu80130956",
@@ -1017,6 +1017,22 @@
           "town": "Fayette, UT",
           "bearing": "NW",
           "distanceKM": 15.340487662903179
+        }
+      },
+      {
+        "identifier": "uu80131031",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772530424.1499977,
+        "latitudeDeg": 44.211166666666664,
+        "longitudeDeg": -110.22183333333334,
+        "depthKM": 6.32,
+        "magnitude": 1.41,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Thumb, WY",
+          "bearing": "SE",
+          "distanceKM": 36.29757213590235
         }
       },
       {
