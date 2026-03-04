@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f3e6166fb721d277d88e8de2c5eb1d900819c830",
+    "hashString": "fa6d430b936d443ea2e1da50d9d19dadaaca6f6c",
     "events": [
       {
         "identifier": "uu80130956",
@@ -178,18 +178,6 @@
           "bearing": "NNE",
           "distanceKM": 10.19599289065199
         }
-      },
-      {
-        "identifier": "us7000s1yz",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1772630079.914,
-        "latitudeDeg": 40.3972,
-        "longitudeDeg": -111.9227,
-        "depthKM": 7.766,
-        "magnitude": 2,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80130496",
@@ -604,6 +592,22 @@
         }
       },
       {
+        "identifier": "uu80131111",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772630080.0299988,
+        "latitudeDeg": 40.41283333333333,
+        "longitudeDeg": -111.92133333333334,
+        "depthKM": 3.83,
+        "magnitude": 1.95,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saratoga Springs, UT",
+          "bearing": "NNW",
+          "distanceKM": 7.2271702500599915
+        }
+      },
+      {
         "identifier": "uu80130491",
         "authority": "UU",
         "eventType": "eq",
@@ -655,16 +659,16 @@
         "identifier": "uu80131096",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1772621465.01,
-        "latitudeDeg": 40.40833282470703,
-        "longitudeDeg": -111.93333435058594,
-        "depthKM": 5.360000133514404,
-        "magnitude": 2.26,
+        "originTimeUTC": 1772621464.98,
+        "latitudeDeg": 40.408833333333334,
+        "longitudeDeg": -111.91566666666667,
+        "depthKM": 4.39,
+        "magnitude": 2.24,
         "isLocal": true,
         "nearestTown": {
           "town": "Saratoga Springs, UT",
-          "bearing": "NNW",
-          "distanceKM": 7.021733405293478
+          "bearing": "N",
+          "distanceKM": 6.707866956063013
         }
       },
       {
