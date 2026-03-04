@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-04T22:52:03Z",
+  "fetchedAt": "2026-03-04T23:32:35Z",
   "events": [
     {
       "identifier": "uu80006468",
@@ -299,6 +299,19 @@
       "magnitude": 1.18,
       "isLocal": true,
       "nearestTown": "{'town': 'Circleville, UT', 'bearing': 'S', 'distanceKM': 9.628115115582705}",
+      "version": null
+    },
+    {
+      "identifier": "nn00912017",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1772665542.089,
+      "latitudeDeg": 36.1473,
+      "longitudeDeg": -115.0196,
+      "depthKm": 4.7385,
+      "magnitude": 1.85,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
