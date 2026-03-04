@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-04T11:49:36Z",
+  "fetchedAt": "2026-03-04T13:41:58Z",
   "events": [
     {
       "identifier": "uu80130956",
@@ -143,6 +143,19 @@
       "magnitude": 1.3800000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 10.19599289065199}",
+      "version": null
+    },
+    {
+      "identifier": "us7000s1yz",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1772630079.914,
+      "latitudeDeg": 40.3972,
+      "longitudeDeg": -111.9227,
+      "depthKm": 7.766,
+      "magnitude": 2.0,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -520,6 +533,19 @@
       "magnitude": 2.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'NW', 'distanceKM': 15.038214248350231}",
+      "version": null
+    },
+    {
+      "identifier": "uu80131096",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772621465.01,
+      "latitudeDeg": 40.40833282470703,
+      "longitudeDeg": -111.93333435058594,
+      "depthKm": 5.360000133514404,
+      "magnitude": 2.26,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'NNW', 'distanceKM': 7.021733405293478}",
       "version": null
     },
     {
@@ -949,19 +975,6 @@
       "magnitude": 1.3800000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Milburn, UT', 'bearing': 'ESE', 'distanceKM': 11.139435515055675}",
-      "version": null
-    },
-    {
-      "identifier": "uu80130266",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1771421496.3199997,
-      "latitudeDeg": 44.76866666666667,
-      "longitudeDeg": -111.11966666666666,
-      "depthKm": 10.12,
-      "magnitude": 0.76,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'ESE', 'distanceKM': 6.7917039834710895}",
       "version": null
     },
     {
