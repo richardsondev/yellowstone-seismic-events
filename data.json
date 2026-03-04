@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-04T14:38:36Z",
+  "fetchedAt": "2026-03-04T14:59:35Z",
   "events": [
     {
       "identifier": "uu80130956",
@@ -975,6 +975,19 @@
       "magnitude": 1.86,
       "isLocal": true,
       "nearestTown": "{'town': 'Gilluly, UT', 'bearing': 'NNW', 'distanceKM': 16.938648337658382}",
+      "version": null
+    },
+    {
+      "identifier": "uu80131086",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772591972.829998,
+      "latitudeDeg": 37.298833333333334,
+      "longitudeDeg": -113.4165,
+      "depthKm": 5.07,
+      "magnitude": 1.35,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Leeds, UT', 'bearing': 'NW', 'distanceKM': 8.405806768667377}",
       "version": null
     },
     {
