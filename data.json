@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-04T14:59:35Z",
+  "fetchedAt": "2026-03-04T15:21:06Z",
   "events": [
     {
       "identifier": "uu80130956",
@@ -741,6 +741,19 @@
       "magnitude": 0.51,
       "isLocal": true,
       "nearestTown": "{'town': 'Magna, UT', 'bearing': 'ENE', 'distanceKM': 8.555860706924413}",
+      "version": null
+    },
+    {
+      "identifier": "uu80131091",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772616604.83,
+      "latitudeDeg": 44.77583333333333,
+      "longitudeDeg": -110.4035,
+      "depthKm": 5.23,
+      "magnitude": -0.33,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'N', 'distanceKM': 24.989868543802487}",
       "version": null
     },
     {
