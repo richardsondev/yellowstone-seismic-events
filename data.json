@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-05T15:25:07Z",
+  "fetchedAt": "2026-03-05T17:24:08Z",
   "events": [
     {
       "identifier": "uu80006468",
@@ -299,6 +299,19 @@
       "magnitude": 0.3,
       "isLocal": true,
       "nearestTown": "{'town': 'Beaver, UT', 'bearing': 'ENE', 'distanceKM': 8.226378249491274}",
+      "version": null
+    },
+    {
+      "identifier": "uu80131156",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772686101.4899998,
+      "latitudeDeg": 44.77433333333333,
+      "longitudeDeg": -110.24633333333334,
+      "depthKm": 9.11,
+      "magnitude": 0.67,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 27.679738810609336}",
       "version": null
     },
     {
@@ -614,6 +627,19 @@
       "version": null
     },
     {
+      "identifier": "uu80006478",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772686126.2199974,
+      "latitudeDeg": 44.777833333333334,
+      "longitudeDeg": -110.23483333333333,
+      "depthKm": 4.19,
+      "magnitude": 1.0,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 28.438294120674367}",
+      "version": null
+    },
+    {
       "identifier": "uu80130456",
       "authority": "UU",
       "eventType": "eq",
@@ -819,6 +845,19 @@
       "magnitude": 1.5,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80131181",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772724617.9899998,
+      "latitudeDeg": 42.29183333333334,
+      "longitudeDeg": -111.5885,
+      "depthKm": 8.09,
+      "magnitude": 1.9100000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Sharon, ID', 'bearing': 'SW', 'distanceKM': 11.024889456148193}",
       "version": null
     },
     {
