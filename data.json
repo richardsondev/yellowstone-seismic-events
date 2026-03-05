@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-05T10:58:14Z",
+  "fetchedAt": "2026-03-05T15:00:01Z",
   "events": [
     {
       "identifier": "uu80006468",
@@ -949,6 +949,19 @@
       "magnitude": 0.76,
       "isLocal": true,
       "nearestTown": "{'town': 'Scipio, UT', 'bearing': 'NE', 'distanceKM': 15.626041375479394}",
+      "version": null
+    },
+    {
+      "identifier": "uu80131161",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772688043.1699982,
+      "latitudeDeg": 44.772333333333336,
+      "longitudeDeg": -110.23116666666667,
+      "depthKm": 9.32,
+      "magnitude": 1.62,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 28.035782921250263}",
       "version": null
     },
     {
