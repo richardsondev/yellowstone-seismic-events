@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-05T15:00:01Z",
+  "fetchedAt": "2026-03-05T15:25:07Z",
   "events": [
     {
       "identifier": "uu80006468",
@@ -627,6 +627,19 @@
       "version": null
     },
     {
+      "identifier": "uu80006473",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772689224.1499996,
+      "latitudeDeg": 44.779,
+      "longitudeDeg": -110.23916666666666,
+      "depthKm": 9.49,
+      "magnitude": 1.71,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 28.397020128287075}",
+      "version": null
+    },
+    {
       "identifier": "uu80130846",
       "authority": "UU",
       "eventType": "eq",
@@ -728,6 +741,19 @@
       "magnitude": 1.79,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80131171",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772689201.31,
+      "latitudeDeg": 44.7745,
+      "longitudeDeg": -110.2315,
+      "depthKm": 9.24,
+      "magnitude": 1.52,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 28.23475609182103}",
       "version": null
     },
     {
