@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4daa7ef1c08f8502d9dc7912057d09b23037784d",
+    "hashString": "5e49235bf5e83c5a6f6c19032209423c30e9fbae",
     "events": [
       {
         "identifier": "uu80006468",
@@ -1137,6 +1137,22 @@
           "town": "Scipio, UT",
           "bearing": "NE",
           "distanceKM": 15.626041375479394
+        }
+      },
+      {
+        "identifier": "uu80131161",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772688043.1699982,
+        "latitudeDeg": 44.772333333333336,
+        "longitudeDeg": -110.23116666666667,
+        "depthKM": 9.32,
+        "magnitude": 1.62,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NNE",
+          "distanceKM": 28.035782921250263
         }
       }
     ]
