@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-06T10:55:56Z",
+  "fetchedAt": "2026-03-06T15:38:31Z",
   "events": [
     {
       "identifier": "uu80006468",
@@ -884,6 +884,19 @@
       "magnitude": 1.31,
       "isLocal": true,
       "nearestTown": "{'town': 'Saratoga Springs, UT', 'bearing': 'N', 'distanceKM': 7.3467725749987425}",
+      "version": null
+    },
+    {
+      "identifier": "uu80131226",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772780350.0100002,
+      "latitudeDeg": 37.29516666666667,
+      "longitudeDeg": -113.40083333333334,
+      "depthKm": 4.53,
+      "magnitude": 2.32,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Leeds, UT', 'bearing': 'NNW', 'distanceKM': 7.293954224235237}",
       "version": null
     },
     {
