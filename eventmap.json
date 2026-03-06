@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "767f977ef5aa3bb07e6b56c01b4480a8cb927b72",
+    "hashString": "0ffaaed282c491cc7f4424a1959591824d83173a",
     "events": [
       {
         "identifier": "uu80006468",
@@ -941,6 +941,22 @@
           "town": "West Thumb, WY",
           "bearing": "SE",
           "distanceKM": 36.29757213590235
+        }
+      },
+      {
+        "identifier": "uu80131246",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772826276.579998,
+        "latitudeDeg": 41.888333333333335,
+        "longitudeDeg": -112.70316666666666,
+        "depthKM": 12.81,
+        "magnitude": 1.27,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Snowville, UT",
+          "bearing": "S",
+          "distanceKM": 8.597548055707495
         }
       },
       {
