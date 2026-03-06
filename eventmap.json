@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8ff60e050f6eaac50e01f276bdaf01c67cd6d647",
+    "hashString": "8150c0048116c21caf531f5d8004d52ba4f03eb5",
     "events": [
       {
         "identifier": "uu80006468",
@@ -257,22 +257,6 @@
           "town": "Lake, WY",
           "bearing": "NNE",
           "distanceKM": 6.153437021828724
-        }
-      },
-      {
-        "identifier": "uu80130391",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1771602695.7199974,
-        "latitudeDeg": 38.0855,
-        "longitudeDeg": -112.25883333333333,
-        "depthKM": 6.9,
-        "magnitude": 1.18,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Circleville, UT",
-          "bearing": "S",
-          "distanceKM": 9.628115115582705
         }
       },
       {
@@ -954,6 +938,22 @@
         "magnitude": 1.95,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80131216",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1772759895.0099993,
+        "latitudeDeg": 38.346333333333334,
+        "longitudeDeg": -111.09416666666667,
+        "depthKM": 1.53,
+        "magnitude": 2.07,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Caineville, UT",
+          "bearing": "WNW",
+          "distanceKM": 6.186514229939988
+        }
       },
       {
         "identifier": "uu80131081",
