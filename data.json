@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-08T12:34:18Z",
+  "fetchedAt": "2026-03-08T13:34:23Z",
   "events": [
     {
       "identifier": "uu80006468",
@@ -94,6 +94,19 @@
       "version": null
     },
     {
+      "identifier": "uu80131371",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1772967838.6800003,
+      "latitudeDeg": 37.041666666666664,
+      "longitudeDeg": -112.91,
+      "depthKm": 10.47,
+      "magnitude": 2.64,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 6.590445011278307}",
+      "version": null
+    },
+    {
       "identifier": "uu80130496",
       "authority": "UU",
       "eventType": "eq",
@@ -143,19 +156,6 @@
       "magnitude": 1.22,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'E', 'distanceKM': 7.809519874876817}",
-      "version": null
-    },
-    {
-      "identifier": "us7000s2yu",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1772967838.2450001,
-      "latitudeDeg": 37.0453,
-      "longitudeDeg": -112.8992,
-      "depthKm": 7.008,
-      "magnitude": 2.6,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
