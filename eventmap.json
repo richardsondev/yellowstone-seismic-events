@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e50929036206149496d6096459c002e474479c65",
+    "hashString": "110c11c5c682d5906fe6fbe06b65af3c1fb9d044",
     "events": [
       {
         "identifier": "uu80131486",
@@ -289,6 +289,22 @@
           "town": "Grayling, MT",
           "bearing": "E",
           "distanceKM": 7.809519874876817
+        }
+      },
+      {
+        "identifier": "uu80131546",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773117147.17,
+        "latitudeDeg": 38.36033333333334,
+        "longitudeDeg": -111.08383333333333,
+        "depthKM": -0.45,
+        "magnitude": 3.96,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Caineville, UT",
+          "bearing": "WNW",
+          "distanceKM": 5.940841222024408
         }
       },
       {
