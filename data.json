@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-11T17:37:22Z",
+  "fetchedAt": "2026-03-11T19:02:34Z",
   "events": [
     {
       "identifier": "uu80131486",
@@ -1261,6 +1261,19 @@
       "magnitude": 1.62,
       "isLocal": true,
       "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 7.631776206980701}",
+      "version": null
+    },
+    {
+      "identifier": "uu80131706",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1773253674.5999985,
+      "latitudeDeg": 38.49666666666667,
+      "longitudeDeg": -112.90083333333334,
+      "depthKm": 1.62,
+      "magnitude": 1.6,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.655299849622397}",
       "version": null
     },
     {
