@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "80c47a63edd6d456e0a833d0496e52db57ef052c",
+    "hashString": "f08daaf43d5d5e815e7f5de4de2e36085706f54a",
     "events": [
       {
         "identifier": "uu80131486",
@@ -461,6 +461,22 @@
           "town": "Zane, UT",
           "bearing": "ENE",
           "distanceKM": 4.45380805240181
+        }
+      },
+      {
+        "identifier": "uu80131671",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773238298.1100006,
+        "latitudeDeg": 38.49816666666667,
+        "longitudeDeg": -112.90066666666667,
+        "depthKM": 1.89,
+        "magnitude": 1.85,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.791300312156896
         }
       },
       {
