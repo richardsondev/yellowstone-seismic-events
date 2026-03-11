@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-11T15:35:29Z",
+  "fetchedAt": "2026-03-11T15:58:58Z",
   "events": [
     {
       "identifier": "uu80131486",
@@ -377,6 +377,19 @@
       "magnitude": 1.6,
       "isLocal": true,
       "nearestTown": "{'town': 'Zane, UT', 'bearing': 'ENE', 'distanceKM': 4.45380805240181}",
+      "version": null
+    },
+    {
+      "identifier": "uu80131671",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1773238298.1100006,
+      "latitudeDeg": 38.49816666666667,
+      "longitudeDeg": -112.90066666666667,
+      "depthKm": 1.89,
+      "magnitude": 1.85,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.791300312156896}",
       "version": null
     },
     {
