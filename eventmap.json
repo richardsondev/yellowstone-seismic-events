@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3a51704eb4135dbba842da0dec0b0e6501b0a6ab",
+    "hashString": "59e5c6f7704f3c17bf7bf0c33579d3d655c110bd",
     "events": [
       {
         "identifier": "uu80131486",
@@ -1125,6 +1125,22 @@
           "town": "Magna, UT",
           "bearing": "ENE",
           "distanceKM": 8.555860706924413
+        }
+      },
+      {
+        "identifier": "uu80131876",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773343574.9699993,
+        "latitudeDeg": 38.49666666666667,
+        "longitudeDeg": -112.8945,
+        "depthKM": 2.39,
+        "magnitude": 1.32,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.021513914474308
         }
       },
       {
