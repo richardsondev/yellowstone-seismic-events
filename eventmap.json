@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "42538296f885268a9e42686f236f68b2c9ea342b",
+    "hashString": "2d4d5a053bf2e5055ff800fcf8b1fda40723c47e",
     "events": [
       {
         "identifier": "uu80131486",
@@ -1693,6 +1693,22 @@
           "town": "Sharon, ID",
           "bearing": "SW",
           "distanceKM": 11.024889456148193
+        }
+      },
+      {
+        "identifier": "uu80131976",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773431041.99,
+        "latitudeDeg": 38.347166666666666,
+        "longitudeDeg": -111.09316666666666,
+        "depthKM": 1.84,
+        "magnitude": 1.54,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Caineville, UT",
+          "bearing": "WNW",
+          "distanceKM": 6.125017394415694
         }
       },
       {
