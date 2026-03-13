@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-13T17:54:48Z",
+  "fetchedAt": "2026-03-13T20:33:07Z",
   "events": [
     {
       "identifier": "uu80131486",
@@ -1391,6 +1391,19 @@
       "magnitude": 1.9100000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Sharon, ID', 'bearing': 'SW', 'distanceKM': 11.024889456148193}",
+      "version": null
+    },
+    {
+      "identifier": "uu80131976",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1773431041.99,
+      "latitudeDeg": 38.347166666666666,
+      "longitudeDeg": -111.09316666666666,
+      "depthKm": 1.84,
+      "magnitude": 1.54,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Caineville, UT', 'bearing': 'WNW', 'distanceKM': 6.125017394415694}",
       "version": null
     },
     {
