@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a4587972c2a8c2d953937e742ebd1b900d1eca31",
+    "hashString": "09ea953b014c42da6f18d2238b52e09cbce4cbd9",
     "events": [
       {
         "identifier": "uu80131486",
@@ -81,6 +81,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.600936643760447
+        }
+      },
+      {
+        "identifier": "uu80131911",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773364719.0200005,
+        "latitudeDeg": 38.497,
+        "longitudeDeg": -112.89416666666666,
+        "depthKM": 2.25,
+        "magnitude": 0.46,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.06844378342063
         }
       },
       {
@@ -956,22 +972,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80130751",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1772202556.709999,
-        "latitudeDeg": 40.606833333333334,
-        "longitudeDeg": -111.323,
-        "depthKM": 12.12,
-        "magnitude": 0.67,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Francis, UT",
-          "bearing": "W",
-          "distanceKM": 3.594005060394626
-        }
-      },
-      {
         "identifier": "uu80131651",
         "authority": "UU",
         "eventType": "eq",
@@ -1505,6 +1505,38 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.154748950687683
+        }
+      },
+      {
+        "identifier": "uu80131921",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773370556.5,
+        "latitudeDeg": 38.497,
+        "longitudeDeg": -112.90033333333334,
+        "depthKM": 2.17,
+        "magnitude": 1.82,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.711798289377818
+        }
+      },
+      {
+        "identifier": "uu80131916",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773364821.67,
+        "latitudeDeg": 38.496,
+        "longitudeDeg": -112.89533333333333,
+        "depthKM": 2.45,
+        "magnitude": -0.1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.91786893409655
         }
       },
       {
