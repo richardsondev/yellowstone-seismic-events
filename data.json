@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-16T14:33:03Z",
+  "fetchedAt": "2026-03-16T15:02:30Z",
   "events": [
     {
       "identifier": "uu80131486",
@@ -1066,6 +1066,19 @@
       "magnitude": 1.12,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 6.220544119872641}",
+      "version": null
+    },
+    {
+      "identifier": "uu80132051",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1773529556.1899986,
+      "latitudeDeg": 37.47983333333333,
+      "longitudeDeg": -113.62716666666667,
+      "depthKm": 3.83,
+      "magnitude": 1.25,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Central, UT', 'bearing': 'N', 'distanceKM': 7.00916538827259}",
       "version": null
     },
     {

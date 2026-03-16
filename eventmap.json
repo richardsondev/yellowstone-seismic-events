@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c7c7d50947332cd4faa9b241070c3f8cdaf162fa",
+    "hashString": "9e00f53f31c3a29fac2d5254c23cef522f075d6f",
     "events": [
       {
         "identifier": "uu80131486",
@@ -1301,6 +1301,22 @@
           "town": "Old Faithful, WY",
           "bearing": "S",
           "distanceKM": 6.220544119872641
+        }
+      },
+      {
+        "identifier": "uu80132051",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773529556.1899986,
+        "latitudeDeg": 37.47983333333333,
+        "longitudeDeg": -113.62716666666667,
+        "depthKM": 3.83,
+        "magnitude": 1.25,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Central, UT",
+          "bearing": "N",
+          "distanceKM": 7.00916538827259
         }
       },
       {
