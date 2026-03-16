@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4adc385850dfa07a4af724bab09e5fd39b940f03",
+    "hashString": "2f8c6c5072e5a76b9c0a598dbad35edd1ea75da5",
     "events": [
       {
         "identifier": "uu80131486",
@@ -353,6 +353,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.324043538823835
+        }
+      },
+      {
+        "identifier": "uu80006503",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773466946.4300003,
+        "latitudeDeg": 40.4795,
+        "longitudeDeg": -111.99,
+        "depthKM": 8.08,
+        "magnitude": 0.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Bluffdale, UT",
+          "bearing": "WSW",
+          "distanceKM": 4.476196782733378
         }
       },
       {
@@ -1129,6 +1145,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.695000495890028
+        }
+      },
+      {
+        "identifier": "uu80006508",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773684845,
+        "latitudeDeg": 39.339166666666664,
+        "longitudeDeg": -111.52066666666667,
+        "depthKM": 0.8,
+        "magnitude": 1.27,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Ephraim, UT",
+          "bearing": "ESE",
+          "distanceKM": 6.087928386912055
         }
       },
       {
