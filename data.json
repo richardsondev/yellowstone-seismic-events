@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-18T20:57:10Z",
+  "fetchedAt": "2026-03-18T21:17:38Z",
   "events": [
     {
       "identifier": "uu80132251",
@@ -1495,6 +1495,19 @@
       "magnitude": 0.76,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.98642034539295}",
+      "version": null
+    },
+    {
+      "identifier": "us6000sh90",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1773863861.999,
+      "latitudeDeg": 36.684,
+      "longitudeDeg": -113.0344,
+      "depthKm": 5.0,
+      "magnitude": 2.9,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
