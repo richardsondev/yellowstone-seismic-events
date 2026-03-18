@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c88b282c2f2c8eeceb5a8287b589c27210956078",
+    "hashString": "4cdd85501271e57d27012460a92b43fea49ab586",
     "events": [
       {
         "identifier": "uu80132251",
@@ -1822,6 +1822,18 @@
           "bearing": "NE",
           "distanceKM": 14.98642034539295
         }
+      },
+      {
+        "identifier": "us6000sh90",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1773863861.999,
+        "latitudeDeg": 36.684,
+        "longitudeDeg": -113.0344,
+        "depthKM": 5,
+        "magnitude": 2.9,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80131181",
