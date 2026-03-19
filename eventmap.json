@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "88c8b6574fb74d59d4126bb0f068dfd47450e4a2",
+    "hashString": "74690aee3d7397b03474f12064acccdffc7de4c7",
     "events": [
       {
         "identifier": "uu80132251",
@@ -97,6 +97,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.600936643760447
+        }
+      },
+      {
+        "identifier": "uu80132366",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773929364.5599995,
+        "latitudeDeg": 38.501666666666665,
+        "longitudeDeg": -112.89966666666666,
+        "depthKM": 2.23,
+        "magnitude": 0.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.145038263926075
         }
       },
       {
@@ -1548,6 +1564,22 @@
         }
       },
       {
+        "identifier": "uu80132371",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773932963.2999992,
+        "latitudeDeg": 38.498333333333335,
+        "longitudeDeg": -112.89883333333333,
+        "depthKM": 1.87,
+        "magnitude": 1.68,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.909328434270282
+        }
+      },
+      {
         "identifier": "uu80131646",
         "authority": "UU",
         "eventType": "eq",
@@ -1870,22 +1902,6 @@
         "magnitude": 2.9,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80131181",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1772724617.9899998,
-        "latitudeDeg": 42.29183333333334,
-        "longitudeDeg": -111.5885,
-        "depthKM": 8.09,
-        "magnitude": 1.9100000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Sharon, ID",
-          "bearing": "SW",
-          "distanceKM": 11.024889456148193
-        }
       },
       {
         "identifier": "uu80131976",
