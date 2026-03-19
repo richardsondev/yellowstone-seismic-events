@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "683be78339f88a90dcedc79dad26eae56539dc2f",
+    "hashString": "2bf057af4750474407cc63dcdcf2dec410ff1006",
     "events": [
       {
         "identifier": "uu80132251",
@@ -1625,6 +1625,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.909328434270282
+        }
+      },
+      {
+        "identifier": "uu80132401",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773948864.1000004,
+        "latitudeDeg": 44.19716666666667,
+        "longitudeDeg": -110.9635,
+        "depthKM": 12.02,
+        "magnitude": 1.1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Warm River, ID",
+          "bearing": "ENE",
+          "distanceKM": 29.935919294267322
         }
       },
       {
