@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a04a1ae216a4e9cbcf08957f5668ca0394001140",
+    "hashString": "4909f902225b5fcc9837edf6769a6e13ee72cb36",
     "events": [
       {
         "identifier": "uu80132251",
@@ -241,6 +241,22 @@
           "town": "Magna, UT",
           "bearing": "ENE",
           "distanceKM": 6.184360215390698
+        }
+      },
+      {
+        "identifier": "uu80132346",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773923867.5999985,
+        "latitudeDeg": 38.498666666666665,
+        "longitudeDeg": -112.89483333333334,
+        "depthKM": 2.42,
+        "magnitude": 0.78,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.167053804753767
         }
       },
       {
@@ -684,6 +700,38 @@
         }
       },
       {
+        "identifier": "uu80132311",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773901923.99,
+        "latitudeDeg": 38.49633333333333,
+        "longitudeDeg": -112.89766666666667,
+        "depthKM": 2.87,
+        "magnitude": 0.97,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.809296225241612
+        }
+      },
+      {
+        "identifier": "uu80132316",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773901839.3099976,
+        "latitudeDeg": 38.251666666666665,
+        "longitudeDeg": -112.31783333333334,
+        "depthKM": 6.94,
+        "magnitude": 1.85,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Junction, UT",
+          "bearing": "W",
+          "distanceKM": 8.696356319911311
+        }
+      },
+      {
         "identifier": "uu80131956",
         "authority": "UU",
         "eventType": "eq",
@@ -825,6 +873,22 @@
           "town": "Wanship, UT",
           "bearing": "SSW",
           "distanceKM": 4.2938109866719065
+        }
+      },
+      {
+        "identifier": "uu80132331",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773915319.5599995,
+        "latitudeDeg": 38.4985,
+        "longitudeDeg": -112.8995,
+        "depthKM": 2.41,
+        "magnitude": 1.26,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.885477447641936
         }
       },
       {
