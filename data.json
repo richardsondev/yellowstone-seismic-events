@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-19T14:22:44Z",
+  "fetchedAt": "2026-03-19T15:00:05Z",
   "events": [
     {
       "identifier": "uu80132251",
@@ -377,6 +377,19 @@
       "magnitude": 0.58,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.121393885107064}",
+      "version": null
+    },
+    {
+      "identifier": "uu80132361",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1773928977.619999,
+      "latitudeDeg": 38.60433333333334,
+      "longitudeDeg": -112.65,
+      "depthKm": 2.2,
+      "magnitude": 1.71,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'W', 'distanceKM': 5.787270849759143}",
       "version": null
     },
     {
