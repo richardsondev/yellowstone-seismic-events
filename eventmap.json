@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "359002bc978a077c26a4f0257c56f68683c11eda",
+    "hashString": "77df7f0579cc2d255c655605029f9cd20902d1d2",
     "events": [
       {
         "identifier": "uu80132251",
@@ -529,6 +529,22 @@
           "town": "Lake, WY",
           "bearing": "NNW",
           "distanceKM": 12.34199898652704
+        }
+      },
+      {
+        "identifier": "uu80132441",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773988813.1899996,
+        "latitudeDeg": 38.501333333333335,
+        "longitudeDeg": -112.89916666666667,
+        "depthKM": 2.52,
+        "magnitude": 1.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.144473943139522
         }
       },
       {
@@ -1417,6 +1433,22 @@
           "town": "Ephraim, UT",
           "bearing": "ESE",
           "distanceKM": 6.087928386912055
+        }
+      },
+      {
+        "identifier": "uu80132461",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773993935.7199974,
+        "latitudeDeg": 38.49666666666667,
+        "longitudeDeg": -112.8975,
+        "depthKM": 2.55,
+        "magnitude": 0.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.846616065362216
         }
       },
       {
