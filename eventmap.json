@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "77df7f0579cc2d255c655605029f9cd20902d1d2",
+    "hashString": "1c0503aebd6bfb000a050e2354d94c5acfac0184",
     "events": [
       {
         "identifier": "uu80132251",
@@ -1353,6 +1353,22 @@
           "town": "Saratoga Springs, UT",
           "bearing": "NNW",
           "distanceKM": 7.387582942163734
+        }
+      },
+      {
+        "identifier": "uu80132471",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1773996184.5499997,
+        "latitudeDeg": 44.461166666666664,
+        "longitudeDeg": -110.3585,
+        "depthKM": 5.48,
+        "magnitude": 0.39,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "SSE",
+          "distanceKM": 10.557877146740315
         }
       },
       {
