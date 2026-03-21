@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-21T06:18:26Z",
+  "fetchedAt": "2026-03-21T14:49:33Z",
   "events": [
     {
       "identifier": "uu80132251",
@@ -975,6 +975,19 @@
       "magnitude": 1.67,
       "isLocal": true,
       "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 6.9040923499528875}",
+      "version": null
+    },
+    {
+      "identifier": "uu80132641",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774084344.1899986,
+      "latitudeDeg": 41.7125,
+      "longitudeDeg": -109.87316666666666,
+      "depthKm": -3.4,
+      "magnitude": 2.88,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Westvaco, WY', 'bearing': 'NNW', 'distanceKM': 11.186147291761834}",
       "version": null
     },
     {
