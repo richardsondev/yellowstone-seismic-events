@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b726e393225e3e22a8845c6095cff102cb1653c1",
+    "hashString": "f03c8f5a3b3a9c1650c7082fd4040a3158c544b2",
     "events": [
       {
         "identifier": "uu80132871",
@@ -225,6 +225,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.948091460181907
+        }
+      },
+      {
+        "identifier": "uu80132956",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774222699.5699997,
+        "latitudeDeg": 41.58583333333333,
+        "longitudeDeg": -112.42083333333333,
+        "depthKM": 5.33,
+        "magnitude": 0.71,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Penrose, UT",
+          "bearing": "SW",
+          "distanceKM": 12.438078776576884
         }
       },
       {
@@ -1837,6 +1853,22 @@
           "town": "Caineville, UT",
           "bearing": "WNW",
           "distanceKM": 6.125017394415694
+        }
+      },
+      {
+        "identifier": "uu80132951",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774222502.4199998,
+        "latitudeDeg": 41.5855,
+        "longitudeDeg": -112.414,
+        "depthKM": 8.11,
+        "magnitude": 1.8,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Penrose, UT",
+          "bearing": "SW",
+          "distanceKM": 12.00592399121504
         }
       },
       {
