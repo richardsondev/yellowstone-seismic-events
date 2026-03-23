@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-23T19:56:40Z",
+  "fetchedAt": "2026-03-23T20:19:42Z",
   "events": [
     {
       "identifier": "uu80132871",
@@ -338,6 +338,19 @@
       "magnitude": 1.22,
       "isLocal": true,
       "nearestTown": "{'town': 'Altamont, WY', 'bearing': 'S', 'distanceKM': 35.00746924172539}",
+      "version": null
+    },
+    {
+      "identifier": "uu80133011",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774283892.3199997,
+      "latitudeDeg": 44.608333333333334,
+      "longitudeDeg": -110.97133333333333,
+      "depthKm": 7.46,
+      "magnitude": 0.66,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ESE', 'distanceKM': 12.087336559418267}",
       "version": null
     },
     {
