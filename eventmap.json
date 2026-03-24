@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9c85ec4b703f65493f6ee4bc2d762d67ee2f6eef",
+    "hashString": "7a19f3af0a21362a57a96fea97814557dae0ffdc",
     "events": [
       {
         "identifier": "uu80006543",
@@ -2389,6 +2389,22 @@
           "town": "Gunnison, UT",
           "bearing": "W",
           "distanceKM": 8.740627994775057
+        }
+      },
+      {
+        "identifier": "uu80133126",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774389053.1800003,
+        "latitudeDeg": 38.4925,
+        "longitudeDeg": -112.895,
+        "depthKM": 2.76,
+        "magnitude": 0.66,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.65287478519964
         }
       },
       {
