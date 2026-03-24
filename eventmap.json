@@ -1,8 +1,24 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0f1f7e06e8d89a329059e6e0f23c3b4c54ebfdc7",
+    "hashString": "5e69a1c262cd0827e82632341815955619027df9",
     "events": [
+      {
+        "identifier": "uu80006543",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774343490.7600002,
+        "latitudeDeg": 39.604,
+        "longitudeDeg": -111.23233333333333,
+        "depthKM": -1.8,
+        "magnitude": 1.17,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Clear Creek, UT",
+          "bearing": "SW",
+          "distanceKM": 8.162440144026407
+        }
+      },
       {
         "identifier": "uu80132871",
         "authority": "UU",
@@ -548,22 +564,6 @@
         }
       },
       {
-        "identifier": "uu80131581",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1773157697.369999,
-        "latitudeDeg": 38.50066666666667,
-        "longitudeDeg": -112.895,
-        "depthKM": 2.1,
-        "magnitude": 1.24,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.324043538823835
-        }
-      },
-      {
         "identifier": "uu80006503",
         "authority": "UU",
         "eventType": "eq",
@@ -641,6 +641,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.121393885107064
+        }
+      },
+      {
+        "identifier": "uu80133106",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774359089.0699997,
+        "latitudeDeg": 41.4955,
+        "longitudeDeg": -112.9355,
+        "depthKM": 1.57,
+        "magnitude": 0.97,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lakeside, UT",
+          "bearing": "N",
+          "distanceKM": 30.897724229284286
         }
       },
       {
@@ -1058,18 +1074,6 @@
           "bearing": "N",
           "distanceKM": 7.711404241640145
         }
-      },
-      {
-        "identifier": "nn00912814",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1773763519.631,
-        "latitudeDeg": 36.1474,
-        "longitudeDeg": -114.8308,
-        "depthKM": 1.1335,
-        "magnitude": 1.81,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80131781",
