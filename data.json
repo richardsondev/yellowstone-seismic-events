@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-25T17:02:54Z",
+  "fetchedAt": "2026-03-25T18:25:07Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -1937,6 +1937,19 @@
       "magnitude": 1.1300000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'N', 'distanceKM': 7.541431453397492}",
+      "version": null
+    },
+    {
+      "identifier": "uu80133226",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774453673.25,
+      "latitudeDeg": 38.49033333333333,
+      "longitudeDeg": -112.89716666666666,
+      "depthKm": 2.86,
+      "magnitude": 1.4000000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.348356294746551}",
       "version": null
     },
     {
