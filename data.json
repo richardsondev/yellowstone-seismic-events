@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-25T21:55:56Z",
+  "fetchedAt": "2026-03-25T22:36:22Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -897,6 +897,19 @@
       "magnitude": 1.34,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.658180513705958}",
+      "version": null
+    },
+    {
+      "identifier": "uu80133291",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774476121.1399999,
+      "latitudeDeg": 38.5025,
+      "longitudeDeg": -112.89633333333333,
+      "depthKm": 2.22,
+      "magnitude": 1.05,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.402641134829892}",
       "version": null
     },
     {
@@ -2161,6 +2174,19 @@
       "version": null
     },
     {
+      "identifier": "uu80133296",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774476727.27,
+      "latitudeDeg": 39.6485,
+      "longitudeDeg": -112.07933333333334,
+      "depthKm": 3.99,
+      "magnitude": 1.76,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Jericho, UT', 'bearing': 'SE', 'distanceKM': 16.015076711032115}",
+      "version": null
+    },
+    {
       "identifier": "uu80132691",
       "authority": "UU",
       "eventType": "eq",
@@ -2665,6 +2691,19 @@
       "magnitude": 1.0,
       "isLocal": true,
       "nearestTown": "{'town': 'Wallsburg, UT', 'bearing': 'SE', 'distanceKM': 10.75221967127555}",
+      "version": null
+    },
+    {
+      "identifier": "nn00913307",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1774476339.754,
+      "latitudeDeg": 36.1745,
+      "longitudeDeg": -115.1727,
+      "depthKm": 14.7482,
+      "magnitude": 1.71,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
