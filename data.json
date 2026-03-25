@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-25T19:02:11Z",
+  "fetchedAt": "2026-03-25T19:36:11Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -1118,6 +1118,19 @@
       "magnitude": 1.24,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.010680390390874}",
+      "version": null
+    },
+    {
+      "identifier": "uu80133191",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774445560.2700005,
+      "latitudeDeg": 44.6045,
+      "longitudeDeg": -110.33066666666667,
+      "depthKm": 2.23,
+      "magnitude": 0.77,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NE', 'distanceKM': 8.15271365428911}",
       "version": null
     },
     {
@@ -2548,6 +2561,19 @@
       "magnitude": 0.65,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 12.582697606341277}",
+      "version": null
+    },
+    {
+      "identifier": "uu80133231",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774461890.0900002,
+      "latitudeDeg": 38.49633333333333,
+      "longitudeDeg": -112.89733333333334,
+      "depthKm": 2.5,
+      "magnitude": 0.8200000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.82862446461534}",
       "version": null
     },
     {
