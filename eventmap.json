@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "693fbef6d6c3297ef6d5c9cc9f66b25656e0e06e",
+    "hashString": "2b044cbcaf741f9e94c35aeae725ad70e060f2e3",
     "events": [
       {
         "identifier": "uu80006543",
@@ -2488,6 +2488,22 @@
         }
       },
       {
+        "identifier": "uu80133286",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774474075.959999,
+        "latitudeDeg": 38.487833333333334,
+        "longitudeDeg": -112.89616666666667,
+        "depthKM": 3.04,
+        "magnitude": 0.8300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.209545991138931
+        }
+      },
+      {
         "identifier": "uu80006533",
         "authority": "UU",
         "eventType": "eq",
@@ -2565,22 +2581,6 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 11.538796788111748
-        }
-      },
-      {
-        "identifier": "uu80131731",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1773265478.4300003,
-        "latitudeDeg": 44.79516666666667,
-        "longitudeDeg": -110.84683333333334,
-        "depthKM": 4.84,
-        "magnitude": 0.87,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mammoth, WY",
-          "bearing": "SSW",
-          "distanceKM": 23.129463397578075
         }
       },
       {
