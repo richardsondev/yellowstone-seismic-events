@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-26T22:09:47Z",
+  "fetchedAt": "2026-03-26T22:32:31Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -585,6 +585,19 @@
       "magnitude": 1.75,
       "isLocal": true,
       "nearestTown": "{'town': 'Helper, UT', 'bearing': 'NE', 'distanceKM': 2.972127882520245}",
+      "version": null
+    },
+    {
+      "identifier": "uu80133446",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774558453.42,
+      "latitudeDeg": 38.491,
+      "longitudeDeg": -112.89833333333333,
+      "depthKm": 2.72,
+      "magnitude": 1.29,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.332464607693721}",
       "version": null
     },
     {
@@ -1196,6 +1209,32 @@
       "magnitude": 1.28,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.089988503577581}",
+      "version": null
+    },
+    {
+      "identifier": "uu80133451",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774559224.9099998,
+      "latitudeDeg": 38.49666666666667,
+      "longitudeDeg": -112.9005,
+      "depthKm": 2.08,
+      "magnitude": 1.36,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.67428530305724}",
+      "version": null
+    },
+    {
+      "identifier": "uu80133441",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774558358.4500008,
+      "latitudeDeg": 38.49633333333333,
+      "longitudeDeg": -112.89816666666667,
+      "depthKm": 2.37,
+      "magnitude": 1.1,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.780363374255732}",
       "version": null
     },
     {
