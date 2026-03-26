@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b1a99a9aa1a929ca59740e3a5db4c8f3e130d4b8",
+    "hashString": "fb7a2199fef6ffa498e6d5dd51a50891ec69e01e",
     "events": [
       {
         "identifier": "uu80006543",
@@ -3381,6 +3381,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.10675639785829
+        }
+      },
+      {
+        "identifier": "uu80133336",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774496400.51,
+        "latitudeDeg": 37.73433333333333,
+        "longitudeDeg": -111.14333333333333,
+        "depthKM": 33.91,
+        "magnitude": 2.43,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Boulder Town, UT",
+          "bearing": "SE",
+          "distanceKM": 31.260085042653714
         }
       },
       {
