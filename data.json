@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-27T15:37:24Z",
+  "fetchedAt": "2026-03-27T18:37:19Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -2158,6 +2158,19 @@
       "magnitude": 1.83,
       "isLocal": true,
       "nearestTown": "{'town': 'Penrose, UT', 'bearing': 'SW', 'distanceKM': 12.378362788697425}",
+      "version": null
+    },
+    {
+      "identifier": "nn00913389",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1774636088.2120001,
+      "latitudeDeg": 37.3853,
+      "longitudeDeg": -114.7735,
+      "depthKm": 4.996,
+      "magnitude": 1.59,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
