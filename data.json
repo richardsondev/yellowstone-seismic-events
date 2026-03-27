@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-27T18:37:19Z",
+  "fetchedAt": "2026-03-27T19:52:50Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -507,6 +507,19 @@
       "magnitude": 1.49,
       "isLocal": true,
       "nearestTown": "{'town': 'Marysvale, UT', 'bearing': 'SSW', 'distanceKM': 7.44281575038436}",
+      "version": null
+    },
+    {
+      "identifier": "uu80006578",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1774539173.4099998,
+      "latitudeDeg": 40.742,
+      "longitudeDeg": -112.054,
+      "depthKm": 6.12,
+      "magnitude": 0.24,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'SE', 'distanceKM': 5.270643340460897}",
       "version": null
     },
     {
@@ -2249,19 +2262,6 @@
       "magnitude": 2.9,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80131976",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1773431041.99,
-      "latitudeDeg": 38.347166666666666,
-      "longitudeDeg": -111.09316666666666,
-      "depthKm": 1.84,
-      "magnitude": 1.54,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Caineville, UT', 'bearing': 'WNW', 'distanceKM': 6.125017394415694}",
       "version": null
     },
     {

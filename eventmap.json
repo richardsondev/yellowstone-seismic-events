@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1044d84060326749308cc64936de4ddd48399cfe",
+    "hashString": "056dda893d4ee977fc737cf11919d54331e6497f",
     "events": [
       {
         "identifier": "uu80006543",
@@ -625,6 +625,22 @@
           "town": "Marysvale, UT",
           "bearing": "SSW",
           "distanceKM": 7.44281575038436
+        }
+      },
+      {
+        "identifier": "uu80006578",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774539173.4099998,
+        "latitudeDeg": 40.742,
+        "longitudeDeg": -112.054,
+        "depthKM": 6.12,
+        "magnitude": 0.24,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saltair, UT",
+          "bearing": "SE",
+          "distanceKM": 5.270643340460897
         }
       },
       {
@@ -2746,22 +2762,6 @@
         "magnitude": 2.9,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80131976",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1773431041.99,
-        "latitudeDeg": 38.347166666666666,
-        "longitudeDeg": -111.09316666666666,
-        "depthKM": 1.84,
-        "magnitude": 1.54,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Caineville, UT",
-          "bearing": "WNW",
-          "distanceKM": 6.125017394415694
-        }
       },
       {
         "identifier": "uu80132951",
