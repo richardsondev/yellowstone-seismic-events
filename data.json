@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-27T19:52:50Z",
+  "fetchedAt": "2026-03-27T20:14:26Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -2260,6 +2260,19 @@
       "longitudeDeg": -113.0344,
       "depthKm": 5.0,
       "magnitude": 2.9,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "nn00913395",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1774641208.502,
+      "latitudeDeg": 36.5258,
+      "longitudeDeg": -115.0705,
+      "depthKm": 8.4747,
+      "magnitude": 1.64,
       "isLocal": false,
       "nearestTown": null,
       "version": null
