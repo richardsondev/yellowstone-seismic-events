@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f07d9be8d61aa4981dc413450ca1e983f6f59128",
+    "hashString": "85de94f78c9d420b504485a853790ac16a392eff",
     "events": [
       {
         "identifier": "uu80006543",
@@ -321,6 +321,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.818956388088619
+        }
+      },
+      {
+        "identifier": "uu80133666",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774728839.5200005,
+        "latitudeDeg": 44.729,
+        "longitudeDeg": -110.5015,
+        "depthKM": 4.18,
+        "magnitude": 0.88,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NNW",
+          "distanceKM": 21.313963871331655
         }
       },
       {
@@ -3113,6 +3129,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.183058875859487
+        }
+      },
+      {
+        "identifier": "uu80006603",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774750329.83,
+        "latitudeDeg": 41.50633333333333,
+        "longitudeDeg": -112.8625,
+        "depthKM": 7.7,
+        "magnitude": 0.84,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lakeside, UT",
+          "bearing": "N",
+          "distanceKM": 31.57438253326809
         }
       },
       {
