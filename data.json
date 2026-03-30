@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-03-30T19:41:02Z",
+  "fetchedAt": "2026-03-30T21:01:00Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -1287,6 +1287,19 @@
       "magnitude": 1.22,
       "isLocal": true,
       "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'NW', 'distanceKM': 14.637150780241148}",
+      "version": null
+    },
+    {
+      "identifier": "nn00913558",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1774903139.526,
+      "latitudeDeg": 35.8121,
+      "longitudeDeg": -114.8713,
+      "depthKm": 16.0,
+      "magnitude": 1.86,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
