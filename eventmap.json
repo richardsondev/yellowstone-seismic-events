@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9e7bdcd5b3b8825b1d580bedee161223c374bf34",
+    "hashString": "8440d430b20cfb882b97728d867fd9f28d2917a5",
     "events": [
       {
         "identifier": "uu80006543",
@@ -2597,6 +2597,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.706689256871025
+        }
+      },
+      {
+        "identifier": "uu80134026",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774995944.5099983,
+        "latitudeDeg": 44.505,
+        "longitudeDeg": -110.66966666666667,
+        "depthKM": 5.34,
+        "magnitude": 0.8200000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Thumb, WY",
+          "bearing": "NW",
+          "distanceKM": 12.341993086186296
         }
       },
       {
