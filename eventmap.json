@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "149dc72a4ffed9e3b5f39da1731d7a21b82d3225",
+    "hashString": "643cf760c3a777b9e315012795fe45d3cd7f3431",
     "events": [
       {
         "identifier": "uu80006543",
@@ -305,6 +305,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.959326194339859
+        }
+      },
+      {
+        "identifier": "uu80134016",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774982409.5900002,
+        "latitudeDeg": 36.821,
+        "longitudeDeg": -112.9195,
+        "depthKM": 16.65,
+        "magnitude": 1.87,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cane Beds, AZ",
+          "bearing": "S",
+          "distanceKM": 14.07109220221849
         }
       },
       {
@@ -1281,6 +1297,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.743025942949943
+        }
+      },
+      {
+        "identifier": "uu80134006",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1774980901.9499998,
+        "latitudeDeg": 38.488,
+        "longitudeDeg": -112.9,
+        "depthKM": 2.64,
+        "magnitude": 0.14,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 13.990406890133311
         }
       },
       {
