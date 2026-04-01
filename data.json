@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-01T17:37:53Z",
+  "fetchedAt": "2026-04-01T18:00:55Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -390,6 +390,19 @@
       "magnitude": 1.17,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 13.940447214305276}",
+      "version": null
+    },
+    {
+      "identifier": "uu80006623",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775033685.9099998,
+      "latitudeDeg": 41.2665,
+      "longitudeDeg": -111.72133333333333,
+      "depthKm": 10.89,
+      "magnitude": 0.6,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Huntsville, UT', 'bearing': 'E', 'distanceKM': 4.108544674464581}",
       "version": null
     },
     {
