@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2889fb2a3508ce52527d1afcb0093adf908645ed",
+    "hashString": "d3ad6766ef09fba939c808912665ed0102e3922f",
     "events": [
       {
         "identifier": "uu80006543",
@@ -2856,6 +2856,22 @@
         }
       },
       {
+        "identifier": "uu80134181",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1775072245.8999996,
+        "latitudeDeg": 38.491,
+        "longitudeDeg": -112.90266666666666,
+        "depthKM": 3.01,
+        "magnitude": 0.99,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.077256693399933
+        }
+      },
+      {
         "identifier": "uu80134146",
         "authority": "UU",
         "eventType": "eq",
@@ -3232,6 +3248,18 @@
         }
       },
       {
+        "identifier": "mb90129388",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1774944875.33,
+        "latitudeDeg": 44.7455,
+        "longitudeDeg": -111.737833333333,
+        "depthKM": 7.94,
+        "magnitude": 0.18,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80133796",
         "authority": "UU",
         "eventType": "eq",
@@ -3352,6 +3380,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80134176",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1775070515.1800003,
+        "latitudeDeg": 38.49483333333333,
+        "longitudeDeg": -112.906,
+        "depthKM": 2.63,
+        "magnitude": 0.81,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.208555509299632
+        }
+      },
+      {
         "identifier": "uu80006538",
         "authority": "UU",
         "eventType": "eq",
@@ -3446,18 +3490,6 @@
           "bearing": "NE",
           "distanceKM": 13.521900830974062
         }
-      },
-      {
-        "identifier": "us6000sh90",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1773863861.999,
-        "latitudeDeg": 36.684,
-        "longitudeDeg": -113.0344,
-        "depthKM": 5,
-        "magnitude": 2.9,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80134101",
