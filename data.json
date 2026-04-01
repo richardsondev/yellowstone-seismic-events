@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-01T22:58:15Z",
+  "fetchedAt": "2026-04-01T23:19:16Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -848,19 +848,6 @@
       "version": null
     },
     {
-      "identifier": "mb90127883",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1774479481.26,
-      "latitudeDeg": 43.6143333333333,
-      "longitudeDeg": -110.507333333333,
-      "depthKm": 6.08,
-      "magnitude": 1.85,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80132636",
       "authority": "UU",
       "eventType": "eq",
@@ -1079,6 +1066,19 @@
       "magnitude": 1.5,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.924601429913565}",
+      "version": null
+    },
+    {
+      "identifier": "uu80134286",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775083622.55,
+      "latitudeDeg": 39.638666666666666,
+      "longitudeDeg": -111.262,
+      "depthKm": 7.77,
+      "magnitude": 1.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'W', 'distanceKM': 9.28903823172902}",
       "version": null
     },
     {
