@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-02T13:03:47Z",
+  "fetchedAt": "2026-04-02T13:56:02Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -26,6 +26,19 @@
       "magnitude": 1.6600000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Big Springs, ID', 'bearing': 'SSE', 'distanceKM': 6.419203272646194}",
+      "version": null
+    },
+    {
+      "identifier": "uu80134401",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775133027.1099987,
+      "latitudeDeg": 38.48866666666667,
+      "longitudeDeg": -112.90316666666666,
+      "depthKm": 2.92,
+      "magnitude": 1.27,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 13.856099065992362}",
       "version": null
     },
     {
@@ -692,19 +705,6 @@
       "version": null
     },
     {
-      "identifier": "uu80132356",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1773926424.2699986,
-      "latitudeDeg": 38.496833333333335,
-      "longitudeDeg": -112.89566666666667,
-      "depthKm": 2.3,
-      "magnitude": 0.8200000000000001,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.966945124201741}",
-      "version": null
-    },
-    {
       "identifier": "uu80133201",
       "authority": "UU",
       "eventType": "eq",
@@ -825,13 +825,13 @@
       "identifier": "uu80134356",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1775102739.540001,
-      "latitudeDeg": 38.48733333333333,
-      "longitudeDeg": -112.9,
-      "depthKm": 3.78,
-      "magnitude": 1.98,
+      "originTimeUtc": 1775102739.6299973,
+      "latitudeDeg": 38.48466666666667,
+      "longitudeDeg": -112.904,
+      "depthKm": 2.71,
+      "magnitude": 1.27,
       "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 13.936857226398859}",
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 13.48190207731243}",
       "version": null
     },
     {
