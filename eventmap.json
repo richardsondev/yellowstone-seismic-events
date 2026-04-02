@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "acfc0ada56e3471ad5eb100057c5bb9ade9e5339",
+    "hashString": "57fa95f1dfa2a6c98b1a35a88aaa28e811c85f86",
     "events": [
       {
         "identifier": "uu80006543",
@@ -33,6 +33,22 @@
           "town": "Big Springs, ID",
           "bearing": "SSE",
           "distanceKM": 6.419203272646194
+        }
+      },
+      {
+        "identifier": "uu80134401",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1775133027.1099987,
+        "latitudeDeg": 38.48866666666667,
+        "longitudeDeg": -112.90316666666666,
+        "depthKM": 2.92,
+        "magnitude": 1.27,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 13.856099065992362
         }
       },
       {
@@ -848,22 +864,6 @@
         }
       },
       {
-        "identifier": "uu80132356",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1773926424.2699986,
-        "latitudeDeg": 38.496833333333335,
-        "longitudeDeg": -112.89566666666667,
-        "depthKM": 2.3,
-        "magnitude": 0.8200000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.966945124201741
-        }
-      },
-      {
         "identifier": "uu80133201",
         "authority": "UU",
         "eventType": "eq",
@@ -1011,16 +1011,16 @@
         "identifier": "uu80134356",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1775102739.540001,
-        "latitudeDeg": 38.48733333333333,
-        "longitudeDeg": -112.9,
-        "depthKM": 3.78,
-        "magnitude": 1.98,
+        "originTimeUTC": 1775102739.6299973,
+        "latitudeDeg": 38.48466666666667,
+        "longitudeDeg": -112.904,
+        "depthKM": 2.71,
+        "magnitude": 1.27,
         "isLocal": true,
         "nearestTown": {
           "town": "Milford, UT",
           "bearing": "NE",
-          "distanceKM": 13.936857226398859
+          "distanceKM": 13.48190207731243
         }
       },
       {
