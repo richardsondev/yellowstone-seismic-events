@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-02T17:37:55Z",
+  "fetchedAt": "2026-04-02T18:28:54Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -2756,6 +2756,19 @@
       "magnitude": 1.76,
       "isLocal": true,
       "nearestTown": "{'town': 'Jericho, UT', 'bearing': 'SE', 'distanceKM': 16.015076711032115}",
+      "version": null
+    },
+    {
+      "identifier": "uu80134426",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775147010.5,
+      "latitudeDeg": 44.79783333333334,
+      "longitudeDeg": -110.84533333333333,
+      "depthKm": 7.45,
+      "magnitude": 2.41,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 22.8129006707772}",
       "version": null
     },
     {
