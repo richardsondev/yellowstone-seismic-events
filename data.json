@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-03T19:02:30Z",
+  "fetchedAt": "2026-04-03T19:53:41Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -2743,6 +2743,19 @@
       "magnitude": 0.86,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.730453213948243}",
+      "version": null
+    },
+    {
+      "identifier": "uu80134561",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775242007.2000008,
+      "latitudeDeg": 39.2545,
+      "longitudeDeg": -111.93583333333333,
+      "depthKm": 18.5,
+      "magnitude": 0.93,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'WNW', 'distanceKM': 7.561539473496531}",
       "version": null
     },
     {
