@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7f0ffe054f6ced1f86c844918e280aac55aa1d0f",
+    "hashString": "55dfd3b94ddd707dca10cca38317b22e22ff7677",
     "events": [
       {
         "identifier": "uu80006543",
@@ -881,6 +881,22 @@
           "town": "Saltair, UT",
           "bearing": "SE",
           "distanceKM": 5.270643340460897
+        }
+      },
+      {
+        "identifier": "uu80134546",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1775233729.6599998,
+        "latitudeDeg": 38.49466666666667,
+        "longitudeDeg": -112.904,
+        "depthKM": 2.01,
+        "magnitude": 1.27,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.306977501427529
         }
       },
       {
