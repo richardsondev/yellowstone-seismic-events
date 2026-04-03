@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-03T16:36:04Z",
+  "fetchedAt": "2026-04-03T17:16:05Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -728,6 +728,19 @@
       "magnitude": 0.24,
       "isLocal": true,
       "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'SE', 'distanceKM': 5.270643340460897}",
+      "version": null
+    },
+    {
+      "identifier": "uu80134546",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775233729.6599998,
+      "latitudeDeg": 38.49466666666667,
+      "longitudeDeg": -112.904,
+      "depthKm": 2.01,
+      "magnitude": 1.27,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.306977501427529}",
       "version": null
     },
     {
