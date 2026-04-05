@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-05T03:45:11Z",
+  "fetchedAt": "2026-04-05T04:55:06Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -2990,6 +2990,19 @@
       "magnitude": 0.77,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 22.604268257444208}",
+      "version": null
+    },
+    {
+      "identifier": "us6000smq8",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1775356000.3040001,
+      "latitudeDeg": 44.8165,
+      "longitudeDeg": -111.5697,
+      "depthKm": 10.0,
+      "magnitude": 2.9,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
