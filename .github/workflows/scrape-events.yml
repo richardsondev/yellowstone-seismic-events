@@ -21,12 +21,12 @@ jobs:
 
       - name: Fetch latest event hash
         run: |
-          curl 'https://webproducts.quake-utah.org/Catalog/ComCat/EventData?application=eventmaphash' | tr '\n' ' ' | sed 's/, ]/] /g' | jq . >/tmp/eventmaphash.json
+          curl --max-time 30 --retry 3 --retry-delay 5 -sf 'https://webproducts.quake-utah.org/Catalog/ComCat/EventData?application=eventmaphash' | tr '\n' ' ' | sed 's/, ]/] /g' | jq . >/tmp/eventmaphash.json
           test -s /tmp/eventmaphash.json && jq -e . </tmp/eventmaphash.json >/dev/null
 
       - name: Fetch latest event data
         run: |
-          curl 'https://webproducts.quake-utah.org/Catalog/ComCat/EventData?application=eventmap' | tr '\n' ' ' | sed 's/, ]/] /g' | jq . >eventmap.json
+          curl --max-time 30 --retry 3 --retry-delay 5 -sf 'https://webproducts.quake-utah.org/Catalog/ComCat/EventData?application=eventmap' | tr '\n' ' ' | sed 's/, ]/] /g' | jq . >eventmap.json
           test -s eventmap.json && jq -e . eventmap.json >/dev/null
 
       - name: Compare hashes
