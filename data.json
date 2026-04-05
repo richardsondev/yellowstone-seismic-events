@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-05T13:40:59Z",
+  "fetchedAt": "2026-04-05T14:33:53Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -1300,6 +1300,19 @@
       "magnitude": 0.8200000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.532664495384592}",
+      "version": null
+    },
+    {
+      "identifier": "uu80134796",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775394427.96,
+      "latitudeDeg": 41.8595,
+      "longitudeDeg": -112.74983333333333,
+      "depthKm": 4.6,
+      "magnitude": 2.3000000000000003,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Snowville, UT', 'bearing': 'SSW', 'distanceKM': 12.245569895637011}",
       "version": null
     },
     {
