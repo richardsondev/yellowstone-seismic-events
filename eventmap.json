@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "672a34812d5ffbd7366e9e370686d323fef1c9bb",
+    "hashString": "8b7eccb545bd9f4aabbfbf8ecb06d5023affec86",
     "events": [
       {
         "identifier": "uu80006543",
@@ -829,6 +829,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.332464607693721
+        }
+      },
+      {
+        "identifier": "uu80134736",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1775342980.9300003,
+        "latitudeDeg": 44.278333333333336,
+        "longitudeDeg": -110.8025,
+        "depthKM": 3.88,
+        "magnitude": 2.0300000000000002,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "S",
+          "distanceKM": 20.316793620344484
         }
       },
       {
