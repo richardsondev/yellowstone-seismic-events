@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-06T15:35:03Z",
+  "fetchedAt": "2026-04-06T15:58:26Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -1186,19 +1186,6 @@
       "version": null
     },
     {
-      "identifier": "uu80132991",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1774280163.6899998,
-      "latitudeDeg": 38.498666666666665,
-      "longitudeDeg": -112.89616666666667,
-      "depthKm": 2.32,
-      "magnitude": 1.28,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.089988503577581}",
-      "version": null
-    },
-    {
       "identifier": "uu80133451",
       "authority": "UU",
       "eventType": "eq",
@@ -1313,6 +1300,19 @@
       "magnitude": 0.58,
       "isLocal": true,
       "nearestTown": "{'town': 'Mount Olympus, UT', 'bearing': 'NE', 'distanceKM': 16.224971167643094}",
+      "version": null
+    },
+    {
+      "identifier": "mb90129853",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1775259153.82,
+      "latitudeDeg": 44.7535,
+      "longitudeDeg": -111.161166666667,
+      "depthKm": 3.91,
+      "magnitude": 0.03,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
