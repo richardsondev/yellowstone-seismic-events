@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-06T22:55:49Z",
+  "fetchedAt": "2026-04-06T23:17:36Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -848,19 +848,6 @@
       "version": null
     },
     {
-      "identifier": "mb90130168",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1775422330.78,
-      "latitudeDeg": 44.4761666666667,
-      "longitudeDeg": -111.1295,
-      "depthKm": 21.46,
-      "magnitude": 0.71,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80134616",
       "authority": "UU",
       "eventType": "eq",
@@ -1459,6 +1446,19 @@
       "version": null
     },
     {
+      "identifier": "uu80006633",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775422331.12,
+      "latitudeDeg": 44.477666666666664,
+      "longitudeDeg": -111.10233333333333,
+      "depthKm": 18.24,
+      "magnitude": 0.34,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Big Springs, ID', 'bearing': 'E', 'distanceKM': 12.487558708538533}",
+      "version": null
+    },
+    {
       "identifier": "uu80134191",
       "authority": "UU",
       "eventType": "eq",
@@ -1690,19 +1690,6 @@
       "magnitude": 1.58,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'S', 'distanceKM': 19.410459874500734}",
-      "version": null
-    },
-    {
-      "identifier": "uu80133036",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1774307643.37,
-      "latitudeDeg": 40.13033333333333,
-      "longitudeDeg": -108.81833333333333,
-      "depthKm": 5.96,
-      "magnitude": 2.24,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Rangely, CO', 'bearing': 'NNW', 'distanceKM': 4.899936543530334}",
       "version": null
     },
     {
@@ -2067,6 +2054,19 @@
       "magnitude": 1.67,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.58346977896331}",
+      "version": null
+    },
+    {
+      "identifier": "uu80006638",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775322323.08,
+      "latitudeDeg": 44.7345,
+      "longitudeDeg": -111.15166666666667,
+      "depthKm": 10.89,
+      "magnitude": -0.45,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SSE', 'distanceKM': 8.08695701935416}",
       "version": null
     },
     {
@@ -3188,6 +3188,19 @@
       "version": null
     },
     {
+      "identifier": "uu80134656",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775310948.3899994,
+      "latitudeDeg": 44.81633333333333,
+      "longitudeDeg": -110.96466666666667,
+      "depthKm": 6.73,
+      "magnitude": 0.4,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'E', 'distanceKM': 18.052065211783475}",
+      "version": null
+    },
+    {
       "identifier": "uu80133776",
       "authority": "UU",
       "eventType": "eq",
@@ -3315,6 +3328,19 @@
       "magnitude": 0.84,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.169416101308611}",
+      "version": null
+    },
+    {
+      "identifier": "uu80134641",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775307091.5599995,
+      "latitudeDeg": 44.78516666666667,
+      "longitudeDeg": -110.5365,
+      "depthKm": 4.68,
+      "magnitude": 1.45,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSE', 'distanceKM': 25.034277004340485}",
       "version": null
     },
     {
