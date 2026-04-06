@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-06T23:17:36Z",
+  "fetchedAt": "2026-04-06T23:36:24Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -260,6 +260,19 @@
       "magnitude": 1.69,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80006643",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775308384.06,
+      "latitudeDeg": 44.72516666666667,
+      "longitudeDeg": -111.15,
+      "depthKm": 9.58,
+      "magnitude": -0.73,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'NNW', 'distanceKM': 7.895680848405677}",
       "version": null
     },
     {
@@ -1004,6 +1017,19 @@
       "version": null
     },
     {
+      "identifier": "uu80006648",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775259153.790001,
+      "latitudeDeg": 44.753,
+      "longitudeDeg": -111.1745,
+      "depthKm": 5.8,
+      "magnitude": -0.84,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SSE', 'distanceKM': 5.544715163552379}",
+      "version": null
+    },
+    {
       "identifier": "uu80134186",
       "authority": "UU",
       "eventType": "eq",
@@ -1173,19 +1199,6 @@
       "version": null
     },
     {
-      "identifier": "uu80133041",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1774307890.62,
-      "latitudeDeg": 44.401,
-      "longitudeDeg": -110.35633333333334,
-      "depthKm": 2.17,
-      "magnitude": 0.27,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'SSE', 'distanceKM': 17.06576753286225}",
-      "version": null
-    },
-    {
       "identifier": "uu80133191",
       "authority": "UU",
       "eventType": "eq",
@@ -1352,19 +1365,6 @@
       "magnitude": 0.58,
       "isLocal": true,
       "nearestTown": "{'town': 'Mount Olympus, UT', 'bearing': 'NE', 'distanceKM': 16.224971167643094}",
-      "version": null
-    },
-    {
-      "identifier": "mb90129853",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1775259153.82,
-      "latitudeDeg": 44.7535,
-      "longitudeDeg": -111.161166666667,
-      "depthKm": 3.91,
-      "magnitude": 0.03,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -3068,19 +3068,6 @@
       "magnitude": 0.75,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.06342133005197}",
-      "version": null
-    },
-    {
-      "identifier": "uu80133046",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1774307981.1299973,
-      "latitudeDeg": 44.3795,
-      "longitudeDeg": -110.332,
-      "depthKm": 8.22,
-      "magnitude": 1.7,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'SSE', 'distanceKM': 19.855553165394397}",
       "version": null
     },
     {
