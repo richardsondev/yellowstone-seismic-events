@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-06T16:24:12Z",
+  "fetchedAt": "2026-04-06T17:00:16Z",
   "events": [
     {
       "identifier": "uu80006543",
@@ -575,6 +575,19 @@
       "version": null
     },
     {
+      "identifier": "mb90130028",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1775325964.15,
+      "latitudeDeg": 45.1756666666667,
+      "longitudeDeg": -111.664166666667,
+      "depthKm": 9.32,
+      "magnitude": 1.43,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80006568",
       "authority": "UU",
       "eventType": "eq",
@@ -598,19 +611,6 @@
       "magnitude": 1.13,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80133011",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1774283892.3199997,
-      "latitudeDeg": 44.608333333333334,
-      "longitudeDeg": -110.97133333333333,
-      "depthKm": 7.46,
-      "magnitude": 0.66,
-      "isLocal": true,
-      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'ESE', 'distanceKM': 12.087336559418267}",
       "version": null
     },
     {
@@ -663,6 +663,19 @@
       "magnitude": 1.12,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.46426432021891}",
+      "version": null
+    },
+    {
+      "identifier": "mb90130008",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1775310908.51,
+      "latitudeDeg": 44.7623333333333,
+      "longitudeDeg": -111.191,
+      "depthKm": 4.1,
+      "magnitude": 0.12,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -806,6 +819,19 @@
       "magnitude": 0.61,
       "isLocal": true,
       "nearestTown": "{'town': 'Penrose, UT', 'bearing': 'SW', 'distanceKM': 12.015514375180132}",
+      "version": null
+    },
+    {
+      "identifier": "uu80134616",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775278275.7199993,
+      "latitudeDeg": 44.24816666666667,
+      "longitudeDeg": -110.84916666666666,
+      "depthKm": 4.32,
+      "magnitude": 1.48,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 23.538823651718218}",
       "version": null
     },
     {
@@ -1628,6 +1654,19 @@
       "version": null
     },
     {
+      "identifier": "mb90130013",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1775316840.8,
+      "latitudeDeg": 45.154,
+      "longitudeDeg": -111.712833333333,
+      "depthKm": 9.43,
+      "magnitude": 0.71,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80133211",
       "authority": "UU",
       "eventType": "eq",
@@ -2099,13 +2138,26 @@
       "identifier": "uu80134861",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1775452001.5,
-      "latitudeDeg": 38.504,
-      "longitudeDeg": -112.90616666666666,
-      "depthKm": 2.74,
+      "originTimeUtc": 1775452001.3600006,
+      "latitudeDeg": 38.50666666666667,
+      "longitudeDeg": -112.90383333333334,
+      "depthKm": 4.06,
       "magnitude": 2.47,
       "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.994870487733401}",
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.353743887250934}",
+      "version": null
+    },
+    {
+      "identifier": "mb90130018",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1775322323.23,
+      "latitudeDeg": 44.7008333333333,
+      "longitudeDeg": -111.170666666667,
+      "depthKm": 7.2,
+      "magnitude": -0.02,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
