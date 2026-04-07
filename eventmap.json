@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "702f13fc44cd83bc5df2b0c5110dcae70029f5e5",
+    "hashString": "8d328d36f11cb3e0e002d7045d371c331254af99",
     "events": [
       {
         "identifier": "uu80134401",
@@ -620,6 +620,18 @@
         }
       },
       {
+        "identifier": "us6000sn5t",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1775535884.966,
+        "latitudeDeg": 35.0465,
+        "longitudeDeg": -110.7912,
+        "depthKM": 9.713,
+        "magnitude": 2.7,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80133376",
         "authority": "UU",
         "eventType": "eq",
@@ -821,22 +833,6 @@
           "town": "Old Faithful, WY",
           "bearing": "S",
           "distanceKM": 20.316793620344484
-        }
-      },
-      {
-        "identifier": "uu80133106",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1774359089.0699997,
-        "latitudeDeg": 41.4955,
-        "longitudeDeg": -112.9355,
-        "depthKM": 1.57,
-        "magnitude": 0.97,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lakeside, UT",
-          "bearing": "N",
-          "distanceKM": 30.897724229284286
         }
       },
       {
@@ -1800,18 +1796,6 @@
         }
       },
       {
-        "identifier": "mb90130003",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1775308383.79,
-        "latitudeDeg": 44.7285,
-        "longitudeDeg": -111.160833333333,
-        "depthKM": 11.36,
-        "magnitude": -0.18,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80134131",
         "authority": "UU",
         "eventType": "eq",
@@ -2510,18 +2494,6 @@
           "bearing": "NE",
           "distanceKM": 15.353743887250934
         }
-      },
-      {
-        "identifier": "mb90130018",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1775322323.23,
-        "latitudeDeg": 44.7008333333333,
-        "longitudeDeg": -111.170666666667,
-        "depthKM": 7.2,
-        "magnitude": -0.02,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80133126",
