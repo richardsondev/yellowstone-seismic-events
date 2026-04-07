@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-07T13:04:19Z",
+  "fetchedAt": "2026-04-07T13:57:58Z",
   "events": [
     {
       "identifier": "uu80134401",
@@ -523,6 +523,19 @@
       "version": null
     },
     {
+      "identifier": "us6000sn5t",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1775535884.966,
+      "latitudeDeg": 35.0465,
+      "longitudeDeg": -110.7912,
+      "depthKm": 9.713,
+      "magnitude": 2.7,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80133376",
       "authority": "UU",
       "eventType": "eq",
@@ -702,19 +715,6 @@
       "magnitude": 2.0300000000000002,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 20.316793620344484}",
-      "version": null
-    },
-    {
-      "identifier": "uu80133106",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1774359089.0699997,
-      "latitudeDeg": 41.4955,
-      "longitudeDeg": -112.9355,
-      "depthKm": 1.57,
-      "magnitude": 0.97,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lakeside, UT', 'bearing': 'N', 'distanceKM': 30.897724229284286}",
       "version": null
     },
     {
@@ -1511,19 +1511,6 @@
       "version": null
     },
     {
-      "identifier": "mb90130003",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1775308383.79,
-      "latitudeDeg": 44.7285,
-      "longitudeDeg": -111.160833333333,
-      "depthKm": 11.36,
-      "magnitude": -0.18,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80134131",
       "authority": "UU",
       "eventType": "eq",
@@ -2106,19 +2093,6 @@
       "magnitude": 2.47,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.353743887250934}",
-      "version": null
-    },
-    {
-      "identifier": "mb90130018",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1775322323.23,
-      "latitudeDeg": 44.7008333333333,
-      "longitudeDeg": -111.170666666667,
-      "depthKm": 7.2,
-      "magnitude": -0.02,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
