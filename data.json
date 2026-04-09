@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-09T01:08:02Z",
+  "fetchedAt": "2026-04-09T04:33:01Z",
   "events": [
     {
       "identifier": "uu80135101",
@@ -845,6 +845,19 @@
       "magnitude": 1.48,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'S', 'distanceKM': 23.538823651718218}",
+      "version": null
+    },
+    {
+      "identifier": "nn00913904",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1775702074.424,
+      "latitudeDeg": 37.8704,
+      "longitudeDeg": -114.719,
+      "depthKm": 14.9547,
+      "magnitude": 1.72,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1742,19 +1755,6 @@
       "magnitude": 1.16,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.263655745630663}",
-      "version": null
-    },
-    {
-      "identifier": "uu80133331",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1774491845.4,
-      "latitudeDeg": 39.65116666666667,
-      "longitudeDeg": -112.08666666666667,
-      "depthKm": 1.85,
-      "magnitude": 1.59,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Jericho, UT', 'bearing': 'SE', 'distanceKM': 15.369058855208335}",
       "version": null
     },
     {
@@ -2821,19 +2821,6 @@
       "magnitude": 0.91,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.027425786977043}",
-      "version": null
-    },
-    {
-      "identifier": "uu80133336",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1774496400.51,
-      "latitudeDeg": 37.73433333333333,
-      "longitudeDeg": -111.14333333333333,
-      "depthKm": 33.91,
-      "magnitude": 2.43,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Boulder Town, UT', 'bearing': 'SE', 'distanceKM': 31.260085042653714}",
       "version": null
     },
     {
