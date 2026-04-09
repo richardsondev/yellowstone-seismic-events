@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-09T22:57:59Z",
+  "fetchedAt": "2026-04-09T23:21:30Z",
   "events": [
     {
       "identifier": "uu80134671",
@@ -484,16 +484,16 @@
       "version": null
     },
     {
-      "identifier": "uu80133461",
+      "identifier": "uu80006668",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1774566303.1,
-      "latitudeDeg": 37.0415,
-      "longitudeDeg": -112.91316666666667,
-      "depthKm": 11.46,
-      "magnitude": 1.58,
+      "originTimeUtc": 1775732540.0499992,
+      "latitudeDeg": 38.819,
+      "longitudeDeg": -111.526,
+      "depthKm": 19.64,
+      "magnitude": 0.64,
       "isLocal": true,
-      "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 6.36523968568923}",
+      "nearestTown": "{'town': 'Emery, UT', 'bearing': 'WSW', 'distanceKM': 26.638772011607053}",
       "version": null
     },
     {
@@ -2431,6 +2431,19 @@
       "magnitude": 1.57,
       "isLocal": true,
       "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'WNW', 'distanceKM': 6.451044677626428}",
+      "version": null
+    },
+    {
+      "identifier": "uu80135276",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1775707263.78,
+      "latitudeDeg": 38.504,
+      "longitudeDeg": -112.9125,
+      "depthKm": 3.63,
+      "magnitude": 1.79,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.666281559601154}",
       "version": null
     },
     {
