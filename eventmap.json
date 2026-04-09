@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d23a9a8a7eaac14c8f83a7baa0a5e0d5d48e6604",
+    "hashString": "513ece3eb16523a4f478993a75f8ae73cd5e576a",
     "events": [
       {
         "identifier": "uu80135101",
@@ -986,6 +986,18 @@
           "bearing": "S",
           "distanceKM": 23.538823651718218
         }
+      },
+      {
+        "identifier": "nn00913904",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1775702074.424,
+        "latitudeDeg": 37.8704,
+        "longitudeDeg": -114.719,
+        "depthKM": 14.9547,
+        "magnitude": 1.72,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80134171",
@@ -2057,22 +2069,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.263655745630663
-        }
-      },
-      {
-        "identifier": "uu80133331",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1774491845.4,
-        "latitudeDeg": 39.65116666666667,
-        "longitudeDeg": -112.08666666666667,
-        "depthKM": 1.85,
-        "magnitude": 1.59,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Jericho, UT",
-          "bearing": "SE",
-          "distanceKM": 15.369058855208335
         }
       },
       {
@@ -3333,22 +3329,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.027425786977043
-        }
-      },
-      {
-        "identifier": "uu80133336",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1774496400.51,
-        "latitudeDeg": 37.73433333333333,
-        "longitudeDeg": -111.14333333333333,
-        "depthKM": 33.91,
-        "magnitude": 2.43,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Boulder Town, UT",
-          "bearing": "SE",
-          "distanceKM": 31.260085042653714
         }
       },
       {
