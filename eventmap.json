@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6c2e9d3437ea20b87a871d226f587aaba5d6f5cd",
+    "hashString": "b12da568ff1046460425cee1bbe2cb99f7f50424",
     "events": [
       {
         "identifier": "uu80134671",
@@ -2500,6 +2500,22 @@
         }
       },
       {
+        "identifier": "uu80135306",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1775756182.1499996,
+        "latitudeDeg": 41.83133333333333,
+        "longitudeDeg": -112.631,
+        "depthKM": 2.63,
+        "magnitude": 1.08,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Blue Creek, UT",
+          "bearing": "WSW",
+          "distanceKM": 14.684783183044841
+        }
+      },
+      {
         "identifier": "uu80134876",
         "authority": "UU",
         "eventType": "eq",
@@ -3445,6 +3461,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.33935104702934
+        }
+      },
+      {
+        "identifier": "uu80135256",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1775690856.7299995,
+        "latitudeDeg": 38.5045,
+        "longitudeDeg": -112.91,
+        "depthKM": 2.35,
+        "magnitude": 1.54,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.839176203382841
         }
       },
       {
