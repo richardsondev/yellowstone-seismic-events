@@ -1,22 +1,22 @@
 {
   "status": 200,
   "data": {
-    "hashString": "585b44dac77fd8a15cd8f0573eed805ecb22905c",
+    "hashString": "efbcdbb4c95415c2759b30d0ac29bdd9a70cec11",
     "events": [
       {
         "identifier": "uu80135441",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1775821256.5,
-        "latitudeDeg": 38.51483154296875,
-        "longitudeDeg": -112.91899871826172,
-        "depthKM": -1.8600000143051147,
-        "magnitude": 2.25,
+        "originTimeUTC": 1775821256.7399979,
+        "latitudeDeg": 38.501666666666665,
+        "longitudeDeg": -112.91016666666667,
+        "depthKM": 2.92,
+        "magnitude": 2.17,
         "isLocal": true,
         "nearestTown": {
           "town": "Milford, UT",
-          "bearing": "NNE",
-          "distanceKM": 15.35770193238888
+          "bearing": "NE",
+          "distanceKM": 14.577719625089014
         }
       },
       {
@@ -450,22 +450,6 @@
         "magnitude": 0.91,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80133496",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1774620510.5299988,
-        "latitudeDeg": 38.49583333333333,
-        "longitudeDeg": -112.9015,
-        "depthKM": 2.74,
-        "magnitude": 1.03,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.547265106657607
-        }
       },
       {
         "identifier": "mb90130083",
@@ -1493,6 +1477,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 13.728539982222308
+        }
+      },
+      {
+        "identifier": "uu80135366",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1775799285.6499977,
+        "latitudeDeg": 40.5115,
+        "longitudeDeg": -111.33983333333333,
+        "depthKM": 10.14,
+        "magnitude": 0.39,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Heber, UT",
+          "bearing": "E",
+          "distanceKM": 6.581804964844512
         }
       },
       {
