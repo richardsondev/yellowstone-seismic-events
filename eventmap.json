@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "43521a9a805d17f9f620e25c6061174165ee28a2",
+    "hashString": "ef05b97862f42466c69b377f6e752772f8f025cb",
     "events": [
       {
         "identifier": "uu80135441",
@@ -189,6 +189,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.539279979747281
+        }
+      },
+      {
+        "identifier": "uu80135956",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1775979645.189999,
+        "latitudeDeg": 37.567832946777344,
+        "longitudeDeg": -113.06033325195312,
+        "depthKM": 13.199999809265137,
+        "magnitude": 2.63,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 9.429299691103305
         }
       },
       {
@@ -3644,20 +3660,16 @@
         }
       },
       {
-        "identifier": "uu80133726",
-        "authority": "UU",
+        "identifier": "nn00914004",
+        "authority": "NN",
         "eventType": "eq",
-        "originTimeUTC": 1774771104.959999,
-        "latitudeDeg": 38.491166666666665,
-        "longitudeDeg": -112.90766666666667,
-        "depthKM": 3.19,
-        "magnitude": 1.3900000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 13.80381320757123
-        }
+        "originTimeUTC": 1775979667.779,
+        "latitudeDeg": 36.7041,
+        "longitudeDeg": -114.4018,
+        "depthKM": 12.6354,
+        "magnitude": 1.72,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80134601",
