@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-13T14:16:22Z",
+  "fetchedAt": "2026-04-13T14:56:15Z",
   "events": [
     {
       "identifier": "uu80135441",
@@ -351,19 +351,6 @@
       "magnitude": 1.1500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.329742318008144}",
-      "version": null
-    },
-    {
-      "identifier": "uu80133926",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1774882543.0099983,
-      "latitudeDeg": 38.488,
-      "longitudeDeg": -112.90083333333334,
-      "depthKm": 1.77,
-      "magnitude": 1.17,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 13.940447214305276}",
       "version": null
     },
     {
@@ -1352,6 +1339,19 @@
       "magnitude": 0.53,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.848531953160933}",
+      "version": null
+    },
+    {
+      "identifier": "mb90130968",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1775767251.79,
+      "latitudeDeg": 44.3513333333333,
+      "longitudeDeg": -115.188,
+      "depthKm": 0.19,
+      "magnitude": 2.3,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -2671,13 +2671,13 @@
       "identifier": "uu80136241",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1776050385.84,
-      "latitudeDeg": 38.50149917602539,
-      "longitudeDeg": -112.91449737548828,
-      "depthKm": -0.15000000596046448,
-      "magnitude": 2.23,
+      "originTimeUtc": 1776050385.8400002,
+      "latitudeDeg": 38.4995,
+      "longitudeDeg": -112.91,
+      "depthKm": 1.52,
+      "magnitude": 2.17,
       "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.339063604883151}",
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.394846427420049}",
       "version": null
     },
     {
