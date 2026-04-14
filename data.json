@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-14T15:34:25Z",
+  "fetchedAt": "2026-04-14T16:03:44Z",
   "events": [
     {
       "identifier": "uu80135756",
@@ -364,6 +364,19 @@
       "magnitude": 0.92,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.857447065047477}",
+      "version": null
+    },
+    {
+      "identifier": "mb90131938",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1776172927.18,
+      "latitudeDeg": 44.3148333333333,
+      "longitudeDeg": -115.165,
+      "depthKm": 5.01,
+      "magnitude": 1.48,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -3575,6 +3588,19 @@
       "magnitude": 0.92,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'E', 'distanceKM': 6.3312781416360435}",
+      "version": null
+    },
+    {
+      "identifier": "mb90131928",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1776172437.06,
+      "latitudeDeg": 45.6518333333333,
+      "longitudeDeg": -111.585666666667,
+      "depthKm": 2.91,
+      "magnitude": 2.7,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
