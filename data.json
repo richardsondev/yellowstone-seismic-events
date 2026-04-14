@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-14T19:33:49Z",
+  "fetchedAt": "2026-04-14T22:01:31Z",
   "events": [
     {
       "identifier": "uu80135756",
@@ -1108,19 +1108,6 @@
       "version": null
     },
     {
-      "identifier": "nn00913866",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1775598337.1890001,
-      "latitudeDeg": 36.0223,
-      "longitudeDeg": -114.6467,
-      "depthKm": 10.2222,
-      "magnitude": 1.77,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80136271",
       "authority": "UU",
       "eventType": "eq",
@@ -1794,6 +1781,19 @@
       "magnitude": 0.54,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.67428530305724}",
+      "version": null
+    },
+    {
+      "identifier": "uu80136491",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776201689.6999989,
+      "latitudeDeg": 40.748333333333335,
+      "longitudeDeg": -112.0565,
+      "depthKm": 8.19,
+      "magnitude": 0.72,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'ESE', 'distanceKM': 4.69520624617492}",
       "version": null
     },
     {
