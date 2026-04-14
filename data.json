@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-14T16:42:46Z",
+  "fetchedAt": "2026-04-14T17:30:01Z",
   "events": [
     {
       "identifier": "uu80135756",
@@ -637,6 +637,19 @@
       "magnitude": 3.4,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80136371",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776153142.1000004,
+      "latitudeDeg": 44.77283333333333,
+      "longitudeDeg": -110.71216666666666,
+      "depthKm": 4.11,
+      "magnitude": 0.72,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'S', 'distanceKM': 22.679223398563007}",
       "version": null
     },
     {
@@ -2616,6 +2629,19 @@
       "version": null
     },
     {
+      "identifier": "uu80136466",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776180942.9899979,
+      "latitudeDeg": 38.4885,
+      "longitudeDeg": -112.912,
+      "depthKm": 2.45,
+      "magnitude": 1.6,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 13.333522984149843}",
+      "version": null
+    },
+    {
       "identifier": "uu80134776",
       "authority": "UU",
       "eventType": "eq",
@@ -3643,6 +3669,19 @@
       "version": null
     },
     {
+      "identifier": "uu80136366",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776152280.82,
+      "latitudeDeg": 38.49333333333333,
+      "longitudeDeg": -112.89816666666667,
+      "depthKm": 2.36,
+      "magnitude": 1.83,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.532648608337887}",
+      "version": null
+    },
+    {
       "identifier": "uu80134176",
       "authority": "UU",
       "eventType": "eq",
@@ -4134,6 +4173,19 @@
       "magnitude": 1.34,
       "isLocal": true,
       "nearestTown": "{'town': 'Mills, UT', 'bearing': 'ESE', 'distanceKM': 10.493938032232501}",
+      "version": null
+    },
+    {
+      "identifier": "uu80136376",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776153270.9899998,
+      "latitudeDeg": 44.77333333333333,
+      "longitudeDeg": -110.71666666666667,
+      "depthKm": 4.44,
+      "magnitude": 0.93,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'S', 'distanceKM': 22.637129547603443}",
       "version": null
     },
     {
