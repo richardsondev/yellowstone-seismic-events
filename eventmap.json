@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "75d2c6bee797098abcb24b0e5b519f11e03b6316",
+    "hashString": "04f1b8dda329cf061c1d6454eba6cf5b95d8c3e4",
     "events": [
       {
         "identifier": "uu80135756",
@@ -1144,6 +1144,22 @@
         }
       },
       {
+        "identifier": "uu80136531",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1776275012.8999977,
+        "latitudeDeg": 38.50633333333333,
+        "longitudeDeg": -112.91,
+        "depthKM": 1.89,
+        "magnitude": 1.49,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.003962191532393
+        }
+      },
+      {
         "identifier": "uu80134736",
         "authority": "UU",
         "eventType": "eq",
@@ -1917,22 +1933,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.145447005441289
-        }
-      },
-      {
-        "identifier": "uu80134156",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1775067407.1800003,
-        "latitudeDeg": 38.48866666666667,
-        "longitudeDeg": -112.903,
-        "depthKM": 3.21,
-        "magnitude": 1.2,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 13.865922974664825
         }
       },
       {
@@ -3113,22 +3113,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 13.968035228430587
-        }
-      },
-      {
-        "identifier": "uu80134161",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1775068526.67,
-        "latitudeDeg": 38.4965,
-        "longitudeDeg": -112.90766666666667,
-        "depthKM": 2.42,
-        "magnitude": 0.76,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.259152862537647
         }
       },
       {
