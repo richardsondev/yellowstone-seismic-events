@@ -664,19 +664,6 @@
       "version": null
     },
     {
-      "identifier": "mb90131408",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1775995882.52,
-      "latitudeDeg": 44.7793333333333,
-      "longitudeDeg": -111.0715,
-      "depthKm": 5.0,
-      "magnitude": 0.59,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80135946",
       "authority": "UU",
       "eventType": "eq",
@@ -3511,6 +3498,19 @@
       "version": null
     },
     {
+      "identifier": "us6000sraw",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1776599129.0640001,
+      "latitudeDeg": 38.7585,
+      "longitudeDeg": -112.4878,
+      "depthKm": 4.959,
+      "magnitude": 3.2,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80136461",
       "authority": "UU",
       "eventType": "eq",
@@ -3612,6 +3612,19 @@
       "magnitude": 1.59,
       "isLocal": true,
       "nearestTown": "{'town': 'Sulphurdale, UT', 'bearing': 'NW', 'distanceKM': 3.87594305886571}",
+      "version": null
+    },
+    {
+      "identifier": "uu80136966",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776599129.0699997,
+      "latitudeDeg": 38.7345,
+      "longitudeDeg": -112.4685,
+      "depthKm": 3.48,
+      "magnitude": 3.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 7.91250958525207}",
       "version": null
     },
     {
