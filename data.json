@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-19T06:53:46Z",
+  "fetchedAt": "2026-04-19T07:35:19Z",
   "events": [
     {
       "identifier": "uu80135756",
@@ -2161,19 +2161,6 @@
       "version": null
     },
     {
-      "identifier": "mb90130128",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1775372987.39,
-      "latitudeDeg": 44.7635,
-      "longitudeDeg": -111.487666666667,
-      "depthKm": 6.04,
-      "magnitude": -0.1,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80136311",
       "authority": "UU",
       "eventType": "eq",
@@ -3003,6 +2990,19 @@
       "magnitude": 0.73,
       "isLocal": true,
       "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'S', 'distanceKM': 22.520917323211027}",
+      "version": null
+    },
+    {
+      "identifier": "uu80136961",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776580665.8099976,
+      "latitudeDeg": 37.546166666666664,
+      "longitudeDeg": -113.20483333333334,
+      "depthKm": 5.95,
+      "magnitude": 2.97,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanarraville, UT', 'bearing': 'WNW', 'distanceKM': 1.9986065874994041}",
       "version": null
     },
     {
