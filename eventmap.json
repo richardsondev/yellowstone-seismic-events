@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1118ff612f36667b55fd1556ccfe36e949901d66",
+    "hashString": "c78240fc0292c286f7d7ecc40ae24a0ad845087f",
     "events": [
       {
         "identifier": "uu80135756",
@@ -490,18 +490,6 @@
           "bearing": "NE",
           "distanceKM": 14.798212273276848
         }
-      },
-      {
-        "identifier": "us6000sphy",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1776006083.981,
-        "latitudeDeg": 42.6672,
-        "longitudeDeg": -111.1533,
-        "depthKM": 10,
-        "magnitude": 3.4,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80136371",
@@ -2268,6 +2256,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80137106",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1776609827.7599983,
+        "latitudeDeg": 38.7285,
+        "longitudeDeg": -112.4655,
+        "depthKM": -0.51,
+        "magnitude": 3.62,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kanosh, UT",
+          "bearing": "SSW",
+          "distanceKM": 8.464311700827272
+        }
+      },
+      {
         "identifier": "uu80134881",
         "authority": "UU",
         "eventType": "eq",
@@ -3146,6 +3150,18 @@
           "bearing": "E",
           "distanceKM": 11.534639762021762
         }
+      },
+      {
+        "identifier": "us6000srcs",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1776610427.13,
+        "latitudeDeg": 38.7263,
+        "longitudeDeg": -112.4977,
+        "depthKM": 5,
+        "magnitude": 2.6,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80136361",
@@ -4190,18 +4206,6 @@
           "bearing": "NE",
           "distanceKM": 14.62718666940319
         }
-      },
-      {
-        "identifier": "us6000sraw",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1776599129.0640001,
-        "latitudeDeg": 38.7585,
-        "longitudeDeg": -112.4878,
-        "depthKM": 4.959,
-        "magnitude": 3.2,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80136461",

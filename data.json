@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-19T14:38:16Z",
+  "fetchedAt": "2026-04-19T15:20:56Z",
   "events": [
     {
       "identifier": "uu80135756",
@@ -403,19 +403,6 @@
       "magnitude": 0.99,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.798212273276848}",
-      "version": null
-    },
-    {
-      "identifier": "us6000sphy",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1776006083.981,
-      "latitudeDeg": 42.6672,
-      "longitudeDeg": -111.1533,
-      "depthKm": 10.0,
-      "magnitude": 3.4,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -1875,6 +1862,19 @@
       "version": null
     },
     {
+      "identifier": "uu80137106",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776609827.7599983,
+      "latitudeDeg": 38.7285,
+      "longitudeDeg": -112.4655,
+      "depthKm": -0.51,
+      "magnitude": 3.62,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 8.464311700827272}",
+      "version": null
+    },
+    {
       "identifier": "uu80134881",
       "authority": "UU",
       "eventType": "eq",
@@ -2613,6 +2613,19 @@
       "magnitude": 1.32,
       "isLocal": true,
       "nearestTown": "{'town': 'Helper, UT', 'bearing': 'E', 'distanceKM': 11.534639762021762}",
+      "version": null
+    },
+    {
+      "identifier": "us6000srcs",
+      "authority": "US",
+      "eventType": "eq",
+      "originTimeUtc": 1776610427.13,
+      "latitudeDeg": 38.7263,
+      "longitudeDeg": -112.4977,
+      "depthKm": 5.0,
+      "magnitude": 2.6,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -3510,19 +3523,6 @@
       "magnitude": 1.7,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.62718666940319}",
-      "version": null
-    },
-    {
-      "identifier": "us6000sraw",
-      "authority": "US",
-      "eventType": "eq",
-      "originTimeUtc": 1776599129.0640001,
-      "latitudeDeg": 38.7585,
-      "longitudeDeg": -112.4878,
-      "depthKm": 4.959,
-      "magnitude": 3.2,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
