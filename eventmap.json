@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "93d790e27b1d53032e993a5fa81c7fca4380a45a",
+    "hashString": "597739488d3eb2c152b88294baf3678565966b68",
     "events": [
       {
         "identifier": "uu80135756",
@@ -606,18 +606,6 @@
           "bearing": "ENE",
           "distanceKM": 3.147926099428269
         }
-      },
-      {
-        "identifier": "us6000srdv",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1776616164.653,
-        "latitudeDeg": 38.733,
-        "longitudeDeg": -112.462,
-        "depthKM": 5,
-        "magnitude": 2.6,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80135026",
@@ -3596,6 +3584,22 @@
         }
       },
       {
+        "identifier": "uu80137176",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1776614113.54,
+        "latitudeDeg": 38.70483333333333,
+        "longitudeDeg": -112.46983333333333,
+        "depthKM": 10.18,
+        "magnitude": 2.44,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kanosh, UT",
+          "bearing": "SSW",
+          "distanceKM": 11.099940778485434
+        }
+      },
+      {
         "identifier": "uu80135096",
         "authority": "UU",
         "eventType": "eq",
@@ -3798,18 +3802,6 @@
           "bearing": "NE",
           "distanceKM": 14.392712330442333
         }
-      },
-      {
-        "identifier": "us6000srde",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1776614113.629,
-        "latitudeDeg": 38.7296,
-        "longitudeDeg": -112.4606,
-        "depthKM": 5,
-        "magnitude": 2.5,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80135251",
