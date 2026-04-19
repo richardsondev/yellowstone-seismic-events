@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ca63d20b40bcde1d515e3be302445e5429b2e1a7",
+    "hashString": "db9a180e317a064ac2c7d36a5a2faf2ec1e52d23",
     "events": [
       {
         "identifier": "uu80135756",
@@ -2612,18 +2612,6 @@
         }
       },
       {
-        "identifier": "mb90130128",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1775372987.39,
-        "latitudeDeg": 44.7635,
-        "longitudeDeg": -111.487666666667,
-        "depthKM": 6.04,
-        "magnitude": -0.1,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80136311",
         "authority": "UU",
         "eventType": "eq",
@@ -3589,6 +3577,22 @@
           "town": "Mammoth, WY",
           "bearing": "S",
           "distanceKM": 22.520917323211027
+        }
+      },
+      {
+        "identifier": "uu80136961",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1776580665.8099976,
+        "latitudeDeg": 37.546166666666664,
+        "longitudeDeg": -113.20483333333334,
+        "depthKM": 5.95,
+        "magnitude": 2.97,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kanarraville, UT",
+          "bearing": "WNW",
+          "distanceKM": 1.9986065874994041
         }
       },
       {
