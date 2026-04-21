@@ -1,7 +1,20 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-21T16:04:46Z",
+  "fetchedAt": "2026-04-21T16:40:25Z",
   "events": [
+    {
+      "identifier": "uu80137186",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776614849.1899986,
+      "latitudeDeg": 38.736,
+      "longitudeDeg": -112.469,
+      "depthKm": 3.49,
+      "magnitude": 1.6400000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 7.771074109018464}",
+      "version": null
+    },
     {
       "identifier": "uu80135756",
       "authority": "UU",
@@ -666,6 +679,19 @@
       "version": null
     },
     {
+      "identifier": "uu80137181",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776614469.5,
+      "latitudeDeg": 38.72383333333333,
+      "longitudeDeg": -112.46416666666667,
+      "depthKm": 6.49,
+      "magnitude": 1.53,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 8.93179457282905}",
+      "version": null
+    },
+    {
       "identifier": "uu80135361",
       "authority": "UU",
       "eventType": "eq",
@@ -1118,6 +1144,19 @@
       "magnitude": -0.15,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80006843",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776611995.3999977,
+      "latitudeDeg": 38.7215,
+      "longitudeDeg": -112.46916666666667,
+      "depthKm": 9.37,
+      "magnitude": 1.6400000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 9.301626929595352}",
       "version": null
     },
     {
@@ -2161,6 +2200,19 @@
       "version": null
     },
     {
+      "identifier": "uu80006828",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776613139.5699997,
+      "latitudeDeg": 38.7185,
+      "longitudeDeg": -112.4715,
+      "depthKm": 6.46,
+      "magnitude": 1.11,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 9.680638583013751}",
+      "version": null
+    },
+    {
       "identifier": "uu80135411",
       "authority": "UU",
       "eventType": "eq",
@@ -2301,6 +2353,19 @@
       "magnitude": 0.61,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 13.067371189504975}",
+      "version": null
+    },
+    {
+      "identifier": "mb90133218",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1776708717.23,
+      "latitudeDeg": 45.0808333333333,
+      "longitudeDeg": -111.7195,
+      "depthKm": 6.24,
+      "magnitude": 1.16,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -3812,19 +3877,6 @@
       "version": null
     },
     {
-      "identifier": "uu80134986",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1775579586.1799998,
-      "latitudeDeg": 39.69883333333333,
-      "longitudeDeg": -110.841,
-      "depthKm": 4.86,
-      "magnitude": 1.44,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Helper, UT', 'bearing': 'NE', 'distanceKM': 2.0094926321951596}",
-      "version": null
-    },
-    {
       "identifier": "uu80006718",
       "authority": "UU",
       "eventType": "eq",
@@ -4319,6 +4371,19 @@
       "version": null
     },
     {
+      "identifier": "uu80006848",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776611851.7199993,
+      "latitudeDeg": 38.72266666666667,
+      "longitudeDeg": -112.46333333333334,
+      "depthKm": 5.46,
+      "magnitude": 1.78,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 9.038889481375106}",
+      "version": null
+    },
+    {
       "identifier": "uu80135711",
       "authority": "UU",
       "eventType": "eq",
@@ -4670,6 +4735,19 @@
       "version": null
     },
     {
+      "identifier": "uu80006833",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776612523.0699997,
+      "latitudeDeg": 38.719166666666666,
+      "longitudeDeg": -112.46933333333334,
+      "depthKm": 6.95,
+      "magnitude": 1.1500000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 9.553946017466759}",
+      "version": null
+    },
+    {
       "identifier": "uu80006803",
       "authority": "UU",
       "eventType": "eq",
@@ -4680,6 +4758,19 @@
       "magnitude": 0.62,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 10.003571580533235}",
+      "version": null
+    },
+    {
+      "identifier": "uu80006858",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776615856.8999996,
+      "latitudeDeg": 38.70516666666666,
+      "longitudeDeg": -112.473,
+      "depthKm": 5.25,
+      "magnitude": 1.25,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 11.137056738136822}",
       "version": null
     },
     {
