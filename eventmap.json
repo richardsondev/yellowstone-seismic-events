@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "821713dd37e298bb1a436fd06eec3433ea2dde26",
+    "hashString": "86dee7834c202eff30530d7fc94946a4956bcf84",
     "events": [
       {
         "identifier": "uu80137186",
@@ -189,6 +189,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.554411217654238
+        }
+      },
+      {
+        "identifier": "uu80137776",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1776854834.54,
+        "latitudeDeg": 39.00716666666667,
+        "longitudeDeg": -111.38466666666666,
+        "depthKM": -0.26,
+        "magnitude": 1.17,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "NW",
+          "distanceKM": 15.019095352767756
         }
       },
       {
@@ -852,22 +868,6 @@
         }
       },
       {
-        "identifier": "uu80006678",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1775655334.9399986,
-        "latitudeDeg": 44.75216666666667,
-        "longitudeDeg": -111.19216666666667,
-        "depthKM": 6.91,
-        "magnitude": -0.49,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Grayling, MT",
-          "bearing": "S",
-          "distanceKM": 5.452321387065435
-        }
-      },
-      {
         "identifier": "uu80135506",
         "authority": "UU",
         "eventType": "eq",
@@ -1497,22 +1497,6 @@
           "town": "Grayling, MT",
           "bearing": "S",
           "distanceKM": 7.659211445056388
-        }
-      },
-      {
-        "identifier": "uu80135156",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1775656377.4699974,
-        "latitudeDeg": 38.497166666666665,
-        "longitudeDeg": -112.90566666666666,
-        "depthKM": 3.02,
-        "magnitude": 0.75,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.426681698334928
         }
       },
       {
@@ -2812,22 +2796,6 @@
         }
       },
       {
-        "identifier": "uu80135151",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1775654223.4199998,
-        "latitudeDeg": 38.50033333333333,
-        "longitudeDeg": -112.90516666666667,
-        "depthKM": 3.03,
-        "magnitude": 1.3800000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.72753375036574
-        }
-      },
-      {
         "identifier": "us6000spzi",
         "authority": "US",
         "eventType": "eq",
@@ -3273,6 +3241,22 @@
           "town": "Kanosh, UT",
           "bearing": "SSW",
           "distanceKM": 10.23249259432024
+        }
+      },
+      {
+        "identifier": "uu80137616",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1776838012,
+        "latitudeDeg": 44.80733333333333,
+        "longitudeDeg": -111.31666666666666,
+        "depthKM": 10.53,
+        "magnitude": 1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "W",
+          "distanceKM": 9.819818468663053
         }
       },
       {
@@ -3825,6 +3809,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.283383956880925
+        }
+      },
+      {
+        "identifier": "uu80137541",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1776818991.6899986,
+        "latitudeDeg": 44.76116666666667,
+        "longitudeDeg": -111.20083333333334,
+        "depthKM": 12.03,
+        "magnitude": 2.06,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "S",
+          "distanceKM": 4.499831044631778
         }
       },
       {
@@ -5590,6 +5590,22 @@
         "magnitude": 2.59,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80137626",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1776842036.4300003,
+        "latitudeDeg": 37.03183333333333,
+        "longitudeDeg": -112.905,
+        "depthKM": 9.24,
+        "magnitude": 1.36,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "ENE",
+          "distanceKM": 6.329183893369362
+        }
       },
       {
         "identifier": "uu80135551",
