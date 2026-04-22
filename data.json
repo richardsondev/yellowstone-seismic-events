@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-22T14:53:49Z",
+  "fetchedAt": "2026-04-22T15:32:44Z",
   "events": [
     {
       "identifier": "uu80137186",
@@ -390,6 +390,19 @@
       "magnitude": 3.22,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 8.895647762715}",
+      "version": null
+    },
+    {
+      "identifier": "uu80137831",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776866814.4899979,
+      "latitudeDeg": 38.7315,
+      "longitudeDeg": -112.45966666666666,
+      "depthKm": 8.84,
+      "magnitude": 2.18,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 8.008682101165418}",
       "version": null
     },
     {
@@ -2135,19 +2148,6 @@
       "version": null
     },
     {
-      "identifier": "mb90132788",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1776488804.04,
-      "latitudeDeg": 44.7486666666667,
-      "longitudeDeg": -111.184333333333,
-      "depthKm": 13.85,
-      "magnitude": -0.29,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80137256",
       "authority": "UU",
       "eventType": "eq",
@@ -3081,19 +3081,6 @@
       "magnitude": 0.67,
       "isLocal": true,
       "nearestTown": "{'town': 'Greenville, UT', 'bearing': 'S', 'distanceKM': 7.147731303992419}",
-      "version": null
-    },
-    {
-      "identifier": "mb90131178",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1775791244.29,
-      "latitudeDeg": 44.7575,
-      "longitudeDeg": -111.184333333333,
-      "depthKm": 8.4,
-      "magnitude": 0.36,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -4303,19 +4290,6 @@
       "magnitude": 2.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 10.428476284540174}",
-      "version": null
-    },
-    {
-      "identifier": "mb90132793",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1776496331.99,
-      "latitudeDeg": 44.7228333333333,
-      "longitudeDeg": -111.085666666667,
-      "depthKm": 10.66,
-      "magnitude": -0.03,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
