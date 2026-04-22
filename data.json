@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-22T14:01:40Z",
+  "fetchedAt": "2026-04-22T14:53:49Z",
   "events": [
     {
       "identifier": "uu80137186",
@@ -380,6 +380,19 @@
       "version": null
     },
     {
+      "identifier": "uu80137836",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776868535.209999,
+      "latitudeDeg": 38.725,
+      "longitudeDeg": -112.46783333333333,
+      "depthKm": 7.64,
+      "magnitude": 3.22,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 8.895647762715}",
+      "version": null
+    },
+    {
       "identifier": "mb90132993",
       "authority": "MB",
       "eventType": "eq",
@@ -416,19 +429,6 @@
       "magnitude": 1.6400000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.371571715169473}",
-      "version": null
-    },
-    {
-      "identifier": "uu80135166",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1775658410.1100006,
-      "latitudeDeg": 38.5025,
-      "longitudeDeg": -112.91083333333333,
-      "depthKm": 2.5,
-      "magnitude": 1.47,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.617195357122803}",
       "version": null
     },
     {
@@ -2291,19 +2291,6 @@
       "version": null
     },
     {
-      "identifier": "uu80135161",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1775658045.869999,
-      "latitudeDeg": 38.49733333333333,
-      "longitudeDeg": -112.9075,
-      "depthKm": 2.7,
-      "magnitude": 0.8300000000000001,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.340310314693573}",
-      "version": null
-    },
-    {
       "identifier": "uu80135576",
       "authority": "UU",
       "eventType": "eq",
@@ -2379,19 +2366,6 @@
       "magnitude": -0.15,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80135171",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1775659131.7700005,
-      "latitudeDeg": 38.4945,
-      "longitudeDeg": -112.90383333333334,
-      "depthKm": 2.08,
-      "magnitude": 0.5,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.302357124729262}",
       "version": null
     },
     {
@@ -3380,6 +3354,19 @@
       "magnitude": 0.74,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'WNW', 'distanceKM': 24.671918063348915}",
+      "version": null
+    },
+    {
+      "identifier": "uu80137621",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776840764.3400002,
+      "latitudeDeg": 37.053333333333335,
+      "longitudeDeg": -112.90466666666667,
+      "depthKm": 11.34,
+      "magnitude": 1.59,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 7.816788159224783}",
       "version": null
     },
     {
