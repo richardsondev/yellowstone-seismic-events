@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-22T16:04:22Z",
+  "fetchedAt": "2026-04-22T16:40:57Z",
   "events": [
     {
       "identifier": "uu80137186",
@@ -2834,6 +2834,19 @@
       "magnitude": 0.97,
       "isLocal": true,
       "nearestTown": "{'town': 'Emory, UT', 'bearing': 'ENE', 'distanceKM': 5.2316112063155735}",
+      "version": null
+    },
+    {
+      "identifier": "uu80137871",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776869817.329998,
+      "latitudeDeg": 38.74583333333333,
+      "longitudeDeg": -112.47033333333333,
+      "depthKm": 5.44,
+      "magnitude": 1.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 6.806451809106809}",
       "version": null
     },
     {
