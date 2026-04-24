@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-24T14:15:28Z",
+  "fetchedAt": "2026-04-24T14:50:20Z",
   "events": [
     {
       "identifier": "uu80137186",
@@ -429,6 +429,19 @@
       "magnitude": 1.6400000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.371571715169473}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138171",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1776999890.4899979,
+      "latitudeDeg": 40.09466666666667,
+      "longitudeDeg": -113.2895,
+      "depthKm": 4.95,
+      "magnitude": 1.94,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Callao, UT', 'bearing': 'ENE', 'distanceKM': 42.02026948462244}",
       "version": null
     },
     {
