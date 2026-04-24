@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-24T16:03:15Z",
+  "fetchedAt": "2026-04-24T16:39:41Z",
   "events": [
     {
       "identifier": "uu80137186",
@@ -2577,19 +2577,6 @@
       "version": null
     },
     {
-      "identifier": "uu80135466",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1775837449.6699982,
-      "latitudeDeg": 41.070166666666665,
-      "longitudeDeg": -111.2525,
-      "depthKm": 23.54,
-      "magnitude": 0.97,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Emory, UT', 'bearing': 'ENE', 'distanceKM': 5.2316112063155735}",
-      "version": null
-    },
-    {
       "identifier": "uu80137871",
       "authority": "UU",
       "eventType": "eq",
@@ -3016,6 +3003,19 @@
       "magnitude": 1.62,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.50952721899438}",
+      "version": null
+    },
+    {
+      "identifier": "mb90133768",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1776819275.91,
+      "latitudeDeg": 44.753,
+      "longitudeDeg": -111.221333333333,
+      "depthKm": 10.34,
+      "magnitude": 0.15,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
