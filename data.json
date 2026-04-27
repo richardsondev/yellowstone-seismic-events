@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-27T17:35:13Z",
+  "fetchedAt": "2026-04-27T18:48:22Z",
   "events": [
     {
       "identifier": "uu80137186",
@@ -302,19 +302,6 @@
       "version": null
     },
     {
-      "identifier": "mb90134493",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1777246200.75,
-      "latitudeDeg": 44.739,
-      "longitudeDeg": -111.319333333333,
-      "depthKm": 11.01,
-      "magnitude": 0.56,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80137096",
       "authority": "UU",
       "eventType": "eq",
@@ -429,6 +416,19 @@
       "magnitude": 1.1300000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 28.949522259334252}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138366",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777312090.5100002,
+      "latitudeDeg": 40.44883333333333,
+      "longitudeDeg": -111.6325,
+      "depthKm": 8.37,
+      "magnitude": 1.4000000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cedar Hills, UT', 'bearing': 'ENE', 'distanceKM': 11.342390080284256}",
       "version": null
     },
     {
@@ -2964,6 +2964,19 @@
       "magnitude": 2.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 10.428476284540174}",
+      "version": null
+    },
+    {
+      "identifier": "uu80007013",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777246201.07,
+      "latitudeDeg": 44.75716666666667,
+      "longitudeDeg": -111.30383333333333,
+      "depthKm": 11.31,
+      "magnitude": 0.04,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'WSW', 'distanceKM': 10.059458972706732}",
       "version": null
     },
     {
