@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ed449193e2bb4ed5c5162b6290d97444a0011050",
+    "hashString": "6276c05d0a12adc15e9a77da376cd44bc21ed6e3",
     "events": [
       {
         "identifier": "uu80137186",
@@ -326,17 +326,17 @@
       {
         "identifier": "uu80138171",
         "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1776999890.4899979,
-        "latitudeDeg": 40.09466666666667,
-        "longitudeDeg": -113.2895,
-        "depthKM": 4.95,
-        "magnitude": 1.94,
+        "eventType": "ex",
+        "originTimeUTC": 1776999890.3899994,
+        "latitudeDeg": 40.089333333333336,
+        "longitudeDeg": -113.29466666666667,
+        "depthKM": 0.02,
+        "magnitude": 1.95,
         "isLocal": true,
         "nearestTown": {
           "town": "Callao, UT",
           "bearing": "ENE",
-          "distanceKM": 42.02026948462244
+          "distanceKM": 41.33758333334766
         }
       },
       {
@@ -2344,6 +2344,18 @@
         "nearestTown": null
       },
       {
+        "identifier": "mb90134418",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1777252074.41,
+        "latitudeDeg": 45.6208333333333,
+        "longitudeDeg": -113.5325,
+        "depthKM": 6.4,
+        "magnitude": 2.56,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80137846",
         "authority": "UU",
         "eventType": "eq",
@@ -2560,6 +2572,18 @@
         }
       },
       {
+        "identifier": "mb90134408",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1777248298.1000001,
+        "latitudeDeg": 45.6565,
+        "longitudeDeg": -113.507,
+        "depthKM": 12.68,
+        "magnitude": 1.87,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80006813",
         "authority": "UU",
         "eventType": "eq",
@@ -2590,6 +2614,18 @@
           "bearing": "SSW",
           "distanceKM": 8.155804284617657
         }
+      },
+      {
+        "identifier": "mb90134423",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1777254055.88,
+        "latitudeDeg": 44.616,
+        "longitudeDeg": -114.134333333333,
+        "depthKM": 5,
+        "magnitude": 1.73,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80006958",
@@ -3088,18 +3124,6 @@
         }
       },
       {
-        "identifier": "mb90131918",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1776096747.9,
-        "latitudeDeg": 45.6578333333333,
-        "longitudeDeg": -111.593,
-        "depthKM": 2.23,
-        "magnitude": 1.22,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80137166",
         "authority": "UU",
         "eventType": "eq",
@@ -3434,6 +3458,18 @@
           "bearing": "NNE",
           "distanceKM": 28.914643289825488
         }
+      },
+      {
+        "identifier": "us6000st4q",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1777296033.02,
+        "latitudeDeg": 41.8272,
+        "longitudeDeg": -114.9168,
+        "depthKM": 12.535,
+        "magnitude": 2.6,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80136336",
