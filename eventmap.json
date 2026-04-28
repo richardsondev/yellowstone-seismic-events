@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "327f4146abfb00a714296c1b0d4f5c67df775a9e",
+    "hashString": "c8279689233cb6c30f3f50fa14f54c51774d348f",
     "events": [
       {
         "identifier": "uu80137186",
@@ -289,6 +289,22 @@
           "town": "Kanosh, UT",
           "bearing": "SSW",
           "distanceKM": 9.389598551015425
+        }
+      },
+      {
+        "identifier": "uu80007018",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1777292108.4799995,
+        "latitudeDeg": 44.76883333333333,
+        "longitudeDeg": -111.21333333333334,
+        "depthKM": 11.62,
+        "magnitude": 0.19,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "SSW",
+          "distanceKM": 3.956795344381058
         }
       },
       {
@@ -1444,22 +1460,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80136491",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1776201689.6999989,
-        "latitudeDeg": 40.748333333333335,
-        "longitudeDeg": -112.0565,
-        "depthKM": 8.19,
-        "magnitude": 0.72,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Saltair, UT",
-          "bearing": "ESE",
-          "distanceKM": 4.69520624617492
-        }
-      },
-      {
         "identifier": "uu80136606",
         "authority": "UU",
         "eventType": "eq",
@@ -1796,18 +1796,6 @@
         "longitudeDeg": -111.345,
         "depthKM": 9.14,
         "magnitude": 0.16,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90134598",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1777292108.46,
-        "latitudeDeg": 44.7706666666667,
-        "longitudeDeg": -111.2255,
-        "depthKM": 9.93,
-        "magnitude": 0.39,
         "isLocal": false,
         "nearestTown": null
       },
