@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6d7a40f9ae2914d7f2697f3b6461f3364d31bd18",
+    "hashString": "98196e64e05b7e1abc7fd578d067d2c2e54e1cdc",
     "events": [
       {
         "identifier": "uu80137186",
@@ -2301,6 +2301,22 @@
           "town": "Greenville, UT",
           "bearing": "S",
           "distanceKM": 7.147731303992419
+        }
+      },
+      {
+        "identifier": "uu80138511",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1777478213.9399986,
+        "latitudeDeg": 37.67966666666667,
+        "longitudeDeg": -113.22866666666667,
+        "depthKM": 1.94,
+        "magnitude": 0.77,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Iron Springs, UT",
+          "bearing": "S",
+          "distanceKM": 7.4716765298648955
         }
       },
       {
