@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4c652a76ce9e56224f82a87097f90af398cff631",
+    "hashString": "1c99f8bbd54dcb6215044471f780b89390120c97",
     "events": [
       {
         "identifier": "uu80137186",
@@ -305,6 +305,22 @@
           "town": "Grayling, MT",
           "bearing": "SSW",
           "distanceKM": 3.956795344381058
+        }
+      },
+      {
+        "identifier": "uu80138491",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1777473471.2299995,
+        "latitudeDeg": 39.72716666666667,
+        "longitudeDeg": -110.798,
+        "depthKM": 9.08,
+        "magnitude": 0.8300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Castle Gate, UT",
+          "bearing": "E",
+          "distanceKM": 6.063608866068485
         }
       },
       {
