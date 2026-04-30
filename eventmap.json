@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6acdc725f3ce50caf7492c596ebb52b2725ea3e9",
+    "hashString": "0796573a254e044e8c73fc14d0546af6b16b995f",
     "events": [
       {
         "identifier": "uu80137186",
@@ -745,6 +745,22 @@
           "town": "Kanosh, UT",
           "bearing": "SSW",
           "distanceKM": 9.850770343295025
+        }
+      },
+      {
+        "identifier": "uu80138581",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1777580145.9099998,
+        "latitudeDeg": 39.75233333333333,
+        "longitudeDeg": -110.89783333333334,
+        "depthKM": 7.51,
+        "magnitude": 0.99,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Castle Gate, UT",
+          "bearing": "NW",
+          "distanceKM": 3.690920438785793
         }
       },
       {
