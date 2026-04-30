@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4ab535788da67f5723596cc658557beb2fd0c79f",
+    "hashString": "57bdb8450540c911c1e256e191a15262a4361890",
     "events": [
       {
         "identifier": "uu80137186",
@@ -880,6 +880,22 @@
         }
       },
       {
+        "identifier": "uu80138541",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1777533905.9099998,
+        "latitudeDeg": 37.562333333333335,
+        "longitudeDeg": -113.05566666666667,
+        "depthKM": 10.87,
+        "magnitude": 1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 10.157103660092845
+        }
+      },
+      {
         "identifier": "uu80136851",
         "authority": "UU",
         "eventType": "eq",
@@ -1097,22 +1113,6 @@
           "town": "Centerfield, UT",
           "bearing": "WNW",
           "distanceKM": 5.477461706545022
-        }
-      },
-      {
-        "identifier": "uu80136731",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1776344452.4899979,
-        "latitudeDeg": 40.409666666666666,
-        "longitudeDeg": -111.91416666666667,
-        "depthKM": 1.59,
-        "magnitude": 1.46,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Saratoga Springs, UT",
-          "bearing": "N",
-          "distanceKM": 6.7832828034255765
         }
       },
       {
@@ -2468,22 +2468,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80136746",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1776346230.9799995,
-        "latitudeDeg": 44.6605,
-        "longitudeDeg": -110.67233333333333,
-        "depthKM": 5.78,
-        "magnitude": 0.74,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "WNW",
-          "distanceKM": 24.671918063348915
-        }
-      },
-      {
         "identifier": "uu80137621",
         "authority": "UU",
         "eventType": "eq",
@@ -3216,6 +3200,22 @@
         }
       },
       {
+        "identifier": "uu80138551",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1777535383.869999,
+        "latitudeDeg": 40.413833333333336,
+        "longitudeDeg": -111.91383333333333,
+        "depthKM": 3.39,
+        "magnitude": 1.02,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saratoga Springs, UT",
+          "bearing": "N",
+          "distanceKM": 7.240381602529761
+        }
+      },
+      {
         "identifier": "uu80136911",
         "authority": "UU",
         "eventType": "eq",
@@ -3229,6 +3229,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.965506948233973
+        }
+      },
+      {
+        "identifier": "uu80138561",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1777546204.58,
+        "latitudeDeg": 40.407666666666664,
+        "longitudeDeg": -111.92166666666667,
+        "depthKM": -0.5,
+        "magnitude": 0.91,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saratoga Springs, UT",
+          "bearing": "NNW",
+          "distanceKM": 6.670845653332685
         }
       },
       {
