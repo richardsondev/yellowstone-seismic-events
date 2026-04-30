@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-04-30T20:05:30Z",
+  "fetchedAt": "2026-04-30T22:01:45Z",
   "events": [
     {
       "identifier": "uu80137186",
@@ -611,6 +611,19 @@
       "magnitude": 1.57,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 9.850770343295025}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138581",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777580145.9099998,
+      "latitudeDeg": 39.75233333333333,
+      "longitudeDeg": -110.89783333333334,
+      "depthKm": 7.51,
+      "magnitude": 0.99,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Castle Gate, UT', 'bearing': 'NW', 'distanceKM': 3.690920438785793}",
       "version": null
     },
     {
