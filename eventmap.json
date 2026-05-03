@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6adc52585d9234566cea0f1e688139d65a8d9312",
+    "hashString": "d56c3a22f6a57966188f8effdcb2af58de082f6e",
     "events": [
       {
         "identifier": "uu80137186",
@@ -34,6 +34,18 @@
           "bearing": "SSW",
           "distanceKM": 8.79141399107617
         }
+      },
+      {
+        "identifier": "nn00917431",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1777792113.466,
+        "latitudeDeg": 37.1362,
+        "longitudeDeg": -114.0564,
+        "depthKM": 1.324,
+        "magnitude": 1.63,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80138211",
@@ -821,22 +833,6 @@
           "town": "Kanosh, UT",
           "bearing": "SSW",
           "distanceKM": 9.197983176509481
-        }
-      },
-      {
-        "identifier": "uu80006713",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1776582629.3999996,
-        "latitudeDeg": 39.24733333333333,
-        "longitudeDeg": -110.47016666666667,
-        "depthKM": 13.47,
-        "magnitude": 0.5,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Woodside, UT",
-          "bearing": "WSW",
-          "distanceKM": 10.451721151174805
         }
       },
       {
