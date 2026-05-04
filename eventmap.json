@@ -1,24 +1,8 @@
 {
   "status": 200,
   "data": {
-    "hashString": "15f47869fc8d76b76f7802f9fc10cbdb21b7ebb4",
+    "hashString": "23c90b2202740b44d68bdd4163435148295ea386",
     "events": [
-      {
-        "identifier": "uu80137306",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1776656020.4300003,
-        "latitudeDeg": 38.724666666666664,
-        "longitudeDeg": -112.46183333333333,
-        "depthKM": 7.34,
-        "magnitude": 1.94,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Kanosh, UT",
-          "bearing": "SSW",
-          "distanceKM": 8.79141399107617
-        }
-      },
       {
         "identifier": "nn00917431",
         "authority": "NN",
@@ -792,22 +776,6 @@
         }
       },
       {
-        "identifier": "uu80006888",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1776656975.7000008,
-        "latitudeDeg": 36.996,
-        "longitudeDeg": -112.91383333333333,
-        "depthKM": 20.46,
-        "magnitude": 1.31,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hildale, UT",
-          "bearing": "E",
-          "distanceKM": 4.787728865620856
-        }
-      },
-      {
         "identifier": "mb90134613",
         "authority": "MB",
         "eventType": "eq",
@@ -1564,22 +1532,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80006898",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1776656379.790001,
-        "latitudeDeg": 38.7155,
-        "longitudeDeg": -112.48566666666666,
-        "depthKM": -0.17,
-        "magnitude": 1.1500000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Kanosh, UT",
-          "bearing": "SSW",
-          "distanceKM": 10.428297411567948
-        }
-      },
-      {
         "identifier": "uu80138486",
         "authority": "UU",
         "eventType": "eq",
@@ -1990,22 +1942,6 @@
         "magnitude": 1.28,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80006903",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1776656061.83,
-        "latitudeDeg": 38.717333333333336,
-        "longitudeDeg": -112.4725,
-        "depthKM": 3.26,
-        "magnitude": 1.77,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Kanosh, UT",
-          "bearing": "SSW",
-          "distanceKM": 9.83075112719525
-        }
       }
     ]
   },
