@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-05-04T20:47:30Z",
+  "fetchedAt": "2026-05-04T21:28:16Z",
   "events": [
     {
       "identifier": "mb90135653",
@@ -692,6 +692,19 @@
       "version": null
     },
     {
+      "identifier": "mb90135743",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1777754527.08,
+      "latitudeDeg": 45.799,
+      "longitudeDeg": -110.602833333333,
+      "depthKm": 5.02,
+      "magnitude": 1.17,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80138276",
       "authority": "UU",
       "eventType": "eq",
@@ -744,6 +757,19 @@
       "version": null
     },
     {
+      "identifier": "uu80138796",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777924659.5,
+      "latitudeDeg": 37.952,
+      "longitudeDeg": -112.951,
+      "depthKm": 2.21,
+      "magnitude": 1.84,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Parowan, UT', 'bearing': 'NW', 'distanceKM': 16.295615768386043}",
+      "version": null
+    },
+    {
       "identifier": "uu80138746",
       "authority": "UU",
       "eventType": "eq",
@@ -780,6 +806,19 @@
       "magnitude": 1.5,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 8.646051380524616}",
+      "version": null
+    },
+    {
+      "identifier": "mb90135778",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1777798106.54,
+      "latitudeDeg": 44.7461666666667,
+      "longitudeDeg": -111.148666666667,
+      "depthKm": 8.58,
+      "magnitude": 0.22,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1079,6 +1118,19 @@
       "magnitude": 1.2,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 6.806451809106809}",
+      "version": null
+    },
+    {
+      "identifier": "mb90135768",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1777796154.71,
+      "latitudeDeg": 44.763,
+      "longitudeDeg": -111.229333333333,
+      "depthKm": 11.03,
+      "magnitude": 0.08,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1467,6 +1519,19 @@
       "longitudeDeg": -111.761666666667,
       "depthKm": 8.81,
       "magnitude": 0.45,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90135753",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1777771423.27,
+      "latitudeDeg": 44.7711666666667,
+      "longitudeDeg": -111.209666666667,
+      "depthKm": 8.77,
+      "magnitude": 0.01,
       "isLocal": false,
       "nearestTown": null,
       "version": null
