@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-05-04T12:55:14Z",
+  "fetchedAt": "2026-05-04T13:41:22Z",
   "events": [
     {
       "identifier": "nn00917431",
@@ -442,19 +442,6 @@
       "magnitude": 0.9500000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 27.260141144254746}",
-      "version": null
-    },
-    {
-      "identifier": "nn00916546",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1777296034.255,
-      "latitudeDeg": 41.7406,
-      "longitudeDeg": -114.8982,
-      "depthKm": 4.5189,
-      "magnitude": 2.68,
-      "isLocal": false,
-      "nearestTown": null,
       "version": null
     },
     {
@@ -1069,6 +1056,19 @@
       "version": null
     },
     {
+      "identifier": "uu80138646",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777679321.4699974,
+      "latitudeDeg": 39.6705,
+      "longitudeDeg": -111.2315,
+      "depthKm": 2.23,
+      "magnitude": 1.45,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Clear Creek, UT', 'bearing': 'WNW', 'distanceKM': 7.192604080942095}",
+      "version": null
+    },
+    {
       "identifier": "us6000st31",
       "authority": "US",
       "eventType": "eq",
@@ -1430,19 +1430,6 @@
       "magnitude": 0.93,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80137366",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1776691217.3400002,
-      "latitudeDeg": 44.3995,
-      "longitudeDeg": -110.61566666666667,
-      "depthKm": 2.33,
-      "magnitude": 0.91,
-      "isLocal": true,
-      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'WSW', 'distanceKM': 3.520893253451399}",
       "version": null
     },
     {
