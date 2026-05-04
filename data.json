@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-05-03T22:59:03Z",
+  "fetchedAt": "2026-05-04T02:04:31Z",
   "events": [
     {
       "identifier": "uu80137306",
@@ -536,19 +536,6 @@
       "version": null
     },
     {
-      "identifier": "uu80137296",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1776646363.869999,
-      "latitudeDeg": 38.7205,
-      "longitudeDeg": -112.47533333333334,
-      "depthKm": 6.59,
-      "magnitude": 0.9,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 9.578093411021626}",
-      "version": null
-    },
-    {
       "identifier": "uu80007003",
       "authority": "UU",
       "eventType": "eq",
@@ -817,19 +804,6 @@
       "longitudeDeg": -111.857166666667,
       "depthKm": 10.38,
       "magnitude": 1.76,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "mb90133188",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1776646495.19,
-      "latitudeDeg": 44.7935,
-      "longitudeDeg": -111.525333333333,
-      "depthKm": 11.05,
-      "magnitude": -0.15,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1329,19 +1303,6 @@
       "version": null
     },
     {
-      "identifier": "uu80137291",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1776643231.33,
-      "latitudeDeg": 44.60333333333333,
-      "longitudeDeg": -110.33066666666667,
-      "depthKm": 5.85,
-      "magnitude": -0.25,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NE', 'distanceKM': 8.058759362083737}",
-      "version": null
-    },
-    {
       "identifier": "uu80138296",
       "authority": "UU",
       "eventType": "eq",
@@ -1729,6 +1690,19 @@
       "magnitude": 0.85,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 28.49732149695367}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138736",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777852817.9799995,
+      "latitudeDeg": 37.900666666666666,
+      "longitudeDeg": -112.23383333333334,
+      "depthKm": 6.38,
+      "magnitude": 3.02,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Spry, UT', 'bearing': 'SE', 'distanceKM': 17.71608477395198}",
       "version": null
     },
     {
