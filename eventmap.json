@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b94087749bfc6cfcbc351c40ec141405aade9325",
+    "hashString": "c385843bc2151b9be9f540575b90f568908b68ba",
     "events": [
       {
         "identifier": "mb90135653",
@@ -261,6 +261,22 @@
           "town": "Callao, UT",
           "bearing": "ENE",
           "distanceKM": 41.33758333334766
+        }
+      },
+      {
+        "identifier": "uu80138786",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1777913387.1399994,
+        "latitudeDeg": 40.73383333333334,
+        "longitudeDeg": -112.06483333333334,
+        "depthKM": 7.92,
+        "magnitude": 0.43,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Magna, UT",
+          "bearing": "NE",
+          "distanceKM": 4.873500086241319
         }
       },
       {
@@ -916,18 +932,6 @@
         "longitudeDeg": -113.951666666667,
         "depthKM": 7.78,
         "magnitude": 2.18,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90133218",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1776708717.23,
-        "latitudeDeg": 45.0808333333333,
-        "longitudeDeg": -111.7195,
-        "depthKM": 6.24,
-        "magnitude": 1.16,
         "isLocal": false,
         "nearestTown": null
       },
