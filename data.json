@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-05-05T05:56:22Z",
+  "fetchedAt": "2026-05-05T08:52:32Z",
   "events": [
     {
       "identifier": "mb90135653",
@@ -208,6 +208,19 @@
       "magnitude": 0.92,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 9.521506285732206}",
+      "version": null
+    },
+    {
+      "identifier": "nn00917721",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1777967203.468,
+      "latitudeDeg": 37.2278,
+      "longitudeDeg": -114.5973,
+      "depthKm": 10.6727,
+      "magnitude": 1.6,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1521,19 +1534,6 @@
       "magnitude": 0.95,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80137436",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1776759691.959999,
-      "latitudeDeg": 41.487,
-      "longitudeDeg": -112.93766666666667,
-      "depthKm": 10.21,
-      "magnitude": 1.78,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Lakeside, UT', 'bearing': 'NNW', 'distanceKM': 30.00429550108388}",
       "version": null
     },
     {
