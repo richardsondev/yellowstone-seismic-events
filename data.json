@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-05-05T18:50:06Z",
+  "fetchedAt": "2026-05-05T19:37:07Z",
   "events": [
     {
       "identifier": "mb90135653",
@@ -455,6 +455,19 @@
       "magnitude": 1.2,
       "isLocal": true,
       "nearestTown": "{'town': 'West Point, UT', 'bearing': 'W', 'distanceKM': 3.484525107045521}",
+      "version": null
+    },
+    {
+      "identifier": "nn00917790",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1778007585.0640001,
+      "latitudeDeg": 35.8956,
+      "longitudeDeg": -115.235,
+      "depthKm": 11.7904,
+      "magnitude": 1.68,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
