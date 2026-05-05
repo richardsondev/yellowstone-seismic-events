@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-05-05T09:43:07Z",
+  "fetchedAt": "2026-05-05T12:33:53Z",
   "events": [
     {
       "identifier": "mb90135653",
@@ -442,6 +442,19 @@
       "magnitude": 0.99,
       "isLocal": true,
       "nearestTown": "{'town': 'Castle Gate, UT', 'bearing': 'NW', 'distanceKM': 3.690920438785793}",
+      "version": null
+    },
+    {
+      "identifier": "nn00917760",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1777981421.471,
+      "latitudeDeg": 37.4049,
+      "longitudeDeg": -114.3081,
+      "depthKm": 9.5559,
+      "magnitude": 1.8,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
