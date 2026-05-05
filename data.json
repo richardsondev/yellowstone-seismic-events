@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-05-05T16:00:10Z",
+  "fetchedAt": "2026-05-05T16:43:53Z",
   "events": [
     {
       "identifier": "mb90135653",
@@ -26,6 +26,19 @@
       "magnitude": 1.42,
       "isLocal": true,
       "nearestTown": "{'town': 'Kanarraville, UT', 'bearing': 'SSE', 'distanceKM': 13.63040500028178}",
+      "version": null
+    },
+    {
+      "identifier": "nn00917431",
+      "authority": "NN",
+      "eventType": "eq",
+      "originTimeUtc": 1777792113.466,
+      "latitudeDeg": 37.1362,
+      "longitudeDeg": -114.0564,
+      "depthKm": 1.324,
+      "magnitude": 1.63,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -504,7 +517,7 @@
       "latitudeDeg": 44.70183333333333,
       "longitudeDeg": -110.7205,
       "depthKm": 6.26,
-      "magnitude": 0.88,
+      "magnitude": 0.61,
       "isLocal": true,
       "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 28.410601832980465}",
       "version": null
