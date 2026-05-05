@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "fetchedAt": "2026-05-05T12:33:53Z",
+  "fetchedAt": "2026-05-05T16:00:10Z",
   "events": [
     {
       "identifier": "mb90135653",
@@ -16,16 +16,16 @@
       "version": null
     },
     {
-      "identifier": "nn00917431",
-      "authority": "NN",
+      "identifier": "uu80138896",
+      "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1777792113.466,
-      "latitudeDeg": 37.1362,
-      "longitudeDeg": -114.0564,
-      "depthKm": 1.324,
-      "magnitude": 1.63,
-      "isLocal": false,
-      "nearestTown": null,
+      "originTimeUtc": 1777991349.8599997,
+      "latitudeDeg": 37.42966666666667,
+      "longitudeDeg": -113.114,
+      "depthKm": 9.86,
+      "magnitude": 1.42,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanarraville, UT', 'bearing': 'SSE', 'distanceKM': 13.63040500028178}",
       "version": null
     },
     {
@@ -289,6 +289,19 @@
       "version": null
     },
     {
+      "identifier": "mb90136218",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1777990548.7,
+      "latitudeDeg": 44.3943333333333,
+      "longitudeDeg": -112.582666666667,
+      "depthKm": 5.0,
+      "magnitude": 1.75,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80138426",
       "authority": "UU",
       "eventType": "eq",
@@ -393,6 +406,19 @@
       "version": null
     },
     {
+      "identifier": "uu80138881",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777983479.5599976,
+      "latitudeDeg": 38.5085,
+      "longitudeDeg": -112.89266666666667,
+      "depthKm": 2.15,
+      "magnitude": 1.2,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.1187266243505}",
+      "version": null
+    },
+    {
       "identifier": "uu80138656",
       "authority": "UU",
       "eventType": "eq",
@@ -442,6 +468,19 @@
       "magnitude": 0.99,
       "isLocal": true,
       "nearestTown": "{'town': 'Castle Gate, UT', 'bearing': 'NW', 'distanceKM': 3.690920438785793}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138886",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777990431.3199997,
+      "latitudeDeg": 38.509166666666665,
+      "longitudeDeg": -112.89916666666667,
+      "depthKm": 2.17,
+      "magnitude": 1.43,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.821916234368233}",
       "version": null
     },
     {
@@ -510,6 +549,19 @@
       "version": null
     },
     {
+      "identifier": "uu80138871",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777975579.83,
+      "latitudeDeg": 38.50716666666667,
+      "longitudeDeg": -112.89516666666667,
+      "depthKm": 1.95,
+      "magnitude": 0.67,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.865878061141368}",
+      "version": null
+    },
+    {
       "identifier": "uu80138541",
       "authority": "UU",
       "eventType": "eq",
@@ -520,6 +572,19 @@
       "magnitude": 1.0,
       "isLocal": true,
       "nearestTown": "{'town': 'Hamiltons Fort, UT', 'bearing': 'SE', 'distanceKM': 10.157103660092845}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138861",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777960397.83,
+      "latitudeDeg": 38.4275,
+      "longitudeDeg": -112.85133333333333,
+      "depthKm": 7.05,
+      "magnitude": 1.87,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'ENE', 'distanceKM': 14.304582154729419}",
       "version": null
     },
     {
@@ -692,6 +757,19 @@
       "version": null
     },
     {
+      "identifier": "uu80138876",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777979650.8499994,
+      "latitudeDeg": 38.5075,
+      "longitudeDeg": -112.898,
+      "depthKm": 1.92,
+      "magnitude": 0.96,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.739379157463972}",
+      "version": null
+    },
+    {
       "identifier": "uu80138386",
       "authority": "UU",
       "eventType": "eq",
@@ -845,6 +923,19 @@
       "magnitude": -0.11,
       "isLocal": true,
       "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SSW', 'distanceKM': 5.331822684780287}",
+      "version": null
+    },
+    {
+      "identifier": "mb90136038",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1777946972.79,
+      "latitudeDeg": 44.765,
+      "longitudeDeg": -111.665333333333,
+      "depthKm": 8.02,
+      "magnitude": 1.18,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
@@ -1199,6 +1290,19 @@
       "version": null
     },
     {
+      "identifier": "uu80138856",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777959900.27,
+      "latitudeDeg": 37.899166666666666,
+      "longitudeDeg": -112.2145,
+      "depthKm": 8.04,
+      "magnitude": 1.98,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Spry, UT', 'bearing': 'SE', 'distanceKM': 18.980719697420124}",
+      "version": null
+    },
+    {
       "identifier": "uu80137541",
       "authority": "UU",
       "eventType": "eq",
@@ -1326,6 +1430,19 @@
       "magnitude": 1.59,
       "isLocal": true,
       "nearestTown": "{'town': 'Hildale, UT', 'bearing': 'NE', 'distanceKM': 7.816788159224783}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138906",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777992396.3999977,
+      "latitudeDeg": 40.73716666666667,
+      "longitudeDeg": -112.06416666666667,
+      "depthKm": 8.46,
+      "magnitude": 0.8300000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'SE', 'distanceKM': 5.007526562314376}",
       "version": null
     },
     {
@@ -1459,6 +1576,19 @@
       "version": null
     },
     {
+      "identifier": "uu80138901",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1777991406.1999998,
+      "latitudeDeg": 37.42666666666667,
+      "longitudeDeg": -113.1205,
+      "depthKm": 9.69,
+      "magnitude": 1.9100000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Kanarraville, UT', 'bearing': 'SSE', 'distanceKM': 13.683496527506344}",
+      "version": null
+    },
+    {
       "identifier": "mb90135753",
       "authority": "MB",
       "eventType": "eq",
@@ -1508,6 +1638,19 @@
       "magnitude": 1.4000000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Washington, UT', 'bearing': 'ENE', 'distanceKM': 4.996106824311499}",
+      "version": null
+    },
+    {
+      "identifier": "mb90136183",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1777879343.3500001,
+      "latitudeDeg": 44.8381666666667,
+      "longitudeDeg": -111.681,
+      "depthKm": 5.15,
+      "magnitude": 0.21,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
