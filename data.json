@@ -79,6 +79,19 @@
       "version": null
     },
     {
+      "identifier": "mb90136538",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1778004276.07,
+      "latitudeDeg": 45.0793333333333,
+      "longitudeDeg": -111.715666666667,
+      "depthKm": 4.92,
+      "magnitude": 1.31,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80138991",
       "authority": "UU",
       "eventType": "eq",
@@ -131,32 +144,6 @@
       "version": null
     },
     {
-      "identifier": "uu80137841",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1776868839.8899994,
-      "latitudeDeg": 38.70433333333333,
-      "longitudeDeg": -112.47583333333333,
-      "depthKm": 8.57,
-      "magnitude": 1.76,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 11.296156434564729}",
-      "version": null
-    },
-    {
-      "identifier": "uu80137851",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1776869087.579998,
-      "latitudeDeg": 38.710166666666666,
-      "longitudeDeg": -112.47033333333333,
-      "depthKm": 8.38,
-      "magnitude": 1.33,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 10.538963236949906}",
-      "version": null
-    },
-    {
       "identifier": "uu80007018",
       "authority": "UU",
       "eventType": "eq",
@@ -180,32 +167,6 @@
       "magnitude": 0.8300000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Castle Gate, UT', 'bearing': 'E', 'distanceKM': 6.063608866068485}",
-      "version": null
-    },
-    {
-      "identifier": "uu80137836",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1776868535.209999,
-      "latitudeDeg": 38.725,
-      "longitudeDeg": -112.46783333333333,
-      "depthKm": 7.64,
-      "magnitude": 3.22,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 8.895647762715}",
-      "version": null
-    },
-    {
-      "identifier": "uu80137831",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1776866814.4899979,
-      "latitudeDeg": 38.7315,
-      "longitudeDeg": -112.45966666666666,
-      "depthKm": 8.84,
-      "magnitude": 2.18,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 8.008682101165418}",
       "version": null
     },
     {
@@ -271,6 +232,19 @@
       "magnitude": 1.81,
       "isLocal": true,
       "nearestTown": "{'town': 'Spry, UT', 'bearing': 'SE', 'distanceKM': 17.459144887450172}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138986",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778062924.46,
+      "latitudeDeg": 38.501333333333335,
+      "longitudeDeg": -112.89066666666666,
+      "depthKm": 3.24,
+      "magnitude": 1.67,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.629931730311844}",
       "version": null
     },
     {
@@ -570,6 +544,19 @@
       "magnitude": 0.54,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNW', 'distanceKM': 11.682320030249903}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138961",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778047828.959999,
+      "latitudeDeg": 37.901,
+      "longitudeDeg": -112.22816666666667,
+      "depthKm": 7.41,
+      "magnitude": 1.87,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Spry, UT', 'bearing': 'SE', 'distanceKM': 18.015073221811793}",
       "version": null
     },
     {
@@ -885,6 +872,19 @@
       "version": null
     },
     {
+      "identifier": "uu80139001",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778067312.0199995,
+      "latitudeDeg": 38.50983333333333,
+      "longitudeDeg": -112.8935,
+      "depthKm": 1.5,
+      "magnitude": 0.97,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.187196171297092}",
+      "version": null
+    },
+    {
       "identifier": "mb90134928",
       "authority": "MB",
       "eventType": "eq",
@@ -927,10 +927,10 @@
       "identifier": "us6000svh8",
       "authority": "US",
       "eventType": "eq",
-      "originTimeUtc": 1778028385.836,
-      "latitudeDeg": 40.8329,
-      "longitudeDeg": -111.8373,
-      "depthKm": 10.0,
+      "originTimeUtc": 1778028385.867,
+      "latitudeDeg": 40.8373,
+      "longitudeDeg": -111.8555,
+      "depthKm": 9.908,
       "magnitude": 1.3,
       "isLocal": false,
       "nearestTown": null,
@@ -999,6 +999,19 @@
       "magnitude": 1.2,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80138976",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778058568.619999,
+      "latitudeDeg": 38.50933333333333,
+      "longitudeDeg": -112.899,
+      "depthKm": 2.2,
+      "magnitude": 0.9400000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.845448212175151}",
       "version": null
     },
     {
@@ -1080,6 +1093,19 @@
       "version": null
     },
     {
+      "identifier": "uu80138951",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778036126.7699986,
+      "latitudeDeg": 41.9275,
+      "longitudeDeg": -112.65533333333333,
+      "depthKm": 0.47,
+      "magnitude": 1.07,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Snowville, UT', 'bearing': 'SE', 'distanceKM': 6.170156965520378}",
+      "version": null
+    },
+    {
       "identifier": "uu80006983",
       "authority": "UU",
       "eventType": "eq",
@@ -1145,16 +1171,16 @@
       "version": null
     },
     {
-      "identifier": "uu80137871",
+      "identifier": "uu80138981",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1776869817.329998,
-      "latitudeDeg": 38.74583333333333,
-      "longitudeDeg": -112.47033333333333,
-      "depthKm": 5.44,
-      "magnitude": 1.2,
+      "originTimeUtc": 1778061930.459999,
+      "latitudeDeg": 38.51,
+      "longitudeDeg": -112.89616666666667,
+      "depthKm": 1.29,
+      "magnitude": 0.9,
       "isLocal": true,
-      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 6.806451809106809}",
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.056185922769362}",
       "version": null
     },
     {
@@ -1194,6 +1220,19 @@
       "magnitude": 2.0100000000000002,
       "isLocal": true,
       "nearestTown": "{'town': 'Spry, UT', 'bearing': 'SE', 'distanceKM': 18.187821098301498}",
+      "version": null
+    },
+    {
+      "identifier": "uu80138996",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778064260.2999992,
+      "latitudeDeg": 38.50566666666667,
+      "longitudeDeg": -112.899,
+      "depthKm": 1.8,
+      "magnitude": 1.61,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.525938621101934}",
       "version": null
     },
     {
@@ -1259,19 +1298,6 @@
       "magnitude": 2.56,
       "isLocal": false,
       "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80137846",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1776869032.0999985,
-      "latitudeDeg": 38.7045,
-      "longitudeDeg": -112.481,
-      "depthKm": 8.51,
-      "magnitude": 0.88,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Kanosh, UT', 'bearing': 'SSW', 'distanceKM': 11.418866370572832}",
       "version": null
     },
     {
@@ -1626,6 +1652,19 @@
       "version": null
     },
     {
+      "identifier": "uu80138931",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778025042.3600006,
+      "latitudeDeg": 39.97116666666667,
+      "longitudeDeg": -111.36516666666667,
+      "depthKm": 5.53,
+      "magnitude": 1.22,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Thistle, UT', 'bearing': 'E', 'distanceKM': 11.744102432060666}",
+      "version": null
+    },
+    {
       "identifier": "uu80007048",
       "authority": "UU",
       "eventType": "eq",
@@ -1675,6 +1714,19 @@
       "magnitude": 0.95,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80138936",
+      "authority": "UU",
+      "eventType": "qb",
+      "originTimeUtc": 1778028384.9699993,
+      "latitudeDeg": 40.82366666666667,
+      "longitudeDeg": -111.873,
+      "depthKm": -2.0,
+      "magnitude": 1.22,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Val Verda, UT', 'bearing': 'SSE', 'distanceKM': 3.6165366471973326}",
       "version": null
     },
     {
