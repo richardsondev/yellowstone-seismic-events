@@ -7,17 +7,17 @@ Used by the scrape-events.yml workflow to produce the unified schema.
 Usage:
     build_data.py <eventmap.json> <data.json>
 
-Schema (data.json) — see https://github.com/richardsondev/yellowstone-seismic-events/blob/main/SCHEMA.md
+Schema (data.json):
 {
-  "schemaVersion": 2,
-  "fetchedAt": "ISO8601 UTC",
   "events": [...],
   "stations": []   // empty: stations endpoint discontinued by upstream API
 }
+
+Note: timestamp is preserved in the git commit metadata; consumers can
+read it via `git log` or the GitHub API. No fetchedAt field needed.
 """
 import json
 import sys
-from datetime import datetime, timezone
 
 
 def safe_float(v):
@@ -78,8 +78,6 @@ def main():
             events.append(ev)
 
     out = {
-        "schemaVersion": 2,
-        "fetchedAt": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "events": events,
         "stations": [],
     }

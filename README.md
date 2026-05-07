@@ -11,12 +11,12 @@ Every commit in this repository contains:
 - **`data.json`** — canonical, normalized schema (see below). Use this for time-series queries.
 - **`eventmap.json`** — raw response from the upstream `eventmap` API (preserved for consumers that need the original format).
 
-### `data.json` schema (`schemaVersion: 2`)
+The "fetched at" timestamp lives in the git commit metadata (`commit.author_date`), not in `data.json`. Read it with `git log --format=%aI` or via the GitHub API.
+
+### `data.json` schema
 
 ```json
 {
-  "schemaVersion": 2,
-  "fetchedAt": "2026-05-07T09:12:45.848772Z",
   "events": [
     {
       "identifier": "mb90135653",
@@ -51,7 +51,7 @@ Every commit in this repository contains:
 
 ## History rewrite (2026-05-07)
 
-This repository's full ~32k-commit history was rewritten on 2026-05-07 to unify three previous incompatible data layouts into the single `data.json` schema above.
+This repository's full history was rewritten on 2026-05-07 to unify three previous incompatible data layouts into the single `data.json` schema above, and to remove redundant commits where the data didn't change between scrapes.
 
 **Before the rewrite**, the repo went through several eras:
 
@@ -62,7 +62,7 @@ This repository's full ~32k-commit history was rewritten on 2026-05-07 to unify 
 | 3 | 2026-04 → 2026-05 | `eventmap.json` + zero-byte stubs |
 | 4 | 2026-05 → 2026-05-07 | `eventmap.json` only |
 
-After the rewrite, every commit contains the same canonical `data.json`. Truly empty commits (~2,350 from the broken 2025-2026 period) were dropped. All commit timestamps, authors, and messages are preserved.
+After the rewrite, every commit contains the same canonical `data.json`. Commits where the resulting `data.json` was identical to the parent (no new information) were dropped, keeping only commits with genuinely new content. All commit timestamps, authors, and messages on retained commits are preserved.
 
 ### Recovering pre-rewrite SHAs
 
