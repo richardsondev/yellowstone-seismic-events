@@ -75,3 +75,16 @@ ls *.json   # stations.json, events-uu.json, events-nonuu.json, eventmap.json
 ```
 
 The backup tag will be retained indefinitely.
+
+
+## License & Attribution
+
+This repository uses a dual-licensing structure to properly handle both the software and the dataset:
+
+* **Code:** The scraping scripts and GitHub Actions workflows are licensed under the [MIT License](LICENSE.md).
+* **Data:** The seismic datasets (`data.json` and `eventmap.json`) are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE.md).
+
+### Data Source
+The seismic data hosted here is generated and maintained by the University of Utah Seismograph Stations (UUSS). If you fork, redistribute, or build upon this dataset, you must include the following attribution:
+
+> *"Data sourced from the University of Utah Seismograph Stations (UUSS). Available at: https://quake.utah.edu/"*
