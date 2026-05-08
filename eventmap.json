@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "917079b4146782ad986ed36183bfe038d5798733",
+    "hashString": "612ed29f2451fd806444f7e4e08ebfcf114d9c9b",
     "events": [
       {
         "identifier": "uu80138896",
@@ -1327,16 +1327,16 @@
         "identifier": "uu80139261",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1778244224.25,
-        "latitudeDeg": 38.50066666666667,
-        "longitudeDeg": -112.88866666666667,
-        "depthKM": 0.49,
+        "originTimeUTC": 1778244223.959999,
+        "latitudeDeg": 38.508,
+        "longitudeDeg": -112.8995,
+        "depthKM": 2.72,
         "magnitude": 2.22,
         "isLocal": true,
         "nearestTown": {
           "town": "Milford, UT",
           "bearing": "NE",
-          "distanceKM": 15.692486012007906
+          "distanceKM": 15.701878993416743
         }
       },
       {
@@ -2134,6 +2134,22 @@
         "magnitude": 2.6,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80139186",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1778210518.949997,
+        "latitudeDeg": 41.18633333333333,
+        "longitudeDeg": -111.68683333333334,
+        "depthKM": 10.31,
+        "magnitude": 1.54,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Huntsville, UT",
+          "bearing": "SE",
+          "distanceKM": 10.808692423242672
+        }
       },
       {
         "identifier": "mb90136783",
