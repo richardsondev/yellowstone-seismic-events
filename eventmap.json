@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f127959e28ef0c864513b726e398a8b72fe52ee9",
+    "hashString": "79fbdaf08bdffa4e398963344b76f5d4415a6d70",
     "events": [
       {
         "identifier": "uu80138896",
@@ -17,6 +17,22 @@
           "town": "Kanarraville, UT",
           "bearing": "SSE",
           "distanceKM": 13.63040500028178
+        }
+      },
+      {
+        "identifier": "uu80139486",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1778415591.0900002,
+        "latitudeDeg": 38.28616666666667,
+        "longitudeDeg": -112.2455,
+        "depthKM": 7.58,
+        "magnitude": 1.97,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Junction, UT",
+          "bearing": "NNW",
+          "distanceKM": 5.8549045645693845
         }
       },
       {
@@ -440,6 +456,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80007088",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1778306781.3199997,
+        "latitudeDeg": 38.501666666666665,
+        "longitudeDeg": -112.90116666666667,
+        "depthKM": 1.84,
+        "magnitude": 1.83,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.061902620630484
+        }
+      },
+      {
         "identifier": "uu80138451",
         "authority": "UU",
         "eventType": "eq",
@@ -634,6 +666,22 @@
         "magnitude": 0.38,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80007083",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1778319134.0999994,
+        "latitudeDeg": 37.0895,
+        "longitudeDeg": -112.88283333333334,
+        "depthKM": 17.76,
+        "magnitude": 0.61,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 12.120186716305001
+        }
       },
       {
         "identifier": "uu80139266",
@@ -2140,6 +2188,22 @@
         }
       },
       {
+        "identifier": "uu80139336",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1778306752.3499985,
+        "latitudeDeg": 38.07633333333333,
+        "longitudeDeg": -112.35333333333334,
+        "depthKM": 10.37,
+        "magnitude": 1.33,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Spry, UT",
+          "bearing": "N",
+          "distanceKM": 6.150742274220376
+        }
+      },
+      {
         "identifier": "uu80007063",
         "authority": "UU",
         "eventType": "eq",
@@ -2154,18 +2218,6 @@
           "bearing": "WNW",
           "distanceKM": 7.439730762671165
         }
-      },
-      {
-        "identifier": "us6000st4q",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1777296033.02,
-        "latitudeDeg": 41.8272,
-        "longitudeDeg": -114.9168,
-        "depthKM": 12.535,
-        "magnitude": 2.6,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80139186",
@@ -2194,6 +2246,22 @@
         "magnitude": 0.35,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80007078",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1778348050.17,
+        "latitudeDeg": 39.2975,
+        "longitudeDeg": -111.7165,
+        "depthKM": 15.48,
+        "magnitude": 0.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Manti, UT",
+          "bearing": "WNW",
+          "distanceKM": 7.581478028232464
+        }
       },
       {
         "identifier": "uu80138461",
