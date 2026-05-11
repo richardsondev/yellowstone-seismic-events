@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ee8c723f2aed5308a14ca47219b9b6e21c1fa027",
+    "hashString": "f127959e28ef0c864513b726e398a8b72fe52ee9",
     "events": [
       {
         "identifier": "uu80138896",
@@ -18,18 +18,6 @@
           "bearing": "SSE",
           "distanceKM": 13.63040500028178
         }
-      },
-      {
-        "identifier": "mb90135588",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1777896025.22,
-        "latitudeDeg": 44.701,
-        "longitudeDeg": -111.997666666667,
-        "depthKM": 5,
-        "magnitude": 0.85,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "mb90136538",
@@ -142,22 +130,6 @@
         "magnitude": 0.02,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80007018",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1777292108.4799995,
-        "latitudeDeg": 44.76883333333333,
-        "longitudeDeg": -111.21333333333334,
-        "depthKM": 11.62,
-        "magnitude": 0.19,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Grayling, MT",
-          "bearing": "SSW",
-          "distanceKM": 3.956795344381058
-        }
       },
       {
         "identifier": "uu80138491",
