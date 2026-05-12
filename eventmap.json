@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0cedff88ed5e8c4324f3b40a94e952be6c9f0ed4",
+    "hashString": "8e9e7784d9033fec33da9b9efb8d8702d217d4b7",
     "events": [
       {
         "identifier": "uu80139596",
@@ -50,18 +50,6 @@
           "bearing": "NNW",
           "distanceKM": 5.8549045645693845
         }
-      },
-      {
-        "identifier": "mb90136538",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1778004276.07,
-        "latitudeDeg": 45.0793333333333,
-        "longitudeDeg": -111.715666666667,
-        "depthKM": 4.92,
-        "magnitude": 1.31,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80139121",
@@ -2013,6 +2001,22 @@
           "town": "Spry, UT",
           "bearing": "SE",
           "distanceKM": 18.980719697420124
+        }
+      },
+      {
+        "identifier": "uu80139686",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1778607743.5900002,
+        "latitudeDeg": 44.75983333333333,
+        "longitudeDeg": -110.9365,
+        "depthKM": 9.28,
+        "magnitude": 1.4000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "NE",
+          "distanceKM": 17.13209092969315
         }
       },
       {
