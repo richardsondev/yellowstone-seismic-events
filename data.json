@@ -144,19 +144,6 @@
       "version": null
     },
     {
-      "identifier": "uu80138491",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1777473471.2299995,
-      "latitudeDeg": 39.72716666666667,
-      "longitudeDeg": -110.798,
-      "depthKm": 9.08,
-      "magnitude": 0.8300000000000001,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Castle Gate, UT', 'bearing': 'E', 'distanceKM': 6.063608866068485}",
-      "version": null
-    },
-    {
       "identifier": "uu80139331",
       "authority": "UU",
       "eventType": "eq",
@@ -427,6 +414,19 @@
       "magnitude": 1.83,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.061902620630484}",
+      "version": null
+    },
+    {
+      "identifier": "uu80139781",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778680596.119999,
+      "latitudeDeg": 38.49733333333333,
+      "longitudeDeg": -112.89866666666667,
+      "depthKm": 2.73,
+      "magnitude": 1.22,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.8349826857616}",
       "version": null
     },
     {
@@ -1132,6 +1132,19 @@
       "version": null
     },
     {
+      "identifier": "uu80139786",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778680899.6499977,
+      "latitudeDeg": 44.485,
+      "longitudeDeg": -110.59583333333333,
+      "depthKm": 2.9,
+      "magnitude": 0.66,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'N', 'distanceKM': 7.852944355665068}",
+      "version": null
+    },
+    {
       "identifier": "uu80139326",
       "authority": "UU",
       "eventType": "eq",
@@ -1168,6 +1181,19 @@
       "magnitude": 0.97,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 16.187196171297092}",
+      "version": null
+    },
+    {
+      "identifier": "uu80007103",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778680575.08,
+      "latitudeDeg": 38.692,
+      "longitudeDeg": -112.57283333333334,
+      "depthKm": 3.44,
+      "magnitude": -0.19,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Cove Fort, UT', 'bearing': 'N', 'distanceKM': 10.105687078193942}",
       "version": null
     },
     {
@@ -1257,19 +1283,6 @@
       "longitudeDeg": -111.665333333333,
       "depthKm": 8.02,
       "magnitude": 1.18,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "mb90134913",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1777474113.22,
-      "latitudeDeg": 44.8268333333333,
-      "longitudeDeg": -111.585666666667,
-      "depthKm": 8.43,
-      "magnitude": 0.27,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1439,32 +1452,6 @@
       "longitudeDeg": -115.2007,
       "depthKm": 8.3263,
       "magnitude": 1.52,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "uu80138506",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1777476967.2599998,
-      "latitudeDeg": 38.57933333333333,
-      "longitudeDeg": -112.58616666666667,
-      "depthKm": 1.16,
-      "magnitude": 1.82,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Sulphurdale, UT', 'bearing': 'N', 'distanceKM': 2.132067511920963}",
-      "version": null
-    },
-    {
-      "identifier": "nn00916732",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1777476130.1000001,
-      "latitudeDeg": 37.1532,
-      "longitudeDeg": -114.6117,
-      "depthKm": 5.916,
-      "magnitude": 1.74,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -2367,6 +2354,19 @@
       "version": null
     },
     {
+      "identifier": "uu80139791",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1778681477.5200005,
+      "latitudeDeg": 40.7495,
+      "longitudeDeg": -112.043,
+      "depthKm": 5.82,
+      "magnitude": 1.25,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Saltair, UT', 'bearing': 'ESE', 'distanceKM': 5.634402220882874}",
+      "version": null
+    },
+    {
       "identifier": "uu80139186",
       "authority": "UU",
       "eventType": "eq",
@@ -2445,19 +2445,6 @@
       "version": null
     },
     {
-      "identifier": "nn00916735",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1777476795.709,
-      "latitudeDeg": 37.141,
-      "longitudeDeg": -115.2233,
-      "depthKm": 6.6126,
-      "magnitude": 3.11,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "mb90134923",
       "authority": "MB",
       "eventType": "eq",
@@ -2505,19 +2492,6 @@
       "longitudeDeg": -111.497833333333,
       "depthKm": 12.06,
       "magnitude": 0.12,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
-      "identifier": "nn00916734",
-      "authority": "NN",
-      "eventType": "eq",
-      "originTimeUtc": 1777476188.0440001,
-      "latitudeDeg": 37.2417,
-      "longitudeDeg": -114.7072,
-      "depthKm": 8.2255,
-      "magnitude": 1.68,
       "isLocal": false,
       "nearestTown": null,
       "version": null
