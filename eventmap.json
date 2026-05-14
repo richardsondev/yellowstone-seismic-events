@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "24ae8ac613a49eebff46811a4b874703da00f402",
+    "hashString": "65a8addc47d7c769b46ddf504ef498bbf31d35a9",
     "events": [
       {
         "identifier": "uu80139596",
@@ -1850,6 +1850,22 @@
         "magnitude": -0.06,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80139951",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1778737290.3499985,
+        "latitudeDeg": 38.75,
+        "longitudeDeg": -112.47116666666666,
+        "depthKM": 7.31,
+        "magnitude": 1.22,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kanosh, UT",
+          "bearing": "SSW",
+          "distanceKM": 6.421394169763954
+        }
       },
       {
         "identifier": "uu80139306",
