@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "dc4a80d47d8e44058449c780bcc838af8b911236",
+    "hashString": "fcc2939a40314e51b702688f1c25e74783524db2",
     "events": [
       {
         "identifier": "uu80139596",
@@ -657,22 +657,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.865878061141368
-        }
-      },
-      {
-        "identifier": "uu80138541",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1777533905.9099998,
-        "latitudeDeg": 37.562333333333335,
-        "longitudeDeg": -113.05566666666667,
-        "depthKM": 10.87,
-        "magnitude": 1,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hamiltons Fort, UT",
-          "bearing": "SE",
-          "distanceKM": 10.157103660092845
         }
       },
       {
@@ -2552,6 +2536,18 @@
         }
       },
       {
+        "identifier": "us6000sxlm",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1778734129.426,
+        "latitudeDeg": 40.5848,
+        "longitudeDeg": -108.2984,
+        "depthKM": 5.23,
+        "magnitude": 2.2,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80139131",
         "authority": "UU",
         "eventType": "eq",
@@ -2734,22 +2730,6 @@
         "magnitude": 2.67,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80138551",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1777535383.869999,
-        "latitudeDeg": 40.413833333333336,
-        "longitudeDeg": -111.91383333333333,
-        "depthKM": 3.39,
-        "magnitude": 1.02,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Saratoga Springs, UT",
-          "bearing": "N",
-          "distanceKM": 7.240381602529761
-        }
       },
       {
         "identifier": "uu80138561",
