@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ac9a5c15c599c62b44570b0fdd80cd7df8ac9623",
+    "hashString": "2ec83185d43af0ebd04d329ff334c4574f8a1450",
     "events": [
       {
         "identifier": "uu80139596",
@@ -1528,6 +1528,22 @@
         }
       },
       {
+        "identifier": "uu80140551",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1779199103.7600002,
+        "latitudeDeg": 41.85633333333333,
+        "longitudeDeg": -112.4235,
+        "depthKM": 0.52,
+        "magnitude": 0.79,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Blue Creek, UT",
+          "bearing": "ESE",
+          "distanceKM": 2.9616367786701145
+        }
+      },
+      {
         "identifier": "uu80139201",
         "authority": "UU",
         "eventType": "eq",
@@ -1932,6 +1948,18 @@
         "longitudeDeg": -111.717,
         "depthKM": 1.38,
         "magnitude": 1.44,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
+        "identifier": "mb90140108",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1779064384.19,
+        "latitudeDeg": 44.792,
+        "longitudeDeg": -111.518,
+        "depthKM": 10.6,
+        "magnitude": 0.58,
         "isLocal": false,
         "nearestTown": null
       },
@@ -2370,22 +2398,6 @@
         "magnitude": 0.46,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80138906",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1777992396.3999977,
-        "latitudeDeg": 40.73716666666667,
-        "longitudeDeg": -112.06416666666667,
-        "depthKM": 8.46,
-        "magnitude": 0.8300000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Saltair, UT",
-          "bearing": "SE",
-          "distanceKM": 5.007526562314376
-        }
       },
       {
         "identifier": "mb90137858",
