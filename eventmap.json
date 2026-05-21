@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "170ffb574b1f06ca0e3dafaa992355ed8e9efdc2",
+    "hashString": "a43e5e4f9bf076c4b72344687b2f2296c884803c",
     "events": [
       {
         "identifier": "uu80140671",
@@ -94,6 +94,18 @@
           "bearing": "WNW",
           "distanceKM": 3.3154870536039707
         }
+      },
+      {
+        "identifier": "mb90140288",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1779239346.39,
+        "latitudeDeg": 44.7628333333333,
+        "longitudeDeg": -111.212666666667,
+        "depthKM": 12.24,
+        "magnitude": 0.86,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80140601",
@@ -2389,22 +2401,6 @@
           "town": "Junction, UT",
           "bearing": "NW",
           "distanceKM": 4.451367976538976
-        }
-      },
-      {
-        "identifier": "uu80139076",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1778132775.13,
-        "latitudeDeg": 44.74333333333333,
-        "longitudeDeg": -110.79066666666667,
-        "depthKM": 4.77,
-        "magnitude": 1.45,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "West Yellowstone, MT",
-          "bearing": "ENE",
-          "distanceKM": 26.36720030358684
         }
       },
       {
