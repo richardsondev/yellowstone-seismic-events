@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "33c61714f305950cfebffe89bafa4e7dd9b8fbc9",
+    "hashString": "daa89e3e14d20bdf28d7cd05e2774a4ab5aedba4",
     "events": [
       {
         "identifier": "uu80140671",
@@ -957,6 +957,22 @@
           "town": "Sharon, ID",
           "bearing": "NE",
           "distanceKM": 6.5829839739631915
+        }
+      },
+      {
+        "identifier": "uu80140751",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1779384533.2199974,
+        "latitudeDeg": 38.505833333333335,
+        "longitudeDeg": -112.9145,
+        "depthKM": 2.82,
+        "magnitude": 2.19,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.732401339102639
         }
       },
       {
