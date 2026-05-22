@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "52c240195ad5b27d2a47f7324c1b1d944f9c8ea0",
+    "hashString": "e26234a7377e1932a42e601013ee1416aa6a532c",
     "events": [
       {
         "identifier": "uu80140671",
@@ -732,22 +732,6 @@
         }
       },
       {
-        "identifier": "uu80139281",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1778264350.3999996,
-        "latitudeDeg": 38.284166666666664,
-        "longitudeDeg": -112.2355,
-        "depthKM": 5.05,
-        "magnitude": 0.96,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Junction, UT",
-          "bearing": "NNW",
-          "distanceKM": 5.364874209440456
-        }
-      },
-      {
         "identifier": "uu80007128",
         "authority": "UU",
         "eventType": "eq",
@@ -901,6 +885,22 @@
           "town": "Lake, WY",
           "bearing": "NNW",
           "distanceKM": 13.490935959240106
+        }
+      },
+      {
+        "identifier": "uu80140826",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1779472080.02,
+        "latitudeDeg": 41.8545,
+        "longitudeDeg": -112.42366666666666,
+        "depthKM": 0.63,
+        "magnitude": 0.73,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Blue Creek, UT",
+          "bearing": "ESE",
+          "distanceKM": 2.9968480125950854
         }
       },
       {
