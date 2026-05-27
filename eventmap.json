@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "aa44ef787ef5633867a2438c71ab39c5a2abde7b",
+    "hashString": "cd941552be62c2b23a4118f3962e0ddfbfe88042",
     "events": [
       {
         "identifier": "uu80140671",
@@ -1126,6 +1126,18 @@
           "bearing": "NE",
           "distanceKM": 15.40394650743238
         }
+      },
+      {
+        "identifier": "us6000t049",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1779737914.683,
+        "latitudeDeg": 44.8401,
+        "longitudeDeg": -113.3192,
+        "depthKM": 12.728,
+        "magnitude": 3.2,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80007143",
@@ -2391,16 +2403,16 @@
         "identifier": "uu80141111",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1779825267.4499989,
-        "latitudeDeg": 41.8675,
-        "longitudeDeg": -111.5315,
-        "depthKM": 8.77,
-        "magnitude": 2.0100000000000002,
+        "originTimeUTC": 1779825267.209999,
+        "latitudeDeg": 41.8795,
+        "longitudeDeg": -111.51416666666667,
+        "depthKM": 6.23,
+        "magnitude": 2.0300000000000002,
         "isLocal": true,
         "nearestTown": {
           "town": "Garden City, UT",
           "bearing": "SW",
-          "distanceKM": 14.434944321768105
+          "distanceKM": 12.484522524747252
         }
       },
       {
