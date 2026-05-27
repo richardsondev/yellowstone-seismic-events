@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f516d9835c4288cfc1a2631f5ca916d15ab1dbd6",
+    "hashString": "9a5026a07805c08617e4270bf599dcab7488baf4",
     "events": [
       {
         "identifier": "uu80140671",
@@ -236,6 +236,38 @@
         }
       },
       {
+        "identifier": "uu80141151",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1779861024.369999,
+        "latitudeDeg": 37.17166666666667,
+        "longitudeDeg": -113.40516666666667,
+        "depthKM": 7.6,
+        "magnitude": 1.51,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Leeds, UT",
+          "bearing": "SSW",
+          "distanceKM": 8.487530588038592
+        }
+      },
+      {
+        "identifier": "uu80141146",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1779860834.63,
+        "latitudeDeg": 38.5095,
+        "longitudeDeg": -112.911,
+        "depthKM": 2.63,
+        "magnitude": 1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.24099173385414
+        }
+      },
+      {
         "identifier": "uu80139796",
         "authority": "UU",
         "eventType": "eq",
@@ -252,22 +284,6 @@
         }
       },
       {
-        "identifier": "uu80139771",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1778674888.959999,
-        "latitudeDeg": 40.882,
-        "longitudeDeg": -110.84116666666667,
-        "depthKM": 13.38,
-        "magnitude": 1.03,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Altamont, WY",
-          "bearing": "S",
-          "distanceKM": 34.73629834125884
-        }
-      },
-      {
         "identifier": "uu80140311",
         "authority": "UU",
         "eventType": "eq",
@@ -281,6 +297,22 @@
           "town": "Manderfield, UT",
           "bearing": "NW",
           "distanceKM": 17.15681188995159
+        }
+      },
+      {
+        "identifier": "uu80141161",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1779879338.1299973,
+        "latitudeDeg": 41.861666666666665,
+        "longitudeDeg": -111.497,
+        "depthKM": 10.24,
+        "magnitude": 1.1300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Garden City, UT",
+          "bearing": "SW",
+          "distanceKM": 12.774600268670508
         }
       },
       {
@@ -401,22 +433,6 @@
           "town": "Joseph, UT",
           "bearing": "S",
           "distanceKM": 1.2309694168002119
-        }
-      },
-      {
-        "identifier": "uu80139781",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1778680596.119999,
-        "latitudeDeg": 38.49733333333333,
-        "longitudeDeg": -112.89866666666667,
-        "depthKM": 2.73,
-        "magnitude": 1.22,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.8349826857616
         }
       },
       {
@@ -904,22 +920,6 @@
         }
       },
       {
-        "identifier": "uu80139776",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1778676147.7699986,
-        "latitudeDeg": 40.5325,
-        "longitudeDeg": -112.17033333333333,
-        "depthKM": -2.01,
-        "magnitude": 1.34,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Herriman, UT",
-          "bearing": "W",
-          "distanceKM": 11.786880211399538
-        }
-      },
-      {
         "identifier": "mb90141303",
         "authority": "MB",
         "eventType": "eq",
@@ -957,6 +957,22 @@
           "town": "Big Springs, ID",
           "bearing": "ENE",
           "distanceKM": 12.665316886630869
+        }
+      },
+      {
+        "identifier": "uu80141136",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1779852022.5699997,
+        "latitudeDeg": 37.170833333333334,
+        "longitudeDeg": -113.4055,
+        "depthKM": 8.23,
+        "magnitude": 1.56,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Leeds, UT",
+          "bearing": "SSW",
+          "distanceKM": 8.58300720543952
         }
       },
       {
@@ -1008,22 +1024,6 @@
         }
       },
       {
-        "identifier": "uu80139786",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1778680899.6499977,
-        "latitudeDeg": 44.485,
-        "longitudeDeg": -110.59583333333333,
-        "depthKM": 2.9,
-        "magnitude": 0.66,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "West Thumb, WY",
-          "bearing": "N",
-          "distanceKM": 7.852944355665068
-        }
-      },
-      {
         "identifier": "mb90140923",
         "authority": "MB",
         "eventType": "eq",
@@ -1034,22 +1034,6 @@
         "magnitude": 0.63,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80007113",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1778681491,
-        "latitudeDeg": 40.75516666666667,
-        "longitudeDeg": -112.04433333333333,
-        "depthKM": 8.21,
-        "magnitude": 0.42,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Saltair, UT",
-          "bearing": "ESE",
-          "distanceKM": 5.293487574652024
-        }
       },
       {
         "identifier": "uu80140141",
@@ -1078,22 +1062,6 @@
         "magnitude": 0.67,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80007103",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1778680575.08,
-        "latitudeDeg": 38.692,
-        "longitudeDeg": -112.57283333333334,
-        "depthKM": 3.44,
-        "magnitude": -0.19,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Cove Fort, UT",
-          "bearing": "N",
-          "distanceKM": 10.105687078193942
-        }
       },
       {
         "identifier": "uu80140551",
@@ -1844,6 +1812,22 @@
         }
       },
       {
+        "identifier": "uu80141166",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1779881693.9199982,
+        "latitudeDeg": 39.00483333333333,
+        "longitudeDeg": -111.4055,
+        "depthKM": -1.4,
+        "magnitude": 1.21,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "NW",
+          "distanceKM": 16.320247501263104
+        }
+      },
+      {
         "identifier": "uu80140276",
         "authority": "UU",
         "eventType": "eq",
@@ -2317,22 +2301,6 @@
           "town": "Minersville, UT",
           "bearing": "SSE",
           "distanceKM": 12.115651521650769
-        }
-      },
-      {
-        "identifier": "uu80139791",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1778681477.5200005,
-        "latitudeDeg": 40.7495,
-        "longitudeDeg": -112.043,
-        "depthKM": 5.82,
-        "magnitude": 1.25,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Saltair, UT",
-          "bearing": "ESE",
-          "distanceKM": 5.634402220882874
         }
       },
       {
