@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fa8e3d5822e031b58b9360a89ba265e8a60e2c8f",
+    "hashString": "d19bff7f2d8305bf130fe5bf76f961c3c268e9da",
     "events": [
       {
         "identifier": "uu80140671",
@@ -849,6 +849,22 @@
           "town": "Emery, UT",
           "bearing": "WSW",
           "distanceKM": 21.84323148482236
+        }
+      },
+      {
+        "identifier": "uu80141251",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780001935.4199982,
+        "latitudeDeg": 41.861666666666665,
+        "longitudeDeg": -112.7755,
+        "depthKM": 3.42,
+        "magnitude": 3.1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Snowville, UT",
+          "bearing": "SSW",
+          "distanceKM": 12.765137599458305
         }
       },
       {
