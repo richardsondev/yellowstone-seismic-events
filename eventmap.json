@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9904f6c66273074c138e0bffc759f187eaf0a97d",
+    "hashString": "c20a260b5e15b575d8ecfb91729b1ac4a40083c8",
     "events": [
       {
         "identifier": "uu80140671",
@@ -572,22 +572,6 @@
         }
       },
       {
-        "identifier": "uu80140496",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1779110501.0200005,
-        "latitudeDeg": 40.899166666666666,
-        "longitudeDeg": -110.81966666666666,
-        "depthKM": 17.9,
-        "magnitude": 1.44,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Altamont, WY",
-          "bearing": "S",
-          "distanceKM": 32.66067849097133
-        }
-      },
-      {
         "identifier": "uu80140706",
         "authority": "UU",
         "eventType": "eq",
@@ -601,6 +585,22 @@
           "town": "Pahaska Tepee, WY",
           "bearing": "NNW",
           "distanceKM": 18.978195392031093
+        }
+      },
+      {
+        "identifier": "uu80141401",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780293935.2599983,
+        "latitudeDeg": 41.6925,
+        "longitudeDeg": -112.62066666666666,
+        "depthKM": 5.03,
+        "magnitude": 1.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Howell, UT",
+          "bearing": "SW",
+          "distanceKM": 18.609428014778846
         }
       },
       {
@@ -1305,22 +1305,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.144358214226248
-        }
-      },
-      {
-        "identifier": "uu80140491",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1779107243.6999989,
-        "latitudeDeg": 38.592666666666666,
-        "longitudeDeg": -112.662,
-        "depthKM": 1.55,
-        "magnitude": 0.79,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Cove Fort, UT",
-          "bearing": "W",
-          "distanceKM": 6.892360848833996
         }
       },
       {
