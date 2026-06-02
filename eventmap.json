@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1804e0d87011734e80ccbb6d2479a983b073e96f",
+    "hashString": "6af82699e43bdc769160f7381e917ebe08c01b6a",
     "events": [
       {
         "identifier": "uu80140671",
@@ -45,6 +45,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.476190274439908
+        }
+      },
+      {
+        "identifier": "uu80141446",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780394101.77,
+        "latitudeDeg": 41.56066666666667,
+        "longitudeDeg": -112.3895,
+        "depthKM": 0.3,
+        "magnitude": 1.1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Penrose, UT",
+          "bearing": "SW",
+          "distanceKM": 12.564240331238201
         }
       },
       {
@@ -153,6 +169,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 13.621932569909653
+        }
+      },
+      {
+        "identifier": "uu80141441",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780388749.6499977,
+        "latitudeDeg": 39.0095,
+        "longitudeDeg": -111.39183333333334,
+        "depthKM": -0.88,
+        "magnitude": 1.61,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "NW",
+          "distanceKM": 15.666287197310856
         }
       },
       {
@@ -528,6 +560,22 @@
         }
       },
       {
+        "identifier": "uu80141451",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780405095.2299995,
+        "latitudeDeg": 36.945166666666665,
+        "longitudeDeg": -112.58666666666667,
+        "depthKM": 20.72,
+        "magnitude": 1.31,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fredonia, AZ",
+          "bearing": "W",
+          "distanceKM": 5.338134605124
+        }
+      },
+      {
         "identifier": "uu80140926",
         "authority": "UU",
         "eventType": "eq",
@@ -654,22 +702,6 @@
         "magnitude": 0.67,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80140551",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1779199103.7600002,
-        "latitudeDeg": 41.85633333333333,
-        "longitudeDeg": -112.4235,
-        "depthKM": 0.52,
-        "magnitude": 0.79,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Blue Creek, UT",
-          "bearing": "ESE",
-          "distanceKM": 2.9616367786701145
-        }
       },
       {
         "identifier": "uu80141026",
