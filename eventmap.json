@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "335f91bb54bd0a1ca30aaedddd68923149878ecd",
+    "hashString": "87502a9a39ae9cd5477d9386a97f73c450c9eca5",
     "events": [
       {
         "identifier": "uu80140671",
@@ -77,22 +77,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 13.379546596139313
-        }
-      },
-      {
-        "identifier": "uu80140601",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1779233431.1899986,
-        "latitudeDeg": 39.94116666666667,
-        "longitudeDeg": -111.95666666666666,
-        "depthKM": 6.24,
-        "magnitude": 1.11,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Elberta, UT",
-          "bearing": "S",
-          "distanceKM": 1.2919358739443876
         }
       },
       {
@@ -482,6 +466,18 @@
           "bearing": "WNW",
           "distanceKM": 19.807481216619415
         }
+      },
+      {
+        "identifier": "mb90143123",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1780285543.65,
+        "latitudeDeg": 45.724,
+        "longitudeDeg": -111.349,
+        "depthKM": 11.6,
+        "magnitude": 1.13,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80140751",
@@ -1178,6 +1174,18 @@
           "bearing": "NE",
           "distanceKM": 13.447421595014731
         }
+      },
+      {
+        "identifier": "mb90143128",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1780294161.92,
+        "latitudeDeg": 44.7206666666667,
+        "longitudeDeg": -111.169,
+        "depthKM": 8.11,
+        "magnitude": -0.07,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80141406",
