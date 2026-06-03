@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "acefe08bfb3c4782b78765e0bf052fdbfb19c8fc",
+    "hashString": "68b91dfffc51e5e7d85eb293e1fa233f6627c914",
     "events": [
       {
         "identifier": "uu80140671",
@@ -714,6 +714,22 @@
         "magnitude": 1.37,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80141501",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780461073.13,
+        "latitudeDeg": 41.27283333333333,
+        "longitudeDeg": -111.721,
+        "depthKM": 12.54,
+        "magnitude": 1.1400000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Huntsville, UT",
+          "bearing": "ENE",
+          "distanceKM": 4.30048153387977
+        }
       },
       {
         "identifier": "uu80140841",
