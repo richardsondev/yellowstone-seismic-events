@@ -1,24 +1,8 @@
 {
   "status": 200,
   "data": {
-    "hashString": "68b91dfffc51e5e7d85eb293e1fa233f6627c914",
+    "hashString": "c6df5716844264473820268c8cfc8c381ab5d749",
     "events": [
-      {
-        "identifier": "uu80140671",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1779290941.5,
-        "latitudeDeg": 38.5055,
-        "longitudeDeg": -112.9125,
-        "depthKM": 2.67,
-        "magnitude": 1.29,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.801985098707469
-        }
-      },
       {
         "identifier": "mb90142373",
         "authority": "MB",
@@ -77,6 +61,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 13.379546596139313
+        }
+      },
+      {
+        "identifier": "uu80141496",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780457158.5900002,
+        "latitudeDeg": 41.73766666666667,
+        "longitudeDeg": -111.72616666666667,
+        "depthKM": 9.37,
+        "magnitude": 1.27,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "North Logan, UT",
+          "bearing": "ESE",
+          "distanceKM": 7.408835241120995
         }
       },
       {
@@ -261,22 +261,6 @@
           "town": "North Logan, UT",
           "bearing": "E",
           "distanceKM": 11.953817026999333
-        }
-      },
-      {
-        "identifier": "uu80140666",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1779290379.4699974,
-        "latitudeDeg": 38.50666666666667,
-        "longitudeDeg": -112.90966666666667,
-        "depthKM": 2.28,
-        "magnitude": 1.1500000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.050992061731458
         }
       },
       {
@@ -1349,6 +1333,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.144358214226248
+        }
+      },
+      {
+        "identifier": "uu80141506",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780461368.04,
+        "latitudeDeg": 41.2785,
+        "longitudeDeg": -111.72033333333333,
+        "depthKM": 12.12,
+        "magnitude": 0.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Huntsville, UT",
+          "bearing": "ENE",
+          "distanceKM": 4.586333994107798
         }
       },
       {
