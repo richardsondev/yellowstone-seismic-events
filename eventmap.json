@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a9e403f71b44de04c10359914498c5021ca41ac4",
+    "hashString": "3d6f290d89d7ac8994126b5f86246276e25c2609",
     "events": [
       {
         "identifier": "mb90142373",
@@ -331,11 +331,11 @@
         "identifier": "nn00919723",
         "authority": "NN",
         "eventType": "eq",
-        "originTimeUTC": 1780570269.277,
-        "latitudeDeg": 37.2288,
-        "longitudeDeg": -114.7397,
-        "depthKM": 15.9773,
-        "magnitude": 1.56,
+        "originTimeUTC": 1780570269.339,
+        "latitudeDeg": 37.2186,
+        "longitudeDeg": -114.6815,
+        "depthKM": 8.4467,
+        "magnitude": 1.7,
         "isLocal": false,
         "nearestTown": null
       },
@@ -368,6 +368,22 @@
         }
       },
       {
+        "identifier": "uu80141556",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780594802.71,
+        "latitudeDeg": 37.55466666666667,
+        "longitudeDeg": -113.05466666666666,
+        "depthKM": 10.15,
+        "magnitude": 1.59,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hamiltons Fort, UT",
+          "bearing": "SE",
+          "distanceKM": 10.85601722296789
+        }
+      },
+      {
         "identifier": "mb90143123",
         "authority": "MB",
         "eventType": "eq",
@@ -378,22 +394,6 @@
         "magnitude": 1.13,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80140751",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1779384533.2199974,
-        "latitudeDeg": 38.505833333333335,
-        "longitudeDeg": -112.9145,
-        "depthKM": 2.82,
-        "magnitude": 2.19,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.732401339102639
-        }
       },
       {
         "identifier": "uu80140826",
@@ -1136,18 +1136,6 @@
         }
       },
       {
-        "identifier": "mb90140798",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1779386045.63,
-        "latitudeDeg": 45.1796666666667,
-        "longitudeDeg": -112.428333333333,
-        "depthKM": 11.67,
-        "magnitude": 1.06,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80140891",
         "authority": "UU",
         "eventType": "eq",
@@ -1285,22 +1273,6 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 11.050849878021731
-        }
-      },
-      {
-        "identifier": "uu80140756",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1779385380.74,
-        "latitudeDeg": 41.69016666666667,
-        "longitudeDeg": -112.38966666666667,
-        "depthKM": 5.98,
-        "magnitude": 0.85,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Penrose, UT",
-          "bearing": "WNW",
-          "distanceKM": 8.60851959659757
         }
       },
       {
@@ -1537,6 +1509,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 13.562652494623448
+        }
+      },
+      {
+        "identifier": "uu80141566",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780598179.2299995,
+        "latitudeDeg": 40.73266666666667,
+        "longitudeDeg": -112.0175,
+        "depthKM": 5.98,
+        "magnitude": 0.88,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Magna, UT",
+          "bearing": "ENE",
+          "distanceKM": 8.229515882624296
         }
       },
       {
