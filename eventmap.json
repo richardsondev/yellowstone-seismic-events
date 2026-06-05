@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7d133f68c9ad3068432eeee35b803cb48d135298",
+    "hashString": "7dccbbde6d28a8ee3d351ec80893f20828693a3b",
     "events": [
       {
         "identifier": "uu80140876",
@@ -189,6 +189,22 @@
           "town": "Garden City, UT",
           "bearing": "SW",
           "distanceKM": 12.774600268670508
+        }
+      },
+      {
+        "identifier": "uu80141591",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1780629888.7399979,
+        "latitudeDeg": 38.85783333333333,
+        "longitudeDeg": -111.47,
+        "depthKM": 3.19,
+        "magnitude": 0.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Emery, UT",
+          "bearing": "WSW",
+          "distanceKM": 20.46995354433598
         }
       },
       {
