@@ -1,19 +1,6 @@
 {
   "events": [
     {
-      "identifier": "mb90144683",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1780954530.56,
-      "latitudeDeg": 44.5991666666667,
-      "longitudeDeg": -111.146833333333,
-      "depthKm": 11.15,
-      "magnitude": 1.08,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "mb90144653",
       "authority": "MB",
       "eventType": "eq",
@@ -89,6 +76,19 @@
       "magnitude": 0.39,
       "isLocal": true,
       "nearestTown": "{'town': 'Lake, WY', 'bearing': 'SSE', 'distanceKM': 16.581322357360442}",
+      "version": null
+    },
+    {
+      "identifier": "uu80141926",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1781026784.3400002,
+      "latitudeDeg": 44.385333333333335,
+      "longitudeDeg": -110.35233333333333,
+      "depthKm": 4.13,
+      "magnitude": 1.17,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'E', 'distanceKM': 18.202220319319427}",
       "version": null
     },
     {
@@ -547,6 +547,19 @@
       "version": null
     },
     {
+      "identifier": "uu80141891",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1780954530.7999992,
+      "latitudeDeg": 44.59133333333333,
+      "longitudeDeg": -111.16166666666666,
+      "depthKm": 10.32,
+      "magnitude": 1.18,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Yellowstone, MT', 'bearing': 'SSW', 'distanceKM': 9.092502655761212}",
+      "version": null
+    },
+    {
       "identifier": "uu80141136",
       "authority": "UU",
       "eventType": "eq",
@@ -700,6 +713,19 @@
       "magnitude": 0.23,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80141771",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1780830729.1899996,
+      "latitudeDeg": 44.3835,
+      "longitudeDeg": -110.34116666666667,
+      "depthKm": 6.22,
+      "magnitude": 1.31,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'E', 'distanceKM': 19.112076231772}",
       "version": null
     },
     {
@@ -963,6 +989,19 @@
       "version": null
     },
     {
+      "identifier": "uu80141901",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1780981739.0499992,
+      "latitudeDeg": 44.398,
+      "longitudeDeg": -110.3545,
+      "depthKm": 4.48,
+      "magnitude": 0.76,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'SSE', 'distanceKM': 17.422528336935603}",
+      "version": null
+    },
+    {
       "identifier": "uu80141166",
       "authority": "UU",
       "eventType": "eq",
@@ -1210,6 +1249,19 @@
       "version": null
     },
     {
+      "identifier": "uu80141871",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1780890627.1999989,
+      "latitudeDeg": 39.29866666666667,
+      "longitudeDeg": -111.9665,
+      "depthKm": 3.88,
+      "magnitude": 1.0,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Fayette, UT', 'bearing': 'NW', 'distanceKM': 12.500343067568751}",
+      "version": null
+    },
+    {
       "identifier": "nn00919392",
       "authority": "NN",
       "eventType": "eq",
@@ -1223,16 +1275,16 @@
       "version": null
     },
     {
-      "identifier": "uu80141111",
+      "identifier": "uu80141896",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1779825267.209999,
-      "latitudeDeg": 41.8795,
-      "longitudeDeg": -111.51416666666667,
-      "depthKm": 6.23,
-      "magnitude": 2.0300000000000002,
+      "originTimeUtc": 1780964983.8099976,
+      "latitudeDeg": 44.40133333333333,
+      "longitudeDeg": -110.3505,
+      "depthKm": 2.07,
+      "magnitude": 0.47000000000000003,
       "isLocal": true,
-      "nearestTown": "{'town': 'Garden City, UT', 'bearing': 'SW', 'distanceKM': 12.484522524747252}",
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'SSE', 'distanceKM': 17.132245856837116}",
       "version": null
     },
     {
