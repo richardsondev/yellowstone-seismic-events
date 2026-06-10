@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a7fcf8c5ed5bfe9aa9b2923322c44d24f1a59387",
+    "hashString": "405831c588628ce0c86e6786f1a1bcb54f180e0c",
     "events": [
       {
         "identifier": "mb90144653",
@@ -949,6 +949,22 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 22.541598146067656
+        }
+      },
+      {
+        "identifier": "uu80141956",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1781038379.289997,
+        "latitudeDeg": 37.12433333333333,
+        "longitudeDeg": -112.95333333333333,
+        "depthKM": 15.45,
+        "magnitude": 1.35,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Springdale, UT",
+          "bearing": "SSE",
+          "distanceKM": 8.224217298369691
         }
       },
       {
