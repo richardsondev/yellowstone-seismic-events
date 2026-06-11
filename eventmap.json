@@ -1,8 +1,24 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0312aff1d5c61eb9d04d5a283424281262baa6cf",
+    "hashString": "0d2c7cd39948a897040dcdc28dafb6109c8f0df9",
     "events": [
+      {
+        "identifier": "uu80142061",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1781159797.0499992,
+        "latitudeDeg": 39.462833333333336,
+        "longitudeDeg": -111.2385,
+        "depthKM": 4.36,
+        "magnitude": 1.43,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hiawatha, UT",
+          "bearing": "W",
+          "distanceKM": 19.466626830105355
+        }
+      },
       {
         "identifier": "mb90144653",
         "authority": "MB",
@@ -133,6 +149,22 @@
           "town": "Saltair, UT",
           "bearing": "SE",
           "distanceKM": 2.8873602646767864
+        }
+      },
+      {
+        "identifier": "uu80142056",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1781153887.56,
+        "latitudeDeg": 39.306666666666665,
+        "longitudeDeg": -111.22666666666667,
+        "depthKM": -1.17,
+        "magnitude": 1.46,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Orangeville, UT",
+          "bearing": "WNW",
+          "distanceKM": 17.329575710060336
         }
       },
       {
@@ -302,6 +334,22 @@
         "magnitude": 2.9,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80142046",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1781146518.3500004,
+        "latitudeDeg": 40.4085,
+        "longitudeDeg": -111.9285,
+        "depthKM": 3.64,
+        "magnitude": 0.9500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saratoga Springs, UT",
+          "bearing": "NNW",
+          "distanceKM": 6.908271875566382
+        }
       },
       {
         "identifier": "uu80141796",
@@ -1473,6 +1521,22 @@
           "town": "Magna, UT",
           "bearing": "ENE",
           "distanceKM": 8.229515882624296
+        }
+      },
+      {
+        "identifier": "uu80007233",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1781078569.9300003,
+        "latitudeDeg": 37.73866666666667,
+        "longitudeDeg": -111.3715,
+        "depthKM": 5.98,
+        "magnitude": 1.72,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Boulder Town, UT",
+          "bearing": "SSE",
+          "distanceKM": 19.395120627919066
         }
       },
       {
