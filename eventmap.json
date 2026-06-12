@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "447c8b7a91ef6997f229e37f6254bd22f851dbb3",
+    "hashString": "5be33e254f17c1410130fdf95b9025a42b87e5ef",
     "events": [
       {
         "identifier": "uu80142061",
@@ -185,6 +185,22 @@
           "town": "Orangeville, UT",
           "bearing": "WNW",
           "distanceKM": 17.329575710060336
+        }
+      },
+      {
+        "identifier": "uu80142181",
+        "authority": "UU",
+        "eventType": "qb",
+        "originTimeUTC": 1781287263.23,
+        "latitudeDeg": 40.388666666666666,
+        "longitudeDeg": -111.9565,
+        "depthKM": -2,
+        "magnitude": 1.68,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saratoga Springs, UT",
+          "bearing": "NW",
+          "distanceKM": 6.220060302172436
         }
       },
       {
