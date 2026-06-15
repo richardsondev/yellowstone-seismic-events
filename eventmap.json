@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8c30435b510f7540730ffc9c44e9e7932aee4c48",
+    "hashString": "cc4383fa220d0789ce7aca8b2f4a1557608b0671",
     "events": [
       {
         "identifier": "uu80142061",
@@ -884,18 +884,6 @@
         }
       },
       {
-        "identifier": "us7000ssuv",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1781450163.743,
-        "latitudeDeg": 39.6312,
-        "longitudeDeg": -111.2183,
-        "depthKM": 5,
-        "magnitude": 2.6,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80141651",
         "authority": "UU",
         "eventType": "eq",
@@ -938,6 +926,18 @@
           "bearing": "WSW",
           "distanceKM": 21.63351499468284
         }
+      },
+      {
+        "identifier": "mb90145233",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1781396544.8400002,
+        "latitudeDeg": 45.0581666666667,
+        "longitudeDeg": -111.690333333333,
+        "depthKM": 12.47,
+        "magnitude": 0.88,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "mb90144078",
@@ -1208,22 +1208,6 @@
         }
       },
       {
-        "identifier": "uu80141411",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1780330650.3099995,
-        "latitudeDeg": 37.065666666666665,
-        "longitudeDeg": -112.86966666666666,
-        "depthKM": 8.18,
-        "magnitude": 1.68,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hildale, UT",
-          "bearing": "NE",
-          "distanceKM": 11.050849878021731
-        }
-      },
-      {
         "identifier": "uu80007213",
         "authority": "UU",
         "eventType": "eq",
@@ -1442,18 +1426,6 @@
           "bearing": "SSE",
           "distanceKM": 19.395120627919066
         }
-      },
-      {
-        "identifier": "us7000st3l",
-        "authority": "US",
-        "eventType": "eq",
-        "originTimeUTC": 1781527524.03,
-        "latitudeDeg": 42.1896,
-        "longitudeDeg": -112.1989,
-        "depthKM": 8.372,
-        "magnitude": 2.5,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80141986",
