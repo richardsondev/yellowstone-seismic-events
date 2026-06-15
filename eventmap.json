@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8f53946b30fc59d25bf97ba6bdbd1fe9bbd04d85",
+    "hashString": "8f7d60091749fdddc7980acc430a82854f16dbfe",
     "events": [
       {
         "identifier": "uu80142061",
@@ -20,16 +20,20 @@
         }
       },
       {
-        "identifier": "mb90144653",
-        "authority": "MB",
+        "identifier": "uu80142421",
+        "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1780893968.7,
-        "latitudeDeg": 45.4471666666667,
-        "longitudeDeg": -112.407333333333,
-        "depthKM": 7.67,
-        "magnitude": 1.38,
-        "isLocal": false,
-        "nearestTown": null
+        "originTimeUTC": 1781499534.75,
+        "latitudeDeg": 41.570167541503906,
+        "longitudeDeg": -109.90516662597656,
+        "depthKM": -3.380000114440918,
+        "magnitude": 3.11,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Little America, WY",
+          "bearing": "NW",
+          "distanceKM": 4.786819181258773
+        }
       },
       {
         "identifier": "uu80141446",
@@ -585,22 +589,6 @@
           "town": "Grayling, MT",
           "bearing": "ESE",
           "distanceKM": 7.816624891187053
-        }
-      },
-      {
-        "identifier": "uu80141401",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1780293935.2599983,
-        "latitudeDeg": 41.6925,
-        "longitudeDeg": -112.62066666666666,
-        "depthKM": 5.03,
-        "magnitude": 1.92,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Howell, UT",
-          "bearing": "SW",
-          "distanceKM": 18.609428014778846
         }
       },
       {
