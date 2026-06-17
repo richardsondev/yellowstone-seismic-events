@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9d90771ba897a060f38eb45274ee6367e7a3fa99",
+    "hashString": "f5d9852959927c445bf121824a32c7f0c417b638",
     "events": [
       {
         "identifier": "uu80007278",
@@ -81,6 +81,22 @@
           "town": "Little America, WY",
           "bearing": "NNW",
           "distanceKM": 1.7935096889641176
+        }
+      },
+      {
+        "identifier": "uu80142751",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1781729795.4099998,
+        "latitudeDeg": 40.732166666666664,
+        "longitudeDeg": -112.04516666666666,
+        "depthKM": 6.08,
+        "magnitude": 1.3900000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Magna, UT",
+          "bearing": "ENE",
+          "distanceKM": 6.109631436369482
         }
       },
       {
