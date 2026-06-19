@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "dda43e0cb60324efa907f3f722f11e517a69ce8c",
+    "hashString": "ab81de06748b23e21fb4830f22a032ecd5f90cb6",
     "events": [
       {
         "identifier": "uu80007278",
@@ -1767,16 +1767,16 @@
         "identifier": "uu80142861",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1781854833.790001,
-        "latitudeDeg": 40.413666666666664,
-        "longitudeDeg": -111.9365,
-        "depthKM": 4.32,
-        "magnitude": 2.25,
+        "originTimeUTC": 1781854833.6699982,
+        "latitudeDeg": 40.41433333333333,
+        "longitudeDeg": -111.9375,
+        "depthKM": 6.01,
+        "magnitude": 2.23,
         "isLocal": true,
         "nearestTown": {
           "town": "Saratoga Springs, UT",
           "bearing": "NNW",
-          "distanceKM": 7.671107393213996
+          "distanceKM": 7.770498461061028
         }
       },
       {
@@ -2869,6 +2869,22 @@
           "town": "West Thumb, WY",
           "bearing": "E",
           "distanceKM": 18.380144660965563
+        }
+      },
+      {
+        "identifier": "uu80142846",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1781825302.5299988,
+        "latitudeDeg": 44.7505,
+        "longitudeDeg": -110.4055,
+        "depthKM": 2.15,
+        "magnitude": 1.24,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "N",
+          "distanceKM": 22.174877355094694
         }
       },
       {
