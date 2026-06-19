@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3dc3b180e6e4f005647ddfddbe28c6d0906d0821",
+    "hashString": "3aca236c15b6bdc4696a48af39043c9260683b3f",
     "events": [
       {
         "identifier": "uu80007278",
@@ -1761,6 +1761,22 @@
           "town": "Malad City, ID",
           "bearing": "ENE",
           "distanceKM": 4.429120449401944
+        }
+      },
+      {
+        "identifier": "uu80142861",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1781854833.790001,
+        "latitudeDeg": 40.413666666666664,
+        "longitudeDeg": -111.9365,
+        "depthKM": 4.32,
+        "magnitude": 2.25,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saratoga Springs, UT",
+          "bearing": "NNW",
+          "distanceKM": 7.671107393213996
         }
       },
       {
