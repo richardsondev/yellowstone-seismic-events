@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6c2eb39d48ca0376a858e63c89c0ca2efa4dc6ff",
+    "hashString": "e724730fe83c0e9acc335feb79e22212445fa3f5",
     "events": [
       {
         "identifier": "uu80007278",
@@ -1404,6 +1404,22 @@
         }
       },
       {
+        "identifier": "uu80142961",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1781992416.6699982,
+        "latitudeDeg": 41.55683333333333,
+        "longitudeDeg": -109.89766666666667,
+        "depthKM": -2.3,
+        "magnitude": 2.94,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Little America, WY",
+          "bearing": "WNW",
+          "distanceKM": 3.470195993899254
+        }
+      },
+      {
         "identifier": "uu80142201",
         "authority": "UU",
         "eventType": "eq",
@@ -1734,6 +1750,22 @@
         "magnitude": 0.63,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80142996",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782105502.709999,
+        "latitudeDeg": 39.27733333333333,
+        "longitudeDeg": -111.59633333333333,
+        "depthKM": 6,
+        "magnitude": 2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Manti, UT",
+          "bearing": "ENE",
+          "distanceKM": 3.6335933639268134
+        }
       },
       {
         "identifier": "uu80007303",
