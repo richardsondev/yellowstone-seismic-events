@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "faad7a61d16d4651e383e01a99779512dc4c7ef5",
+    "hashString": "f522996f892c203b190a60165054d591e8bf30a6",
     "events": [
       {
         "identifier": "uu80007278",
@@ -97,6 +97,22 @@
           "town": "Magna, UT",
           "bearing": "ENE",
           "distanceKM": 6.109631436369482
+        }
+      },
+      {
+        "identifier": "uu80007498",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782135148.869999,
+        "latitudeDeg": 40.740833333333335,
+        "longitudeDeg": -112.06116666666667,
+        "depthKM": 7.99,
+        "magnitude": -0.32,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saltair, UT",
+          "bearing": "SE",
+          "distanceKM": 4.892654413890007
         }
       },
       {
@@ -2313,6 +2329,22 @@
           "town": "Malad City, ID",
           "bearing": "ENE",
           "distanceKM": 3.1796459704479894
+        }
+      },
+      {
+        "identifier": "uu80007503",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782138122.72,
+        "latitudeDeg": 39.07183333333333,
+        "longitudeDeg": -110.45966666666666,
+        "depthKM": 11.04,
+        "magnitude": 1.21,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Woodside, UT",
+          "bearing": "SSW",
+          "distanceKM": 23.565638257327503
         }
       },
       {
