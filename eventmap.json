@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4e8e9d111454cb36863b785a88809af63fc320a7",
+    "hashString": "3858b6503ea029fec5bb4f41223a0e854cb3fd26",
     "events": [
       {
         "identifier": "uu80007278",
@@ -1393,6 +1393,22 @@
           "town": "Mammoth, WY",
           "bearing": "SE",
           "distanceKM": 25.957648199003227
+        }
+      },
+      {
+        "identifier": "uu80143076",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782190916.119999,
+        "latitudeDeg": 38.163833333333336,
+        "longitudeDeg": -112.32883333333334,
+        "depthKM": 1.49,
+        "magnitude": 1.9000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "W",
+          "distanceKM": 5.172227420646848
         }
       },
       {
