@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5c1db0c92f6603b4611b1a5e86a7be07e0057b90",
+    "hashString": "531b517a2fdec22abc758f23f0c62da056dfb47a",
     "events": [
       {
         "identifier": "uu80007278",
@@ -477,6 +477,22 @@
           "town": "Millville, UT",
           "bearing": "SE",
           "distanceKM": 7.015187922281529
+        }
+      },
+      {
+        "identifier": "uu80143121",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782231042.1499977,
+        "latitudeDeg": 44.831,
+        "longitudeDeg": -111.0205,
+        "depthKM": 8.36,
+        "magnitude": 0.72,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "ENE",
+          "distanceKM": 13.965917702017094
         }
       },
       {
@@ -1238,18 +1254,6 @@
           "bearing": "E",
           "distanceKM": 3.0732449021659587
         }
-      },
-      {
-        "identifier": "mb90144873",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1781030369.29,
-        "latitudeDeg": 45.322,
-        "longitudeDeg": -111.350166666667,
-        "depthKM": 13.62,
-        "magnitude": 1.11,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80142156",
@@ -2321,6 +2325,22 @@
           "town": "Clear Creek, UT",
           "bearing": "WSW",
           "distanceKM": 4.268653906886669
+        }
+      },
+      {
+        "identifier": "uu80143126",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782232069.7799988,
+        "latitudeDeg": 44.828833333333336,
+        "longitudeDeg": -111.02083333333333,
+        "depthKM": 7.98,
+        "magnitude": 0.66,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "ENE",
+          "distanceKM": 13.885330451906754
         }
       },
       {
