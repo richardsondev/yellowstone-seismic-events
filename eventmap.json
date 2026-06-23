@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6d34138efb28198a7371c04f8222749ab9518f02",
+    "hashString": "ad3755bcc3de122fe823ea422c6efad026ecf983",
     "events": [
       {
         "identifier": "uu80007278",
@@ -333,6 +333,22 @@
           "town": "Orangeville, UT",
           "bearing": "WNW",
           "distanceKM": 17.329575710060336
+        }
+      },
+      {
+        "identifier": "uu80143141",
+        "authority": "UU",
+        "eventType": "qb",
+        "originTimeUTC": 1782247941.5100002,
+        "latitudeDeg": 41.74183333333333,
+        "longitudeDeg": -112.23483333333333,
+        "depthKM": 10.21,
+        "magnitude": 1.25,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Bothwell, UT",
+          "bearing": "NE",
+          "distanceKM": 4.1680188228964825
         }
       },
       {
