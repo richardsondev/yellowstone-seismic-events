@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "211e7b9f52db54078c18cfa9992e55c67aa96b5d",
+    "hashString": "627e15a3587f4da056b0d8dce8a96edcf973833a",
     "events": [
       {
         "identifier": "uu80007278",
@@ -968,6 +968,22 @@
         }
       },
       {
+        "identifier": "uu80143156",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782259579.7399998,
+        "latitudeDeg": 44.785833333333336,
+        "longitudeDeg": -110.506,
+        "depthKM": 4.32,
+        "magnitude": 0.73,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SE",
+          "distanceKM": 26.316801825264633
+        }
+      },
+      {
         "identifier": "uu80007543",
         "authority": "UU",
         "eventType": "eq",
@@ -1045,22 +1061,6 @@
           "town": "Malad City, ID",
           "bearing": "SE",
           "distanceKM": 2.8406578431806846
-        }
-      },
-      {
-        "identifier": "uu80141981",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1781097825.1899986,
-        "latitudeDeg": 38.85733333333334,
-        "longitudeDeg": -111.46383333333333,
-        "depthKM": 3.39,
-        "magnitude": 1.27,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Emery, UT",
-          "bearing": "WSW",
-          "distanceKM": 19.99199174039595
         }
       },
       {
