@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "be38b8448f5a72aab002cdc1109b4abec62fe54f",
+    "hashString": "93b81513e00e20f3369ec15313a8a0e75fda088d",
     "events": [
       {
         "identifier": "uu80007278",
@@ -306,18 +306,6 @@
           "bearing": "W",
           "distanceKM": 5.987084270799886
         }
-      },
-      {
-        "identifier": "mb90145478",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1781707264.97,
-        "latitudeDeg": 43.4368333333333,
-        "longitudeDeg": -110.302666666667,
-        "depthKM": 4.89,
-        "magnitude": 1.78,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80142056",
@@ -830,6 +818,18 @@
           "bearing": "WSW",
           "distanceKM": 12.978242678531387
         }
+      },
+      {
+        "identifier": "mb90146128",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1782200912.47,
+        "latitudeDeg": 44.7616666666667,
+        "longitudeDeg": -111.9105,
+        "depthKM": 9.17,
+        "magnitude": 0.74,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "mb90145698",
@@ -1445,6 +1445,22 @@
           "town": "Circleville, UT",
           "bearing": "W",
           "distanceKM": 5.520252818769347
+        }
+      },
+      {
+        "identifier": "uu80143186",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782270245.1799998,
+        "latitudeDeg": 44.824333333333335,
+        "longitudeDeg": -111.02016666666667,
+        "depthKM": 8.68,
+        "magnitude": 1.71,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "E",
+          "distanceKM": 13.83543012454232
         }
       },
       {
