@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "93b81513e00e20f3369ec15313a8a0e75fda088d",
+    "hashString": "42b4f8cdfaef509941578de32081cbc651bae3f3",
     "events": [
       {
         "identifier": "uu80007278",
@@ -401,6 +401,22 @@
           "town": "Grayling, MT",
           "bearing": "E",
           "distanceKM": 13.777778946343979
+        }
+      },
+      {
+        "identifier": "uu80143191",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782281672.2599983,
+        "latitudeDeg": 44.828833333333336,
+        "longitudeDeg": -111.02066666666667,
+        "depthKM": 7.62,
+        "magnitude": 0.19,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "ENE",
+          "distanceKM": 13.898151504278987
         }
       },
       {
@@ -1077,6 +1093,22 @@
           "town": "Malad City, ID",
           "bearing": "SE",
           "distanceKM": 2.8406578431806846
+        }
+      },
+      {
+        "identifier": "uu80143196",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782282931.3599987,
+        "latitudeDeg": 44.822833333333335,
+        "longitudeDeg": -111.01883333333333,
+        "depthKM": 8.2,
+        "magnitude": 0.88,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "E",
+          "distanceKM": 13.909148709363684
         }
       },
       {
@@ -2272,6 +2304,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80143206",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782289816.5599995,
+        "latitudeDeg": 44.82083333333333,
+        "longitudeDeg": -111.01866666666666,
+        "depthKM": 8.02,
+        "magnitude": 2.11,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "E",
+          "distanceKM": 13.885635433320443
+        }
+      },
+      {
         "identifier": "uu80143166",
         "authority": "UU",
         "eventType": "eq",
@@ -2637,22 +2685,6 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 10.773735059652843
-        }
-      },
-      {
-        "identifier": "uu80142001",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1781106766.7799988,
-        "latitudeDeg": 38.20183333333333,
-        "longitudeDeg": -113.05133333333333,
-        "depthKM": 5.41,
-        "magnitude": 1.16,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Minersville, UT",
-          "bearing": "W",
-          "distanceKM": 11.243579301850513
         }
       },
       {
