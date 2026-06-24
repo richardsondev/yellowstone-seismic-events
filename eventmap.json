@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3e37a9d1268518f99e1ae6f921eca1989168db9d",
+    "hashString": "38568d96f921a902fe0a3985d6cc46be2b100875",
     "events": [
       {
         "identifier": "uu80007278",
@@ -2961,6 +2961,22 @@
           "town": "Malad City, ID",
           "bearing": "E",
           "distanceKM": 2.7873108267975844
+        }
+      },
+      {
+        "identifier": "uu80143276",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782335442.9699974,
+        "latitudeDeg": 44.764,
+        "longitudeDeg": -110.81916666666666,
+        "depthKM": 4.94,
+        "magnitude": 1.28,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "ENE",
+          "distanceKM": 25.205617206847304
         }
       },
       {
