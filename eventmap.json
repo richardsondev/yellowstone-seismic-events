@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9bd89277bd789bd779acf305976a12c5f944cd65",
+    "hashString": "670b5618ecfc0511d3299af9ef249ed837f98282",
     "events": [
       {
         "identifier": "uu80007278",
@@ -1457,6 +1457,22 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 15.489535182631274
+        }
+      },
+      {
+        "identifier": "uu80143301",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782378316.9400005,
+        "latitudeDeg": 44.82566666666666,
+        "longitudeDeg": -111.02083333333333,
+        "depthKM": 7.39,
+        "magnitude": 0.17,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "ENE",
+          "distanceKM": 13.812044321874835
         }
       },
       {
