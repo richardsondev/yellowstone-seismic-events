@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "85bffcf4bd21fc6fb8c42f5c4a12e909c02c09f7",
+    "hashString": "9bd89277bd789bd779acf305976a12c5f944cd65",
     "events": [
       {
         "identifier": "uu80007278",
@@ -791,16 +791,16 @@
         "identifier": "uu80143311",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1782392400.19,
-        "latitudeDeg": 41.65583419799805,
-        "longitudeDeg": -111.67816925048828,
-        "depthKM": 2.759999990463257,
-        "magnitude": 2.15,
+        "originTimeUTC": 1782392399.9199982,
+        "latitudeDeg": 41.6605,
+        "longitudeDeg": -111.67433333333334,
+        "depthKM": 8.58,
+        "magnitude": 2.0300000000000002,
         "isLocal": true,
         "nearestTown": {
           "town": "Millville, UT",
-          "bearing": "ESE",
-          "distanceKM": 12.366495609800248
+          "bearing": "E",
+          "distanceKM": 12.569132285387273
         }
       },
       {
@@ -1989,6 +1989,22 @@
           "town": "Malad City, ID",
           "bearing": "E",
           "distanceKM": 2.80826415346886
+        }
+      },
+      {
+        "identifier": "uu80143296",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782370773.3999977,
+        "latitudeDeg": 39.406333333333336,
+        "longitudeDeg": -111.87733333333334,
+        "depthKM": 14.15,
+        "magnitude": 1.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mills, UT",
+          "bearing": "ESE",
+          "distanceKM": 15.548426498175893
         }
       },
       {
