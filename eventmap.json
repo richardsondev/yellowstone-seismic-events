@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "02cf4368534d2b0e7068ce6e9fee3887a119c34f",
+    "hashString": "85bffcf4bd21fc6fb8c42f5c4a12e909c02c09f7",
     "events": [
       {
         "identifier": "uu80007278",
@@ -788,6 +788,22 @@
         }
       },
       {
+        "identifier": "uu80143311",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782392400.19,
+        "latitudeDeg": 41.65583419799805,
+        "longitudeDeg": -111.67816925048828,
+        "depthKM": 2.759999990463257,
+        "magnitude": 2.15,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Millville, UT",
+          "bearing": "ESE",
+          "distanceKM": 12.366495609800248
+        }
+      },
+      {
         "identifier": "uu80142216",
         "authority": "UU",
         "eventType": "eq",
@@ -1329,6 +1345,22 @@
           "town": "Iron Springs, UT",
           "bearing": "E",
           "distanceKM": 3.0732449021659587
+        }
+      },
+      {
+        "identifier": "uu80143306",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782391974.8099976,
+        "latitudeDeg": 41.662,
+        "longitudeDeg": -111.673,
+        "depthKM": 9.08,
+        "magnitude": 2.59,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Millville, UT",
+          "bearing": "E",
+          "distanceKM": 12.648001069301285
         }
       },
       {
