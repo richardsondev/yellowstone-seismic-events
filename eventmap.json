@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "47058b4485ccb11b11d2ce7dea9b8d08b63541b0",
+    "hashString": "c1527f59f9eb152d71068c3659fe96cc031e5e7b",
     "events": [
       {
         "identifier": "uu80143551",
@@ -76,6 +76,18 @@
         "longitudeDeg": -111.369166666667,
         "depthKM": 2.05,
         "magnitude": 0.02,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
+        "identifier": "mb90200953",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1782565889.31,
+        "latitudeDeg": 44.7566666666667,
+        "longitudeDeg": -111.217166666667,
+        "depthKM": 7.79,
+        "magnitude": 0.53,
         "isLocal": false,
         "nearestTown": null
       },
@@ -272,22 +284,6 @@
         }
       },
       {
-        "identifier": "uu80142646",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1781638416.4099998,
-        "latitudeDeg": 39.310833333333335,
-        "longitudeDeg": -111.2255,
-        "depthKM": -1.17,
-        "magnitude": 0.97,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Orangeville, UT",
-          "bearing": "WNW",
-          "distanceKM": 17.48483123033424
-        }
-      },
-      {
         "identifier": "uu80142986",
         "authority": "UU",
         "eventType": "eq",
@@ -366,6 +362,18 @@
           "bearing": "E",
           "distanceKM": 12.569132285387273
         }
+      },
+      {
+        "identifier": "mb90200903",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1782493830.16,
+        "latitudeDeg": 45.136,
+        "longitudeDeg": -111.729666666667,
+        "depthKM": 4.47,
+        "magnitude": 1.03,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80143391",
@@ -686,6 +694,18 @@
           "bearing": "E",
           "distanceKM": 12.648001069301285
         }
+      },
+      {
+        "identifier": "mb90200958",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1782582032.33,
+        "latitudeDeg": 44.8168333333333,
+        "longitudeDeg": -111.454833333333,
+        "depthKM": 7.76,
+        "magnitude": 0.35,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80143501",
@@ -1404,6 +1424,18 @@
         }
       },
       {
+        "identifier": "mb90200938",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1782564074.45,
+        "latitudeDeg": 44.764,
+        "longitudeDeg": -111.213666666667,
+        "depthKM": 5.37,
+        "magnitude": 0.21,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80142996",
         "authority": "UU",
         "eventType": "eq",
@@ -1534,6 +1566,18 @@
           "bearing": "ENE",
           "distanceKM": 13.885330451906754
         }
+      },
+      {
+        "identifier": "mb90200978",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1782611351.47,
+        "latitudeDeg": 44.7803333333333,
+        "longitudeDeg": -111.236,
+        "depthKM": 4.78,
+        "magnitude": 0.06,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "mb90146043",
