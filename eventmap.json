@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7cebff114430ec74544d959ebb006b72a18fcb2c",
+    "hashString": "4d6b31718b25ff31f9a2905999522f9481fb658a",
     "events": [
       {
         "identifier": "uu80143551",
@@ -1817,6 +1817,22 @@
           "town": "Malad City, ID",
           "bearing": "E",
           "distanceKM": 3.063234125851848
+        }
+      },
+      {
+        "identifier": "uu80007583",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782805064.7399979,
+        "latitudeDeg": 39.31066666666667,
+        "longitudeDeg": -111.22566666666667,
+        "depthKM": -1.2,
+        "magnitude": 1.02,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Orangeville, UT",
+          "bearing": "WNW",
+          "distanceKM": 17.48715480122326
         }
       },
       {
