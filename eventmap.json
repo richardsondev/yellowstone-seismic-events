@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "54fab7bfafffbcaa2e0fe596ec60ded4518b1eb5",
+    "hashString": "f16f36a18ee7c415f3c92825a4a6f4cd1064522e",
     "events": [
       {
         "identifier": "uu80143551",
@@ -560,6 +560,22 @@
         }
       },
       {
+        "identifier": "uu80143726",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782885920.4499989,
+        "latitudeDeg": 39.287,
+        "longitudeDeg": -111.8995,
+        "depthKM": 12.93,
+        "magnitude": 1.67,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fayette, UT",
+          "bearing": "NNW",
+          "distanceKM": 7.801663018667266
+        }
+      },
+      {
         "identifier": "uu80143196",
         "authority": "UU",
         "eventType": "eq",
@@ -649,6 +665,22 @@
           "town": "Magna, UT",
           "bearing": "ENE",
           "distanceKM": 6.058310101929194
+        }
+      },
+      {
+        "identifier": "uu80143721",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782875410.8499994,
+        "latitudeDeg": 41.715666666666664,
+        "longitudeDeg": -111.62366666666667,
+        "depthKM": 7.02,
+        "magnitude": 1.9100000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Providence, UT",
+          "bearing": "E",
+          "distanceKM": 16.098576551594963
         }
       },
       {
