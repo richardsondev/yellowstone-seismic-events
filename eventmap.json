@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f16f36a18ee7c415f3c92825a4a6f4cd1064522e",
+    "hashString": "046a1c973835817fc34e84a9cc08156ae3a6148d",
     "events": [
       {
         "identifier": "uu80143551",
@@ -140,6 +140,22 @@
         }
       },
       {
+        "identifier": "uu80007593",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782884390.4799995,
+        "latitudeDeg": 40.85216666666667,
+        "longitudeDeg": -111.55666666666667,
+        "depthKM": 9.9,
+        "magnitude": 0.42,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Wanship, UT",
+          "bearing": "WNW",
+          "distanceKM": 13.20936198708904
+        }
+      },
+      {
         "identifier": "uu80143141",
         "authority": "UU",
         "eventType": "qb",
@@ -185,22 +201,6 @@
           "town": "Grayling, MT",
           "bearing": "ENE",
           "distanceKM": 13.898151504278987
-        }
-      },
-      {
-        "identifier": "uu80142716",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1781707563.1399999,
-        "latitudeDeg": 40.735166666666665,
-        "longitudeDeg": -112.04483333333333,
-        "depthKM": 7.14,
-        "magnitude": 2.19,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Magna, UT",
-          "bearing": "ENE",
-          "distanceKM": 6.307729183112893
         }
       },
       {
@@ -1893,6 +1893,22 @@
           "town": "Mammoth, WY",
           "bearing": "SE",
           "distanceKM": 27.455505058842316
+        }
+      },
+      {
+        "identifier": "uu80143731",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782889365.7000008,
+        "latitudeDeg": 37.0735,
+        "longitudeDeg": -112.59933333333333,
+        "depthKM": 18.68,
+        "magnitude": 2.16,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kanab, UT",
+          "bearing": "WNW",
+          "distanceKM": 7.096139758220431
         }
       },
       {
