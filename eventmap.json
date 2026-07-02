@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c0d92737b115cb1f4510b346db14226e53e2af0a",
+    "hashString": "b549ef6e0199e5b126e951cbc2b68548c9276277",
     "events": [
       {
         "identifier": "uu80143551",
@@ -137,6 +137,22 @@
           "town": "Wanship, UT",
           "bearing": "WNW",
           "distanceKM": 13.20936198708904
+        }
+      },
+      {
+        "identifier": "uu80143776",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782943385.96,
+        "latitudeDeg": 39.5055,
+        "longitudeDeg": -110.33933333333333,
+        "depthKM": -1.04,
+        "magnitude": 1.67,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Columbia, UT",
+          "bearing": "ESE",
+          "distanceKM": 4.050206644796838
         }
       },
       {
@@ -513,6 +529,22 @@
           "town": "Grayling, MT",
           "bearing": "E",
           "distanceKM": 13.909148709363684
+        }
+      },
+      {
+        "identifier": "uu80143791",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1782944985.4399986,
+        "latitudeDeg": 44.79533333333333,
+        "longitudeDeg": -111.006,
+        "depthKM": 6.53,
+        "magnitude": 1.45,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "E",
+          "distanceKM": 14.729865321545189
         }
       },
       {
