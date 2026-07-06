@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3220970d8418b4f254827ddadf88718dc29517d2",
+    "hashString": "3cbf4a098bd9bc1d9a502daeb269f21405b94775",
     "events": [
       {
         "identifier": "uu80143551",
@@ -80,22 +80,6 @@
         }
       },
       {
-        "identifier": "uu80143026",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1782118291.6099987,
-        "latitudeDeg": 44.828833333333336,
-        "longitudeDeg": -111.01966666666667,
-        "depthKM": 8,
-        "magnitude": 0.51,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Grayling, MT",
-          "bearing": "ENE",
-          "distanceKM": 13.975090524963651
-        }
-      },
-      {
         "identifier": "uu80007548",
         "authority": "UU",
         "eventType": "eq",
@@ -157,22 +141,6 @@
           "town": "Bothwell, UT",
           "bearing": "NE",
           "distanceKM": 4.1680188228964825
-        }
-      },
-      {
-        "identifier": "uu80143011",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1782114946.4699974,
-        "latitudeDeg": 44.824666666666666,
-        "longitudeDeg": -111.021,
-        "depthKM": 8.79,
-        "magnitude": 1.18,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Grayling, MT",
-          "bearing": "E",
-          "distanceKM": 13.777778946343979
         }
       },
       {
@@ -1680,22 +1648,6 @@
         }
       },
       {
-        "identifier": "uu80007488",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1782117445.6599998,
-        "latitudeDeg": 39.263333333333335,
-        "longitudeDeg": -111.59816666666667,
-        "depthKM": -1.12,
-        "magnitude": 0.92,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Manti, UT",
-          "bearing": "E",
-          "distanceKM": 3.3799424761625976
-        }
-      },
-      {
         "identifier": "uu80143526",
         "authority": "UU",
         "eventType": "eq",
@@ -1722,22 +1674,6 @@
         "magnitude": 1.73,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80143016",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1782116982.9500008,
-        "latitudeDeg": 39.26566666666667,
-        "longitudeDeg": -111.59383333333334,
-        "depthKM": 0.38,
-        "magnitude": 1.9100000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Manti, UT",
-          "bearing": "E",
-          "distanceKM": 3.7190541868485307
-        }
       }
     ]
   },
