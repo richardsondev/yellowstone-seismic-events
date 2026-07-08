@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8c01e5e66290e64730dd082f510f9518e720bb3e",
+    "hashString": "95ffd6446e042f7256cae333c9867eab8ce78639",
     "events": [
       {
         "identifier": "uu80144516",
@@ -2236,6 +2236,18 @@
         }
       },
       {
+        "identifier": "nn00921355",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1783546112.3400002,
+        "latitudeDeg": 36.0215,
+        "longitudeDeg": -114.7875,
+        "depthKM": 15.9765,
+        "magnitude": 1.61,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80143376",
         "authority": "UU",
         "eventType": "eq",
@@ -2717,6 +2729,22 @@
           "town": "Kanosh, UT",
           "bearing": "SW",
           "distanceKM": 8.327493755606568
+        }
+      },
+      {
+        "identifier": "uu80144971",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1783539843.97,
+        "latitudeDeg": 38.512,
+        "longitudeDeg": -112.8845,
+        "depthKM": 2.63,
+        "magnitude": 1.47,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.874676588724128
         }
       },
       {
