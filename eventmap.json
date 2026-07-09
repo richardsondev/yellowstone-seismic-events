@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "244a556b3b8f5e244a1ce588ed47479f12645c0f",
+    "hashString": "ed632820c8ccd696e3aaf4310a3912d7fb18eeff",
     "events": [
       {
         "identifier": "uu80144516",
@@ -1801,6 +1801,22 @@
           "town": "Scofield, UT",
           "bearing": "E",
           "distanceKM": 3.8432228339651133
+        }
+      },
+      {
+        "identifier": "uu80145026",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1783590847.0499997,
+        "latitudeDeg": 41.557,
+        "longitudeDeg": -109.864,
+        "depthKM": -2.76,
+        "magnitude": 3.09,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Little America, WY",
+          "bearing": "NNW",
+          "distanceKM": 1.5285750349355993
         }
       },
       {
