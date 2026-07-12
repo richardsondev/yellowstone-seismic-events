@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "76f7c585c0d904d75878d3a9c3314dbfad0875d2",
+    "hashString": "2f1cfe5133e2d75b7f2dc84a41cab4665d815cc1",
     "events": [
       {
         "identifier": "uu80144516",
@@ -1545,6 +1545,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 17.335634238262788
+        }
+      },
+      {
+        "identifier": "uu80145176",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1783808927.7999992,
+        "latitudeDeg": 42.230333333333334,
+        "longitudeDeg": -111.59183333333333,
+        "depthKM": -2.73,
+        "magnitude": 2.5500000000000003,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mink Creek, ID",
+          "bearing": "E",
+          "distanceKM": 10.324600183121838
         }
       },
       {
