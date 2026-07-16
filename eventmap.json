@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f4f9ddc525900ea822c60be6d4c3068ad17f7d76",
+    "hashString": "d5fa2dea5474cdafe98c8a4bd5c95f719e5cfa49",
     "events": [
       {
         "identifier": "uu80145376",
@@ -2257,6 +2257,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.774790681343042
+        }
+      },
+      {
+        "identifier": "uu80145431",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784215708.17,
+        "latitudeDeg": 44.6905,
+        "longitudeDeg": -111.023,
+        "depthKM": 5.96,
+        "magnitude": 1.41,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "ENE",
+          "distanceKM": 7.147959371214196
         }
       },
       {
