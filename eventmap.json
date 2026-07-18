@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6e6566e177e210fd3af910d036801e3582a4af5c",
+    "hashString": "9ca68d2123da32e78c669e99d5321ba04b904da8",
     "events": [
       {
         "identifier": "uu80145376",
@@ -1868,22 +1868,6 @@
         }
       },
       {
-        "identifier": "uu80144006",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1783133737.0200005,
-        "latitudeDeg": 40.33583333333333,
-        "longitudeDeg": -111.03166666666667,
-        "depthKM": 1.92,
-        "magnitude": 2.38,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fruitland, UT",
-          "bearing": "NW",
-          "distanceKM": 21.18012792438378
-        }
-      },
-      {
         "identifier": "uu80145486",
         "authority": "UU",
         "eventType": "eq",
@@ -2146,6 +2130,18 @@
           "bearing": "NE",
           "distanceKM": 16.717077843244443
         }
+      },
+      {
+        "identifier": "us7000t1if",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1784335163.537,
+        "latitudeDeg": 42.9293,
+        "longitudeDeg": -109.6336,
+        "depthKM": 10.42,
+        "magnitude": 2.6,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80145196",
@@ -2616,22 +2612,6 @@
         }
       },
       {
-        "identifier": "uu80144011",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1783136529.9099998,
-        "latitudeDeg": 40.33016666666666,
-        "longitudeDeg": -111.01283333333333,
-        "depthKM": 2.44,
-        "magnitude": 0.7000000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fruitland, UT",
-          "bearing": "NW",
-          "distanceKM": 19.562427752501645
-        }
-      },
-      {
         "identifier": "uu80144621",
         "authority": "UU",
         "eventType": "eq",
@@ -2945,22 +2925,6 @@
           "town": "Bennington, ID",
           "bearing": "W",
           "distanceKM": 6.162782158504927
-        }
-      },
-      {
-        "identifier": "uu80007608",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1783136543.1399994,
-        "latitudeDeg": 40.33283333333333,
-        "longitudeDeg": -111.019,
-        "depthKM": 1.97,
-        "magnitude": 1.01,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fruitland, UT",
-          "bearing": "NW",
-          "distanceKM": 20.14998152183639
         }
       },
       {
