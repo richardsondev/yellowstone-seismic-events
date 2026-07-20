@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "152a46f566a44e82840c9962bdce14b4be710163",
+    "hashString": "6ab96cc945150a3c9be38649c7d5dbde707ee09f",
     "events": [
       {
         "identifier": "uu80145376",
@@ -49,22 +49,6 @@
           "town": "Altamont, WY",
           "bearing": "S",
           "distanceKM": 32.49100992734952
-        }
-      },
-      {
-        "identifier": "uu80144636",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1783342049.2199993,
-        "latitudeDeg": 44.385333333333335,
-        "longitudeDeg": -110.33483333333334,
-        "depthKM": 6.74,
-        "magnitude": 0.84,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "SSE",
-          "distanceKM": 19.169994567980194
         }
       },
       {
@@ -129,6 +113,22 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 16.449547955496005
+        }
+      },
+      {
+        "identifier": "uu80145771",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784545581.92,
+        "latitudeDeg": 44.767833333333336,
+        "longitudeDeg": -110.78683333333333,
+        "depthKM": 4.85,
+        "magnitude": 0.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 24.135440328857367
         }
       },
       {
