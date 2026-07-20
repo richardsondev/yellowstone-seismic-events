@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a906ca9cde5e95c715707e563c5ff830967713c6",
+    "hashString": "9f40ec85d24c03630a53251f7cc097e6cc26c75c",
     "events": [
       {
         "identifier": "uu80145376",
@@ -1108,6 +1108,22 @@
         }
       },
       {
+        "identifier": "uu80145796",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784583138.08,
+        "latitudeDeg": 41.32816666666667,
+        "longitudeDeg": -111.62316666666666,
+        "depthKM": 2.39,
+        "magnitude": 1.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Huntsville, UT",
+          "bearing": "ENE",
+          "distanceKM": 14.366186307658218
+        }
+      },
+      {
         "identifier": "uu80145536",
         "authority": "UU",
         "eventType": "eq",
@@ -1761,22 +1777,6 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 16.328723497103564
-        }
-      },
-      {
-        "identifier": "uu80144706",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1783376247.1399994,
-        "latitudeDeg": 38.51083333333333,
-        "longitudeDeg": -112.87416666666667,
-        "depthKM": 1.95,
-        "magnitude": 1.12,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 17.379712681251092
         }
       },
       {
