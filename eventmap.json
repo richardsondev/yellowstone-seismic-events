@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "dbfcd5399a4393ac81be38cd71c2f03548d83559",
+    "hashString": "511b608538c12565cad580469ca64f926f13a154",
     "events": [
       {
         "identifier": "uu80145376",
@@ -257,22 +257,6 @@
           "town": "Millville, UT",
           "bearing": "ESE",
           "distanceKM": 13.300476813630349
-        }
-      },
-      {
-        "identifier": "uu80144811",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1783452610.0999994,
-        "latitudeDeg": 44.7555,
-        "longitudeDeg": -111.23733333333334,
-        "depthKM": 4.81,
-        "magnitude": 1.4000000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Grayling, MT",
-          "bearing": "SW",
-          "distanceKM": 6.1923489349821415
         }
       },
       {
@@ -1020,6 +1004,18 @@
         "longitudeDeg": -115.0639,
         "depthKM": 4.8954,
         "magnitude": 1.8,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
+        "identifier": "mb90202938",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1784486642.33,
+        "latitudeDeg": 44.7058333333333,
+        "longitudeDeg": -111.782333333333,
+        "depthKM": 15.82,
+        "magnitude": 1.47,
         "isLocal": false,
         "nearestTown": null
       },

@@ -209,19 +209,6 @@
       "version": null
     },
     {
-      "identifier": "uu80144811",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1783452610.0999994,
-      "latitudeDeg": 44.7555,
-      "longitudeDeg": -111.23733333333334,
-      "depthKm": 4.81,
-      "magnitude": 1.4000000000000001,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Grayling, MT', 'bearing': 'SW', 'distanceKM': 6.1923489349821415}",
-      "version": null
-    },
-    {
       "identifier": "uu80145871",
       "authority": "UU",
       "eventType": "eq",
@@ -828,6 +815,19 @@
       "longitudeDeg": -115.0639,
       "depthKm": 4.8954,
       "magnitude": 1.8,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90202938",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1784486642.33,
+      "latitudeDeg": 44.7058333333333,
+      "longitudeDeg": -111.782333333333,
+      "depthKm": 15.82,
+      "magnitude": 1.47,
       "isLocal": false,
       "nearestTown": null,
       "version": null
