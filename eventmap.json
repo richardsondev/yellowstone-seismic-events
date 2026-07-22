@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "492fc8cf11d883c053503b49c19db654fa491c08",
+    "hashString": "73cf5eee72712616447f313b610037bc2ab04cb6",
     "events": [
       {
         "identifier": "uu80145376",
@@ -1981,6 +1981,22 @@
           "town": "Bennington, ID",
           "bearing": "WSW",
           "distanceKM": 6.2436690264819115
+        }
+      },
+      {
+        "identifier": "uu80146011",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784739582.2199974,
+        "latitudeDeg": 38.17133333333334,
+        "longitudeDeg": -112.26466666666667,
+        "depthKM": 1.84,
+        "magnitude": 1.4000000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "E",
+          "distanceKM": 0.5107969947902092
         }
       },
       {
