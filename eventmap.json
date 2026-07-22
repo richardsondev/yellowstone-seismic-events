@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7bd4184890b9869dc2cb334a154a6af593c4f772",
+    "hashString": "b9a4620c3bf27537b9bde8a9d6df40b10d388afd",
     "events": [
       {
         "identifier": "uu80145376",
@@ -756,22 +756,6 @@
         }
       },
       {
-        "identifier": "uu80144831",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1783490881.77,
-        "latitudeDeg": 44.603833333333334,
-        "longitudeDeg": -110.43816666666666,
-        "depthKM": 4.51,
-        "magnitude": 1.23,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Lake, WY",
-          "bearing": "NNW",
-          "distanceKM": 6.554041345120618
-        }
-      },
-      {
         "identifier": "uu80145501",
         "authority": "UU",
         "eventType": "eq",
@@ -1010,18 +994,6 @@
           "bearing": "NE",
           "distanceKM": 16.724181391792495
         }
-      },
-      {
-        "identifier": "nn00921319",
-        "authority": "NN",
-        "eventType": "eq",
-        "originTimeUTC": 1783484051.493,
-        "latitudeDeg": 37.6487,
-        "longitudeDeg": -115.0639,
-        "depthKM": 4.8954,
-        "magnitude": 1.8,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "mb90202938",
@@ -2084,18 +2056,6 @@
         "longitudeDeg": -111.924,
         "depthKM": 4.98,
         "magnitude": 0.58,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90201913",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1783490334.44,
-        "latitudeDeg": 45.7038333333333,
-        "longitudeDeg": -112.318833333333,
-        "depthKM": 4,
-        "magnitude": 0.85,
         "isLocal": false,
         "nearestTown": null
       },
