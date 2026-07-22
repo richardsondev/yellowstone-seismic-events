@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "eb8428ea2f1d8266a9c6a1e38eb147124cefcca3",
+    "hashString": "fbc79525ad335221c132058d881774dd373e7811",
     "events": [
       {
         "identifier": "uu80145376",
@@ -401,6 +401,22 @@
           "town": "Paradise, UT",
           "bearing": "SE",
           "distanceKM": 14.191711262946196
+        }
+      },
+      {
+        "identifier": "uu80145946",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784678760.05,
+        "latitudeDeg": 38.17166666666667,
+        "longitudeDeg": -112.31416666666667,
+        "depthKM": 1.84,
+        "magnitude": 1.56,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "W",
+          "distanceKM": 3.8172307165681096
         }
       },
       {
@@ -849,22 +865,6 @@
           "town": "Altamont, WY",
           "bearing": "SSE",
           "distanceKM": 8.775835807617673
-        }
-      },
-      {
-        "identifier": "uu80144936",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1783523897.2299995,
-        "latitudeDeg": 38.51533333333333,
-        "longitudeDeg": -112.88083333333333,
-        "depthKM": 2.04,
-        "magnitude": 1.04,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 17.363711563119562
         }
       },
       {
@@ -1948,18 +1948,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "mb90201928",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1783521419.67,
-        "latitudeDeg": 44.7688333333333,
-        "longitudeDeg": -111.464,
-        "depthKM": 2,
-        "magnitude": 0.06,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80145846",
         "authority": "UU",
         "eventType": "eq",
@@ -2018,6 +2006,22 @@
         "magnitude": 1.63,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80145971",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784715469.6699982,
+        "latitudeDeg": 38.149166666666666,
+        "longitudeDeg": -112.31216666666667,
+        "depthKM": 5.9,
+        "magnitude": 0.88,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "SW",
+          "distanceKM": 4.415142848279385
+        }
       },
       {
         "identifier": "uu80007633",
@@ -2081,6 +2085,22 @@
           "town": "Mount Pleasant, UT",
           "bearing": "SSE",
           "distanceKM": 3.887427221444478
+        }
+      },
+      {
+        "identifier": "uu80146006",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784729701.19,
+        "latitudeDeg": 44.73583333333333,
+        "longitudeDeg": -110.77366666666667,
+        "depthKM": 5.06,
+        "magnitude": 1.32,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 27.34824874118794
         }
       },
       {
