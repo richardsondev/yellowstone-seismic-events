@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "725cb91be604cb64e13fe344b65778ef32664c3f",
+    "hashString": "cf42173503f9440b8a31a5f72fa6eb70c82c3a36",
     "events": [
       {
         "identifier": "uu80145376",
@@ -1116,18 +1116,6 @@
         }
       },
       {
-        "identifier": "mb90201978",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1783558664.55,
-        "latitudeDeg": 44.8686666666667,
-        "longitudeDeg": -111.500166666667,
-        "depthKM": 10.42,
-        "magnitude": 1.03,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80145486",
         "authority": "UU",
         "eventType": "eq",
@@ -1713,6 +1701,22 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 16.328723497103564
+        }
+      },
+      {
+        "identifier": "uu80146066",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784776365.1699982,
+        "latitudeDeg": 42.373,
+        "longitudeDeg": -111.39433333333334,
+        "depthKM": -3.13,
+        "magnitude": 3.24,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Bennington, ID",
+          "bearing": "WSW",
+          "distanceKM": 6.191474266055615
         }
       },
       {
