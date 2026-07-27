@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2bb8a1431a60358cfeb1657841b7eba686539c22",
+    "hashString": "4fc66921a6c6dcc90924b20e6fcf1e02964ec324",
     "events": [
       {
         "identifier": "uu80145376",
@@ -1440,6 +1440,22 @@
         }
       },
       {
+        "identifier": "uu80146346",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784970154.1599998,
+        "latitudeDeg": 38.49333333333333,
+        "longitudeDeg": -112.90816666666667,
+        "depthKM": 3.14,
+        "magnitude": 0.66,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 13.959629550130533
+        }
+      },
+      {
         "identifier": "uu80145536",
         "authority": "UU",
         "eventType": "eq",
@@ -2009,6 +2025,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 13.810886842738435
+        }
+      },
+      {
+        "identifier": "uu80146351",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784971441.56,
+        "latitudeDeg": 38.16583333333333,
+        "longitudeDeg": -112.27533333333334,
+        "depthKM": 6.51,
+        "magnitude": 0.98,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "SSW",
+          "distanceKM": 0.767921426911905
         }
       },
       {
