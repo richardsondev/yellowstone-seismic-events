@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4fc66921a6c6dcc90924b20e6fcf1e02964ec324",
+    "hashString": "f9c6c8e07a80aeb9ba936ef041608597d4f73684",
     "events": [
       {
         "identifier": "uu80145376",
@@ -1781,6 +1781,22 @@
           "town": "Little America, WY",
           "bearing": "NW",
           "distanceKM": 1.6705790752123213
+        }
+      },
+      {
+        "identifier": "uu80146496",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1785163419.540001,
+        "latitudeDeg": 38.66566666666667,
+        "longitudeDeg": -111.43383333333334,
+        "depthKM": 1.77,
+        "magnitude": 1.03,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fremont, UT",
+          "bearing": "NE",
+          "distanceKM": 28.333430592038567
         }
       },
       {
