@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1612d7882247dbf4e1ab2cd82a104e3b9c861510",
+    "hashString": "2bb8a1431a60358cfeb1657841b7eba686539c22",
     "events": [
       {
         "identifier": "uu80145376",
@@ -142,6 +142,22 @@
         "magnitude": 0.07,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80007758",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784968972.5299988,
+        "latitudeDeg": 38.14116666666666,
+        "longitudeDeg": -112.332,
+        "depthKM": 3.08,
+        "magnitude": 1.07,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "WSW",
+          "distanceKM": 6.353497196299716
+        }
       },
       {
         "identifier": "uu80145496",
@@ -721,6 +737,22 @@
           "town": "Cane Beds, AZ",
           "bearing": "N",
           "distanceKM": 5.823028954607247
+        }
+      },
+      {
+        "identifier": "uu80146331",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784964909.58,
+        "latitudeDeg": 38.49066666666667,
+        "longitudeDeg": -112.90466666666667,
+        "depthKM": 2.8,
+        "magnitude": 1.45,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 13.933592866452713
         }
       },
       {
@@ -1961,6 +1993,22 @@
           "town": "Saltair, UT",
           "bearing": "ESE",
           "distanceKM": 4.376669081652234
+        }
+      },
+      {
+        "identifier": "uu80146336",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1784966705.3899999,
+        "latitudeDeg": 38.493,
+        "longitudeDeg": -112.91033333333333,
+        "depthKM": 3.09,
+        "magnitude": 1.6,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 13.810886842738435
         }
       },
       {
