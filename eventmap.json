@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5d5ab76fd2981c3842b6109bc1b34f80cdf466d3",
+    "hashString": "31943786e6905b75a62373571e498b7cb1ee409f",
     "events": [
       {
         "identifier": "uu80145376",
@@ -465,22 +465,6 @@
           "town": "Mount Pleasant, UT",
           "bearing": "ESE",
           "distanceKM": 19.733590725071192
-        }
-      },
-      {
-        "identifier": "uu80145331",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1784059637.4499989,
-        "latitudeDeg": 41.69716666666667,
-        "longitudeDeg": -111.63516666666666,
-        "depthKM": 9.39,
-        "magnitude": 1.56,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Providence, UT",
-          "bearing": "E",
-          "distanceKM": 15.14651586849368
         }
       },
       {
@@ -2354,6 +2338,18 @@
           "bearing": "ENE",
           "distanceKM": 14.696322497542416
         }
+      },
+      {
+        "identifier": "mb90203263",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1784764414.13,
+        "latitudeDeg": 45.2906666666667,
+        "longitudeDeg": -112.572666666667,
+        "depthKM": 2.75,
+        "magnitude": 1.27,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80145371",
