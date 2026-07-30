@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9346f6f5d55a063899c24841745c5a5bdd42ecdd",
+    "hashString": "28472240a27090904fd8cab1c64920b88cc0afd2",
     "events": [
       {
         "identifier": "uu80007668",
@@ -2301,6 +2301,22 @@
           "town": "Lake, WY",
           "bearing": "SSE",
           "distanceKM": 17.33945335600447
+        }
+      },
+      {
+        "identifier": "uu80146587",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1785443355.4799995,
+        "latitudeDeg": 38.159,
+        "longitudeDeg": -112.31233333333333,
+        "depthKM": 2.29,
+        "magnitude": 1.26,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "WSW",
+          "distanceKM": 3.9164559129060694
         }
       },
       {
