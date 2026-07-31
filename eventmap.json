@@ -1,24 +1,8 @@
 {
   "status": 200,
   "data": {
-    "hashString": "311d693a8a82a6744a4e66ce38ac3fd5012abd2a",
+    "hashString": "f7f7edb2d279df65c1c4bf974923a6125a9a9aab",
     "events": [
-      {
-        "identifier": "uu80007668",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1784252883.57,
-        "latitudeDeg": 42.186,
-        "longitudeDeg": -111.57616666666667,
-        "depthKM": 12.28,
-        "magnitude": 1.22,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mink Creek, ID",
-          "bearing": "ESE",
-          "distanceKM": 12.532263920976598
-        }
-      },
       {
         "identifier": "uu80145841",
         "authority": "UU",
@@ -1248,6 +1232,18 @@
         "longitudeDeg": -112.124166666667,
         "depthKM": 5.38,
         "magnitude": 1.23,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
+        "identifier": "nn00922625",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1785464480.543,
+        "latitudeDeg": 37.1643,
+        "longitudeDeg": -114.8464,
+        "depthKM": 15.5615,
+        "magnitude": 2.71,
         "isLocal": false,
         "nearestTown": null
       },
