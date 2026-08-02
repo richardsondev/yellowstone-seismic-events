@@ -1,6 +1,19 @@
 {
   "events": [
     {
+      "identifier": "mb90203723",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1785330943.81,
+      "latitudeDeg": 44.3905,
+      "longitudeDeg": -113.022,
+      "depthKm": 6.06,
+      "magnitude": 1.4,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80145841",
       "authority": "UU",
       "eventType": "eq",
@@ -1444,6 +1457,19 @@
       "version": null
     },
     {
+      "identifier": "mb90203738",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1785341661.94,
+      "latitudeDeg": 44.8231666666667,
+      "longitudeDeg": -111.4695,
+      "depthKm": 12.78,
+      "magnitude": 0.55,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
       "identifier": "uu80146651",
       "authority": "UU",
       "eventType": "eq",
@@ -1467,6 +1493,19 @@
       "magnitude": 2.6,
       "isLocal": true,
       "nearestTown": "{'town': 'Circleville, UT', 'bearing': 'W', 'distanceKM': 3.8862653914604692}",
+      "version": null
+    },
+    {
+      "identifier": "mb90203718",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1785299500.1100001,
+      "latitudeDeg": 44.7666666666667,
+      "longitudeDeg": -111.219666666667,
+      "depthKm": 6.13,
+      "magnitude": -0.02,
+      "isLocal": false,
+      "nearestTown": null,
       "version": null
     },
     {
