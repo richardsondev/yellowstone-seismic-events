@@ -1,19 +1,6 @@
 {
   "events": [
     {
-      "identifier": "mb90203723",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1785330943.81,
-      "latitudeDeg": 44.3905,
-      "longitudeDeg": -113.022,
-      "depthKm": 6.06,
-      "magnitude": 1.4,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80146306",
       "authority": "UU",
       "eventType": "eq",
@@ -160,13 +147,13 @@
       "identifier": "uu80147111",
       "authority": "UU",
       "eventType": "eq",
-      "originTimeUtc": 1785900076.1,
-      "latitudeDeg": 37.57033157348633,
-      "longitudeDeg": -113.32516479492188,
-      "depthKm": -3.0,
-      "magnitude": 2.78,
+      "originTimeUtc": 1785900076.5699997,
+      "latitudeDeg": 37.568333333333335,
+      "longitudeDeg": -113.32466666666667,
+      "depthKm": 11.04,
+      "magnitude": 2.7800000000000002,
       "isLocal": true,
-      "nearestTown": "{'town': 'New Harmony, UT', 'bearing': 'N', 'distanceKM': 10.202690605463914}",
+      "nearestTown": "{'town': 'New Harmony, UT', 'bearing': 'N', 'distanceKM': 9.976630408521483}",
       "version": null
     },
     {
@@ -1314,6 +1301,19 @@
       "version": null
     },
     {
+      "identifier": "uu80147116",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1785901469.9299984,
+      "latitudeDeg": 37.57566666666666,
+      "longitudeDeg": -113.32316666666667,
+      "depthKm": 10.09,
+      "magnitude": 1.72,
+      "isLocal": true,
+      "nearestTown": "{'town': 'New Harmony, UT', 'bearing': 'N', 'distanceKM': 10.770037154393858}",
+      "version": null
+    },
+    {
       "identifier": "uu80007728",
       "authority": "UU",
       "eventType": "eq",
@@ -1350,6 +1350,19 @@
       "magnitude": 1.78,
       "isLocal": true,
       "nearestTown": "{'town': 'Circleville, UT', 'bearing': 'WSW', 'distanceKM': 1.7184816191784147}",
+      "version": null
+    },
+    {
+      "identifier": "uu80147091",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1785892674.0,
+      "latitudeDeg": 39.29383333333333,
+      "longitudeDeg": -111.2075,
+      "depthKm": -2.31,
+      "magnitude": 1.21,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Orangeville, UT', 'bearing': 'WNW', 'distanceKM': 15.188523644487237}",
       "version": null
     },
     {
@@ -1548,6 +1561,19 @@
       "version": null
     },
     {
+      "identifier": "uu80147086",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1785890850.619999,
+      "latitudeDeg": 41.91716666666667,
+      "longitudeDeg": -112.58133333333333,
+      "depthKm": 5.74,
+      "magnitude": 0.52,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Blue Creek, UT', 'bearing': 'WNW', 'distanceKM': 11.886409903538187}",
+      "version": null
+    },
+    {
       "identifier": "uu80146361",
       "authority": "UU",
       "eventType": "eq",
@@ -1621,6 +1647,19 @@
       "longitudeDeg": -112.558833333333,
       "depthKm": 7.92,
       "magnitude": 1.1,
+      "isLocal": false,
+      "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "mb90204043",
+      "authority": "MB",
+      "eventType": "eq",
+      "originTimeUtc": 1785616850.75,
+      "latitudeDeg": 44.7938333333333,
+      "longitudeDeg": -111.4045,
+      "depthKm": 5.25,
+      "magnitude": 0.47,
       "isLocal": false,
       "nearestTown": null,
       "version": null
@@ -1740,6 +1779,19 @@
       "magnitude": 1.1,
       "isLocal": true,
       "nearestTown": "{'town': 'Fremont, UT', 'bearing': 'NE', 'distanceKM': 28.556770794738707}",
+      "version": null
+    },
+    {
+      "identifier": "uu80147106",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1785899605.5699997,
+      "latitudeDeg": 37.56766666666667,
+      "longitudeDeg": -113.32416666666667,
+      "depthKm": 0.14,
+      "magnitude": 1.24,
+      "isLocal": true,
+      "nearestTown": "{'town': 'New Harmony, UT', 'bearing': 'N', 'distanceKM': 9.897377254631978}",
       "version": null
     },
     {
@@ -1935,19 +1987,6 @@
       "magnitude": 1.59,
       "isLocal": true,
       "nearestTown": "{'town': 'Park City, UT', 'bearing': 'NNW', 'distanceKM': 14.301255205927717}",
-      "version": null
-    },
-    {
-      "identifier": "uu80146006",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1784729701.19,
-      "latitudeDeg": 44.73583333333333,
-      "longitudeDeg": -110.77366666666667,
-      "depthKm": 5.06,
-      "magnitude": 1.32,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Mammoth, WY', 'bearing': 'SSW', 'distanceKM': 27.34824874118794}",
       "version": null
     },
     {
