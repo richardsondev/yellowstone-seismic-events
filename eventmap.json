@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0b30f6704f849fdbb02335f381eb5dd9e362383b",
+    "hashString": "be2d6b22576ec86222a6bbac0538a56c43303eb5",
     "events": [
       {
         "identifier": "uu80146306",
@@ -1225,6 +1225,22 @@
           "town": "Orangeville, UT",
           "bearing": "WNW",
           "distanceKM": 17.010154589980544
+        }
+      },
+      {
+        "identifier": "uu80147171",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1785967516.92,
+        "latitudeDeg": 44.789,
+        "longitudeDeg": -110.05266666666667,
+        "depthKM": 15.85,
+        "magnitude": 1.99,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cooke City, MT",
+          "bearing": "SSW",
+          "distanceKM": 26.920082576708033
         }
       },
       {
