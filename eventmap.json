@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "45225348eb6dea9688f03d1371ade16e5dd6d087",
+    "hashString": "9693a4b5e92395bfb5b7b9dac51da7d5e1fd11ed",
     "events": [
       {
         "identifier": "uu80146306",
@@ -317,6 +317,22 @@
           "town": "West Yellowstone, MT",
           "bearing": "NNE",
           "distanceKM": 14.579261622626287
+        }
+      },
+      {
+        "identifier": "uu80147306",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786055335.3499985,
+        "latitudeDeg": 38.511833333333335,
+        "longitudeDeg": -112.88366666666667,
+        "depthKM": 1.75,
+        "magnitude": 1.35,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.908054919263687
         }
       },
       {
@@ -704,18 +720,6 @@
         }
       },
       {
-        "identifier": "mb90203918",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1785450621,
-        "latitudeDeg": 44.7558333333333,
-        "longitudeDeg": -111.185833333333,
-        "depthKM": 10.68,
-        "magnitude": 0.16,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80146416",
         "authority": "UU",
         "eventType": "eq",
@@ -730,6 +734,18 @@
           "bearing": "NW",
           "distanceKM": 2.409608807618456
         }
+      },
+      {
+        "identifier": "mb90204203",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1785825022.8500001,
+        "latitudeDeg": 44.7513333333333,
+        "longitudeDeg": -111.233,
+        "depthKM": 13.36,
+        "magnitude": 0.11,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80146796",
@@ -2041,22 +2057,6 @@
           "town": "Circleville, UT",
           "bearing": "WSW",
           "distanceKM": 3.9164559129060694
-        }
-      },
-      {
-        "identifier": "uu80146171",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1784844478.3499985,
-        "latitudeDeg": 38.167,
-        "longitudeDeg": -112.319,
-        "depthKM": 4.99,
-        "magnitude": 1.71,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Circleville, UT",
-          "bearing": "W",
-          "distanceKM": 4.270618250064452
         }
       },
       {
