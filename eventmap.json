@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "cff53e8156b821c2459f2053a8f89498bb3c8687",
+    "hashString": "be95d80856369b69e6ead5a027f508653f19ade3",
     "events": [
       {
         "identifier": "uu80146306",
@@ -1701,6 +1701,22 @@
           "town": "New Harmony, UT",
           "bearing": "N",
           "distanceKM": 4.399562307885168
+        }
+      },
+      {
+        "identifier": "uu80147411",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786108255.7599983,
+        "latitudeDeg": 38.50683333333333,
+        "longitudeDeg": -112.8785,
+        "depthKM": 2.35,
+        "magnitude": 1.12,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.79742367651076
         }
       },
       {
