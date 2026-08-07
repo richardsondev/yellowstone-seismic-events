@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "abdacd304295d74b2bac7c29fba0c4501db7a0ed",
+    "hashString": "3321a64aac9697984fbba5792304e8ef1db82b75",
     "events": [
       {
         "identifier": "uu80146306",
@@ -209,6 +209,22 @@
           "town": "Randolph, UT",
           "bearing": "SSW",
           "distanceKM": 8.349449210424476
+        }
+      },
+      {
+        "identifier": "uu80147471",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786136369.1799984,
+        "latitudeDeg": 38.50816666666667,
+        "longitudeDeg": -112.87933333333334,
+        "depthKM": 2.84,
+        "magnitude": 0.96,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.856182577541013
         }
       },
       {
