@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3deff3fd3d5a20049231757d1390b9dcc9bff579",
+    "hashString": "0af229b285548d641fff4f4cdbe4d95e479950d4",
     "events": [
       {
         "identifier": "uu80146581",
@@ -1176,6 +1176,22 @@
         }
       },
       {
+        "identifier": "uu80148101",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786303334.7999992,
+        "latitudeDeg": 41.744166666666665,
+        "longitudeDeg": -111.6,
+        "depthKM": 5.09,
+        "magnitude": 1.62,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "North Logan, UT",
+          "bearing": "E",
+          "distanceKM": 17.209925288005195
+        }
+      },
+      {
         "identifier": "uu80147031",
         "authority": "UU",
         "eventType": "eq",
@@ -1361,22 +1377,6 @@
           "town": "West Yellowstone, MT",
           "bearing": "ENE",
           "distanceKM": 25.31252010688608
-        }
-      },
-      {
-        "identifier": "uu80146496",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1785163419.540001,
-        "latitudeDeg": 38.66566666666667,
-        "longitudeDeg": -111.43383333333334,
-        "depthKM": 1.77,
-        "magnitude": 1.03,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fremont, UT",
-          "bearing": "NE",
-          "distanceKM": 28.333430592038567
         }
       },
       {
