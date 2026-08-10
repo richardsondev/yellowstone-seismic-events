@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6e697f495fdf835eab204d6445fb2ae3972169e9",
+    "hashString": "447c691a6cba57a283b2dace9151f46f8f95439b",
     "events": [
       {
         "identifier": "uu80146581",
@@ -17,6 +17,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 14.744425359833052
+        }
+      },
+      {
+        "identifier": "uu80147716",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786190549.17,
+        "latitudeDeg": 41.901833333333336,
+        "longitudeDeg": -112.38516666666666,
+        "depthKM": 10.22,
+        "magnitude": 2.0300000000000002,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Blue Creek, UT",
+          "bearing": "NE",
+          "distanceKM": 7.528192980299984
         }
       },
       {
@@ -628,6 +644,22 @@
         }
       },
       {
+        "identifier": "uu80147656",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786177075.8499985,
+        "latitudeDeg": 38.5065,
+        "longitudeDeg": -112.8795,
+        "depthKM": 1.9,
+        "magnitude": 1.79,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.710786602210625
+        }
+      },
+      {
         "identifier": "uu80007838",
         "authority": "UU",
         "eventType": "eq",
@@ -1125,22 +1157,6 @@
           "town": "Old Faithful, WY",
           "bearing": "NNE",
           "distanceKM": 15.115250016330977
-        }
-      },
-      {
-        "identifier": "uu80146491",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1785156304.98,
-        "latitudeDeg": 38.48716666666667,
-        "longitudeDeg": -112.90783333333333,
-        "depthKM": 3.52,
-        "magnitude": 0.85,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 13.459668584387018
         }
       },
       {
