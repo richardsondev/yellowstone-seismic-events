@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c991f4a94a6eba72fb92475b0fc1e7e876edaa51",
+    "hashString": "2f10fb531fd4499404cb16e75fb2c9e19305ef3f",
     "events": [
       {
         "identifier": "uu80147806",
@@ -61,6 +61,22 @@
           "town": "Blue Creek, UT",
           "bearing": "NE",
           "distanceKM": 7.528192980299984
+        }
+      },
+      {
+        "identifier": "uu80148296",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786486550.329998,
+        "latitudeDeg": 38.507333333333335,
+        "longitudeDeg": -112.88283333333334,
+        "depthKM": 1.91,
+        "magnitude": 1.26,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.581999413113888
         }
       },
       {
