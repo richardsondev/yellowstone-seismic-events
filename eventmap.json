@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4d83f2b9113f3e542beb107793ca815406c1559b",
+    "hashString": "77a8fbe7c29b5249d1cba42df5c4c491af7188b3",
     "events": [
       {
         "identifier": "uu80147806",
@@ -1492,18 +1492,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "mb90203633",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1785225111.21,
-        "latitudeDeg": 45.7221666666667,
-        "longitudeDeg": -112.124166666667,
-        "depthKM": 5.38,
-        "magnitude": 1.23,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
         "identifier": "uu80147691",
         "authority": "UU",
         "eventType": "eq",
@@ -1570,22 +1558,6 @@
         "magnitude": 1.65,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80146571",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1785225311.0900002,
-        "latitudeDeg": 40.7345,
-        "longitudeDeg": -112.047,
-        "depthKM": 6.1,
-        "magnitude": 0.7000000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Magna, UT",
-          "bearing": "ENE",
-          "distanceKM": 6.114168987732721
-        }
       },
       {
         "identifier": "uu80147056",
@@ -1797,6 +1769,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.288554728057452
+        }
+      },
+      {
+        "identifier": "uu80148271",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786435228.25,
+        "latitudeDeg": 41.56366666666667,
+        "longitudeDeg": -109.8765,
+        "depthKM": -2.75,
+        "magnitude": 3.3000000000000003,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Little America, WY",
+          "bearing": "NNW",
+          "distanceKM": 2.6242620168004533
         }
       },
       {
