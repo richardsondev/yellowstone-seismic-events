@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9f0844235b46d41d556513a3fe13486c7d8c0557",
+    "hashString": "58fd1730bf107784c74b67f330c4ed08275f116a",
     "events": [
       {
         "identifier": "uu80148441",
@@ -3889,6 +3889,22 @@
           "town": "Fremont, UT",
           "bearing": "NE",
           "distanceKM": 28.51872096395289
+        }
+      },
+      {
+        "identifier": "uu80148446",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786569501.709999,
+        "latitudeDeg": 38.50816666666667,
+        "longitudeDeg": -112.88583333333334,
+        "depthKM": 2.44,
+        "magnitude": 1.81,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.477006425152222
         }
       }
     ]
