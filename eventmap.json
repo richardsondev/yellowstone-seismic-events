@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "79f89dc56eda989969e462d30e89c20967cbea45",
+    "hashString": "ad3024c5672413fd771ac8ca5faacd7cbba34ee0",
     "events": [
       {
         "identifier": "uu80148441",
@@ -44,18 +44,6 @@
         "longitudeDeg": -111.962666666667,
         "depthKM": 5.45,
         "magnitude": 0.65,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90204358",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1786005983.82,
-        "latitudeDeg": 43.4285,
-        "longitudeDeg": -110.478,
-        "depthKM": 9,
-        "magnitude": 1.99,
         "isLocal": false,
         "nearestTown": null
       },
@@ -3141,22 +3129,6 @@
           "town": "Saratoga Springs, UT",
           "bearing": "NNW",
           "distanceKM": 6.229294308261352
-        }
-      },
-      {
-        "identifier": "uu80007778",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1785396886.459999,
-        "latitudeDeg": 41.4935,
-        "longitudeDeg": -112.17216666666667,
-        "depthKM": 0.3,
-        "magnitude": 0.87,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Corinne, UT",
-          "bearing": "SW",
-          "distanceKM": 8.215404584727798
         }
       },
       {
