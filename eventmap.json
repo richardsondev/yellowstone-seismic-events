@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "df4be42ce2ba13dc85e51022ea1eead541f53dd8",
+    "hashString": "38a7537b2f6ebb7c3bd2dbe0addbcc8845eec9d2",
     "events": [
       {
         "identifier": "uu80148441",
@@ -1837,6 +1837,22 @@
           "town": "Mount Carmel, UT",
           "bearing": "WNW",
           "distanceKM": 5.417504214814478
+        }
+      },
+      {
+        "identifier": "uu80148666",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786656892.369999,
+        "latitudeDeg": 38.51533333333333,
+        "longitudeDeg": -112.89,
+        "depthKM": 1.79,
+        "magnitude": 1.24,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.854366033039945
         }
       },
       {
