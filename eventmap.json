@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9e0196eb8503126f4182725e4dd92c8d8ee14506",
+    "hashString": "cf46daf6a32b1c84b8e9679baee850ed36c139a3",
     "events": [
       {
         "identifier": "uu80148441",
@@ -1257,6 +1257,22 @@
           "town": "Lake, WY",
           "bearing": "SE",
           "distanceKM": 2.7045878314559935
+        }
+      },
+      {
+        "identifier": "uu80148806",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786733422.1499996,
+        "latitudeDeg": 39.7025,
+        "longitudeDeg": -110.83016666666667,
+        "depthKM": -3.28,
+        "magnitude": 1.11,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Helper, UT",
+          "bearing": "NE",
+          "distanceKM": 2.925147026662616
         }
       },
       {
