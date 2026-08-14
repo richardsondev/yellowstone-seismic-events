@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "cf46daf6a32b1c84b8e9679baee850ed36c139a3",
+    "hashString": "a0c0bd88dc34359e6d884aad66b31d8d37263f62",
     "events": [
       {
         "identifier": "uu80148441",
@@ -141,6 +141,22 @@
           "town": "Old Faithful, WY",
           "bearing": "S",
           "distanceKM": 22.885468655063747
+        }
+      },
+      {
+        "identifier": "uu80148821",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786737996.3199997,
+        "latitudeDeg": 40.93266666666667,
+        "longitudeDeg": -111.725,
+        "depthKM": 6.84,
+        "magnitude": 1.18,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Porterville, UT",
+          "bearing": "SSW",
+          "distanceKM": 6.967314396474092
         }
       },
       {
