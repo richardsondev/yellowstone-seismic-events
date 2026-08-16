@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a67463f1b28594b0aa91c3c5358c0b3f0956ea41",
+    "hashString": "b3e73c03b98cacf09d80411f8e2a11517ac0bc1f",
     "events": [
       {
         "identifier": "uu80148441",
@@ -304,22 +304,6 @@
         }
       },
       {
-        "identifier": "uu80146896",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1785644996.3499985,
-        "latitudeDeg": 40.405,
-        "longitudeDeg": -111.9345,
-        "depthKM": 5.96,
-        "magnitude": 1.62,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Saratoga Springs, UT",
-          "bearing": "NNW",
-          "distanceKM": 6.712008012929421
-        }
-      },
-      {
         "identifier": "uu80148426",
         "authority": "UU",
         "eventType": "eq",
@@ -334,18 +318,6 @@
           "bearing": "NE",
           "distanceKM": 16.099510679870495
         }
-      },
-      {
-        "identifier": "mb90204648",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1786249623.19,
-        "latitudeDeg": 44.4405,
-        "longitudeDeg": -114.1365,
-        "depthKM": 14.66,
-        "magnitude": 2.56,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80148001",
@@ -730,6 +702,18 @@
           "bearing": "NE",
           "distanceKM": 16.65872189125595
         }
+      },
+      {
+        "identifier": "us6000tl5f",
+        "authority": "US",
+        "eventType": "eq",
+        "originTimeUTC": 1786854845.414,
+        "latitudeDeg": 43.5327,
+        "longitudeDeg": -110.7645,
+        "depthKM": 5.765,
+        "magnitude": 2.6,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80148401",
