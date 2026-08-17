@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c7b63a1ef8f93a3161805d953aaaf4193f19227b",
+    "hashString": "5f5fb488478d7e79444d729019d59ca918e663ca",
     "events": [
       {
         "identifier": "uu80148441",
@@ -3769,6 +3769,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.998305783437377
+        }
+      },
+      {
+        "identifier": "uu80149051",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1786910570.4699974,
+        "latitudeDeg": 40.39216666666667,
+        "longitudeDeg": -111.94066666666667,
+        "depthKM": 2.95,
+        "magnitude": 1.02,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Saratoga Springs, UT",
+          "bearing": "NNW",
+          "distanceKM": 5.680510171535672
         }
       },
       {
