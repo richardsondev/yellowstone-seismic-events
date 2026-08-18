@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "549652b69525d74879813661bc47c2f8f28478e1",
+    "hashString": "c00c27f9d4b6c286afa018c739d0158c75123dc1",
     "events": [
       {
         "identifier": "uu80148441",
@@ -3772,22 +3772,6 @@
         }
       },
       {
-        "identifier": "uu80147061",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1785852529.5699997,
-        "latitudeDeg": 38.663333333333334,
-        "longitudeDeg": -111.42533333333333,
-        "depthKM": 1.37,
-        "magnitude": 1.1,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fremont, UT",
-          "bearing": "NE",
-          "distanceKM": 28.556770794738707
-        }
-      },
-      {
         "identifier": "mb90205143",
         "authority": "MB",
         "eventType": "eq",
@@ -4220,6 +4204,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80149166",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1787039731.9299984,
+        "latitudeDeg": 38.5125,
+        "longitudeDeg": -112.88916666666667,
+        "depthKM": 2.44,
+        "magnitude": 1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.655543952855492
+        }
+      },
+      {
         "identifier": "nn00923286",
         "authority": "NN",
         "eventType": "eq",
@@ -4245,22 +4245,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.965578043439045
-        }
-      },
-      {
-        "identifier": "uu80007813",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1785852717.0299988,
-        "latitudeDeg": 38.653166666666664,
-        "longitudeDeg": -111.40966666666667,
-        "depthKM": 1.84,
-        "magnitude": 0.99,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Fremont, UT",
-          "bearing": "NE",
-          "distanceKM": 28.51872096395289
         }
       },
       {
