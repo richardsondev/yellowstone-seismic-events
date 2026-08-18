@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "96921722883a16875fe298e5d09d17e44883a5b8",
+    "hashString": "96a2762ab284550b2aa35b3ae3ce8118fc59405f",
     "events": [
       {
         "identifier": "uu80148441",
@@ -2858,6 +2858,22 @@
         "magnitude": 0.27,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80149171",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1787056402.5699997,
+        "latitudeDeg": 40.714,
+        "longitudeDeg": -111.46933333333334,
+        "depthKM": 7.79,
+        "magnitude": 0.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Park City, UT",
+          "bearing": "NNE",
+          "distanceKM": 7.927678945170128
+        }
       },
       {
         "identifier": "uu80147116",
