@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7cb4859350a6486b974914b35252abf850a67dcd",
+    "hashString": "1bf10de23b7f71459f2e61c8e97dbc5288d57aee",
     "events": [
       {
         "identifier": "uu80148441",
@@ -177,6 +177,22 @@
           "town": "Fayette, UT",
           "bearing": "WSW",
           "distanceKM": 9.393592955205687
+        }
+      },
+      {
+        "identifier": "uu80150341",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1787686019,
+        "latitudeDeg": 38.51566666666667,
+        "longitudeDeg": -112.89183333333334,
+        "depthKM": 2.88,
+        "magnitude": 0.55,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.78433503435669
         }
       },
       {
@@ -3757,6 +3773,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.771631590162265
+        }
+      },
+      {
+        "identifier": "uu80150336",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1787685390.0999985,
+        "latitudeDeg": 38.51383333333333,
+        "longitudeDeg": -112.88833333333334,
+        "depthKM": 2.3,
+        "magnitude": 0.71,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.81609059998445
         }
       },
       {
