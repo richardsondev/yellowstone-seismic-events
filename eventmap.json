@@ -1,24 +1,8 @@
 {
   "status": 200,
   "data": {
-    "hashString": "628f4f2468aee412d6941afb136f677b763bf410",
+    "hashString": "5ac47bf83be99b95644ecc5b8abd499041d40909",
     "events": [
-      {
-        "identifier": "uu80148441",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1786567837.3899994,
-        "latitudeDeg": 39.9185,
-        "longitudeDeg": -111.96683333333333,
-        "depthKM": 4.43,
-        "magnitude": 1.1500000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Elberta, UT",
-          "bearing": "S",
-          "distanceKM": 3.8686703311753865
-        }
-      },
       {
         "identifier": "uu80150391",
         "authority": "UU",
@@ -2310,6 +2294,18 @@
           "bearing": "ENE",
           "distanceKM": 5.199971326844675
         }
+      },
+      {
+        "identifier": "mb90206108",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1787656682.97,
+        "latitudeDeg": 44.7611666666667,
+        "longitudeDeg": -111.229166666667,
+        "depthKM": 9.61,
+        "magnitude": -0.16,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "mb90205313",
