@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9abc3cb3994bfe6b34ea849542ee40e7f5582200",
+    "hashString": "a4e454cb65e8bf085a57061058092bd17484ddc3",
     "events": [
       {
         "identifier": "uu80150641",
@@ -3725,6 +3725,22 @@
           "town": "Orangeville, UT",
           "bearing": "WNW",
           "distanceKM": 18.23265900601062
+        }
+      },
+      {
+        "identifier": "uu80153106",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1788256710.7699986,
+        "latitudeDeg": 38.51616666666666,
+        "longitudeDeg": -112.897,
+        "depthKM": 2.04,
+        "magnitude": 1.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.554951937394918
         }
       },
       {
