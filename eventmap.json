@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8ecba8a31d3111f42235033906dcd77b1aaf7501",
+    "hashString": "690d1ac5a7ba772a9b255de27418a0f44496200e",
     "events": [
       {
         "identifier": "uu80150641",
@@ -1080,6 +1080,22 @@
         }
       },
       {
+        "identifier": "uu80152096",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1788121376.959999,
+        "latitudeDeg": 38.51733333333333,
+        "longitudeDeg": -112.89416666666666,
+        "depthKM": 2.25,
+        "magnitude": 1.7,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.806923190273128
+        }
+      },
+      {
         "identifier": "mb90206543",
         "authority": "MB",
         "eventType": "eq",
@@ -1842,6 +1858,22 @@
         "magnitude": -0.23,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80152316",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1788133660.8899994,
+        "latitudeDeg": 38.51266666666667,
+        "longitudeDeg": -112.89166666666667,
+        "depthKM": 2.19,
+        "magnitude": 1.04,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.532384370202866
+        }
       },
       {
         "identifier": "uu80149951",
@@ -3576,6 +3608,22 @@
         }
       },
       {
+        "identifier": "uu80152021",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1788116107.73,
+        "latitudeDeg": 38.516666666666666,
+        "longitudeDeg": -112.8935,
+        "depthKM": 2.47,
+        "magnitude": 0.52,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.783209602875296
+        }
+      },
+      {
         "identifier": "uu80150071",
         "authority": "UU",
         "eventType": "eq",
@@ -4629,22 +4677,6 @@
           "town": "Mount Pleasant, UT",
           "bearing": "ENE",
           "distanceKM": 6.83810365969432
-        }
-      },
-      {
-        "identifier": "uu80149206",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1787078784.5199986,
-        "latitudeDeg": 44.348,
-        "longitudeDeg": -110.59283333333333,
-        "depthKM": 5.04,
-        "magnitude": 1.26,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "West Thumb, WY",
-          "bearing": "S",
-          "distanceKM": 7.614905962545565
         }
       },
       {
