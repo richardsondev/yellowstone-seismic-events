@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4bbec90ac8bc89d8a63d601f6d7600cbb7d53208",
+    "hashString": "c73eb3f3f3c971ae2ae5a4b461099c7b75eee7f7",
     "events": [
       {
         "identifier": "uu80153001",
@@ -6363,16 +6363,16 @@
         "identifier": "uu80153696",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1788409953.130001,
-        "latitudeDeg": 41.559333333333335,
-        "longitudeDeg": -109.86966666666666,
-        "depthKM": -1.9,
-        "magnitude": 2.95,
+        "originTimeUTC": 1788409953.1100006,
+        "latitudeDeg": 41.56166666666667,
+        "longitudeDeg": -109.8715,
+        "depthKM": -2.22,
+        "magnitude": 3,
         "isLocal": true,
         "nearestTown": {
           "town": "Little America, WY",
           "bearing": "NNW",
-          "distanceKM": 1.9290285949657235
+          "distanceKM": 2.2287888157578273
         }
       },
       {
@@ -6453,6 +6453,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.794668195936943
+        }
+      },
+      {
+        "identifier": "uu80153691",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1788409217.2399998,
+        "latitudeDeg": 41.168166666666664,
+        "longitudeDeg": -112.64,
+        "depthKM": 7.47,
+        "magnitude": 0.78,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lakeside, UT",
+          "bearing": "ESE",
+          "distanceKM": 19.943574842589292
         }
       },
       {
