@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "18269a580cb8e9a7967924015a572cf57d96416d",
+    "hashString": "8ab2bac01428d090c3277b90ae7babef3d8bb17e",
     "events": [
       {
         "identifier": "uu80153001",
@@ -5193,6 +5193,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.49595418042038
+        }
+      },
+      {
+        "identifier": "uu80155026",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1788852113.7399979,
+        "latitudeDeg": 44.75866666666667,
+        "longitudeDeg": -111.152,
+        "depthKM": 11,
+        "magnitude": 2.74,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "SE",
+          "distanceKM": 5.708437409439669
         }
       },
       {
