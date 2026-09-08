@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8ab2bac01428d090c3277b90ae7babef3d8bb17e",
+    "hashString": "66b2912f52a3cf79943661a11ecafa0e72e25bb6",
     "events": [
       {
         "identifier": "uu80153001",
@@ -3828,22 +3828,6 @@
         }
       },
       {
-        "identifier": "uu80150291",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1787659418.8999977,
-        "latitudeDeg": 41.50116666666667,
-        "longitudeDeg": -112.16566666666667,
-        "depthKM": -0.04,
-        "magnitude": 1.1,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Corinne, UT",
-          "bearing": "SW",
-          "distanceKM": 7.212870146355178
-        }
-      },
-      {
         "identifier": "uu80150351",
         "authority": "UU",
         "eventType": "eq",
@@ -3890,18 +3874,6 @@
           "bearing": "NE",
           "distanceKM": 16.402916426932588
         }
-      },
-      {
-        "identifier": "mb90206108",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1787656682.97,
-        "latitudeDeg": 44.7611666666667,
-        "longitudeDeg": -111.229166666667,
-        "depthKM": 9.61,
-        "magnitude": -0.16,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80152396",
@@ -4941,6 +4913,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 17.005075194472646
+        }
+      },
+      {
+        "identifier": "uu80155121",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1788870994.3899994,
+        "latitudeDeg": 38.50716666666667,
+        "longitudeDeg": -112.9015,
+        "depthKM": 1.05,
+        "magnitude": 2.07,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.521714999782787
         }
       },
       {
