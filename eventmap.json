@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ff8a8eac89f0b0ef36e2967dd3fb40965c37b636",
+    "hashString": "ccc8f59521a6808924bab3351592a024be0fecb4",
     "events": [
       {
         "identifier": "uu80153001",
@@ -7469,6 +7469,22 @@
           "town": "Little America, WY",
           "bearing": "NW",
           "distanceKM": 2.998076913312539
+        }
+      },
+      {
+        "identifier": "uu80155756",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789062158.0599976,
+        "latitudeDeg": 38.512,
+        "longitudeDeg": -112.89866666666667,
+        "depthKM": 2.46,
+        "magnitude": 1,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.097913564358347
         }
       },
       {
