@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2cefb25beb3abb6852cdf376b38b366617abf9f6",
+    "hashString": "5596e1a56a6c1e608d592d960dc9aebf4428dec6",
     "events": [
       {
         "identifier": "uu80153001",
@@ -4637,6 +4637,22 @@
           "town": "Grayling, MT",
           "bearing": "SE",
           "distanceKM": 5.856337810081196
+        }
+      },
+      {
+        "identifier": "uu80155701",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789056505.4300003,
+        "latitudeDeg": 40.53633333333333,
+        "longitudeDeg": -112.16466666666666,
+        "depthKM": 1.94,
+        "magnitude": 2.31,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Herriman, UT",
+          "bearing": "WNW",
+          "distanceKM": 11.399958863019352
         }
       },
       {
