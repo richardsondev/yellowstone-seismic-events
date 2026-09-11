@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8acf45efa5a29f17047b999b42f71c9a81bd8687",
+    "hashString": "5a896aff918719f91efa754b592232b15b3ee971",
     "events": [
       {
         "identifier": "uu80153001",
@@ -1236,6 +1236,22 @@
         }
       },
       {
+        "identifier": "uu80156111",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789130078.9300003,
+        "latitudeDeg": 37.073,
+        "longitudeDeg": -112.89283333333333,
+        "depthKM": 15.88,
+        "magnitude": 1.3800000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 10.137553108294632
+        }
+      },
+      {
         "identifier": "uu80152136",
         "authority": "UU",
         "eventType": "eq",
@@ -2269,6 +2285,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.935554798214767
+        }
+      },
+      {
+        "identifier": "uu80156081",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789121167.35,
+        "latitudeDeg": 38.508833333333335,
+        "longitudeDeg": -112.90266666666666,
+        "depthKM": 2.21,
+        "magnitude": 1.83,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.606951280795037
         }
       },
       {
@@ -4620,22 +4652,6 @@
         }
       },
       {
-        "identifier": "uu80151016",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1787930589.12,
-        "latitudeDeg": 38.51983333333333,
-        "longitudeDeg": -112.891,
-        "depthKM": 3.05,
-        "magnitude": 2.2600000000000002,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 17.195002560765246
-        }
-      },
-      {
         "identifier": "uu80155041",
         "authority": "UU",
         "eventType": "eq",
@@ -6261,22 +6277,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.901207347071214
-        }
-      },
-      {
-        "identifier": "uu80151006",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1787930057.8199997,
-        "latitudeDeg": 38.5105,
-        "longitudeDeg": -112.89183333333334,
-        "depthKM": 2.59,
-        "magnitude": 0.8,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.336385316451818
         }
       },
       {
@@ -8457,22 +8457,6 @@
           "town": "Old Faithful, WY",
           "bearing": "W",
           "distanceKM": 15.340803632884551
-        }
-      },
-      {
-        "identifier": "uu80151021",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1787930739.0499992,
-        "latitudeDeg": 38.513666666666666,
-        "longitudeDeg": -112.89216666666667,
-        "depthKM": 2.85,
-        "magnitude": 1.54,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.59192434443875
         }
       },
       {
