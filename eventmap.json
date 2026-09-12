@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e57b5a67c30603b0d8136848d94e4559084ef433",
+    "hashString": "de52d40d8368551a06329dd6148ee6ed0c1eba9a",
     "events": [
       {
         "identifier": "uu80153001",
@@ -2789,6 +2789,22 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 10.011962209019483
+        }
+      },
+      {
+        "identifier": "uu80156391",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789190749.2799988,
+        "latitudeDeg": 41.749,
+        "longitudeDeg": -109.80866666666667,
+        "depthKM": 3.98,
+        "magnitude": 3.8200000000000003,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Westvaco, WY",
+          "bearing": "N",
+          "distanceKM": 14.035866840046934
         }
       },
       {
