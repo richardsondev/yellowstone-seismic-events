@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "cbcb984bd3140a65f45a84a56b94e2a1b4993333",
+    "hashString": "ee3501560661accff6785c0d780566c4cd0e268b",
     "events": [
       {
         "identifier": "uu80153001",
@@ -1485,6 +1485,22 @@
           "town": "Old Faithful, WY",
           "bearing": "W",
           "distanceKM": 13.970075516720579
+        }
+      },
+      {
+        "identifier": "uu80156526",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789228866.1,
+        "latitudeDeg": 38.491,
+        "longitudeDeg": -112.88083333333333,
+        "depthKM": 1,
+        "magnitude": 1.52,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.414210933538548
         }
       },
       {
@@ -3615,16 +3631,16 @@
         "identifier": "uu80156496",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1789222436.8099976,
-        "latitudeDeg": 38.5115,
-        "longitudeDeg": -112.90016666666666,
-        "depthKM": 1.8,
+        "originTimeUTC": 1789222436.7399979,
+        "latitudeDeg": 38.516,
+        "longitudeDeg": -112.9,
+        "depthKM": 2.32,
         "magnitude": 1.9000000000000001,
         "isLocal": true,
         "nearestTown": {
           "town": "Milford, UT",
           "bearing": "NE",
-          "distanceKM": 15.974660034927524
+          "distanceKM": 16.3849538684586
         }
       },
       {
