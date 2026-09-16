@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "9ef43be484febafe89830e2faf8f065dcb7994a7",
+    "hashString": "dc8a8863e70561c0f561d39e15203237a7eab6be",
     "events": [
       {
         "identifier": "uu80154586",
@@ -3188,6 +3188,22 @@
         }
       },
       {
+        "identifier": "uu80157111",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789531942.8500004,
+        "latitudeDeg": 38.519333333333336,
+        "longitudeDeg": -112.898,
+        "depthKM": 2.42,
+        "magnitude": 1.1400000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.78712477252793
+        }
+      },
+      {
         "identifier": "uu80157156",
         "authority": "UU",
         "eventType": "eq",
@@ -4652,22 +4668,6 @@
         }
       },
       {
-        "identifier": "uu80153556",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1788361395.9099998,
-        "latitudeDeg": 38.51,
-        "longitudeDeg": -112.8925,
-        "depthKM": 3.06,
-        "magnitude": 1.1500000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.256608928302953
-        }
-      },
-      {
         "identifier": "uu80153826",
         "authority": "UU",
         "eventType": "eq",
@@ -5813,6 +5813,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.64292027054414
+        }
+      },
+      {
+        "identifier": "uu80157151",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789562659.1000004,
+        "latitudeDeg": 44.80233333333334,
+        "longitudeDeg": -110.80333333333333,
+        "depthKM": 4.9,
+        "magnitude": 0.64,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 20.923057538207768
         }
       },
       {
