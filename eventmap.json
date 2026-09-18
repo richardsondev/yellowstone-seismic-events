@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0764b985e7434f0ec03ca0d27b1b73189b759160",
+    "hashString": "5db7eced109b0f5171f4eeca3f3e3fa521d359e0",
     "events": [
       {
         "identifier": "uu80154586",
@@ -681,6 +681,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.21740119725482
+        }
+      },
+      {
+        "identifier": "uu80157421",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789755095.25,
+        "latitudeDeg": 42.08166666666666,
+        "longitudeDeg": -112.36183333333334,
+        "depthKM": 0.06,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Samaria, ID",
+          "bearing": "SSW",
+          "distanceKM": 4.411572099815555
         }
       },
       {
