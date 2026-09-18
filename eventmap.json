@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "44e71e3498058302573515fae56671c6bcdfbbf6",
+    "hashString": "06e60cd2cfabde11f665e6c753b5bd463cd2f74c",
     "events": [
       {
         "identifier": "uu80154586",
@@ -1205,6 +1205,22 @@
           "town": "Moran, WY",
           "bearing": "NE",
           "distanceKM": 32.545429946534775
+        }
+      },
+      {
+        "identifier": "uu80157416",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789752412.7599983,
+        "latitudeDeg": 38.48916666666667,
+        "longitudeDeg": -112.898,
+        "depthKM": 4.66,
+        "magnitude": 0.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.2044702079442
         }
       },
       {
