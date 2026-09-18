@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "280a18cc5a336a933278ce5f278c731701699baa",
+    "hashString": "6b5307d08ab1b1c02806361a4815e4933e7efa30",
     "events": [
       {
         "identifier": "uu80154586",
@@ -3484,6 +3484,22 @@
         }
       },
       {
+        "identifier": "uu80157306",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789689091.5699997,
+        "latitudeDeg": 37.07833333333333,
+        "longitudeDeg": -112.89233333333334,
+        "depthKM": 15.38,
+        "magnitude": 1.71,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NE",
+          "distanceKM": 10.623416212999128
+        }
+      },
+      {
         "identifier": "uu80154646",
         "authority": "UU",
         "eventType": "eq",
@@ -5833,22 +5849,6 @@
           "town": "Kanarraville, UT",
           "bearing": "ESE",
           "distanceKM": 12.261360080404744
-        }
-      },
-      {
-        "identifier": "uu80154106",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1788529837.3600006,
-        "latitudeDeg": 38.48416666666667,
-        "longitudeDeg": -112.90816666666667,
-        "depthKM": 3.53,
-        "magnitude": 1.41,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 13.193215804932349
         }
       },
       {
