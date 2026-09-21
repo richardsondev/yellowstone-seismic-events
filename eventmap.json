@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ec8868149a522db1c8575b28719352cd6350d24e",
+    "hashString": "d3a0e663bc12ba76f1d0db052e77c167be5dafe8",
     "events": [
       {
         "identifier": "uu80154906",
@@ -2108,22 +2108,6 @@
         }
       },
       {
-        "identifier": "uu80154756",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1788803280.6399999,
-        "latitudeDeg": 38.492,
-        "longitudeDeg": -112.88083333333333,
-        "depthKM": 1.39,
-        "magnitude": 0.98,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.4898498913915
-        }
-      },
-      {
         "identifier": "mb90208588",
         "authority": "MB",
         "eventType": "eq",
@@ -2465,6 +2449,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.38086218620603
+        }
+      },
+      {
+        "identifier": "uu80008078",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789710031.7999992,
+        "latitudeDeg": 37.094166666666666,
+        "longitudeDeg": -112.89533333333333,
+        "depthKM": 15.03,
+        "magnitude": 0.23,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hildale, UT",
+          "bearing": "NNE",
+          "distanceKM": 11.906110509653374
         }
       },
       {
@@ -4321,22 +4321,6 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 25.651275856672875
-        }
-      },
-      {
-        "identifier": "uu80154776",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1788805879.0599995,
-        "latitudeDeg": 38.5135,
-        "longitudeDeg": -112.89566666666667,
-        "depthKM": 2.14,
-        "magnitude": 1.8,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.38925346435582
         }
       },
       {
