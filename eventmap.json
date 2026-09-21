@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "fea3808fead28bafef8eecf7f19ce5e78b0912c7",
+    "hashString": "b7a5a7e561aa526409af5d8c6f02d031ed99d182",
     "events": [
       {
         "identifier": "uu80154906",
@@ -1893,6 +1893,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.684587068904012
+        }
+      },
+      {
+        "identifier": "uu80157601",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1789962679.1599998,
+        "latitudeDeg": 44.82533333333333,
+        "longitudeDeg": -110.75516666666667,
+        "depthKM": 4.9,
+        "magnitude": 0.39,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "SSW",
+          "distanceKM": 17.316159450150558
         }
       },
       {
@@ -4437,22 +4453,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.415155071464298
-        }
-      },
-      {
-        "identifier": "uu80154706",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1788791623.4500008,
-        "latitudeDeg": 37.748,
-        "longitudeDeg": -112.636,
-        "depthKM": 15.51,
-        "magnitude": 1.48,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Panguitch, UT",
-          "bearing": "WSW",
-          "distanceKM": 19.460282022518573
         }
       },
       {
