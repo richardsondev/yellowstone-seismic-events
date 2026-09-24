@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e0d41dc4b4c0a71f5dfaf326de48ccdefcea6728",
+    "hashString": "033340cf258cfd95d1a13d513b20389380231708",
     "events": [
       {
         "identifier": "uu80156421",
@@ -2201,6 +2201,22 @@
           "town": "Hildale, UT",
           "bearing": "NE",
           "distanceKM": 10.623416212999128
+        }
+      },
+      {
+        "identifier": "uu80157946",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790285657.2299995,
+        "latitudeDeg": 41.78916666666667,
+        "longitudeDeg": -108.90866666666666,
+        "depthKM": 13.05,
+        "magnitude": 3.04,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Superior, WY",
+          "bearing": "ENE",
+          "distanceKM": 6.038927928234758
         }
       },
       {
