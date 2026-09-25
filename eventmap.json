@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "0216f6d077f85aa226c0db82996b64ca415f9fed",
+    "hashString": "144ac3276f34949c14fcc5ccea0f12d02bbf9285",
     "events": [
       {
         "identifier": "uu80156421",
@@ -1330,6 +1330,22 @@
         "magnitude": -0.01,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80157981",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790353999.0900002,
+        "latitudeDeg": 38.50983333333333,
+        "longitudeDeg": -112.90216666666667,
+        "depthKM": 4.08,
+        "magnitude": 1.1300000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.721890807968931
+        }
       },
       {
         "identifier": "mb90208498",
@@ -2825,22 +2841,6 @@
           "town": "Salina, UT",
           "bearing": "ESE",
           "distanceKM": 19.553779320431005
-        }
-      },
-      {
-        "identifier": "uu80156156",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1789145773.87,
-        "latitudeDeg": 38.51833333333333,
-        "longitudeDeg": -112.89783333333334,
-        "depthKM": 2.78,
-        "magnitude": 0.75,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.705655856506812
         }
       },
       {
