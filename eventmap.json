@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c7cd4d8ffb841e1ddfa6a0af8303ac5544a9cb5c",
+    "hashString": "7fd294b92035cacfa798349406b0d5533e922a6c",
     "events": [
       {
         "identifier": "uu80157171",
@@ -2082,6 +2082,22 @@
         "magnitude": 1.2,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80008103",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790501176.83,
+        "latitudeDeg": 38.151,
+        "longitudeDeg": -112.30266666666667,
+        "depthKM": 7.73,
+        "magnitude": 1.56,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Circleville, UT",
+          "bearing": "SW",
+          "distanceKM": 3.6271309283215523
+        }
       },
       {
         "identifier": "uu80156871",
