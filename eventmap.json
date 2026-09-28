@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "ce631eacd8b0d315426108c7dac2a12cbbce82df",
+    "hashString": "bf0b31f7434ab1c496f016d954a55be2aabd82df",
     "events": [
       {
         "identifier": "uu80157171",
@@ -493,6 +493,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 16.29733035226226
+        }
+      },
+      {
+        "identifier": "uu80008128",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790392854.9199982,
+        "latitudeDeg": 41.71366666666667,
+        "longitudeDeg": -112.05616666666667,
+        "depthKM": 0.96,
+        "magnitude": 0.87,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Deweyville, UT",
+          "bearing": "E",
+          "distanceKM": 2.846857234037063
         }
       },
       {
@@ -1004,22 +1020,6 @@
         }
       },
       {
-        "identifier": "uu80156791",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1789390120.5699997,
-        "latitudeDeg": 38.510333333333335,
-        "longitudeDeg": -112.89916666666667,
-        "depthKM": 2.88,
-        "magnitude": 1.24,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.924422528906554
-        }
-      },
-      {
         "identifier": "uu80157451",
         "authority": "UU",
         "eventType": "eq",
@@ -1220,6 +1220,22 @@
         }
       },
       {
+        "identifier": "uu80008123",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790424935.2599983,
+        "latitudeDeg": 39.54966666666667,
+        "longitudeDeg": -112.02083333333333,
+        "depthKM": 6.13,
+        "magnitude": 1.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mills, UT",
+          "bearing": "N",
+          "distanceKM": 7.491111919773979
+        }
+      },
+      {
         "identifier": "uu80156916",
         "authority": "UU",
         "eventType": "eq",
@@ -1340,18 +1356,6 @@
         "longitudeDeg": -111.488833333333,
         "depthKM": 13.58,
         "magnitude": 1.41,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90208358",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1789395871.01,
-        "latitudeDeg": 45.6695,
-        "longitudeDeg": -111.924666666667,
-        "depthKM": 1.13,
-        "magnitude": 1.02,
         "isLocal": false,
         "nearestTown": null
       },
@@ -2220,6 +2224,22 @@
         }
       },
       {
+        "identifier": "uu80158111",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790514522.2799988,
+        "latitudeDeg": 37.89533333333333,
+        "longitudeDeg": -113.30366666666667,
+        "depthKM": 6.54,
+        "magnitude": 1.5,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lund, UT",
+          "bearing": "SE",
+          "distanceKM": 17.2494965074553
+        }
+      },
+      {
         "identifier": "uu80157151",
         "authority": "UU",
         "eventType": "eq",
@@ -2438,22 +2458,6 @@
         "magnitude": 0,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80156796",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1789394429.1599998,
-        "latitudeDeg": 37.076,
-        "longitudeDeg": -112.8925,
-        "depthKM": 17.23,
-        "magnitude": 1.3,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hildale, UT",
-          "bearing": "NE",
-          "distanceKM": 10.412392722935387
-        }
       },
       {
         "identifier": "uu80157571",
