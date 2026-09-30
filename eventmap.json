@@ -1,24 +1,8 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f3ead9a87d894791ebf5ead2591b4a40365c4f6a",
+    "hashString": "14f1716f370391fefe37b0e807a3da042051c986",
     "events": [
-      {
-        "identifier": "uu80157171",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1789565528.17,
-        "latitudeDeg": 38.51916666666666,
-        "longitudeDeg": -112.90016666666666,
-        "depthKM": 2.84,
-        "magnitude": 1.79,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.662328893019705
-        }
-      },
       {
         "identifier": "uu80008098",
         "authority": "UU",
@@ -77,6 +61,22 @@
           "town": "Saratoga Springs, UT",
           "bearing": "N",
           "distanceKM": 7.227551866645897
+        }
+      },
+      {
+        "identifier": "uu80158256",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790758717.6899986,
+        "latitudeDeg": 44.78916666666667,
+        "longitudeDeg": -111.10466666666666,
+        "depthKM": 8.34,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Grayling, MT",
+          "bearing": "E",
+          "distanceKM": 7.0586672356442595
         }
       },
       {
@@ -645,6 +645,22 @@
           "town": "Iron Springs, UT",
           "bearing": "WSW",
           "distanceKM": 2.1887973777633922
+        }
+      },
+      {
+        "identifier": "uu80158261",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790768105.8399997,
+        "latitudeDeg": 39.2995,
+        "longitudeDeg": -111.95783333333333,
+        "depthKM": 7.08,
+        "magnitude": 1.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Fayette, UT",
+          "bearing": "NW",
+          "distanceKM": 12.00904999252217
         }
       },
       {
