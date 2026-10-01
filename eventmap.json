@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "93379b7c4ea9e152d5245d01049c89216dc79065",
+    "hashString": "8bbb6065bbb91183f4fe49c5126fed97e455f7e9",
     "events": [
       {
         "identifier": "uu80008098",
@@ -97,6 +97,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.824356128473035
+        }
+      },
+      {
+        "identifier": "uu80158326",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790852128.5100002,
+        "latitudeDeg": 37.1625,
+        "longitudeDeg": -112.80383333333333,
+        "depthKM": 18.17,
+        "magnitude": 1.54,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mount Carmel, UT",
+          "bearing": "SW",
+          "distanceKM": 15.376019908116243
         }
       },
       {
@@ -1665,6 +1681,22 @@
           "town": "Cane Beds, AZ",
           "bearing": "NNE",
           "distanceKM": 10.970094822823162
+        }
+      },
+      {
+        "identifier": "uu80158321",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790840211.459999,
+        "latitudeDeg": 38.49933333333333,
+        "longitudeDeg": -112.9065,
+        "depthKM": 4.02,
+        "magnitude": 1.71,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.568227487893955
         }
       },
       {
