@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "116f36e487ad66bf53c06c80b04e32b99ece0a1a",
+    "hashString": "310f9d4eece1081746d14c3d8902da455c7f818f",
     "events": [
       {
         "identifier": "uu80008098",
@@ -1977,6 +1977,22 @@
           "town": "Marysvale, UT",
           "bearing": "SW",
           "distanceKM": 6.152590344387491
+        }
+      },
+      {
+        "identifier": "uu80158341",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790904791.8099995,
+        "latitudeDeg": 44.443333333333335,
+        "longitudeDeg": -110.998,
+        "depthKM": 5.19,
+        "magnitude": 0.84,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Old Faithful, WY",
+          "bearing": "W",
+          "distanceKM": 13.095523271789334
         }
       },
       {
