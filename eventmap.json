@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8476e83e1a63509d7889914e9dd8bb49b97af356",
+    "hashString": "01ebfa7cc91c0e453aeae155bee5734fc42a6ecf",
     "events": [
       {
         "identifier": "uu80008098",
@@ -161,22 +161,6 @@
           "town": "Marysvale, UT",
           "bearing": "NE",
           "distanceKM": 10.905497599297707
-        }
-      },
-      {
-        "identifier": "uu80157521",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1789874998.619999,
-        "latitudeDeg": 38.522666666666666,
-        "longitudeDeg": -112.89966666666666,
-        "depthKM": 2.41,
-        "magnitude": 0.8,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 17.005969506297024
         }
       },
       {
@@ -1536,22 +1520,6 @@
         "nearestTown": null
       },
       {
-        "identifier": "uu80157526",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1789876068.6599998,
-        "latitudeDeg": 38.52133333333333,
-        "longitudeDeg": -112.90316666666666,
-        "depthKM": 2.91,
-        "magnitude": 1.9100000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.711523817029292
-        }
-      },
-      {
         "identifier": "uu80158051",
         "authority": "UU",
         "eventType": "eq",
@@ -1924,18 +1892,6 @@
         "longitudeDeg": -111.1085,
         "depthKM": 9.16,
         "magnitude": -0.17,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90208693",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1789875625.69,
-        "latitudeDeg": 44.7386666666667,
-        "longitudeDeg": -111.175333333333,
-        "depthKM": 4.95,
-        "magnitude": -0.05,
         "isLocal": false,
         "nearestTown": null
       }
