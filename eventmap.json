@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "df50517c1ff9b6191a504d8e00bf669177e1a029",
+    "hashString": "5da3364d20b7bf21593b46fcd60420301d5a3902",
     "events": [
       {
         "identifier": "uu80008098",
@@ -484,6 +484,18 @@
         }
       },
       {
+        "identifier": "nn00925271",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1791135310.138,
+        "latitudeDeg": 37.1302,
+        "longitudeDeg": -115.1445,
+        "depthKM": 6.6623,
+        "magnitude": 1.64,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80157906",
         "authority": "UU",
         "eventType": "eq",
@@ -545,22 +557,6 @@
           "town": "Mammoth, WY",
           "bearing": "SSW",
           "distanceKM": 17.316159450150558
-        }
-      },
-      {
-        "identifier": "uu80157581",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1789924232.1599998,
-        "latitudeDeg": 37.08016666666666,
-        "longitudeDeg": -112.90233333333333,
-        "depthKM": 13.66,
-        "magnitude": 1.1300000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Hildale, UT",
-          "bearing": "NE",
-          "distanceKM": 10.262813749224192
         }
       },
       {
