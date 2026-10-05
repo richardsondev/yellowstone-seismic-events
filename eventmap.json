@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "3bf90436dfb6eda3ca8ef87d1d8d9f97007b8d0b",
+    "hashString": "6d752029572119d7bb59c24f4145e88c0a64d0c6",
     "events": [
       {
         "identifier": "uu80008098",
@@ -904,22 +904,6 @@
         }
       },
       {
-        "identifier": "uu80157596",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1789951158.2399998,
-        "latitudeDeg": 39.31616666666667,
-        "longitudeDeg": -111.97983333333333,
-        "depthKM": 4.54,
-        "magnitude": 1.16,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Scipio, UT",
-          "bearing": "NE",
-          "distanceKM": 13.304905663836173
-        }
-      },
-      {
         "identifier": "mb90209463",
         "authority": "MB",
         "eventType": "eq",
@@ -1650,18 +1634,6 @@
           "bearing": "NE",
           "distanceKM": 13.782493491882411
         }
-      },
-      {
-        "identifier": "mb90208873",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1789950659.58,
-        "latitudeDeg": 44.7061666666667,
-        "longitudeDeg": -111.1085,
-        "depthKM": 9.16,
-        "magnitude": -0.17,
-        "isLocal": false,
-        "nearestTown": null
       }
     ]
   },
