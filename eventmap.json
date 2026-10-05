@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "aee724d3b7b105dca776f19af170669d35f1060f",
+    "hashString": "c3b0d6ce5d7bd436e0f8fa326d5701d6d759e926",
     "events": [
       {
         "identifier": "uu80008098",
@@ -588,6 +588,22 @@
         }
       },
       {
+        "identifier": "uu80158411",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790984817.8899994,
+        "latitudeDeg": 37.37716666666667,
+        "longitudeDeg": -113.9795,
+        "depthKM": 12.82,
+        "magnitude": 1.2,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Gunlock, UT",
+          "bearing": "WNW",
+          "distanceKM": 21.245596127138263
+        }
+      },
+      {
         "identifier": "uu80158351",
         "authority": "UU",
         "eventType": "eq",
@@ -1084,22 +1100,6 @@
         }
       },
       {
-        "identifier": "uu80157646",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1790003510.0699997,
-        "latitudeDeg": 38.51883333333333,
-        "longitudeDeg": -112.901,
-        "depthKM": 2.22,
-        "magnitude": 1.31,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.590191828757384
-        }
-      },
-      {
         "identifier": "mb90208938",
         "authority": "MB",
         "eventType": "eq",
@@ -1401,6 +1401,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.911085989132895
+        }
+      },
+      {
+        "identifier": "uu80008143",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1790990610.2999992,
+        "latitudeDeg": 37.21966666666667,
+        "longitudeDeg": -112.12783333333333,
+        "depthKM": 20.8,
+        "magnitude": 1.36,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Cannonville, UT",
+          "bearing": "S",
+          "distanceKM": 39.16059992540041
         }
       },
       {
