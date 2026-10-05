@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "1aa2bf34e929e557ae20a84d05b5733a0abd974b",
+    "hashString": "558d56895c6df5d3f846d56133b67340c243ea97",
     "events": [
       {
         "identifier": "uu80008148",
@@ -129,6 +129,22 @@
           "town": "West Thumb, WY",
           "bearing": "S",
           "distanceKM": 22.382903525365965
+        }
+      },
+      {
+        "identifier": "uu80008153",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1791065848.67,
+        "latitudeDeg": 37.75216666666667,
+        "longitudeDeg": -112.59216666666667,
+        "depthKM": 8.27,
+        "magnitude": 1.6600000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Panguitch, UT",
+          "bearing": "WSW",
+          "distanceKM": 15.827143707201966
         }
       },
       {
