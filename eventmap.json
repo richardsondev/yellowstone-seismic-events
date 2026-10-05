@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "710707c7006e9f040b5c284e64fe3830af2b6e8f",
+    "hashString": "73f3766bb9505c7c297ee502ae36eba7feb48173",
     "events": [
       {
         "identifier": "uu80008098",
@@ -177,22 +177,6 @@
           "town": "Hiawatha, UT",
           "bearing": "SSW",
           "distanceKM": 5.798982540099889
-        }
-      },
-      {
-        "identifier": "uu80157656",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1790008830.289999,
-        "latitudeDeg": 38.49066666666667,
-        "longitudeDeg": -112.90216666666667,
-        "depthKM": 3.82,
-        "magnitude": 1.03,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.078967821626533
         }
       },
       {
@@ -1244,6 +1228,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80158456",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1791056827.77,
+        "latitudeDeg": 38.716833333333334,
+        "longitudeDeg": -112.4665,
+        "depthKM": 9.88,
+        "magnitude": 1.93,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Kanosh, UT",
+          "bearing": "SSW",
+          "distanceKM": 9.736026043904058
+        }
+      },
+      {
         "identifier": "uu80158591",
         "authority": "UU",
         "eventType": "eq",
@@ -1541,6 +1541,22 @@
           "town": "West Thumb, WY",
           "bearing": "S",
           "distanceKM": 23.787777293505876
+        }
+      },
+      {
+        "identifier": "uu80158446",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1791055659.25,
+        "latitudeDeg": 38.4935,
+        "longitudeDeg": -112.89833333333333,
+        "depthKM": 4.61,
+        "magnitude": 0.92,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.536536759309122
         }
       },
       {
