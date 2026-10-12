@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "671a925ca48791c12f51cec8b23cec518542b3cf",
+    "hashString": "01e49b062c9a0c9880f5207facc68b44c23cd5cc",
     "events": [
       {
         "identifier": "uu80008148",
@@ -192,6 +192,22 @@
         }
       },
       {
+        "identifier": "uu80008178",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1791754515.3099995,
+        "latitudeDeg": 44.76316666666666,
+        "longitudeDeg": -110.736,
+        "depthKM": 1.77,
+        "magnitude": 0.5,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "S",
+          "distanceKM": 23.881554918695123
+        }
+      },
+      {
         "identifier": "uu80159511",
         "authority": "UU",
         "eventType": "eq",
@@ -205,6 +221,22 @@
           "town": "Mammoth, WY",
           "bearing": "S",
           "distanceKM": 24.96670555114152
+        }
+      },
+      {
+        "identifier": "uu80008183",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1791754598.3199997,
+        "latitudeDeg": 44.75783333333333,
+        "longitudeDeg": -110.75566666666667,
+        "depthKM": 3.18,
+        "magnitude": 0.51,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Mammoth, WY",
+          "bearing": "S",
+          "distanceKM": 24.681666142079454
         }
       },
       {
@@ -445,22 +477,6 @@
           "town": "Ephraim, UT",
           "bearing": "SSE",
           "distanceKM": 6.533914306025167
-        }
-      },
-      {
-        "identifier": "uu80158186",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1790613482.54,
-        "latitudeDeg": 41.275666666666666,
-        "longitudeDeg": -111.72266666666667,
-        "depthKM": 11.13,
-        "magnitude": 1.04,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Huntsville, UT",
-          "bearing": "ENE",
-          "distanceKM": 4.279789815105321
         }
       },
       {
