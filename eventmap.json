@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7d92e81394bbd622a373312f6a3dd21f430df22e",
+    "hashString": "a5af2e22d84951197ee2c7d2ce2868ac8b302c00",
     "events": [
       {
         "identifier": "uu80008148",
@@ -639,16 +639,16 @@
         "identifier": "uu80159186",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1791674230.79,
-        "latitudeDeg": 38.54716666666667,
-        "longitudeDeg": -112.89666666666666,
-        "depthKM": 6,
-        "magnitude": 1.97,
+        "originTimeUTC": 1791674231.0100002,
+        "latitudeDeg": 38.513333333333335,
+        "longitudeDeg": -112.9025,
+        "depthKM": 2.8,
+        "magnitude": 1.92,
         "isLocal": true,
         "nearestTown": {
           "town": "Milford, UT",
-          "bearing": "NNE",
-          "distanceKM": 19.439917951507795
+          "bearing": "NE",
+          "distanceKM": 16.01721217442837
         }
       },
       {
@@ -713,6 +713,22 @@
           "town": "Springdale, UT",
           "bearing": "ENE",
           "distanceKM": 12.803931427732625
+        }
+      },
+      {
+        "identifier": "uu80159136",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1791660645,
+        "latitudeDeg": 38.514833333333335,
+        "longitudeDeg": -112.905,
+        "depthKM": 3.07,
+        "magnitude": 1.36,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 16.02615317408581
         }
       },
       {
@@ -795,16 +811,16 @@
         "identifier": "uu80159156",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1791666483.86,
-        "latitudeDeg": 38.521166666666666,
-        "longitudeDeg": -112.89616666666667,
-        "depthKM": 6,
-        "magnitude": 1.93,
+        "originTimeUTC": 1791666484.02,
+        "latitudeDeg": 38.517,
+        "longitudeDeg": -112.90983333333334,
+        "depthKM": 3.4,
+        "magnitude": 1.73,
         "isLocal": true,
         "nearestTown": {
           "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 17.04577487785829
+          "bearing": "NNE",
+          "distanceKM": 15.98857937504146
         }
       },
       {
@@ -1535,11 +1551,11 @@
         "identifier": "nn00925582",
         "authority": "NN",
         "eventType": "eq",
-        "originTimeUTC": 1791614615.634,
-        "latitudeDeg": 37.4487,
-        "longitudeDeg": -114.3873,
-        "depthKM": 15.9558,
-        "magnitude": 1.66,
+        "originTimeUTC": 1791614616.928,
+        "latitudeDeg": 37.4271,
+        "longitudeDeg": -114.4077,
+        "depthKM": 8.0781,
+        "magnitude": 1.59,
         "isLocal": false,
         "nearestTown": null
       },
