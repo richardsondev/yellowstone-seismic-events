@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "33a19fa55bcbd02c658df2c075b5d4568dcc0d43",
+    "hashString": "67bb0b9b9d3774f4b640dd8953b1f68733c07678",
     "events": [
       {
         "identifier": "uu80008148",
@@ -2529,6 +2529,22 @@
           "town": "Cannonville, UT",
           "bearing": "S",
           "distanceKM": 39.16059992540041
+        }
+      },
+      {
+        "identifier": "uu80159936",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1791983154.0599976,
+        "latitudeDeg": 38.513,
+        "longitudeDeg": -112.911,
+        "depthKM": 3.16,
+        "magnitude": 1.17,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.5621712588816
         }
       },
       {
