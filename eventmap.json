@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "2111d4a6548ec90b703caefe97b8148bbe564fd2",
+    "hashString": "ae287b39f7c249516da2f220084125cedf76e324",
     "events": [
       {
         "identifier": "uu80008148",
@@ -221,6 +221,22 @@
           "town": "West Thumb, WY",
           "bearing": "N",
           "distanceKM": 9.55736701902142
+        }
+      },
+      {
+        "identifier": "uu80159886",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1791943032.1899996,
+        "latitudeDeg": 39.2935,
+        "longitudeDeg": -111.20633333333333,
+        "depthKM": -2.47,
+        "magnitude": 1.32,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Orangeville, UT",
+          "bearing": "WNW",
+          "distanceKM": 15.082796391642356
         }
       },
       {
