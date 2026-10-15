@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e8ec4838f834c359123f72a7c4a76c09bb31269a",
+    "hashString": "5a3b15ee28a780be290691b3e4137bd25450a3f6",
     "events": [
       {
         "identifier": "uu80008148",
@@ -1037,6 +1037,22 @@
           "town": "Gunlock, UT",
           "bearing": "WNW",
           "distanceKM": 21.245596127138263
+        }
+      },
+      {
+        "identifier": "uu80160066",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792079558.8499985,
+        "latitudeDeg": 44.775,
+        "longitudeDeg": -110.181,
+        "depthKM": 6.2,
+        "magnitude": 1.05,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NE",
+          "distanceKM": 30.38293042669483
         }
       },
       {
