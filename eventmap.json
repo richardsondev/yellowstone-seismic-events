@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "f1fe2cb43ec28f6bac8679b804c1667350cf34f6",
+    "hashString": "8f3e1cccb9915f2a8a6a2dafdbb5af5edc38c0e3",
     "events": [
       {
         "identifier": "uu80008148",
@@ -329,6 +329,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.589875675623981
+        }
+      },
+      {
+        "identifier": "uu80160006",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792035896.6800003,
+        "latitudeDeg": 38.517833333333336,
+        "longitudeDeg": -112.90883333333333,
+        "depthKM": 3.37,
+        "magnitude": 1.42,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 16.113841381863264
         }
       },
       {
@@ -1598,6 +1614,22 @@
         "magnitude": 1,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80160036",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792045278.8400002,
+        "latitudeDeg": 38.84,
+        "longitudeDeg": -112.04033333333334,
+        "depthKM": 10.85,
+        "magnitude": 1.47,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Sigurd, UT",
+          "bearing": "W",
+          "distanceKM": 6.2909792930398725
+        }
       },
       {
         "identifier": "uu80160026",
