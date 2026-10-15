@@ -547,19 +547,6 @@
       "version": null
     },
     {
-      "identifier": "mb90209878",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1790862856.25,
-      "latitudeDeg": 45.1286666666667,
-      "longitudeDeg": -111.998166666667,
-      "depthKm": 5.54,
-      "magnitude": 0.2,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80158721",
       "authority": "UU",
       "eventType": "eq",
@@ -895,6 +882,19 @@
       "magnitude": 1.3900000000000001,
       "isLocal": true,
       "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 14.31325523215857}",
+      "version": null
+    },
+    {
+      "identifier": "uu80160041",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1792058533.4699993,
+      "latitudeDeg": 44.373333333333335,
+      "longitudeDeg": -110.56583333333333,
+      "depthKm": 2.0,
+      "magnitude": 1.51,
+      "isLocal": true,
+      "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'S', 'distanceKM': 4.79037893461383}",
       "version": null
     },
     {
@@ -1311,6 +1311,19 @@
       "magnitude": 1.0,
       "isLocal": false,
       "nearestTown": null,
+      "version": null
+    },
+    {
+      "identifier": "uu80160026",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1792041996.2299995,
+      "latitudeDeg": 38.509166666666665,
+      "longitudeDeg": -112.90416666666667,
+      "depthKm": 3.72,
+      "magnitude": 1.1300000000000001,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.558206084017357}",
       "version": null
     },
     {
