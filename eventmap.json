@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "691e6efdf6c9afe3fb8f425bbe239296a2d6b3e7",
+    "hashString": "50d0d94ee9843344373f36f64b34ae1e60514e5b",
     "events": [
       {
         "identifier": "uu80008148",
@@ -912,6 +912,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80160531",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792265456.2700005,
+        "latitudeDeg": 40.7485,
+        "longitudeDeg": -111.5965,
+        "depthKM": 8.38,
+        "magnitude": 2.54,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Park City, UT",
+          "bearing": "NW",
+          "distanceKM": 14.092721622904264
+        }
+      },
+      {
         "identifier": "uu80008158",
         "authority": "UU",
         "eventType": "eq",
@@ -1261,22 +1277,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.921068692980883
-        }
-      },
-      {
-        "identifier": "uu80158451",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1791055780.6399994,
-        "latitudeDeg": 41.27283333333333,
-        "longitudeDeg": -111.71616666666667,
-        "depthKM": 12.34,
-        "magnitude": 1.1300000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Huntsville, UT",
-          "bearing": "ENE",
-          "distanceKM": 4.686082758323233
         }
       },
       {
@@ -2192,22 +2192,6 @@
         }
       },
       {
-        "identifier": "uu80158456",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1791056827.77,
-        "latitudeDeg": 38.716833333333334,
-        "longitudeDeg": -112.4665,
-        "depthKM": 9.88,
-        "magnitude": 1.93,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Kanosh, UT",
-          "bearing": "SSW",
-          "distanceKM": 9.736026043904058
-        }
-      },
-      {
         "identifier": "uu80159676",
         "authority": "UU",
         "eventType": "eq",
@@ -2877,22 +2861,6 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.729052299222037
-        }
-      },
-      {
-        "identifier": "uu80158446",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1791055659.25,
-        "latitudeDeg": 38.4935,
-        "longitudeDeg": -112.89833333333333,
-        "depthKM": 4.61,
-        "magnitude": 0.92,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 14.536536759309122
         }
       },
       {
