@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "27063a1aa99bf845748b79fa821655b0cb844bb9",
+    "hashString": "ecfa5302ba21cc07f943186b3b8c7e89fa9b33b4",
     "events": [
       {
         "identifier": "uu80008148",
@@ -874,6 +874,18 @@
           "bearing": "NE",
           "distanceKM": 16.295549613948918
         }
+      },
+      {
+        "identifier": "mb90210688",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1792080545.47,
+        "latitudeDeg": 44.2286666666667,
+        "longitudeDeg": -114.661666666667,
+        "depthKM": 7.33,
+        "magnitude": 2.19,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80008158",
@@ -2933,22 +2945,6 @@
           "town": "Sigurd, UT",
           "bearing": "N",
           "distanceKM": 2.061023358777103
-        }
-      },
-      {
-        "identifier": "uu80158441",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1791041141.5900002,
-        "latitudeDeg": 36.904666666666664,
-        "longitudeDeg": -110.74316666666667,
-        "depthKM": 6.01,
-        "magnitude": 2.69,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Shonto, AZ",
-          "bearing": "NNW",
-          "distanceKM": 36.079302217085775
         }
       },
       {
