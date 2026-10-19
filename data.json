@@ -1,6 +1,19 @@
 {
   "events": [
     {
+      "identifier": "uu80160801",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1792360488.0099983,
+      "latitudeDeg": 42.4245,
+      "longitudeDeg": -111.43916666666667,
+      "depthKm": -1.32,
+      "magnitude": 2.34,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Nounan, ID', 'bearing': 'S', 'distanceKM': 6.009987609596457}",
+      "version": null
+    },
+    {
       "identifier": "uu80159201",
       "authority": "UU",
       "eventType": "eq",
@@ -947,6 +960,19 @@
       "magnitude": 0.71,
       "isLocal": true,
       "nearestTown": "{'town': 'West Thumb, WY', 'bearing': 'N', 'distanceKM': 9.995629641717482}",
+      "version": null
+    },
+    {
+      "identifier": "uu80160831",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1792377879.6100006,
+      "latitudeDeg": 44.5765,
+      "longitudeDeg": -110.7465,
+      "depthKm": 7.27,
+      "magnitude": 0.61,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Old Faithful, WY', 'bearing': 'NNE', 'distanceKM': 14.756573882825004}",
       "version": null
     },
     {
