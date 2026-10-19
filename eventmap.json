@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "d6fdf628daf248a79a371998ec1a247e717fe422",
+    "hashString": "58934b44f529fbf484d0e9a0adbacf2b203afdb3",
     "events": [
       {
         "identifier": "uu80160801",
@@ -249,6 +249,22 @@
           "town": "West Thumb, WY",
           "bearing": "N",
           "distanceKM": 9.55736701902142
+        }
+      },
+      {
+        "identifier": "uu80160821",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792371343.9799995,
+        "latitudeDeg": 38.393,
+        "longitudeDeg": -112.60366666666667,
+        "depthKM": 2.73,
+        "magnitude": 0.86,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Manderfield, UT",
+          "bearing": "NE",
+          "distanceKM": 4.985528672767044
         }
       },
       {
