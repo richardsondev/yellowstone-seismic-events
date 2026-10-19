@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e523cf3ff153ea03da8ea297934ab9575f99f524",
+    "hashString": "bced8fcad5c2fe03d95b378c8a6585947df4bfc9",
     "events": [
       {
         "identifier": "uu80160801",
@@ -939,16 +939,16 @@
         "identifier": "uu80160531",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1792265456.2700005,
-        "latitudeDeg": 40.7485,
-        "longitudeDeg": -111.5965,
-        "depthKM": 8.38,
-        "magnitude": 2.54,
+        "originTimeUTC": 1792265456.119999,
+        "latitudeDeg": 40.74916666666667,
+        "longitudeDeg": -111.59133333333334,
+        "depthKM": 11.82,
+        "magnitude": 2.44,
         "isLocal": true,
         "nearestTown": {
           "town": "Park City, UT",
           "bearing": "NW",
-          "distanceKM": 14.092721622904264
+          "distanceKM": 13.901568999548806
         }
       },
       {
@@ -2745,6 +2745,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.509154335942972
+        }
+      },
+      {
+        "identifier": "uu80160536",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792266001.6100001,
+        "latitudeDeg": 40.739,
+        "longitudeDeg": -111.59766666666667,
+        "depthKM": 11.95,
+        "magnitude": 1.08,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Park City, UT",
+          "bearing": "NW",
+          "distanceKM": 13.316076545175248
         }
       },
       {
