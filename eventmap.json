@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b1a5ebd6be86b561183594605fa5c1c68bd88399",
+    "hashString": "f1f09fb6a8ca92de060761bb094ffe286fc459c4",
     "events": [
       {
         "identifier": "uu80159201",
@@ -1145,6 +1145,22 @@
           "town": "Emery, UT",
           "bearing": "WNW",
           "distanceKM": 16.197648835324483
+        }
+      },
+      {
+        "identifier": "uu80160851",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792380718.1899986,
+        "latitudeDeg": 38.50516666666667,
+        "longitudeDeg": -112.908,
+        "depthKM": 2.01,
+        "magnitude": 1.82,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.002254756003097
         }
       },
       {
