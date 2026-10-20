@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "beefcd7d8e91a0dcc3da42507af4a211e4b793e7",
+    "hashString": "1d67ba7e9273a72d9e4f99034610acc817205851",
     "events": [
       {
         "identifier": "uu80160801",
@@ -1333,6 +1333,22 @@
           "town": "Mills, UT",
           "bearing": "NW",
           "distanceKM": 3.1978954732004667
+        }
+      },
+      {
+        "identifier": "uu80160881",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792389056.9799995,
+        "latitudeDeg": 38.522333333333336,
+        "longitudeDeg": -112.91033333333333,
+        "depthKM": 2.51,
+        "magnitude": 1.86,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 16.463796262415077
         }
       },
       {
