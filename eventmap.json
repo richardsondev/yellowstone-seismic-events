@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "7a380dc663c409267b7585d14ac4562dd9f4b4c3",
+    "hashString": "4c4764868714b6c35976b605cdebc39dd52fa215",
     "events": [
       {
         "identifier": "uu80160801",
@@ -178,18 +178,6 @@
           "bearing": "NNE",
           "distanceKM": 15.777506085693577
         }
-      },
-      {
-        "identifier": "mb90210573",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1791997461.3500001,
-        "latitudeDeg": 44.837,
-        "longitudeDeg": -112.9125,
-        "depthKM": 4.07,
-        "magnitude": 1.68,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80161076",
@@ -765,6 +753,22 @@
           "town": "Milford, UT",
           "bearing": "NNE",
           "distanceKM": 16.54920870976517
+        }
+      },
+      {
+        "identifier": "uu80161246",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792598379.9300003,
+        "latitudeDeg": 44.3645,
+        "longitudeDeg": -110.34283333333333,
+        "depthKM": 11.54,
+        "magnitude": 1.37,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Thumb, WY",
+          "bearing": "ESE",
+          "distanceKM": 19.49294956418385
         }
       },
       {
@@ -3969,6 +3973,22 @@
           "town": "Lake, WY",
           "bearing": "WNW",
           "distanceKM": 22.67627084107996
+        }
+      },
+      {
+        "identifier": "uu80161176",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792564446.2199998,
+        "latitudeDeg": 38.513,
+        "longitudeDeg": -112.91266666666667,
+        "depthKM": 2.35,
+        "magnitude": 1.23,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 15.481597388777242
         }
       },
       {
