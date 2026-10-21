@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5fd8c2d5ec22bd4b03df8837c9a83d4614dff914",
+    "hashString": "95b877543e0037130b76072de3c676fd8d07556b",
     "events": [
       {
         "identifier": "uu80160801",
@@ -209,6 +209,22 @@
           "town": "Manderfield, UT",
           "bearing": "NE",
           "distanceKM": 5.480950049851642
+        }
+      },
+      {
+        "identifier": "uu80160661",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792320948.7799988,
+        "latitudeDeg": 38.5155,
+        "longitudeDeg": -112.90833333333333,
+        "depthKM": 3.59,
+        "magnitude": 1.21,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 15.92240234168909
         }
       },
       {
