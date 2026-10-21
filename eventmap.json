@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4c4764868714b6c35976b605cdebc39dd52fa215",
+    "hashString": "12789c11a3ccd6cf83cf170861c94993558f6d5e",
     "events": [
       {
         "identifier": "uu80160801",
@@ -4417,6 +4417,22 @@
           "town": "Greenwich, UT",
           "bearing": "S",
           "distanceKM": 1.3188209124713346
+        }
+      },
+      {
+        "identifier": "uu80160396",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792220870.4099998,
+        "latitudeDeg": 38.48883333333333,
+        "longitudeDeg": -112.8975,
+        "depthKM": 3.86,
+        "magnitude": 0.87,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NE",
+          "distanceKM": 14.207945582970371
         }
       },
       {
