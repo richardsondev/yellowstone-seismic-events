@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "646b2c1b2acad7b57c1970f53ac387a017123793",
+    "hashString": "213b20a2d44ff63f46bf1e5dc63bdafc468f59fb",
     "events": [
       {
         "identifier": "uu80160801",
@@ -225,6 +225,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.92240234168909
+        }
+      },
+      {
+        "identifier": "uu80161371",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792662282.950001,
+        "latitudeDeg": 41.580665588378906,
+        "longitudeDeg": -109.8941650390625,
+        "depthKM": -1.899999976158142,
+        "magnitude": 3.25,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Little America, WY",
+          "bearing": "NW",
+          "distanceKM": 5.011405317878502
         }
       },
       {
@@ -3794,18 +3810,6 @@
           "bearing": "NNE",
           "distanceKM": 9.774344414968676
         }
-      },
-      {
-        "identifier": "mb90210263",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1791457080.74,
-        "latitudeDeg": 44.7795,
-        "longitudeDeg": -111.376833333333,
-        "depthKM": 7.35,
-        "magnitude": 0.06,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80160951",
