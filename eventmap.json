@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6d760ed5e817de7e7a9ab2092eb3e39e08a492b2",
+    "hashString": "f3fe8b2a5e76b374db7bb4af6c82ec2f46fd7932",
     "events": [
       {
         "identifier": "uu80160801",
@@ -977,6 +977,22 @@
           "town": "Milford, UT",
           "bearing": "NE",
           "distanceKM": 15.568354284339364
+        }
+      },
+      {
+        "identifier": "uu80161361",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792655555.7799988,
+        "latitudeDeg": 41.842,
+        "longitudeDeg": -111.67883333333333,
+        "depthKM": 3.07,
+        "magnitude": 2.11,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Hyde Park, UT",
+          "bearing": "ENE",
+          "distanceKM": 12.576929730601892
         }
       },
       {
