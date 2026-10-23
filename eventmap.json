@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b063b2063440d1c71fa27abbb70ade877c592d3f",
+    "hashString": "4f88aae7d920ceb56e5f524e3ec60dc9bc6926d7",
     "events": [
       {
         "identifier": "uu80160801",
@@ -4431,16 +4431,16 @@
         "identifier": "uu80161501",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1792717918.9699974,
-        "latitudeDeg": 38.519,
-        "longitudeDeg": -112.90566666666666,
-        "depthKM": 3.99,
-        "magnitude": 0.22,
+        "originTimeUTC": 1792717918.959999,
+        "latitudeDeg": 38.515166666666666,
+        "longitudeDeg": -112.91116666666667,
+        "depthKM": 3.95,
+        "magnitude": 0.34,
         "isLocal": true,
         "nearestTown": {
           "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 16.374753600501464
+          "bearing": "NNE",
+          "distanceKM": 15.75453625585058
         }
       },
       {
@@ -4501,6 +4501,22 @@
           "town": "Altamont, WY",
           "bearing": "S",
           "distanceKM": 35.27012444754979
+        }
+      },
+      {
+        "identifier": "uu80161606",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792763283.02,
+        "latitudeDeg": 38.524,
+        "longitudeDeg": -112.91666666666667,
+        "depthKM": 2.23,
+        "magnitude": 1.6,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 16.337543044836814
         }
       },
       {
