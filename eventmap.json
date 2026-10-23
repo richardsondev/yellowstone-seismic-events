@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "35348bcd4f3949c1f14292783185b185f9b3c7ce",
+    "hashString": "d3cef04e985c40942c1593257434743b07e1c37f",
     "events": [
       {
         "identifier": "uu80160801",
@@ -1422,6 +1422,18 @@
           "bearing": "NE",
           "distanceKM": 15.82149658784417
         }
+      },
+      {
+        "identifier": "mb90211043",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1792491143.31,
+        "latitudeDeg": 44.7131666666667,
+        "longitudeDeg": -111.801833333333,
+        "depthKM": 6.13,
+        "magnitude": 1.14,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80159661",
@@ -5354,6 +5366,18 @@
           "bearing": "NE",
           "distanceKM": 15.712149523465733
         }
+      },
+      {
+        "identifier": "mb90211208",
+        "authority": "MB",
+        "eventType": "eq",
+        "originTimeUTC": 1792689602.66,
+        "latitudeDeg": 44.7895,
+        "longitudeDeg": -111.2985,
+        "depthKM": 7.64,
+        "magnitude": 0.07,
+        "isLocal": false,
+        "nearestTown": null
       },
       {
         "identifier": "uu80161031",
