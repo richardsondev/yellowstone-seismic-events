@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5ea2638128b8f8d474af35e20d786444636b9236",
+    "hashString": "0fc7a943d399015f3535be8036d714191b7d424a",
     "events": [
       {
         "identifier": "uu80160801",
@@ -501,6 +501,22 @@
           "town": "Manderfield, UT",
           "bearing": "NE",
           "distanceKM": 5.93505594502312
+        }
+      },
+      {
+        "identifier": "uu80161711",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792864741.4699998,
+        "latitudeDeg": 38.525,
+        "longitudeDeg": -112.9215,
+        "depthKM": -0.13,
+        "magnitude": 2.67,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 16.228014257014863
         }
       },
       {
@@ -3904,6 +3920,18 @@
         }
       },
       {
+        "identifier": "nn00926197",
+        "authority": "NN",
+        "eventType": "eq",
+        "originTimeUTC": 1792864761.195,
+        "latitudeDeg": 37.9001,
+        "longitudeDeg": -114.5067,
+        "depthKM": 15.7765,
+        "magnitude": 2.36,
+        "isLocal": false,
+        "nearestTown": null
+      },
+      {
         "identifier": "uu80159791",
         "authority": "UU",
         "eventType": "eq",
@@ -4045,38 +4073,6 @@
           "town": "Kanarraville, UT",
           "bearing": "WNW",
           "distanceKM": 13.855408248230608
-        }
-      },
-      {
-        "identifier": "uu80159121",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1791654530,
-        "latitudeDeg": 38.512,
-        "longitudeDeg": -112.9065,
-        "depthKM": 3.24,
-        "magnitude": 1.7,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.693554524633969
-        }
-      },
-      {
-        "identifier": "uu80159126",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1791655975.0200005,
-        "latitudeDeg": 38.50933333333333,
-        "longitudeDeg": -112.9055,
-        "depthKM": 2.86,
-        "magnitude": 1.69,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.50412597112388
         }
       },
       {
