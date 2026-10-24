@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "86ca92ca55f794c97a5110e920c09f81b01fb29b",
+    "hashString": "2b5005dc38e72b9d31fc126116abd4b36c8adb9e",
     "events": [
       {
         "identifier": "uu80160801",
@@ -2125,6 +2125,22 @@
           "town": "Bennington, ID",
           "bearing": "W",
           "distanceKM": 7.358537463692619
+        }
+      },
+      {
+        "identifier": "uu80161676",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792836455.119999,
+        "latitudeDeg": 38.531666666666666,
+        "longitudeDeg": -112.92033333333333,
+        "depthKM": 3.47,
+        "magnitude": 1.7,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 16.92927723733315
         }
       },
       {
