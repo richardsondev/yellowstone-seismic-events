@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e6fd03fd628246e59c68f4b124703433263442ab",
+    "hashString": "4ac3783e0cc7dac6a4a61dc3d1072ab0d52d5489",
     "events": [
       {
         "identifier": "uu80160801",
@@ -527,16 +527,16 @@
         "identifier": "uu80161711",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1792864741.4699998,
-        "latitudeDeg": 38.525,
-        "longitudeDeg": -112.9215,
-        "depthKM": -0.13,
-        "magnitude": 2.67,
+        "originTimeUTC": 1792864741.35,
+        "latitudeDeg": 38.517,
+        "longitudeDeg": -112.918,
+        "depthKM": 3.21,
+        "magnitude": 2.61,
         "isLocal": true,
         "nearestTown": {
           "town": "Milford, UT",
           "bearing": "NNE",
-          "distanceKM": 16.228014257014863
+          "distanceKM": 15.60887228398048
         }
       },
       {
@@ -3736,6 +3736,22 @@
         }
       },
       {
+        "identifier": "uu80161706",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792863575.9799995,
+        "latitudeDeg": 38.522333333333336,
+        "longitudeDeg": -112.91866666666667,
+        "depthKM": 1.99,
+        "magnitude": 1.79,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 16.0900146621379
+        }
+      },
+      {
         "identifier": "uu80160671",
         "authority": "UU",
         "eventType": "eq",
@@ -4761,6 +4777,22 @@
           "town": "Wallsburg, UT",
           "bearing": "SSW",
           "distanceKM": 7.42106082375913
+        }
+      },
+      {
+        "identifier": "uu80161701",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1792856515.2799988,
+        "latitudeDeg": 37.79,
+        "longitudeDeg": -113.11016666666667,
+        "depthKM": 1.1,
+        "magnitude": 1.1500000000000001,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Enoch, UT",
+          "bearing": "WNW",
+          "distanceKM": 7.762810346832844
         }
       },
       {
