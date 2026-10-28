@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a70f2379bacc298aa564957e387839c3442ec365",
+    "hashString": "4113aea7752f98359bdcad9f226d99a352e86332",
     "events": [
       {
         "identifier": "uu80160801",
@@ -2272,6 +2272,22 @@
         }
       },
       {
+        "identifier": "uu80162021",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793210397.3899994,
+        "latitudeDeg": 37.778166666666664,
+        "longitudeDeg": -113.1765,
+        "depthKM": 1.67,
+        "magnitude": 0.75,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Iron Springs, UT",
+          "bearing": "ENE",
+          "distanceKM": 6.502107870869788
+        }
+      },
+      {
         "identifier": "uu80160076",
         "authority": "UU",
         "eventType": "eq",
@@ -3957,22 +3973,6 @@
           "town": "Milford, UT",
           "bearing": "NNE",
           "distanceKM": 15.840914402900381
-        }
-      },
-      {
-        "identifier": "uu80159971",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1792002539.829998,
-        "latitudeDeg": 39.457,
-        "longitudeDeg": -111.91566666666667,
-        "depthKM": 11.13,
-        "magnitude": 0.92,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Mills, UT",
-          "bearing": "ESE",
-          "distanceKM": 10.144462047910581
         }
       },
       {
