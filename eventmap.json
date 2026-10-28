@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "4113aea7752f98359bdcad9f226d99a352e86332",
+    "hashString": "6ac0e60620709284f346fb465d3a9fec5709239e",
     "events": [
       {
         "identifier": "uu80160801",
@@ -3582,6 +3582,22 @@
         "magnitude": 2.36,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80008278",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793217772.6399994,
+        "latitudeDeg": 39.719833333333334,
+        "longitudeDeg": -110.78366666666666,
+        "depthKM": -3.41,
+        "magnitude": 1.72,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Helper, UT",
+          "bearing": "ENE",
+          "distanceKM": 7.253497327239318
+        }
       },
       {
         "identifier": "mb90211268",
