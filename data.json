@@ -456,19 +456,6 @@
       "version": null
     },
     {
-      "identifier": "mb90211128",
-      "authority": "MB",
-      "eventType": "eq",
-      "originTimeUtc": 1792587143.74,
-      "latitudeDeg": 44.7531666666667,
-      "longitudeDeg": -111.192,
-      "depthKm": 11.02,
-      "magnitude": 0.37,
-      "isLocal": false,
-      "nearestTown": null,
-      "version": null
-    },
-    {
       "identifier": "uu80160751",
       "authority": "UU",
       "eventType": "eq",
@@ -2770,6 +2757,19 @@
       "version": null
     },
     {
+      "identifier": "uu80161966",
+      "authority": "UU",
+      "eventType": "eq",
+      "originTimeUtc": 1793140150.9299994,
+      "latitudeDeg": 44.6095,
+      "longitudeDeg": -110.377,
+      "depthKm": 3.92,
+      "magnitude": 0.55,
+      "isLocal": true,
+      "nearestTown": "{'town': 'Lake, WY', 'bearing': 'NNE', 'distanceKM': 6.770729885681595}",
+      "version": null
+    },
+    {
       "identifier": "uu80161811",
       "authority": "UU",
       "eventType": "eq",
@@ -3326,19 +3326,6 @@
       "magnitude": 1.93,
       "isLocal": true,
       "nearestTown": "{'town': 'Pahaska Tepee, WY', 'bearing': 'NNW', 'distanceKM': 21.955951592773907}",
-      "version": null
-    },
-    {
-      "identifier": "uu80159936",
-      "authority": "UU",
-      "eventType": "eq",
-      "originTimeUtc": 1791983154.0599976,
-      "latitudeDeg": 38.513,
-      "longitudeDeg": -112.911,
-      "depthKm": 3.16,
-      "magnitude": 1.17,
-      "isLocal": true,
-      "nearestTown": "{'town': 'Milford, UT', 'bearing': 'NE', 'distanceKM': 15.5621712588816}",
       "version": null
     },
     {

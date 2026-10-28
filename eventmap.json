@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "210cbeeb71abdcedb06b72f6f4f2d28c03a7e021",
+    "hashString": "f0ed207862746cde5e916b7711254d6d5757a0de",
     "events": [
       {
         "identifier": "uu80160801",
@@ -558,18 +558,6 @@
           "bearing": "NNE",
           "distanceKM": 15.60887228398048
         }
-      },
-      {
-        "identifier": "mb90211128",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1792587143.74,
-        "latitudeDeg": 44.7531666666667,
-        "longitudeDeg": -111.192,
-        "depthKM": 11.02,
-        "magnitude": 0.37,
-        "isLocal": false,
-        "nearestTown": null
       },
       {
         "identifier": "uu80160751",
@@ -3332,6 +3320,22 @@
         }
       },
       {
+        "identifier": "uu80161966",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793140150.9299994,
+        "latitudeDeg": 44.6095,
+        "longitudeDeg": -110.377,
+        "depthKM": 3.92,
+        "magnitude": 0.55,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NNE",
+          "distanceKM": 6.770729885681595
+        }
+      },
+      {
         "identifier": "uu80161811",
         "authority": "UU",
         "eventType": "eq",
@@ -3997,22 +4001,6 @@
           "town": "Pahaska Tepee, WY",
           "bearing": "NNW",
           "distanceKM": 21.955951592773907
-        }
-      },
-      {
-        "identifier": "uu80159936",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1791983154.0599976,
-        "latitudeDeg": 38.513,
-        "longitudeDeg": -112.911,
-        "depthKM": 3.16,
-        "magnitude": 1.17,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NE",
-          "distanceKM": 15.5621712588816
         }
       },
       {
