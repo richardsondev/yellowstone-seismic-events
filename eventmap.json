@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "8c4eb49f43bf84e7d7909587f43bed70451131e4",
+    "hashString": "c47d8be5a979e9849e16fc7c6940b832a87fc6c4",
     "events": [
       {
         "identifier": "uu80160801",
@@ -3565,6 +3565,22 @@
           "town": "Kanarraville, UT",
           "bearing": "WNW",
           "distanceKM": 13.855408248230608
+        }
+      },
+      {
+        "identifier": "uu80162051",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793231431.2999992,
+        "latitudeDeg": 39.308166666666665,
+        "longitudeDeg": -111.21666666666667,
+        "depthKM": -1.79,
+        "magnitude": 1.26,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Orangeville, UT",
+          "bearing": "WNW",
+          "distanceKM": 16.684108342257613
         }
       },
       {
