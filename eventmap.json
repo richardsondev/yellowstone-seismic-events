@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "c7ec3e49ac53a56c9d2cdcf60d1965b5b9751ed4",
+    "hashString": "840d59531b8f1e9caf36dd954b225250dedec952",
     "events": [
       {
         "identifier": "uu80160801",
@@ -381,6 +381,22 @@
           "town": "Portage, UT",
           "bearing": "SW",
           "distanceKM": 11.39559106678759
+        }
+      },
+      {
+        "identifier": "uu80162111",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793345544.5,
+        "latitudeDeg": 41.57266616821289,
+        "longitudeDeg": -109.88566589355469,
+        "depthKM": -3.369999885559082,
+        "magnitude": 3.07,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Little America, WY",
+          "bearing": "NNW",
+          "distanceKM": 3.8784042562864576
         }
       },
       {
