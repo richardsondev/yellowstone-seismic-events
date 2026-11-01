@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "e8b79bec8aa607938a3860da2e562a8fd82fcd19",
+    "hashString": "a409d52d5da715b4c297efd0c173bcd015667db9",
     "events": [
       {
         "identifier": "uu80160801",
@@ -1749,6 +1749,22 @@
           "town": "Callao, UT",
           "bearing": "E",
           "distanceKM": 34.72977971461001
+        }
+      },
+      {
+        "identifier": "uu80162331",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793560553.9799995,
+        "latitudeDeg": 38.51716666666667,
+        "longitudeDeg": -112.92,
+        "depthKM": 2.83,
+        "magnitude": 1.94,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 15.535379341962365
         }
       },
       {
