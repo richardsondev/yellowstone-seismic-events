@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "5466b72cb98ff36a75c6bb403a9250da0e751ebc",
+    "hashString": "c52a31ce4d29b386cdfc7f17261c5eeced57299b",
     "events": [
       {
         "identifier": "uu80160801",
@@ -914,6 +914,22 @@
         "magnitude": -0.02,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80162311",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793538856.67,
+        "latitudeDeg": 38.5195,
+        "longitudeDeg": -112.92016666666666,
+        "depthKM": 2.69,
+        "magnitude": 1.96,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 15.751934652510773
+        }
       },
       {
         "identifier": "uu80160721",
