@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "42fd8ee2963506f89dca72917472b38a83319b1d",
+    "hashString": "6f14fbebb2e5e5103fd441a9597c56cd3db77cb8",
     "events": [
       {
         "identifier": "uu80161226",
@@ -1992,6 +1992,22 @@
         "nearestTown": null
       },
       {
+        "identifier": "uu80162361",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793604319.33,
+        "latitudeDeg": 38.52033333333333,
+        "longitudeDeg": -112.919,
+        "depthKM": 2.37,
+        "magnitude": 2.05,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 15.883053749757869
+        }
+      },
+      {
         "identifier": "uu80162226",
         "authority": "UU",
         "eventType": "eq",
@@ -2256,6 +2272,22 @@
         }
       },
       {
+        "identifier": "uu80162371",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793616153.9699974,
+        "latitudeDeg": 38.30583333333333,
+        "longitudeDeg": -112.30933333333333,
+        "depthKM": 7.48,
+        "magnitude": 2.37,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Junction, UT",
+          "bearing": "NW",
+          "distanceKM": 10.894406075776063
+        }
+      },
+      {
         "identifier": "uu80161766",
         "authority": "UU",
         "eventType": "eq",
@@ -2495,16 +2527,16 @@
         "identifier": "uu80162166",
         "authority": "UU",
         "eventType": "eq",
-        "originTimeUTC": 1793421855.5199995,
-        "latitudeDeg": 38.28766666666667,
-        "longitudeDeg": -112.2915,
-        "depthKM": 5.71,
-        "magnitude": 3.31,
+        "originTimeUTC": 1793421855.58,
+        "latitudeDeg": 38.28966666666667,
+        "longitudeDeg": -112.28966666666666,
+        "depthKM": 3.96,
+        "magnitude": 3.3000000000000003,
         "isLocal": true,
         "nearestTown": {
           "town": "Junction, UT",
           "bearing": "NW",
-          "distanceKM": 8.37827370825469
+          "distanceKM": 8.411267229392152
         }
       },
       {
