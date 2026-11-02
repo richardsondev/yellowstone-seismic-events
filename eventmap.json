@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "6f14fbebb2e5e5103fd441a9597c56cd3db77cb8",
+    "hashString": "c084429a302022eaf10a8c46547d9aa8f55a603a",
     "events": [
       {
         "identifier": "uu80161226",
@@ -1853,6 +1853,22 @@
           "town": "Mount Carmel, UT",
           "bearing": "S",
           "distanceKM": 2.564186857113406
+        }
+      },
+      {
+        "identifier": "uu80162356",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793604095.1800003,
+        "latitudeDeg": 38.281,
+        "longitudeDeg": -112.307,
+        "depthKM": 4.35,
+        "magnitude": 1.04,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Junction, UT",
+          "bearing": "WNW",
+          "distanceKM": 9.012806094429983
         }
       },
       {
