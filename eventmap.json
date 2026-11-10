@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "b7c53f4b11a0644465e69cdfee58fb56bf561a1f",
+    "hashString": "4612d5e718cdf10b8ece1376558151ede6b600de",
     "events": [
       {
         "identifier": "uu80163791",
@@ -4121,6 +4121,22 @@
           "town": "Callao, UT",
           "bearing": "E",
           "distanceKM": 35.34559851922605
+        }
+      },
+      {
+        "identifier": "uu80008308",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793935125.0099983,
+        "latitudeDeg": 39.742666666666665,
+        "longitudeDeg": -111.11383333333333,
+        "depthKM": 1.99,
+        "magnitude": 0.79,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Scofield, UT",
+          "bearing": "ENE",
+          "distanceKM": 4.508166973248691
         }
       },
       {
