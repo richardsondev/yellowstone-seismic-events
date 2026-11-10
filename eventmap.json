@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "72a49876593e360f0b383a2db7b62bdc613e17dd",
+    "hashString": "b7c53f4b11a0644465e69cdfee58fb56bf561a1f",
     "events": [
       {
         "identifier": "uu80163791",
@@ -4842,6 +4842,22 @@
         "magnitude": 0.96,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80008318",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1793927921.3799973,
+        "latitudeDeg": 39.73283333333333,
+        "longitudeDeg": -111.12066666666666,
+        "depthKM": 4.3,
+        "magnitude": 0.56,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Scofield, UT",
+          "bearing": "ENE",
+          "distanceKM": 3.5586349448599357
+        }
       },
       {
         "identifier": "uu80163941",
