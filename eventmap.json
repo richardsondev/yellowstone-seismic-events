@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "a4a61e1e7dc95fad43c3d07a4fa4cf4f6f026238",
+    "hashString": "e76d954e9ed4ba883f96b5f5072162f11fe9c430",
     "events": [
       {
         "identifier": "uu80163791",
@@ -3997,6 +3997,22 @@
           "town": "Spry, UT",
           "bearing": "ESE",
           "distanceKM": 17.155440401349775
+        }
+      },
+      {
+        "identifier": "uu80163996",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1794312321.25,
+        "latitudeDeg": 38.52183333333333,
+        "longitudeDeg": -112.92083333333333,
+        "depthKM": 3.24,
+        "magnitude": 1.36,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 15.94835360982201
         }
       },
       {
