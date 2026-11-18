@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "aff4fd485d62b7432d4ae3073f418543ad826379",
+    "hashString": "ea31ef4023f10904355f4f7b9eb478ceb306f603",
     "events": [
       {
         "identifier": "uu80164416",
@@ -158,6 +158,22 @@
         "magnitude": 0.03,
         "isLocal": false,
         "nearestTown": null
+      },
+      {
+        "identifier": "uu80165406",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1795036600.25,
+        "latitudeDeg": 44.611,
+        "longitudeDeg": -110.4425,
+        "depthKM": 4.67,
+        "magnitude": 0.85,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Lake, WY",
+          "bearing": "NNW",
+          "distanceKM": 7.42039856785529
+        }
       },
       {
         "identifier": "uu80165146",
@@ -4781,22 +4797,6 @@
           "town": "Milford, UT",
           "bearing": "NNE",
           "distanceKM": 15.02532141768581
-        }
-      },
-      {
-        "identifier": "uu80162826",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1793828383.5599976,
-        "latitudeDeg": 41.04983333333333,
-        "longitudeDeg": -111.6235,
-        "depthKM": 9.82,
-        "magnitude": 1.05,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Morgan, UT",
-          "bearing": "ENE",
-          "distanceKM": 4.731597960309576
         }
       },
       {
