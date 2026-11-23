@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "99fcc4f4af84c3d4090b6f2e9c90761d43e81561",
+    "hashString": "a0088c0aecf9567556358c4fc363deffbbbe3f8d",
     "events": [
       {
         "identifier": "uu80164416",
@@ -1948,6 +1948,22 @@
         }
       },
       {
+        "identifier": "uu80165701",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1795242607.31,
+        "latitudeDeg": 38.52333333333333,
+        "longitudeDeg": -112.9155,
+        "depthKM": 4.21,
+        "magnitude": 0.58,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 16.324876145515503
+        }
+      },
+      {
         "identifier": "uu80165381",
         "authority": "UU",
         "eventType": "eq",
@@ -2329,6 +2345,22 @@
           "town": "Milford, UT",
           "bearing": "NNE",
           "distanceKM": 15.383386076824857
+        }
+      },
+      {
+        "identifier": "uu80165696",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1795234125.8899994,
+        "latitudeDeg": 38.51283333333333,
+        "longitudeDeg": -112.92,
+        "depthKM": 2.81,
+        "magnitude": 1.33,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "Milford, UT",
+          "bearing": "NNE",
+          "distanceKM": 15.122714226004174
         }
       },
       {
@@ -3346,22 +3378,6 @@
         "magnitude": 1.36,
         "isLocal": false,
         "nearestTown": null
-      },
-      {
-        "identifier": "uu80163871",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1794241777.7399979,
-        "latitudeDeg": 38.51683333333333,
-        "longitudeDeg": -112.9195,
-        "depthKM": 3.44,
-        "magnitude": 1.8,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Milford, UT",
-          "bearing": "NNE",
-          "distanceKM": 15.52574194664352
-        }
       },
       {
         "identifier": "uu80164911",
