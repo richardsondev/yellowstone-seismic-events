@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "bb8c5d8074b899c7a275dcc57436d71ac8355528",
+    "hashString": "277623281fbf5dc18fe5a9b25e13a9e6cca8f74a",
     "events": [
       {
         "identifier": "uu80164416",
@@ -4285,6 +4285,22 @@
           "town": "Old Faithful, WY",
           "bearing": "W",
           "distanceKM": 9.827494527785968
+        }
+      },
+      {
+        "identifier": "uu80165782",
+        "authority": "UU",
+        "eventType": "eq",
+        "originTimeUTC": 1795469269.4300003,
+        "latitudeDeg": 44.775333333333336,
+        "longitudeDeg": -111.00366666666666,
+        "depthKM": 8.25,
+        "magnitude": -0.07,
+        "isLocal": true,
+        "nearestTown": {
+          "town": "West Yellowstone, MT",
+          "bearing": "NNE",
+          "distanceKM": 14.882985728909851
         }
       },
       {
