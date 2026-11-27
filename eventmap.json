@@ -1,7 +1,7 @@
 {
   "status": 200,
   "data": {
-    "hashString": "65578616248cec839f5809fcfa2b0443b53a8c30",
+    "hashString": "e59b02b4f1ba8370b93b0352f107efb1b6b6c70b",
     "events": [
       {
         "identifier": "mb90213873",
@@ -1232,18 +1232,6 @@
         "longitudeDeg": -111.459166666667,
         "depthKM": 9.56,
         "magnitude": 0.77,
-        "isLocal": false,
-        "nearestTown": null
-      },
-      {
-        "identifier": "mb90212768",
-        "authority": "MB",
-        "eventType": "eq",
-        "originTimeUTC": 1794556041.04,
-        "latitudeDeg": 44.7973333333333,
-        "longitudeDeg": -111.554166666667,
-        "depthKM": 7.81,
-        "magnitude": 0.4,
         "isLocal": false,
         "nearestTown": null
       },
@@ -3333,22 +3321,6 @@
           "town": "Milford, UT",
           "bearing": "NNE",
           "distanceKM": 15.584865007431915
-        }
-      },
-      {
-        "identifier": "uu80164456",
-        "authority": "UU",
-        "eventType": "eq",
-        "originTimeUTC": 1794556979.0699997,
-        "latitudeDeg": 41.588166666666666,
-        "longitudeDeg": -112.40866666666666,
-        "depthKM": 6.7,
-        "magnitude": 0.6900000000000001,
-        "isLocal": true,
-        "nearestTown": {
-          "town": "Penrose, UT",
-          "bearing": "SW",
-          "distanceKM": 11.473751288372053
         }
       },
       {
